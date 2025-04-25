@@ -1,0 +1,510 @@
+{
+    "no": 80,
+    "name": "'Abasa",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "عَبَسَ وَتَوَلَّى",
+        "transliteration": "He frowned and turned away.",
+        "translations": {
+          "English": "He frowned and turned away.",
+          "Urdu": "وہ ترش رو ہوا اور منہ پھیر لیا۔",
+          "French": "Il s’est renfrogné et a détourné le visage,",
+          "Spanish": "Frunció el ceño y se apartó.",
+          "Hindi": "वह तेवर बदलकर मुंह फेर लिया।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "أَنْ جَاءَهُ الْأَعْمَى",
+        "transliteration": "When the blind man approached him.",
+        "translations": {
+          "English": "When the blind man approached him.",
+          "Urdu": "جب اس کے پاس ایک نابینا آیا۔",
+          "French": "parce que l’aveugle est venu à lui.",
+          "Spanish": "Porque el ciego vino a él.",
+          "Hindi": "जब एक अंधा उसके पास आया।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى",
+        "transliteration": "But how do you know? Perhaps he was seeking to purify himself.",
+        "translations": {
+          "English": "But how do you know? Perhaps he was seeking to purify himself.",
+          "Urdu": "تمہیں کیا معلوم، شاید وہ پاکیزگی حاصل کرنا چاہتا تھا۔",
+          "French": "Qui sait ? Peut-être cherchait-il à se purifier,",
+          "Spanish": "¿Y qué sabes tú? Quizás él buscaba purificarse.",
+          "Hindi": "तुम्हें क्या मालूम, शायद वह पवित्र होना चाहता था।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَى",
+        "transliteration": "Or be reminded, and the message would benefit him.",
+        "translations": {
+          "English": "Or be reminded, and the message would benefit him.",
+          "Urdu": "یا نصیحت حاصل کرتا اور وہ نصیحت اس کے لیے نفع بخش ہوتی۔",
+          "French": "ou se rappeler, et le rappel lui aurait profité.",
+          "Spanish": "O ser advertido, y la advertencia le habría beneficiado.",
+          "Hindi": "या याद दिलाया जाता और यह याद दिलाना उसके लिए फायदेमंद होता।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "أَمَّا مَنِ اسْتَغْنَى",
+        "transliteration": "But as for him who was indifferent.",
+        "translations": {
+          "English": "But as for him who was indifferent.",
+          "Urdu": "رہا وہ جو بے پرواہ تھا۔",
+          "French": "Quant à celui qui se complaît dans son autosuffisance,",
+          "Spanish": "En cuanto a quien se mostraba indiferente,",
+          "Hindi": "लेकिन जो बेपरवाह था।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "فَأَنْتَ لَهُ تَصَدَّى",
+        "transliteration": "You gave him your attention.",
+        "translations": {
+          "English": "You gave him your attention.",
+          "Urdu": "تو اس کی طرف متوجہ ہوا۔",
+          "French": "tu vas à lui,",
+          "Spanish": "tú le prestaste atención.",
+          "Hindi": "तुम उसकी तरफ ध्यान देने लगे।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّى",
+        "transliteration": "Though you are not liable if he does not purify himself.",
+        "translations": {
+          "English": "Though you are not liable if he does not purify himself.",
+          "Urdu": "حالانکہ اگر وہ پاک نہ ہوتا تو تم پر کوئی الزام نہیں۔",
+          "French": "Peu t’importe qu’il ne se purifie pas.",
+          "Spanish": "Aunque no eres responsable si él no se purifica.",
+          "Hindi": "हालांकि अगर वह पवित्र नहीं होता तो तुम पर कोई दोष नहीं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَأَمَّا مَنْ جَاءَكَ يَسْعَى",
+        "transliteration": "But as for him who came to you seeking.",
+        "translations": {
+          "English": "But as for him who came to you seeking.",
+          "Urdu": "لیکن جو تمہارے پاس دوڑتا ہوا آیا۔",
+          "French": "Quant à celui qui vient à toi avec empressement",
+          "Spanish": "Pero en cuanto a quien vino a ti buscando,",
+          "Hindi": "लेकिन जो तुम्हारे पास दौड़ता हुआ आया।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَهُوَ يَخْشَى",
+        "transliteration": "In awe.",
+        "translations": {
+          "English": "In awe.",
+          "Urdu": "اور وہ ڈرتا ہوا۔",
+          "French": "tout empreint de crainte,",
+          "Spanish": "Y temeroso.",
+          "Hindi": "और वह डरता हुआ।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فَأَنْتَ عَنْهُ تَلَهَّى",
+        "transliteration": "To him you were inattentive.",
+        "translations": {
+          "English": "To him you were inattentive.",
+          "Urdu": "تو تم اس سے غافل ہو گئے۔",
+          "French": "tu ne t’en soucies pas.",
+          "Spanish": "Tú le ignoraste.",
+          "Hindi": "तो तुम उससे बेख़बर रहे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+        "transliteration": "Do not. This is a Lesson.",
+        "translations": {
+          "English": "Do not. This is a Lesson.",
+          "Urdu": "ہرگز نہیں، یہ تو ایک نصیحت ہے۔",
+          "French": "Prends garde ! Ceci est un rappel.",
+          "Spanish": "¡No! En verdad, esto es un recordatorio.",
+          "Hindi": "बिल्कुल नहीं, यह तो एक सीख है।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "فَمَنْ شَاءَ ذَكَرَهُ",
+        "transliteration": "Whoever wills, shall remember it.",
+        "translations": {
+          "English": "Whoever wills, shall remember it.",
+          "Urdu": "پس جو چاہے اسے یاد رکھے۔",
+          "French": "Quiconque veut, qu’il y prête attention.",
+          "Spanish": "Quien quiera, que lo recuerde.",
+          "Hindi": "तो जो चाहे, वह इसे याद रखे।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فِي صُحُفٍ مُكَرَّمَةٍ",
+        "transliteration": "On honorable pages.",
+        "translations": {
+          "English": "On honorable pages.",
+          "Urdu": "عزت والے صحیفوں میں۔",
+          "French": "dans des feuilles honorées,",
+          "Spanish": "En páginas honorables,",
+          "Hindi": "इज्ज़त वाले पन्नों में।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+        "transliteration": "Exalted and purified.",
+        "translations": {
+          "English": "Exalted and purified.",
+          "Urdu": "بلند مرتبہ اور پاک۔",
+          "French": "exaltées, purifiées,",
+          "Spanish": "Elevadas y purificadas,",
+          "Hindi": "ऊंचे और पाक।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "بِأَيْدِي سَفَرَةٍ",
+        "transliteration": "By the hands of scribes.",
+        "translations": {
+          "English": "By the hands of scribes.",
+          "Urdu": "لکھنے والوں کے ہاتھوں سے۔",
+          "French": "entre les mains de scribes",
+          "Spanish": "Por manos de escribas,",
+          "Hindi": "लिखने वालों के हाथों से।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "كِرَامٍ بَرَرَةٍ",
+        "transliteration": "Noble and devoted.",
+        "translations": {
+          "English": "Noble and devoted.",
+          "Urdu": "عزت والے نیکوکار۔",
+          "French": "nobles et pieux.",
+          "Spanish": "Nobles y devotos.",
+          "Hindi": "इज्ज़तदार और नेक।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+        "transliteration": "Perish man! How thankless he is!",
+        "translations": {
+          "English": "Perish man! How thankless he is!",
+          "Urdu": "مرے انسان! کتنا ناشکرا ہے۔",
+          "French": "Que l’homme périsse ! Comme il est ingrat !",
+          "Spanish": "¡Maldito sea el hombre! ¡Qué desagradecido es!",
+          "Hindi": "धिक्कार है इंसान पर! कितना नाशुक्रा है।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+        "transliteration": "From what did He create him?",
+        "translations": {
+          "English": "From what did He create him?",
+          "Urdu": "اسے کس چیز سے پیدا کیا؟",
+          "French": "De quoi l’a-t-Il créé ?",
+          "Spanish": "¿De qué lo creó?",
+          "Hindi": "उसे किस चीज़ से पैदा किया?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+        "transliteration": "From a sperm drop He created him, and enabled him.",
+        "translations": {
+          "English": "From a sperm drop He created him, and enabled him.",
+          "Urdu": "ایک نطفے سے اسے پیدا کیا، پھر اس کا اندازہ مقرر کیا۔",
+          "French": "D’une goutte de sperme Il l’a créé et lui a donné ses proportions.",
+          "Spanish": "De una gota de esperma lo creó y le dio forma.",
+          "Hindi": "एक बूंद से उसे पैदा किया, फिर उसका अनुमान लगाया।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+        "transliteration": "Then He eased the way for him.",
+        "translations": {
+          "English": "Then He eased the way for him.",
+          "Urdu": "پھر اس کے لیے راہ آسان کی۔",
+          "French": "Puis, Il lui a facilité le chemin.",
+          "Spanish": "Luego le facilitó el camino.",
+          "Hindi": "फिर उसके लिए रास्ता आसान किया।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+        "transliteration": "Then He puts him to death, and buries him.",
+        "translations": {
+          "English": "Then He puts him to death, and buries him.",
+          "Urdu": "پھر اسے موت دی اور قبر میں اتارا۔",
+          "French": "Puis, Il lui donne la mort et le met au tombeau.",
+          "Spanish": "Luego le da la muerte y lo entierra.",
+          "Hindi": "फिर उसे मौत दी और क़ब्र में उतारा।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+        "transliteration": "Then, when He wills, He will resurrect him.",
+        "translations": {
+          "English": "Then, when He wills, He will resurrect him.",
+          "Urdu": "پھر جب چاہے گا، اسے دوبارہ زندہ کرے گا۔",
+          "French": "Ensuite, quand Il voudra, Il le ressuscitera.",
+          "Spanish": "Luego, cuando Él quiera, lo resucitará.",
+          "Hindi": "फिर जब चाहेगा, उसे दोबारा जिलाएगा।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+        "transliteration": "But no, he did not fulfill what He has commanded him.",
+        "translations": {
+          "English": "But no, he did not fulfill what He has commanded him.",
+          "Urdu": "ہرگز نہیں، اس نے وہ نہیں کیا جو اسے حکم دیا گیا تھا۔",
+          "French": "Mais non ! L’homme n’accomplit pas ce qu’Allah lui a commandé.",
+          "Spanish": "¡No! No ha cumplido lo que se le ordenó.",
+          "Hindi": "बिल्कुल नहीं, उसने वह नहीं किया जो उसे हुक्म दिया गया था।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَى طَعَامِهِ",
+        "transliteration": "Let man consider his food.",
+        "translations": {
+          "English": "Let man consider his food.",
+          "Urdu": "اب انسان کو چاہیے کہ اپنی خوراک پر غور کرے۔",
+          "French": "Que l’homme considère donc sa nourriture :",
+          "Spanish": "Que el hombre considere su alimento:",
+          "Hindi": "अब इंसान को चाहिए कि अपने खाने पर ग़ौर करे।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+        "transliteration": "We pour down water in abundance.",
+        "translations": {
+          "English": "We pour down water in abundance.",
+          "Urdu": "کہ ہم نے خوب زوردار بارش برسائی۔",
+          "French": "Nous versons l’eau abondamment,",
+          "Spanish": "Que Nosotros derramamos el agua en abundancia,",
+          "Hindi": "कि हमने खूब जोरदार बारिश बरसाई।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+        "transliteration": "Then crack the soil open.",
+        "translations": {
+          "English": "Then crack the soil open.",
+          "Urdu": "پھر زمین کو پھاڑ کر شگاف ڈالا۔",
+          "French": "puis Nous fendons la terre par fissures,",
+          "Spanish": "Luego hendimos la tierra,",
+          "Hindi": "फिर धरती को फाड़कर दरारें डालीं।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+        "transliteration": "And grow in it grains.",
+        "translations": {
+          "English": "And grow in it grains.",
+          "Urdu": "پھر اس میں اناج اگایا۔",
+          "French": "et y faisons pousser grains,",
+          "Spanish": "E hicimos crecer en ella granos,",
+          "Hindi": "फिर उसमें अनाज उगाया।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "وَعِنَبًا وَقَضْبًا",
+        "transliteration": "And grapes and herbs.",
+        "translations": {
+          "English": "And grapes and herbs.",
+          "Urdu": "اور انگور اور سبزیاں۔",
+          "French": "vignes et légumes,",
+          "Spanish": "uvas y hierbas,",
+          "Hindi": "और अंगूर और सब्ज़ियाँ।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "وَزَيْتُونًا وَنَخْلًا",
+        "transliteration": "And olives and dates.",
+        "translations": {
+          "English": "And olives and dates.",
+          "Urdu": "اور زیتون اور کھجوریں۔",
+          "French": "oliviers et palmiers,",
+          "Spanish": "olivos y palmeras,",
+          "Hindi": "और ज़ैतून और खजूरें।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "وَحَدَائِقَ غُلْبًا",
+        "transliteration": "And luscious gardens.",
+        "translations": {
+          "English": "And luscious gardens.",
+          "Urdu": "اور گھنے باغات۔",
+          "French": "jardins touffus,",
+          "Spanish": "y frondosos jardines,",
+          "Hindi": "और घने बाग़।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "وَفَاكِهَةً وَأَبًّا",
+        "transliteration": "And fruits and vegetables.",
+        "translations": {
+          "English": "And fruits and vegetables.",
+          "Urdu": "اور میوے اور چارہ۔",
+          "French": "fruits et herbages,",
+          "Spanish": "frutas y pastos,",
+          "Hindi": "और फल और चारा।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+        "transliteration": "Enjoyment for you, and for your livestock.",
+        "translations": {
+          "English": "Enjoyment for you, and for your livestock.",
+          "Urdu": "تمہارے اور تمہارے مویشیوں کے فائدے کے لیے۔",
+          "French": "pour votre jouissance, vous et vos bestiaux.",
+          "Spanish": "como disfrute para vosotros y vuestro ganado.",
+          "Hindi": "तुम्हारे और तुम्हारे चौपायों के फ़ायदे के लिए।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+        "transliteration": "But when the Deafening Noise comes to pass.",
+        "translations": {
+          "English": "But when the Deafening Noise comes to pass.",
+          "Urdu": "پھر جب کان پھاڑ دینے والی آواز آئے گی۔",
+          "French": "Puis, quand viendra le Vacarme,",
+          "Spanish": "Pero cuando llegue el Estruendo atronador,",
+          "Hindi": "फिर जब कान फाड़ देने वाली आवाज़ आएगी।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+        "transliteration": "The Day when a person will flee from his brother.",
+        "translations": {
+          "English": "The Day when a person will flee from his brother.",
+          "Urdu": "جس دن انسان اپنے بھائی سے بھاگے گا۔",
+          "French": "le jour où l’homme fuira son frère,",
+          "Spanish": "el día en que el hombre huya de su hermano,",
+          "Hindi": "जिस दिन इंसान अपने भाई से भागेगा।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "وَأُمِّهِ وَأَبِيهِ",
+        "transliteration": "And his mother and his father.",
+        "translations": {
+          "English": "And his mother and his father.",
+          "Urdu": "اور اپنی ماں اور اپنے باپ سے۔",
+          "French": "sa mère et son père,",
+          "Spanish": "de su madre y su padre,",
+          "Hindi": "और अपनी माँ और अपने बाप से।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "وَصَاحِبَتِهِ وَبَنِيهِ",
+        "transliteration": "And his consort and his children.",
+        "translations": {
+          "English": "And his consort and his children.",
+          "Urdu": "اور اپنی بیوی اور اپنی اولاد سے۔",
+          "French": "sa compagne et ses fils.",
+          "Spanish": "de su esposa y sus hijos.",
+          "Hindi": "और अपनी बीवी और अपनी औलाद से।"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+        "transliteration": "Every one of them, on that Day, will have enough to preoccupy him.",
+        "translations": {
+          "English": "Every one of them, on that Day, will have enough to preoccupy him.",
+          "Urdu": "اس دن ہر شخص کو اپنی ہی پڑی ہوگی۔",
+          "French": "Ce jour-là, chacun aura son propre cas pour l’occuper.",
+          "Spanish": "Ese día, cada uno tendrá suficiente que lo distraiga.",
+          "Hindi": "उस दिन हर शख़्स को अपनी ही पड़ी होगी।"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+        "transliteration": "Faces on that Day will be radiant.",
+        "translations": {
+          "English": "Faces on that Day will be radiant.",
+          "Urdu": "کچھ چہرے اس دن تروتازہ ہوں گے۔",
+          "French": "Ce jour-là, il y aura des visages rayonnants,",
+          "Spanish": "Ese día habrá rostros radiantes,",
+          "Hindi": "कुछ चेहरे उस दिन खिले हुए होंगे।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+        "transliteration": "Laughing and rejoicing.",
+        "translations": {
+          "English": "Laughing and rejoicing.",
+          "Urdu": "ہنس رہے ہوں گے اور خوش ہوں گے۔",
+          "French": "riants et réjouis.",
+          "Spanish": "riendo y regocijándose.",
+          "Hindi": "हंस रहे होंगे और खुश होंगे।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+        "transliteration": "And Faces on that Day will be covered with misery.",
+        "translations": {
+          "English": "And Faces on that Day will be covered with misery.",
+          "Urdu": "اور کچھ چہرے اس دن غمگین ہوں گے۔",
+          "French": "Et il y aura des visages couverts de poussière,",
+          "Spanish": "Y habrá rostros cubiertos de polvo,",
+          "Hindi": "और कुछ चेहरे उस दिन उदास होंगे।"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+        "transliteration": "Overwhelmed by remorse.",
+        "translations": {
+          "English": "Overwhelmed by remorse.",
+          "Urdu": "ان پر غم کی سیاہی چھائی ہوگی۔",
+          "French": "recouverts de ténèbres.",
+          "Spanish": "cubiertos de oscuridad.",
+          "Hindi": "उन पर ग़म की स्याही छाई होगी।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "أُولَئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+        "transliteration": "These are the faithless, the vicious.",
+        "translations": {
+          "English": "These are the faithless, the vicious.",
+          "Urdu": "یہی کافر اور بدکار ہیں۔",
+          "French": "Voilà les infidèles, les pervers.",
+          "Spanish": "Esos son los incrédulos, los pecadores.",
+          "Hindi": "यही काफ़िर और बदकार हैं।"
+        }
+      }
+    ]
+  }

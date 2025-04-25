@@ -1,0 +1,162 @@
+{
+    "no": 60,
+    "name": "Al-Mumtahanah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَاءَكُمْ مِنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ أَنْ تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِنْ كُنْتُمْ خَرَجْتُمْ جِهَادًا فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي تُسِرُّونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنْتُمْ وَمَنْ يَفْعَلْهُ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū lā tattakhidhū ʿaduwī wa ʿaduwwakum awliyā'a tulqūna ilayhim bil-mawaddati wa qad kafarū bimā jā'akum min al-ḥaqqi yukhrijūna ar-rasūla wa iyyākum an tu'minū billāhi rabbikum in kuntum kharajtum jihādan fī sabīlī wa ib'tighā'a marḍātī tusirrūna ilayhim bil-mawaddati wa anā aʿlamu bimā akhfaytum wa mā aʿlantum wa man yafʿalhu minkum fa qad ḍalla sawā'a as-sabīl",
+        "translations": {
+          "English": "O you who believe! Do not take My enemies and your enemies for supporters, offering them affection, when they have disbelieved in what has come to you of the Truth. They have expelled the Messenger, and you, because you believed in God, your Lord. If you have mobilized to strive for My cause, seeking My approval, how can you secretly love them? I know what you conceal and what you reveal. Whoever among you does that has strayed from the right way.",
+          "Urdu": "اے ایمان والو! میرے دشمنوں اور اپنے دشمنوں کو دوست نہ بناؤ، ان سے محبت کا اظہار کرتے ہو جبکہ وہ تمہارے پاس آنے والے حق کو جھٹلا چکے ہیں۔ انہوں نے رسول کو اور تمہیں نکالا صرف اس لیے کہ تم اپنے رب اللہ پر ایمان لائے ہو۔ اگر تم میری راہ میں جہاد کے لیے نکلے ہو اور میری رضا چاہتے ہو تو ان سے چھپ کر محبت کیسے کر سکتے ہو؟ میں جانتا ہوں جو تم چھپاتے ہو اور جو ظاہر کرتے ہو۔ تم میں سے جو ایسا کرے گا وہ سیدھے راستے سے بھٹک جائے گا۔",
+          "French": "Ô vous qui avez cru! Ne prenez pas pour alliés Mes ennemis et les vôtres, leur manifestant de l'affection alors qu'ils ont mécru en la vérité qui vous est parvenue. Ils ont expulsé le Messager et vous-mêmes parce que vous croyez en Allah, votre Seigneur. Si vous êtes sortis pour lutter dans Mon chemin et rechercher Mon agrément, comment leur témoigneriez-vous secrètement de l'affection? Je sais parfaitement ce que vous cachez et ce que vous divulguez. Et quiconque d'entre vous le fait s'égare assurément du droit chemin.",
+          "Spanish": "¡Oh, creyentes! No toméis a Mis enemigos y a los vuestros como aliados, mostrándoles afecto cuando han negado la verdad que os ha llegado. Expulsaron al Mensajero y a vosotros sólo por creer en Allah, vuestro Señor. Si habéis salido a luchar por Mi causa buscando Mi complacencia, ¿cómo podéis mostrarles afecto en secreto? Yo sé lo que ocultáis y lo que manifestáis. Quien de vosotros haga eso se habrá desviado del camino recto.",
+          "Hindi": "ऐ ईमान वालो! मेरे दुश्मनों और अपने दुश्मनों को दोस्त न बनाओ, उनसे मोहब्बत का इज़हार करते हो जबकि वह तुम्हारे पास आने वाले हक़ को झुठला चुके हैं। उन्होंने रसूल को और तुम्हें निकाला सिर्फ़ इसलिए कि तुम अपने रब अल्लाह पर ईमान लाए हो। अगर तुम मेरी राह में जिहाद के लिए निकले हो और मेरी रज़ा चाहते हो तो उनसे छिपकर मोहब्बत कैसे कर सकते हो? मैं जानता हूँ जो तुम छिपाते हो और जो ज़ाहिर करते हो। तुम में से जो ऐसा करेगा वह सीधे रास्ते से भटक जाएगा।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُمْ بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ",
+        "transliteration": "In yathqafūkum yakūnū lakum aʿdā'an wa yabsuṭū ilaykum aydiyahum wa alsinatahum bis-sū'i wa waddū law takfurūn",
+        "translations": {
+          "English": "Whenever they encounter you, they treat you as enemies, and they stretch their hands and tongues against you with malice. They wish that you would disbelieve.",
+          "Urdu": "جب بھی وہ تمہیں پائیں تمہارے دشمن بن جاتے ہیں اور تمہاری طرف اپنے ہاتھ اور زبانیں برائی کے ساتھ بڑھاتے ہیں۔ وہ چاہتے ہیں کہ کاش تم کفر اختیار کر لو۔",
+          "French": "S'ils vous rencontrent, ils seront vos ennemis, étendront vers vous leurs mains et leurs langues avec malveillance, et aimeraient que vous deveniez mécréants.",
+          "Spanish": "Si os encuentran, serán vuestros enemigos, extenderán hacia vosotros sus manos y lenguas con malicia, y desearían que renegarais.",
+          "Hindi": "जब भी वह तुम्हें पाएँ तुम्हारे दुश्मन बन जाते हैं और तुम्हारी तरफ़ अपने हाथ और ज़ुबानें बुराई के साथ बढ़ाते हैं। वह चाहते हैं कि काश तुम कुफ़्र इख़्तियार कर लो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "لَنْ تَنْفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "transliteration": "Lan tanfaʿakum arḥāmukum walā awlādukum yawma al-qiyāmati yafṣilu baynakum wa Allāhu bimā taʿmalūn baṣīr",
+        "translations": {
+          "English": "Neither your relatives nor your children will benefit you on the Day of Resurrection. He will separate between you. God is Observant of what you do.",
+          "Urdu": "قیامت کے دن نہ تمہارے رشتہ دار تمہارے کام آئیں گے نہ تمہاری اولاد۔ وہ تمہارے درمیان فیصلہ کر دے گا۔ اللہ تمہارے اعمال کو خوب دیکھنے والا ہے۔",
+          "French": "Ni vos proches parents ni vos enfants ne vous seront d'aucune utilité au Jour de la Résurrection. Il [Allah] jugera entre vous, et Allah est Clairvoyant sur ce que vous faites.",
+          "Spanish": "Ni vuestros parientes ni vuestros hijos os beneficiarán el Día de la Resurrección. Él decidirá entre vosotros, y Allah es bien veedor de lo que hacéis.",
+          "Hindi": "क़यामत के दिन न तुम्हारे रिश्तेदार तुम्हारे काम आएँगे न तुम्हारी औलाद। वह तुम्हारे दरमियान फ़ैसला कर देगा। अल्लाह तुम्हारे अमाल को ख़ूब देखने वाला है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّى تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+        "transliteration": "Qad kānat lakum uswatun ḥasanatun fī Ibrāhīma wa alladhīna maʿahu idh qālū liqawmihim innā burā'u minkum wa mimmā taʿbudūna min dūni Llāhi kafarnā bikum wa badā baynanā wa baynakumu al-ʿadāwatu wa al-baghḍā'u abadan ḥattā tu'minū billāhi waḥdahu illā qawla Ibrāhīma li-abīhi la-astaghfiranna laka wa mā amliku laka mina Llāhi min shay'in rabbanā ʿalayka tawakkalnā wa ilayka anabnā wa ilayka al-maṣīr",
+        "translations": {
+          "English": "You have had an excellent example in Abraham and those with him; when they said to their people, 'We are quit of you, and what you worship apart from God. We denounce you. Enmity and hatred has surfaced between us and you, forever, until you believe in God alone.' Except for the words of Abraham to his father, 'I will ask forgiveness for you, though I have no power from God to do anything for you.' 'Our Lord, in You we trust, and to You we repent, and to You is the ultimate resort.'",
+          "Urdu": "تمہارے لیے ابراہیم اور ان کے ساتھیوں میں بہترین نمونہ ہے، جب انہوں نے اپنی قوم سے کہا: 'ہم تم سے اور جنہیں تم اللہ کو چھوڑ کر پوجتے ہو ان سے بیزار ہیں۔ ہم تمہارے ساتھ کفر کرتے ہیں۔ ہمارے اور تمہارے درمیان ہمیشہ کے لیے دشمنی اور عداوت ظاہر ہو چکی ہے جب تک کہ تم صرف اللہ پر ایمان نہ لے آؤ۔' سوائے ابراہیم کے ان الفاظ کے جو انہوں نے اپنے باپ سے کہے: 'میں ضرور تیرے لیے مغفرت طلب کروں گا، اگرچہ میرے پاس اللہ کی طرف سے تیرے لیے کچھ اختیار نہیں۔' 'اے ہمارے رب! ہم تجھ پر بھروسہ کرتے ہیں اور تیری ہی طرف رجوع کرتے ہیں اور تیری ہی طرف لوٹنا ہے۔'",
+          "French": "Vous avez eu un bel exemple (à suivre) en Abraham et en ceux qui étaient avec lui, quand ils dirent à leur peuple: 'Nous vous désavouons, vous et ce que vous adorez en dehors d'Allah. Nous vous renions. Entre vous et nous, l'inimitié et la haine sont à jamais déclarées jusqu'à ce que vous croyiez en Allah, Seul.' Exception faite des paroles d'Abraham à son père: 'J'implorerai certes le pardon (d'Allah) pour toi, mais je ne possède aucun pouvoir pour te protéger d'Allah.' 'Seigneur! C'est en Toi que nous mettons notre confiance. À Toi nous revenons (repentants). Et vers Toi est le devenir.",
+          "Spanish": "Tenéis un excelente ejemplo en Abraham y los que estaban con él, cuando dijeron a su pueblo: 'Renunciamos a vosotros y a lo que adoráis fuera de Allah. Os rechazamos. Entre nosotros y vosotros se ha declarado la enemistad y el odio para siempre, hasta que creáis en Allah solo.' Excepto las palabras de Abraham a su padre: 'Pediré perdón por ti, aunque no tengo poder para hacer nada por ti ante Allah.' '¡Señor nuestro! En Ti confiamos, a Ti nos volvemos (arrepentidos) y hacia Ti es el retorno.'",
+          "Hindi": "तुम्हारे लिए इब्राहीम और उनके साथियों में बेहतरीन नमूना है, जब उन्होंने अपनी क़ौम से कहा: 'हम तुमसे और जिन्हें तुम अल्लाह को छोड़कर पूजते हो उनसे बेज़ार हैं। हम तुम्हारे साथ कुफ़्र करते हैं। हमारे और तुम्हारे दरमियान हमेशा के लिए दुश्मनी और अदावत ज़ाहिर हो चुकी है जब तक कि तुम सिर्फ़ अल्लाह पर ईमान न ले आओ।' सिवाय इब्राहीम के उन शब्दों के जो उन्होंने अपने बाप से कहे: 'मैं ज़रूर तेरे लिए मग़फ़िरत तलब करूँगा, हालाँकि मेरे पास अल्लाह की तरफ़ से तेरे लिए कुछ इख़्तियार नहीं।' 'ऐ हमारे रब! हम तुझ पर भरोसा करते हैं और तेरी ही तरफ़ रुजू करते हैं और तेरी ही तरफ़ लौटना है।'"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+        "transliteration": "Rabbanā lā tajʿalnā fitnatan lilladhīna kafarū wa ghfir lanā rabbanā innaka anta al-ʿazīzu al-ḥakīm",
+        "translations": {
+          "English": "'Our Lord, do not make us a target for those who disbelieve, and forgive us, our Lord. You are indeed the Mighty and Wise.'",
+          "Urdu": "'اے ہمارے رب! ہمیں کافروں کے لیے آزمائش نہ بنا اور ہمیں بخش دے، اے ہمارے رب! بے شک تو ہی غالب اور حکمت والا ہے۔'",
+          "French": "'Seigneur! Ne fais pas de nous une cible pour les mécréants. Et pardonne-nous, Seigneur! Car c'est Toi le Puissant, le Sage.'",
+          "Spanish": "'¡Señor nuestro! No nos pongas como blanco para los incrédulos. Perdónanos, ¡Señor nuestro! En verdad, Tú eres el Poderoso, el Sabio.'",
+          "Hindi": "'ऐ हमारे रब! हमें काफ़िरों के लिए इम्तिहान न बना और हमें माफ़ कर दे, ऐ हमारे रब! बेशक तू ही ग़ालिब और हिकमत वाला है।'"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَمَنْ يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+        "transliteration": "Laqad kāna lakum fīhim uswatun ḥasanatun liman kāna yarjū Llāha wa al-yawma al-ākhira wa man yatawalla fa inna Llāha huwa al-ghaniyyu al-ḥamīd",
+        "translations": {
+          "English": "There is an excellent example in them for you—for anyone who seeks God and the Last Day. But whoever turns away—God is the Self-Sufficient, the Most Praised.",
+          "Urdu": "تمہارے لیے ان میں بہترین نمونہ ہے ہر اس شخص کے لیے جو اللہ اور آخرت کے دن کی امید رکھتا ہو۔ اور جو منہ موڑے تو بے شک اللہ بے نیاز اور قابل تعریف ہے۔",
+          "French": "Certes, vous avez eu en eux un bel exemple pour celui qui espère en Allah et au Jour dernier. Et quiconque se détourne... alors Allah Se suffit à Lui-même et est Digne de louange.",
+          "Spanish": "En verdad, tenéis en ellos un buen ejemplo para quien espera en Allah y en el Último Día. Y quien se aparte... en verdad, Allah es el Rico, el Digno de alabanza.",
+          "Hindi": "तुम्हारे लिए उनमें बेहतरीन नमूना है हर उस शख़्स के लिए जो अल्लाह और आख़िरत के दिन की उम्मीद रखता हो। और जो मुँह मोड़े तो बेशक अल्लाह बेनियाज़ और क़ाबिल-ए-तारीफ़ है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "عَسَى اللَّهُ أَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةً وَاللَّهُ قَدِيرٌ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+        "transliteration": "ʿAsā Llāhu an yajʿala baynakum wa bayna alladhīna ʿādaytum minhum mawaddatan wa Llāhu qadīrun wa Llāhu ghafūrun raḥīm",
+        "translations": {
+          "English": "Perhaps God will plant affection between you and those of them you consider enemies. God is Capable. God is Forgiving and Merciful.",
+          "Urdu": "ہو سکتا ہے کہ اللہ تمہارے اور ان کے درمیان جنہیں تم دشمن سمجھتے ہو محبت پیدا کر دے۔ اللہ ہر چیز پر قادر ہے۔ اللہ بخشنے والا مہربان ہے।",
+          "French": "Il se peut qu'Allah établisse de l'affection entre vous et ceux d'entre eux dont vous avez été les ennemis. Allah est Omnipotent et Allah est Pardonneur et Miséricordieux.",
+          "Spanish": "Puede que Allah establezca afecto entre vosotros y aquellos de ellos que considerabais enemigos. Allah es Poderoso, y Allah es Perdonador, Misericordioso.",
+          "Hindi": "हो सकता है कि अल्लाह तुम्हारे और उनके दरमियान जिन्हें तुम दुश्मन समझते हो मोहब्बत पैदा कर दे। अल्लाह हर चीज़ पर क़ादिर है। अल्लाह माफ़ करने वाला मेहरबान है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "لَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+        "transliteration": "Lā yanhākumu Llāhu ʿani alladhīna lam yuqātilūkum fī ad-dīni wa lam yukhrijūkum min diyārikum an tabarrūhum wa tuqsiṭū ilayhim inna Llāha yuḥibbu al-muqsiṭīn",
+        "translations": {
+          "English": "As for those who have not fought against you for your religion, nor expelled you from your homes, God does not prohibit you from dealing with them kindly and equitably. God loves the equitable.",
+          "Urdu": "اللہ تمہیں ان لوگوں کے ساتھ نیکی اور انصاف کرنے سے نہیں روکتا جنہوں نے دین کے معاملے میں تم سے جنگ نہیں کی اور نہ تمہیں تمہارے گھروں سے نکالا۔ بے شک اللہ انصاف کرنے والوں سے محبت کرتا ہے۔",
+          "French": "Allah ne vous défend pas d'être bienfaisants et équitables envers ceux qui ne vous ont pas combattus pour la religion et ne vous ont pas chassés de vos demeures. Car Allah aime les équitables.",
+          "Spanish": "Allah no os prohíbe ser bondadosos y justos con quienes no os han combatido por causa de la religión ni os han expulsado de vuestros hogares. En verdad, Allah ama a los justos.",
+          "Hindi": "अल्लाह तुम्हें उन लोगों के साथ नेकी और इंसाफ़ करने से नहीं रोकता जिन्होंने दीन के मामले में तुमसे जंग नहीं की और न तुम्हें तुम्हारे घरों से निकाला। बेशक अल्लाह इंसाफ़ करने वालों से मोहब्बत करता है।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ وَمَنْ يَتَوَلَّهُمْ فَأُولَئِكَ هُمُ الظَّالِمُونَ",
+        "transliteration": "Innamā yanhākumu Llāhu ʿani alladhīna qātalūkum fī ad-dīni wa akhrajūkum min diyārikum wa ẓāharū ʿalā ikhrājikum an tawallawhum wa man yatawallahum fa ulā'ika humu aẓ-ẓālimūn",
+        "translations": {
+          "English": "But God prohibits you from befriending those who fought against you over your religion, and expelled you from your homes, and aided in your expulsion. Whoever takes them for friends—these are the wrongdoers.",
+          "Urdu": "اللہ تمہیں صرف ان لوگوں سے دوستی کرنے سے روکتا ہے جنہوں نے دین کے معاملے میں تم سے جنگ کی اور تمہیں تمہارے گھروں سے نکالا اور تمہارے نکالنے میں مدد دی۔ جو ان سے دوستی کرے تو ایسے ہی لوگ ظالم ہیں۔",
+          "French": "Allah vous défend seulement de prendre pour alliés ceux qui vous ont combattus pour la religion, chassés de vos demeures et ont aidé à votre expulsion. Et ceux qui les prennent pour alliés sont les injustes.",
+          "Spanish": "Allah sólo os prohíbe tomar como aliados a quienes os combatieron por causa de la religión, os expulsaron de vuestros hogares y colaboraron en vuestra expulsión. Y quienes los tomen como aliados, esos son los injustos.",
+          "Hindi": "अल्लाह तुम्हें सिर्फ़ उन लोगों से दोस्ती करने से रोकता है जिन्होंने दीन के मामले में तुमसे जंग की और तुम्हें तुम्हारे घरों से निकाला और तुम्हारे निकालने में मदद दी। जो उनसे दोस्ती करे तो ऐसे ही लोग ज़ालिम हैं।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَآتُوهُمْ مَا أَنْفَقُوا وَلَا جُنَاحَ عَلَيْكُمْ أَنْ تَنْكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنْفَقْتُمْ وَلْيَسْأَلُوا مَا أَنْفَقُوا ذَلِكُمْ حُكْمُ اللَّهِ يَحْكُمُ بَيْنَكُمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū idhā jā'akumu al-mu'minātu muhājirātin fa mtaḥinūhunna Allāhu aʿlamu bi'īmānihinna fa in ʿalimtumūhunna mu'minātin fa lā tarjiʿūhunna ilā al-kuffāri lā hunna ḥillun lahum wa lā hum yaḥillūna lahunna wa ātūhum mā anfaqū wa lā junāḥa ʿalaykum an tankiḥūhunna idhā ātaytumūhunna ujūrahunna wa lā tumsikū biʿiṣami al-kawāfiri was'alū mā anfaqtum wa lyas'alū mā anfaqū dhālikum ḥukmu Llāhi yaḥkumu baynakum wa Llāhu ʿalīmun ḥakīm",
+        "translations": {
+          "English": "O you who believe! When believing women come to you emigrating, test them. God is Aware of their faith. And if you find them to be faithful, do not send them back to the unbelievers. They are not lawful for them, nor are they lawful for them. But give them what they have spent. You are not at fault if you marry them, provided you give them their compensation. And do not hold on to ties with unbelieving women, but demand what you have spent, and let them demand what they have spent. This is the rule of God; He rules among you. God is Knowing and Wise.",
+          "Urdu": "اے ایمان والو! جب مومن عورتیں تمہارے پاس ہجرت کر کے آئیں تو ان کا امتحان لو۔ اللہ ان کے ایمان کو خوب جانتا ہے۔ اگر تم انہیں مومنہ پاؤ تو انہیں کافروں کی طرف نہ لوٹاؤ۔ نہ وہ ان کے لیے حلال ہیں نہ وہ ان کے لیے۔ اور انہیں وہ دے دو جو انہوں نے خرچ کیا ہو۔ تم پر کوئی گناہ نہیں اگر تم ان سے نکاح کرو جب تم انہیں ان کا مہر دے دو۔ اور کافروں کی عورتوں کے ساتھ نکاح کے بندھن نہ رکھو بلکہ جو تم نے خرچ کیا ہو اس کا مطالبہ کرو اور انہیں چاہیے کہ جو انہوں نے خرچ کیا ہو اس کا مطالبہ کریں۔ یہ اللہ کا حکم ہے، وہ تمہارے درمیان فیصلہ کرتا ہے۔ اللہ جاننے والا حکمت والا ہے۔",
+          "French": "Ô vous qui avez cru! Quand les croyantes viennent à vous en émigrées, éprouvez-les. Allah connaît mieux leur foi. Si vous constatez qu'elles sont croyantes, ne les renvoyez pas aux mécréants. Elles ne leur sont pas licites, et eux non plus ne leur sont pas licites. Et rendez-leur ce qu'ils ont dépensé. Il n'y a aucun péché contre vous à les épouser, pourvu que vous leur donniez leur mahr. Et ne gardez pas de liens conjugaux avec les mécréantes. Réclamez ce que vous avez dépensé; et qu'ils réclament ce qu'ils ont dépensé. Tel est le jugement d'Allah par lequel Il juge entre vous. Et Allah est Omniscient et Sage.",
+          "Spanish": "¡Oh, creyentes! Cuando las creyentes lleguen a vosotros como emigrantes, examinadlas. Allah conoce mejor su fe. Si constatáis que son creyentes, no las devolváis a los incrédulos. Ellas no les son lícitas a ellos, ni ellos les son lícitos a ellas. Y devolvedles lo que hayan gastado. No hay pecado en que os caséis con ellas siempre que les deis su dote. Y no mantengáis la unión conyugal con las mujeres incrédulas. Reclamad lo que hayáis gastado, y que ellos reclamen lo que hayan gastado. Este es el juicio de Allah por el cual Él juzga entre vosotros. Allah es Omnisciente, Sabio.",
+          "Hindi": "ऐ ईमान वालो! जब मोमिन औरतें तुम्हारे पास हिजरत करके आएँ तो उनका इम्तिहान लो। अल्लाह उनके ईमान को ख़ूब जानता है। अगर तुम उन्हें मोमिना पाओ तो उन्हें काफ़िरों की तरफ़ न लौटाओ। न वह उनके लिए हलाल हैं न वह उनके लिए। और उन्हें वह दे दो जो उन्होंने ख़र्च किया हो। तुम पर कोई गुनाह नहीं अगर तुम उनसे निकाह करो जब तुम उन्हें उनका महर दे दो। और काफ़िरों की औरतों के साथ निकाह के बंधन न रखो बल्कि जो तुमने ख़र्च किया हो उसका तलब करो और उन्हें चाहिए कि जो उन्होंने ख़र्च किया हो उसका तलब करें। यह अल्लाह का हुक्म है, वह तुम्हारे दरमियान फ़ैसला करता है। अल्लाह जानने वाला हिकमत वाला है।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَإِنْ فَاتَكُمْ شَيْءٌ مِنْ أَزْوَاجِكُمْ إِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَآتُوا الَّذِينَ ذَهَبَتْ أَزْوَاجُهُمْ مِثْلَ مَا أَنْفَقُوا وَاتَّقُوا اللَّهَ الَّذِي أَنْتُمْ بِهِ مُؤْمِنُونَ",
+        "transliteration": "Wa in fātakum shay'un min azwājikum ilā al-kuffāri fa ʿāqabtum fa ātū alladhīna dhahabat azwājuhum mithla mā anfaqū wa ttaqū Llāha alladhī antum bihi mu'minūn",
+        "translations": {
+          "English": "If any of your wives desert you to the unbelievers, and you decide to penalize them, give those whose wives have gone away the equivalent of what they had spent. And fear God, in whom you are believers.",
+          "Urdu": "اگر تمہاری کچھ بیویاں کافروں کی طرف چلی جائیں اور تم انہیں سزا دینا چاہو تو جن کی بیویاں چلی گئی ہیں انہیں ان کے خرچ کے برابر دے دو اور اللہ سے ڈرو جس پر تم ایمان رکھتے ہو۔",
+          "French": "Et si une de vos épouses vous fuit pour se rendre auprès des mécréants, et que vous avez à votre tour la victoire, donnez à ceux dont les épouses sont parties l'équivalent de ce qu'ils avaient dépensé. Et craignez Allah en qui vous croyez.",
+          "Spanish": "Y si algunas de vuestras esposas se os escapan hacia los incrédulos, y vosotros tomáis represalias, dad a aquellos cuyas esposas se han ido el equivalente a lo que gastaron. Y temed a Allah, en quien creéis.",
+          "Hindi": "अगर तुम्हारी कुछ बीवियाँ काफ़िरों की तरफ़ चली जाएँ और तुम उन्हें सज़ा देना चाहो तो जिनकी बीवियाँ चली गई हैं उन्हें उनके ख़र्च के बराबर दे दो और अल्लाह से डरो जिस पर तुम ईमान रखते हो।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَى أَنْ لَا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "transliteration": "Yā ayyuhā an-nabiyyu idhā jā'aka al-mu'minātu yubāyiʿnaka ʿalā an lā yushrikna billāhi shay'an wa lā yasriqna wa lā yaznīna wa lā yaqtulna awlādahunna wa lā ya'tīna bibuhtānin yaftarīnahu bayna aydīhinna wa arjulihinna wa lā yaʿṣīnaka fī maʿrūfin fa bāyiʿhunna wa staghfir lahunna Allāha inna Llāha ghafūrun raḥīm",
+        "translations": {
+          "English": "O prophet! If believing women come to you, pledging allegiance to you, on condition that they will not associate anything with God, nor steal, nor commit adultery, nor kill their children, nor commit perjury as to parenthood, nor disobey you in anything righteous, accept their allegiance and ask God's forgiveness for them. God is Forgiving and Merciful.",
+          "Urdu": "اے نبی! جب مومن عورتیں تجھ سے بیعت کرنے آئیں اس شرط پر کہ وہ اللہ کے ساتھ کسی کو شریک نہیں ٹھہرائیں گی، نہ چوری کریں گی، نہ زنا کریں گی، نہ اپنی اولاد کو قتل کریں گی، نہ اپنے ہاتھ پاؤں کے درمیان کوئی بہتان باندھیں گی، نہ کسی نیک کام میں تیری نافرمانی کریں گی تو ان کی بیعت لے لے اور ان کے لیے اللہ سے مغفرت طلب کر۔ بے شک اللہ بخشنے والا مہربان ہے۔",
+          "French": "Ô Prophète! Quand les croyantes viennent te prêter serment d'allégeance, [et en jurent] qu'elles n'associeront rien à Allah, qu'elles ne voleront pas, qu'elles ne commettront pas d'adultère, qu'elles ne tueront pas leurs enfants, qu'elles ne commettront aucune infamie ni avec leurs mains ni avec leurs pieds et qu'elles ne désobéiront pas en ce qui est convenable, alors reçois leur serment d'allégeance, et implore pour elles le pardon d'Allah. Allah est Pardonneur et Miséricordieux.",
+          "Spanish": "¡Oh, Profeta! Cuando las creyentes vengan a prestarte juramento de lealtad, comprometiéndose a no asociar nada con Allah, no robar, no cometer adulterio, no matar a sus hijos, no inventar calumnias entre sus manos y pies, y no desobedecerte en lo que es bueno, acepta su juramento y pide a Allah que las perdone. En verdad, Allah es Perdonador, Misericordioso.",
+          "Hindi": "ऐ नबी! जब मोमिन औरतें तुझसे बैअत करने आएँ इस शर्त पर कि वह अल्लाह के साथ किसी को शरीक नहीं ठहराएँगी, न चोरी करेंगी, न ज़िना करेंगी, न अपनी औलाद को क़त्ल करेंगी, न अपने हाथ पैरों के दरमियान कोई बहतान बाँधेंगी, न किसी नेक काम में तेरी नाफ़रमानी करेंगी तो उनकी बैअत ले ले और उनके लिए अल्लाह से मग़फ़िरत तलब कर। बेशक अल्लाह माफ़ करने वाला मेहरबान है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْآخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ أَصْحَابِ الْقُبُورِ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū lā tatawallaw qawman ghaḍiba Llāhu ʿalayhim qad ya'isū mina al-ākhirati kamā ya'isa al-kuffāru min aṣḥābi al-qubūr",
+        "translations": {
+          "English": "O you who believe! Do not befriend people with whom God has become angry, and have despaired of the Hereafter, as the faithless have despaired of the occupants of the graves.",
+          "Urdu": "اے ایمان والو! ان لوگوں کو دوست نہ بناؤ جن پر اللہ نے غضب کیا ہے۔ وہ آخرت سے اسی طرح مایوس ہو چکے ہیں جیسے کافر قبر والوں سے مایوس ہو چکے ہیں۔",
+          "French": "Ô vous qui avez cru! Ne prenez pas pour alliés des gens contre lesquels Allah est courroucé et qui désespèrent de l'au-delà, tout comme les mécréants désespèrent des gens des tombeaux.",
+          "Spanish": "¡Oh, creyentes! No toméis como aliados a gente contra la cual Allah está enojado, que han desesperado de la otra vida, como los incrédulos han desesperado de los habitantes de las tumbas.",
+          "Hindi": "ऐ ईमान वालो! उन लोगों को दोस्त न बनाओ जिन पर अल्लाह ने ग़ज़ब किया है। वह आख़िरत से उसी तरह मायूस हो चुके हैं जैसे काफ़िर क़ब्र वालों से मायूस हो चुके हैं।"
+        }
+      }
+    ]
+  }

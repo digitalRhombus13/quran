@@ -1,0 +1,366 @@
+{
+    "no": 89,
+    "name": "Al-Fajr",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالْفَجْرِ",
+        "transliteration": "Wa l-fajr",
+        "translations": {
+          "English": "By the daybreak.",
+          "Urdu": "قسم ہے فجر کی،",
+          "French": "Par l’aube,",
+          "Spanish": "Por el alba,",
+          "Hindi": "क़सम है फज्र की।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَلَيَالٍ عَشْرٍ",
+        "transliteration": "Wa layālin 'ashr",
+        "translations": {
+          "English": "And ten nights.",
+          "Urdu": "اور دس راتوں کی،",
+          "French": "par les dix nuits,",
+          "Spanish": "por las diez noches,",
+          "Hindi": "और दस रातों की।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَالشَّفْعِ وَالْوَتْرِ",
+        "transliteration": "Wa sh-shaf'i wa l-watr",
+        "translations": {
+          "English": "And the even and the odd.",
+          "Urdu": "اور جفت اور طاق کی،",
+          "French": "par le pair et l’impair,",
+          "Spanish": "por lo par y lo impar,",
+          "Hindi": "और जोड़ और तिहाई की।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَاللَّيْلِ إِذَا يَسْرِ",
+        "transliteration": "Wa l-layli idhā yasr",
+        "translations": {
+          "English": "And the night as it recedes.",
+          "Urdu": "اور رات کی جب وہ گزرنے لگے،",
+          "French": "et par la nuit quand elle s’écoule !",
+          "Spanish": "y por la noche cuando transcurre.",
+          "Hindi": "और रात की जब वह बीतने लगे।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "هَلْ فِي ذَلِكَ قَسَمٌ لِذِي حِجْرٍ",
+        "transliteration": "Hal fī dhālika qasamun li-dhī ḥijr",
+        "translations": {
+          "English": "Is there in this an oath for a rational person?",
+          "Urdu": "کیا اس میں عقل والوں کے لیے قسم ہے؟",
+          "French": "Tout cela n’est-il pas un serment solennel pour un homme sensé ?",
+          "Spanish": "¿Acaso no hay en ello un juramento para el dotado de razón?",
+          "Hindi": "क्या इसमें अक़्ल वालों के लिए क़सम है?"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+        "transliteration": "A-lam tara kayfa fa'ala rabbuka bi-'ād",
+        "translations": {
+          "English": "Have you not seen how your Lord dealt with Aad?",
+          "Urdu": "کیا تم نے نہیں دیکھا کہ تمہارے رب نے عاد کے ساتھ کیا کیا؟",
+          "French": "N’as-tu pas vu comment ton Seigneur a traité les ‘Aad,",
+          "Spanish": "¿No has visto cómo obró tu Señor con los ‘Ad,",
+          "Hindi": "क्या तुमने नहीं देखा कि तुम्हारे रब ने आद के साथ क्या किया?"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "إِرَمَ ذَاتِ الْعِمَادِ",
+        "transliteration": "Irama dhāti l-'imād",
+        "translations": {
+          "English": "Erum of the pillars.",
+          "Urdu": "ستونوں والی ارم،",
+          "French": "la cité d’Iram aux colonnes remarquables,",
+          "Spanish": "la ciudad de Iram, la de las columnas,",
+          "Hindi": "खंभों वाली इरम।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+        "transliteration": "Allatī lam yukhlaq mithluhā fī l-bilād",
+        "translations": {
+          "English": "The like of which was never created in the land.",
+          "Urdu": "جیسی شہر کبھی ملکوں میں نہ بنائے گئے،",
+          "French": "dont jamais pareille ne fut construite parmi les villes ?",
+          "Spanish": "cuyas semejantes no han sido creadas en los países?",
+          "Hindi": "जैसे शहर कभी देशों में न बनाए गए।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+        "transliteration": "Wa thamūda lladhīna jābū ṣ-sakhra bi-l-wād",
+        "translations": {
+          "English": "And Thamood—those who carved the rocks in the valley.",
+          "Urdu": "اور ثمود جنہوں نے وادی میں پتھر تراشے،",
+          "French": "et les Thamoud qui taillaient le rocher dans la vallée ?",
+          "Spanish": "y con los Zamud, que excavaron la roca en el valle?",
+          "Hindi": "और समूद जिन्होंने वादी में पत्थर तराशे।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+        "transliteration": "Wa fir'awna dhī l-awtād",
+        "translations": {
+          "English": "And Pharaoh of the Stakes.",
+          "Urdu": "اور میخوں والے فرعون،",
+          "French": "et Pharaon l’homme aux épieux ?",
+          "Spanish": "y con el Faraón, el de las estacas?",
+          "Hindi": "और खूँटियों वाले फ़िरऔन।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+        "transliteration": "Alladhīna ṭaghaw fī l-bilād",
+        "translations": {
+          "English": "Those who committed excesses in the lands.",
+          "Urdu": "جنہوں نے ملکوں میں سرکشی کی،",
+          "French": "Tous ces gens-là se sont rebellés dans leur pays,",
+          "Spanish": "Todos ellos se excedieron en sus países,",
+          "Hindi": "जिन्होंने देशों में सरकशी की।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+        "transliteration": "Fa aktharū fīhā l-fasād",
+        "translations": {
+          "English": "And spread much corruption therein.",
+          "Urdu": "اور انہوں نے بہت فساد مچایا،",
+          "French": "et y avaient semé beaucoup de corruption.",
+          "Spanish": "y sembraron en ellos mucha corrupción.",
+          "Hindi": "और उन्होंने बहुत फ़साद फैलाया।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+        "transliteration": "Fa ṣabba 'alayhim rabbuka sawṭa 'adhāb",
+        "translations": {
+          "English": "So your Lord poured down upon them a scourge of punishment.",
+          "Urdu": "پس تمہارے رب نے ان پر عذاب کی کوڑے برسائے،",
+          "French": "Alors ton Seigneur déversa sur eux un fouet de châtiment.",
+          "Spanish": "Entonces tu Señor descargó sobre ellos un látigo de castigo.",
+          "Hindi": "फिर तुम्हारे रब ने उन पर अज़ाब की कोड़े बरसाए।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+        "transliteration": "Inna rabbaka la-bi-l-mirṣād",
+        "translations": {
+          "English": "Your Lord is on the lookout.",
+          "Urdu": "بے شک تمہارا رب گھات میں ہے۔",
+          "French": "Car ton Seigneur est aux aguets.",
+          "Spanish": "En verdad, tu Señor está al acecho.",
+          "Hindi": "बेशक तुम्हारा रब घात में है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+        "transliteration": "Fa ammā l-insānu idhā mā ibtalāhu rabbuhu fa akramahu wa na''amahu fa yaqūlu rabbī akraman",
+        "translations": {
+          "English": "As for man, whenever his Lord tests him, and honors him, and prospers him, he says, 'My Lord has honored me.'",
+          "Urdu": "رہا انسان، جب اس کا رب اسے آزماتا ہے، پھر اسے عزت دیتا ہے اور نعمت عطا کرتا ہے تو وہ کہتا ہے: 'میرے رب نے مجھے عزت دی'۔",
+          "French": "Quant à l’homme, lorsque son Seigneur l’éprouve en l’honorant et en le comblant de bienfaits, il dit : « Mon Seigneur m’a honoré ».",
+          "Spanish": "En cuanto al hombre, cuando su Señor lo prueba honrándolo y agraciándolo, dice: 'Mi Señor me ha honrado'.",
+          "Hindi": "रहा इंसान, जब उसका रब उसे आज़माता है, फिर उसे इज़्ज़त देता है और नेमत अता करता है तो वह कहता है: 'मेरे रब ने मुझे इज़्ज़त दी'।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+        "transliteration": "Wa ammā idhā mā ibtalāhu fa qadara 'alayhi rizqahu fa yaqūlu rabbī ahānan",
+        "translations": {
+          "English": "But whenever He tests him, and restricts his livelihood for him, he says, 'My Lord has insulted me.'",
+          "Urdu": "اور جب وہ اسے آزماتا ہے اور اس کی روزی تنگ کر دیتا ہے تو وہ کहتا ہے: 'میرے رب نے مجھے ذلیل کیا'۔",
+          "French": "Mais lorsque, l’ayant éprouvé, Il lui restreint sa subsistance, il dit : « Mon Seigneur m’a humilié ».",
+          "Spanish": "Pero cuando lo prueba restringiendo su sustento, dice: 'Mi Señor me ha humillado'.",
+          "Hindi": "और जब वह उसे आज़माता है और उसकी रोज़ी तंग कर देता है तो वह कहता है: 'मेरे रब ने मुझे ज़लील किया'।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+        "transliteration": "Kallā bal lā tukrimūna l-yatīm",
+        "translations": {
+          "English": "Not at all. But you do not honor the orphan.",
+          "Urdu": "ہرگز نہیں، بلکہ تم یتیم کی عزت نہیں کرتے،",
+          "French": "Mais non ! C’est plutôt que vous n’êtes pas généreux envers l’orphelin,",
+          "Spanish": "¡No! Más bien no honráis al huérfano,",
+          "Hindi": "हर्गिज़ नहीं, बल्कि तुम यतीम की इज़्ज़त नहीं करते।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَلَا تَحَاضُّونَ عَلَى طَعَامِ الْمِسْكِينِ",
+        "transliteration": "Wa lā taḥāḍḍūna 'alā ṭa'āmi l-miskīn",
+        "translations": {
+          "English": "And you do not urge the feeding of the poor.",
+          "Urdu": "اور مسکین کو کھانا کھلانے کی ترغیب نہیں دیتے،",
+          "French": "ne vous encouragez pas mutuellement à nourrir le pauvre,",
+          "Spanish": "ni os exhortáis mutuamente a alimentar al pobre,",
+          "Hindi": "और मिसकीन को खाना खिलाने की तरगीब नहीं देते।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+        "transliteration": "Wa ta'kulūna t-turātha aklan lammā",
+        "translations": {
+          "English": "And you devour inheritance with all greed.",
+          "Urdu": "اور تم میراث کو خوب لالچ سے کھا جاتے ہو،",
+          "French": "dévorez l’héritage avec une avidité vorace,",
+          "Spanish": "y devoráis la herencia con avidez voraz,",
+          "Hindi": "और तुम मीरास को खूब लालच से खा जाते हो।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+        "transliteration": "Wa tuḥibbūna l-māla ḥubban jammā",
+        "translations": {
+          "English": "And you love wealth with immense love.",
+          "Urdu": "اور تم مال کو بے حد محبت سے چاہتے ہو۔",
+          "French": "et aimez les richesses d’un amour sans bornes.",
+          "Spanish": "y amáis la riqueza con un amor desmedido.",
+          "Hindi": "और तुम माल को बेहद मुहब्बत से चाहते हो।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+        "transliteration": "Kallā idhā dukkat al-arḍu dakkā dakkā",
+        "translations": {
+          "English": "No—when the earth is leveled, pounded, and crushed.",
+          "Urdu": "ہرگز نہیں، جب زمین کو کچل کر رکھ دیا جائے گا،",
+          "French": "Prenez garde ! Quand la terre sera complètement pulvérisée,",
+          "Spanish": "¡No! Cuando la tierra sea pulverizada,",
+          "Hindi": "हर्गिज़ नहीं, जब ज़मीन को कुचल कर रख दिया जाएगा।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+        "transliteration": "Wa jā'a rabbuka wa l-malaku ṣaffā ṣaffā",
+        "translations": {
+          "English": "And your Lord comes, with the angels, row after row.",
+          "Urdu": "اور تمہارا رب آئے گا اور فرشتے صف بستہ ہوں گے۔",
+          "French": "et que ton Seigneur viendra ainsi que les Anges, rang par rang,",
+          "Spanish": "y venga tu Señor con los ángeles, fila tras fila,",
+          "Hindi": "और तुम्हारा रब आएगा और फ़रिश्ते कतार बाँधे होंगे।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّى لَهُ الذِّكْرَى",
+        "transliteration": "Wa jī'a yawma'idhin bi-jahannama yawma'idhin yatadhakkaru l-insānu wa annā lahu dh-dhikrā",
+        "translations": {
+          "English": "And on that Day, Hell is brought forward. On that Day, man will remember, but how will remembrance avail him?",
+          "Urdu": "اور اس دن جہنم کو لایا جائے گا، اس دن انسان کو یاد آئے گا، لیکن یاد آنے کا کیا فائدہ؟",
+          "French": "et que l’Enfer sera amené ce jour-là. Ce jour-là, l’homme se souviendra. Mais à quoi lui servira de se souvenir ?",
+          "Spanish": "y ese día sea presentado el Infierno. Ese día el hombre recordará, pero ¿de qué le servirá recordar?",
+          "Hindi": "और उस दिन जहन्नम को लाया जाएगा, उस दिन इंसान को याद आएगा, मगर याद आने का क्या फ़ायदा?"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+        "transliteration": "Yaqūlu yā laytanī qaddamtu li-ḥayātī",
+        "translations": {
+          "English": "He will say, 'If only I had forwarded for my life.'",
+          "Urdu": "وہ کہے گا: 'کاش میں نے اپنی زندگی کے لیے آگے بھیجا ہوتا'۔",
+          "French": "Il dira : « Hélas pour moi ! Si seulement j’avais avancé quelque chose pour ma vie ! »",
+          "Spanish": "Dirá: '¡Ojalá hubiera hecho algo provechoso para mi vida!'",
+          "Hindi": "वह कहेगा: 'काश मैंने अपनी ज़िंदगी के लिए आगे भेजा होता'।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+        "transliteration": "Fa yawma'idhin lā yu'adhdhibu 'adhābahu aḥad",
+        "translations": {
+          "English": "On that Day, none will punish as He punishes.",
+          "Urdu": "پس اس دن کوئی اس کے عذاب جیسا عذاب نہ دے گا،",
+          "French": "Ce jour-là donc, nul ne châtiera comme Lui châtie,",
+          "Spanish": "Ese día nadie castigará como Él castiga,",
+          "Hindi": "फिर उस दिन कोई उसके अज़ाब जैसा अज़ाब न देगा।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+        "transliteration": "Wa lā yūthiqu wathāqahu aḥad",
+        "translations": {
+          "English": "And none will shackle as He shackles.",
+          "Urdu": "اور نہ کوئی اس کی زنجیر جیسی زنجیر ڈالے گا۔",
+          "French": "et nul n’enchaînera comme Lui enchaîne.",
+          "Spanish": "y nadie atará como Él ata.",
+          "Hindi": "और न कोई उसकी ज़ंजीर जैसी ज़ंजीर डालेगा।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+        "transliteration": "Yā ayyatuhā n-nafsu l-muṭma'innah",
+        "translations": {
+          "English": "But as for you, O tranquil soul.",
+          "Urdu": "اے اطمینان والی جان!",
+          "French": "Ô toi, âme apaisée,",
+          "Spanish": "¡Oh, alma sosegada!",
+          "Hindi": "ऐ इत्मीनान वाली जान!"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+        "transliteration": "Irji'ī ilā rabbiki rāḍiyatan marḍiyyah",
+        "translations": {
+          "English": "Return to your Lord, pleased and accepted.",
+          "Urdu": "اپنے رب کی طرف لوٹ چل، تو راضی وہ راضی (ہو کر)،",
+          "French": "retourne vers ton Seigneur, satisfaite et agréée ;",
+          "Spanish": "Regresa a tu Señor, satisfecha y aceptada.",
+          "Hindi": "अपने रब की तरफ़ लौट चल, तू राज़ी वह राज़ी (हो कर)।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "فَادْخُلِي فِي عِبَادِي",
+        "transliteration": "Fa dkhulī fī 'ibādī",
+        "translations": {
+          "English": "Enter among My servants.",
+          "Urdu": "پس میرے (خاص) بندوں میں داخل ہو جا،",
+          "French": "entre parmi Mes serviteurs,",
+          "Spanish": "Ingresa entre Mis siervos,",
+          "Hindi": "फिर मेरे (ख़ास) बन्दों में दाख़िल हो जा।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "وَادْخُلِي جَنَّتِي",
+        "transliteration": "Wa dkhulī jannatī",
+        "translations": {
+          "English": "Enter My Paradise.",
+          "Urdu": "اور میری جنت میں داخل ہو جا۔",
+          "French": "entre dans Mon Paradis.",
+          "Spanish": "y entra en Mi Paraíso.",
+          "Hindi": "और मेरी जन्नत में दाख़िल हो जा।"
+        }
+      }
+    ]
+  }

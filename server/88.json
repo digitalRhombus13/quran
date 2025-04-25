@@ -1,0 +1,318 @@
+{
+    "no": 88,
+    "name": "Al-Ghashiyah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+        "transliteration": "Has there come to you the news of the overwhelming?",
+        "translations": {
+          "English": "Has there come to you the news of the overwhelming?",
+          "Urdu": "کیا تمہیں چھا جانے والی (قیامت) کی خبر پہنچی ہے؟",
+          "French": "T’est-il parvenu le récit de l’Enveloppante ?",
+          "Spanish": "¿Te ha llegado la noticia de lo que cubrirá todo?",
+          "Hindi": "क्या तुम्हें उस घेर लेने वाली (क़यामत) की ख़बर पहुँची है?"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+        "transliteration": "Faces on that Day will be shamed.",
+        "translations": {
+          "English": "Faces on that Day will be shamed.",
+          "Urdu": "کچھ چہرے اس دن ذلیل ہوں گے۔",
+          "French": "Ce jour-là, il y aura des visages humiliés,",
+          "Spanish": "Ese día habrá rostros humillados,",
+          "Hindi": "कुछ चेहरे उस दिन ज़लील होंगे।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "عَامِلَةٌ نَاصِبَةٌ",
+        "transliteration": "Laboring and exhausted.",
+        "translations": {
+          "English": "Laboring and exhausted.",
+          "Urdu": "محنت کرتے ہوئے تھکے ہوئے۔",
+          "French": "peinant et épuisés,",
+          "Spanish": "laboriosos y agotados,",
+          "Hindi": "मेहनत करते हुए थके हुए।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "تَصْلَى نَارًا حَامِيَةً",
+        "transliteration": "Roasting in a scorching Fire.",
+        "translations": {
+          "English": "Roasting in a scorching Fire.",
+          "Urdu": "جھلسا دینے والی آگ میں جلیں گے۔",
+          "French": "ils brûleront dans un Feu ardent,",
+          "Spanish": "arderán en un Fuego abrasador,",
+          "Hindi": "झुलसा देने वाली आग में जलेंगे।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "تُسْقَى مِنْ عَيْنٍ آنِيَةٍ",
+        "transliteration": "Given to drink from a flaming spring.",
+        "translations": {
+          "English": "Given to drink from a flaming spring.",
+          "Urdu": "انہیں کھولتے ہوئے چشمے کا پانی پلایا جائے گا۔",
+          "French": "abreuvés d’une source bouillante.",
+          "Spanish": "se les dará de beber de un manantial hirviente.",
+          "Hindi": "उन्हें उबलते हुए चश्मे का पानी पिलाया जाएगा।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+        "transliteration": "They will have no food except thorns.",
+        "translations": {
+          "English": "They will have no food except thorns.",
+          "Urdu": "ان کے لیے کانٹوں کے سوا کوئی کھانا نہیں ہوگا۔",
+          "French": "Ils n’auront d’autre nourriture que des plantes épineuses",
+          "Spanish": "No tendrán más alimento que espinas,",
+          "Hindi": "उनके लिए काँटों के सिवा कोई खाना नहीं होगा।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ",
+        "transliteration": "That neither nourishes, nor satisfies hunger.",
+        "translations": {
+          "English": "That neither nourishes, nor satisfies hunger.",
+          "Urdu": "نہ وہ موٹا کرے گا نہ بھوک مٹائے گا۔",
+          "French": "qui n’engraissent pas et ne rassasient pas.",
+          "Spanish": "que no engordan ni calman el hambre.",
+          "Hindi": "न वह मोटा करेगा न भूख मिटाएगा।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ",
+        "transliteration": "Faces on that Day will be joyful.",
+        "translations": {
+          "English": "Faces on that Day will be joyful.",
+          "Urdu": "کچھ چہرے اس دن تروتازہ ہوں گے۔",
+          "French": "D’autres visages, ce jour-là, seront épanouis,",
+          "Spanish": "Otros rostros, ese día, estarán radiantes,",
+          "Hindi": "कुछ चेहरे उस दिन तरोताज़ा होंगे।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "لِسَعْيِهَا رَاضِيَةٌ",
+        "transliteration": "Satisfied with their endeavor.",
+        "translations": {
+          "English": "Satisfied with their endeavor.",
+          "Urdu": "اپنی کوشش سے خوش ہوں گے۔",
+          "French": "heureuses de leurs efforts,",
+          "Spanish": "satisfechas por su esfuerzo,",
+          "Hindi": "अपनी कोशिश से खुश होंगे।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فِي جَنَّةٍ عَالِيَةٍ",
+        "transliteration": "In a lofty Garden.",
+        "translations": {
+          "English": "In a lofty Garden.",
+          "Urdu": "اونچی جنت میں ہوں گے۔",
+          "French": "dans un Jardin élevé,",
+          "Spanish": "en un Jardín elevado,",
+          "Hindi": "ऊँची जन्नत में होंगे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "لَا تَسْمَعُ فِيهَا لَاغِيَةً",
+        "transliteration": "In it you will hear no nonsense.",
+        "translations": {
+          "English": "In it you will hear no nonsense.",
+          "Urdu": "اس میں کوئی بےہودہ بات نہیں سنیں گے۔",
+          "French": "où ils n’entendront aucune parole futile,",
+          "Spanish": "donde no oirán palabras vanas,",
+          "Hindi": "उसमें कोई बेहूदा बात नहीं सुनेंगे।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+        "transliteration": "In it is a flowing spring.",
+        "translations": {
+          "English": "In it is a flowing spring.",
+          "Urdu": "اس میں بہتا ہوا چشمہ ہوگا۔",
+          "French": "où coulera une source,",
+          "Spanish": "donde hay un manantial que fluye,",
+          "Hindi": "उसमें बहता हुआ चश्मा होगा।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فِيهَا سُرُرٌ مَرْفُوعَةٌ",
+        "transliteration": "In it are raised beds.",
+        "translations": {
+          "English": "In it are raised beds.",
+          "Urdu": "اس میں اونچے تخت ہوں گے۔",
+          "French": "où se trouveront des lits surélevés,",
+          "Spanish": "donde habrá lechos elevados,",
+          "Hindi": "उसमें ऊँचे तख़्त होंगे।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَأَكْوَابٌ مَوْضُوعَةٌ",
+        "transliteration": "And cups set in place.",
+        "translations": {
+          "English": "And cups set in place.",
+          "Urdu": "اور رکھے ہوئے جام ہوں گے۔",
+          "French": "des coupes disposées,",
+          "Spanish": "copas colocadas,",
+          "Hindi": "और रखे हुए जाम होंगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+        "transliteration": "And cushions set in rows.",
+        "translations": {
+          "English": "And cushions set in rows.",
+          "Urdu": "اور قطار در قطار تکیے ہوں گے۔",
+          "French": "des coussins alignés,",
+          "Spanish": "cojines alineados,",
+          "Hindi": "और कतार दर कतार तकिए होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+        "transliteration": "And carpets spread around.",
+        "translations": {
+          "English": "And carpets spread around.",
+          "Urdu": "اور بچھے ہوئے قالین ہوں گے।",
+          "French": "et des tapis déployés.",
+          "Spanish": "y alfombras extendidas.",
+          "Hindi": "और बिछे हुए कालीन होंगे।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+        "transliteration": "Do they not look at the camels—how they are created?",
+        "translations": {
+          "English": "Do they not look at the camels—how they are created?",
+          "Urdu": "کیا یہ اونٹوں کو نہیں دیکھتے کہ وہ کیسے پیدا کیے گئے؟",
+          "French": "Ne considèrent-ils pas les chameaux, comment ils ont été créés ?",
+          "Spanish": "¿No ven los camellos, cómo han sido creados?",
+          "Hindi": "क्या ये ऊँटों को नहीं देखते कि वे कैसे पैदा किए गए?"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+        "transliteration": "And at the sky—how it is raised?",
+        "translations": {
+          "English": "And at the sky—how it is raised?",
+          "Urdu": "اور آسمان کی طرف کہ وہ کیسے بلند کیا گیا؟",
+          "French": "Et le ciel, comment il est élevé ?",
+          "Spanish": "¿Y el cielo, cómo ha sido elevado?",
+          "Hindi": "और आसमान की तरफ कि वह कैसे ऊँचा किया गया?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+        "transliteration": "And at the mountains—how they are installed?",
+        "translations": {
+          "English": "And at the mountains—how they are installed?",
+          "Urdu": "اور پہاڑوں کی طرف کہ وہ کیسے گاڑے گئے؟",
+          "French": "Et les montagnes, comment elles sont dressées ?",
+          "Spanish": "¿Y las montañas, cómo han sido erigidas?",
+          "Hindi": "और पहाड़ों की तरफ कि वे कैसे गाड़े गए?"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+        "transliteration": "And at the earth—how it is spread out?",
+        "translations": {
+          "English": "And at the earth—how it is spread out?",
+          "Urdu": "اور زمین کی طرف کہ وہ کیسے بچھائی گئی؟",
+          "French": "Et la terre, comment elle est nivelée ?",
+          "Spanish": "¿Y la tierra, cómo ha sido allanada?",
+          "Hindi": "और ज़मीन की तरफ कि वह कैसे बिछाई गई?"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+        "transliteration": "So remind. You are only a reminder.",
+        "translations": {
+          "English": "So remind. You are only a reminder.",
+          "Urdu": "پس آپ نصیحت کرتے رہیں، آپ تو بس نصیحت کرنے والے ہیں۔",
+          "French": "Rappelle donc ! Tu n’es qu’un avertisseur.",
+          "Spanish": "¡Advierte! Tú sólo eres un amonestador.",
+          "Hindi": "तो आप नसीहत करते रहें, आप तो बस नसीहत करने वाले हैं।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+        "transliteration": "You have no control over them.",
+        "translations": {
+          "English": "You have no control over them.",
+          "Urdu": "آپ ان پر مسلط نہیں ہیں۔",
+          "French": "Tu n’as pas sur eux de pouvoir contraignant.",
+          "Spanish": "No tienes poder sobre ellos.",
+          "Hindi": "आप उन पर मुसल्लत नहीं हैं।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "إِلَّا مَنْ تَوَلَّى وَكَفَرَ",
+        "transliteration": "But whoever turns away and disbelieves.",
+        "translations": {
+          "English": "But whoever turns away and disbelieves.",
+          "Urdu": "لیکن جو منہ موڑے اور کفر کرے۔",
+          "French": "Mais celui qui se détourne et mécroit,",
+          "Spanish": "Excepto quien se aparte y niegue la verdad,",
+          "Hindi": "लेकिन जो मुँह फेरे और कुफ़्र करे।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+        "transliteration": "God will punish him with the greatest punishment.",
+        "translations": {
+          "English": "God will punish him with the greatest punishment.",
+          "Urdu": "تو اللہ اسے بڑے عذاب میں مبتلا کرے گا۔",
+          "French": "Allah le châtiera du plus grand châtiment.",
+          "Spanish": "Allah lo castigará con el mayor castigo.",
+          "Hindi": "तो अल्लाह उसे बड़े अज़ाब में मुब्तिला करेगा।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+        "transliteration": "To Us is their return.",
+        "translations": {
+          "English": "To Us is their return.",
+          "Urdu": "بیشک ہماری ہی طرف انہیں لوٹنا ہے۔",
+          "French": "C’est vers Nous que sera leur retour.",
+          "Spanish": "En verdad, a Nosotros será su regreso.",
+          "Hindi": "बेशक हमारी ही तरफ उन्हें लौटना है।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+        "transliteration": "Then upon Us rests their reckoning.",
+        "translations": {
+          "English": "Then upon Us rests their reckoning.",
+          "Urdu": "پھر ہمارے ذمہ ہے ان کا حساب لینا۔",
+          "French": "Ensuite, c’est à Nous de leur demander compte.",
+          "Spanish": "Luego, a Nosotros corresponde ajustarles las cuentas.",
+          "Hindi": "फिर हमारे ज़िम्मे है उनका हिसाब लेना।"
+        }
+      }
+    ]
+  }

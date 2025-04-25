@@ -1,0 +1,1326 @@
+{
+    "no": 12,
+    "name": "Yusuf",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+        "translations": {
+          "English": "Alif, Lam, Ra. These are the Verses of the Clear Book.",
+          "French": "Alif, Lam, Ra. Voici les versets du Livre explicite.",
+          "Urdu": "الر، یہ واضح کتاب کی آیات ہیں۔",
+          "Spanish": "Alif, Lam, Ra. Estos son los versículos del Libro claro.",
+          "Hindi": "अलिफ़-लाम-रा। ये स्पष्ट किताब की आयतें हैं।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+        "translations": {
+          "English": "We have revealed it an Arabic Quran, so that you may understand.",
+          "French": "Nous l'avons fait descendre, un Coran en arabe, afin que vous raisonniez.",
+          "Urdu": "بے شک ہم نے اسے عربی قرآن بنا کر نازل کیا ہے تاکہ تم سمجھو۔",
+          "Spanish": "En verdad, lo hemos revelado como un Corán en árabe para que podáis comprender.",
+          "Hindi": "हमने इसे अरबी क़ुरआन बनाकर उतारा है ताकि तुम समझो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَذَا الْقُرْآنَ وَإِنْ كُنْتَ مِنْ قَبْلِهِ لَمِنَ الْغَافِلِينَ",
+        "translations": {
+          "English": "We narrate to you the most accurate history, by revealing to you this Quran. Although, prior to it, you were of the unaware.",
+          "French": "Nous te racontons le meilleur récit, en t’inspirant ce Coran, bien qu’auparavant tu étais parmi les inattentifs.",
+          "Urdu": "ہم تمہیں اس قرآن کے ذریعے بہترین قصہ سناتے ہیں، حالانکہ اس سے پہلے تم بےخبر تھے۔",
+          "Spanish": "Te relatamos la mejor de las historias al revelarte este Corán, aunque antes eras de los desprevenidos.",
+          "Hindi": "हम तुम्हें इस क़ुरआन के ज़रिए सबसे अच्छी कहानी सुनाते हैं, हालाँकि इससे पहले तुम बेख़बर थे।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
+        "translations": {
+          "English": "When Joseph said to his father, “O my father, I saw eleven planets, and the sun, and the moon; I saw them bowing down to me.”",
+          "French": "Lorsque Joseph dit à son père : « Ô mon père, j’ai vu onze étoiles, et le soleil et la lune ; je les ai vus prosternés devant moi. »",
+          "Urdu": "جب یوسف نے اپنے باپ سے کہا: اے میرے باپ! میں نے گیارہ ستاروں اور سورج اور چاند کو دیکھا، میں نے انہیں اپنے سامنے سجدہ کرتے دیکھا۔",
+          "Spanish": "Cuando José dijo a su padre: “¡Oh, padre mío! He visto once estrellas, y el sol y la luna; los he visto postrándose ante mí”.",
+          "Hindi": "जब यूसुफ़ ने अपने पिता से कहा: हे मेरे पिता! मैंने ग्यारह सितारों और सूरज व चाँद को देखा, मैंने उन्हें अपने सामने सजदा करते देखा।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَى إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا إِنَّ الشَّيْطَانَ لِلْإِنْسَانِ عَدُوٌّ مُبِينٌ",
+        "translations": {
+          "English": "He said, “O my son, do not relate your vision to your brothers, lest they plot and scheme against you. Satan is man's sworn enemy.",
+          "French": "Il dit : « Ô mon fils, ne raconte pas ta vision à tes frères, sinon ils comploteraient contre toi. Le Diable est pour l’homme un ennemi déclaré.",
+          "Urdu": "انہوں نے کہا: اے میرے بیٹے! اپنا خواب اپنے بھائیوں کو نہ سنانا، ورنہ وہ تمہارے خلاف سازش کریں گے۔ بے شک شیطان انسان کا کھلا دشمن ہے۔",
+          "Spanish": "Dijo: “¡Oh, hijito mío! No relates tu sueño a tus hermanos, no sea que conspiren contra ti. En verdad, Satanás es para el hombre un enemigo evidente”.",
+          "Hindi": "उन्होंने कहा: हे मेरे बेटे! अपना सपना अपने भाइयों को मत सुनाना, नहीं तो वे तुम्हारे ख़िलाफ़ साज़िश करेंगे। निस्संदेह शैतान इंसान का खुला दुश्मन है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَكَذَلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَى آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَى أَبَوَيْكَ مِنْ قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+        "translations": {
+          "English": "And thus your Lord will choose you, and will teach you the interpretation of events, and will complete His blessing upon you and upon the family of Jacob, as He has completed it before upon your forefathers Abraham and Isaac. Your Lord is Knowing and Wise.",
+          "French": "Ainsi ton Seigneur te choisira et t’enseignera l’interprétation des rêves, et Il parfera Son bienfait sur toi et sur la famille de Jacob, comme Il l’a parfait auparavant sur tes deux ancêtres, Abraham et Isaac, car ton Seigneur est Omniscient et Sage.",
+          "Urdu": "اور اسی طرح تمہارا رب تمہیں منتخب کرے گا اور تمہیں خوابوں کی تعبیر سکھائے گا اور تم پر اور یعقوب کے گھرانے پر اپنی نعمت پوری کرے گا، جیسا کہ اس نے تمہارے باپ دادا ابراہیم اور اسحاق پر پوری کی تھی۔ بے شک تمہارا رب جاننے والا، حکمت والا ہے۔",
+          "Spanish": "Así es como tu Señor te elegirá, te enseñará la interpretación de los sueños y completará Su favor sobre ti y sobre la familia de Jacob, como lo completó antes sobre tus padres Abraham e Isaac. En verdad, tu Señor es Sabio, Omnisciente.",
+          "Hindi": "और इसी तरह तुम्हारा रब तुम्हें चुनेगा और तुम्हें घटनाओं की व्याख्या सिखाएगा और तुम पर और याक़ूब के परिवार पर अपनी नेमत पूरी करेगा, जैसे उसने तुम्हारे पूर्वज इब्राहीम और इसहाक़ पर पूरी की थी। निस्संदेह तुम्हारा रब जानने वाला, तत्वदर्शी है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ",
+        "translations": {
+          "English": "In Joseph and his brothers are lessons for the seekers.",
+          "French": "Il y a certes dans l’histoire de Joseph et de ses frères des enseignements pour ceux qui cherchent à savoir.",
+          "Urdu": "بے شک یوسف اور اس کے بھائیوں کے واقعات میں نصیحت ہے ان لوگوں کے لیے جو پوچھنے والے ہیں۔",
+          "Spanish": "En la historia de José y sus hermanos hay signos para quienes preguntan.",
+          "Hindi": "निस्संदेह यूसुफ़ और उसके भाइयों के क़िस्से में सबक़ है उन लोगों के लिए जो पूछने वाले हैं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَى أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُبِينٍ",
+        "translations": {
+          "English": "When they said, “Joseph and his brother are dearer to our father than we are, although we are a whole group. Our father is obviously in the wrong.”",
+          "French": "Quand les frères dirent : « Joseph et son frère sont plus aimés de notre père que nous, alors que nous sommes un groupe bien fort. Notre père est vraiment dans un tort évident.",
+          "Urdu": "جب انہوں نے کہا: یوسف اور اس کا بھائی ہمارے باپ کو ہم سے زیادہ پیارے ہیں، حالانکہ ہم ایک پورا گروہ ہیں۔ بے شک ہمارا باپ صریح غلطی پر ہے۔",
+          "Spanish": "Cuando dijeron: “José y su hermano son más queridos por nuestro padre que nosotros, siendo que somos un grupo [más numeroso]. En verdad, nuestro padre está evidentemente equivocado”.",
+          "Hindi": "जब उन्होंने कहा: यूसुफ़ और उसका भाई हमारे पिता को हमसे ज़्यादा प्यारा है, हालाँकि हम एक पूरा समूह हैं। निस्संदेह हमारे पिता स्पष्ट ग़लती पर हैं।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِنْ بَعْدِهِ قَوْمًا صَالِحِينَ",
+        "translations": {
+          "English": "“Kill Joseph, or throw him somewhere in the land, and your father‘s attention will be yours. Afterwards, you will be decent people.”",
+          "French": "« Tuez Joseph, ou bien éloignez-le dans n’importe quel pays, afin que le visage de votre père se tourne uniquement vers vous, et que vous soyez après cela des gens de bien. »",
+          "Urdu": "یوسف کو قتل کر دو یا کسی زمین میں پھینک دو، تمہارے باپ کی توجہ صرف تمہاری طرف ہو جائے گی، اور اس کے بعد تم نیک لوگ بن جاؤ گے۔",
+          "Spanish": "“Matad a José o abandonadlo en alguna tierra, así vuestro padre os prestará toda su atención, y después seréis gente honrada”.",
+          "Hindi": "“यूसुफ़ को मार डालो या किसी ज़मीन में फेंक दो, तुम्हारे पिता का ध्यान सिर्फ़ तुम्हारी तरफ हो जाएगा, और उसके बाद तुम नेक लोग बन जाओगे।”"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "قَالَ قَائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِنْ كُنْتُمْ فَاعِلِينَ",
+        "translations": {
+          "English": "One of them said, “Do not kill Joseph, but throw him into the bottom of the well; some caravan may pick him up—if you must do something.”",
+          "French": "L’un d’eux dit : « Ne tuez pas Joseph, mais jetez-le si vous devez agir au fond du puits ; quelque caravane le recueillera. »",
+          "Urdu": "ان میں سے ایک نے کہا: یوسف کو قتل نہ کرو، بلکہ اگر تمہیں کچھ کرنا ہی ہے تو اسے کنویں کی تہہ میں ڈال دو، کوئی قافلہ اسے اٹھا لے گا۔",
+          "Spanish": "Uno de ellos dijo: “No matéis a José, sino arrojadlo al fondo del pozo, y alguna caravana lo recogerá, si es que estáis decididos a hacerlo”.",
+          "Hindi": "उनमें से एक ने कहा: यूसुफ़ को मत मारो, बल्कि अगर तुम्हें कुछ करना ही है तो उसे कुएँ की तह में डाल दो, कोई कारवाँ उसे उठा लेगा।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَى يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ",
+        "translations": {
+          "English": "They said, “Father, why do you not trust us with Joseph, although we care for him?”",
+          "French": "Ils dirent : « Ô notre père, pourquoi ne nous confies-tu pas Joseph ? Nous sommes pourtant bien intentionnés à son égard.",
+          "Urdu": "انہوں نے کہا: اے ہمارے باپ! تم ہمیں یوسف پر کیوں اعتماد نہیں کرتے، حالانکہ ہم اس کے خیرخواہ ہیں؟",
+          "Spanish": "Dijeron: “¡Oh, padre nuestro! ¿Por qué no nos confías a José? En verdad, nosotros lo cuidaremos”.",
+          "Hindi": "उन्होंने कहा: हे हमारे पिता! तुम हम पर यूसुफ़ के बारे में भरोसा क्यों नहीं करते, हालाँकि हम उसके भले चाहने वाले हैं?"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "translations": {
+          "English": "“Send him with us tomorrow, that he may roam and play; we will take care of him.”",
+          "French": "« Envoie-le demain avec nous, pour qu’il s’amuse et joue. Et nous veillerons sur lui. »",
+          "Urdu": "کل اسے ہمارے ساتھ بھیج دو، وہ چرے گا اور کھیلے گا، اور ہم اس کی حفاظت کریں گے۔",
+          "Spanish": "“Déjalo que mañana venga con nosotros a divertirse y jugar, y nosotros lo cuidaremos”.",
+          "Hindi": "“कल उसे हमारे साथ भेज दो, वह चरेगा और खेलेगा, और हम उसकी रक्षा करेंगे।”"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "قَالَ إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ وَأَخَافُ أَنْ يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ عَنْهُ غَافِلُونَ",
+        "translations": {
+          "English": "He said, “It worries me that you would take him away. And I fear the wolf may eat him while you are careless of him.”",
+          "French": "Il dit : « Certes, je m’attristerai si vous l’emportez, et je crains que le loup ne le dévore alors que vous ne ferez pas attention à lui. »",
+          "Urdu": "انہوں نے کہا: مجھے تمہارا اسے لے جانا غمگین کر دیتا ہے، اور مجھے ڈر ہے کہ بھیڑیا اسے کھا جائے گا جبکہ تم اس سے غافل ہو گے۔",
+          "Spanish": "Dijo: “Me entristece que os lo llevéis, y temo que el lobo se lo coma mientras vosotros estáis distraídos”.",
+          "Hindi": "उन्होंने कहा: मुझे तुम्हारा उसे ले जाना दुखी कर देता है, और मुझे डर है कि भेड़िया उसे खा जाएगा जबकि तुम उससे अनजान होगे।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَخَاسِرُونَ",
+        "translations": {
+          "English": "They said, “If the wolf ate him, and we are many, we would be good for nothing.”",
+          "French": "Ils dirent : « Si le loup le dévorait alors que nous sommes nombreux, nous serions alors vraiment perdants. »",
+          "Urdu": "انہوں نے کہا: اگر بھیڑیا اسے کھا گیا اور ہم ایک جماعت ہیں، تو ہم یقیناً ناکام ہوں گے۔",
+          "Spanish": "Dijeron: “Si el lobo se lo come, siendo nosotros un grupo numeroso, seríamos unos incompetentes”.",
+          "Hindi": "उन्होंने कहा: अगर भेड़िया उसे खा गया और हम एक समूह हैं, तो हम निश्चित रूप से नाकामयाब होंगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَنْ يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَذَا وَهُمْ لَا يَشْعُرُونَ",
+        "translations": {
+          "English": "So they went away with him, and agreed to put him at the bottom of the well. And We inspired him, “You will inform them of this deed of theirs when they are unaware.”",
+          "French": "Puis, lorsqu’ils l’eurent emmené et se furent mis d’accord pour le jeter au fond du puits, Nous lui révélâmes : « Tu leur rappelleras cet acte alors qu’ils n’y penseront plus. »",
+          "Urdu": "پھر جب وہ اسے لے گئے اور انہوں نے اسے کنویں کی تہہ میں ڈالنے کا فیصلہ کیا، تو ہم نے اس کی طرف وحی کی کہ تم انہیں ان کے اس کام سے آگاہ کرو گے جبکہ وہ بےخبر ہوں گے۔",
+          "Spanish": "Cuando se lo llevaron y decidieron arrojarlo al fondo del pozo, le inspiramos: “Les recordarás esto cuando no se den cuenta”.",
+          "Hindi": "फिर जब वे उसे ले गए और उन्होंने उसे कुएँ की तह में डालने का फैसला किया, तो हमने उसकी तरफ वह्य की कि तुम उन्हें उनके इस काम से आगाह करोगे जबकि वे बेख़बर होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
+        "translations": {
+          "English": "And they came to their father in the evening weeping.",
+          "French": "Ils vinrent à leur père, le soir, en pleurant.",
+          "Urdu": "اور وہ شام کو اپنے باپ کے پاس روتے ہوئے آئے۔",
+          "Spanish": "Y regresaron a su padre al anochecer llorando.",
+          "Hindi": "और वे शाम को अपने पिता के पास रोते हुए आए।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "قَالُوا يَا أَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا وَلَوْ كُنَّا صَادِقِينَ",
+        "translations": {
+          "English": "They said, “O father, we went off racing one another, and left Joseph by our belongings; and the wolf ate him. But you will not believe us, even though we are being truthful.”",
+          "French": "Ils dirent : « Ô notre père, nous sommes allés faire une course, et nous avons laissé Joseph auprès de nos affaires ; le loup l’a dévoré. Tu ne nous croiras pas, même si nous disons la vérité. »",
+          "Urdu": "انہوں نے کہا: اے ہمارے باپ! ہم دوڑ لگانے گئے تھے اور یوسف کو ہمارے سامان کے پاس چھوڑ دیا تھا، تو بھیڑیا اسے کھا گیا۔ اور تم ہمارا یقین نہیں کرو گے، اگرچہ ہم سچے ہیں۔",
+          "Spanish": "Dijeron: “¡Oh, padre nuestro! Fuimos a competir y dejamos a José con nuestras pertenencias, y el lobo se lo comió. Pero tú no nos creerás aunque digamos la verdad”.",
+          "Hindi": "उन्होंने कहा: हे हमारे पिता! हम दौड़ लगाने गए थे और यूसुफ़ को हमारे सामान के पास छोड़ दिया था, तो भेड़िया उसे खा गया। और तुम हम पर विश्वास नहीं करोगे, हालाँकि हम सच्चे हैं।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ عَلَى مَا تَصِفُونَ",
+        "translations": {
+          "English": "And they brought his shirt, with fake blood on it. He said, “Your souls enticed you to do something. But patience is beautiful, and God is my Help against what you describe.”",
+          "French": "Ils apportèrent sa tunique tachée d’un faux sang. Il dit : « Vos âmes vous ont plutôt suggéré quelque chose… Mais belle patience ! C’est à Allah qu’il faut demander aide contre ce que vous décrivez. »",
+          "Urdu": "اور وہ اس کی قمیص پر جھوٹا خون لگا کر لائے۔ انہوں نے کہا: بلکہ تمہارے نفسوں نے تمہیں کسی کام پر آمادہ کیا ہے، تو صبر کرنا اچھا ہے، اور جو تم بیان کر رہے ہو اس پر اللہ ہی سے مدد مانگی جاتی ہے۔",
+          "Spanish": "Y mostraron su camisa manchada con sangre falsa. Dijo: “Vuestras almas os han seducido a hacer algo. Pero la paciencia es lo mejor, y de Allah he de buscar ayuda contra lo que afirmáis”.",
+          "Hindi": "और वे उसकी क़मीज़ पर झूठा ख़ून लगाकर लाए। उन्होंने कहा: बल्कि तुम्हारे नफ़्स ने तुम्हें किसी काम पर उकसाया है, तो सब्र करना अच्छा है, और जो तुम बयान कर रहे हो उस पर अल्लाह ही से मदद माँगी जाती है।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَى دَلْوَهُ قَالَ يَا بُشْرَى هَذَا غُلَامٌ وَأَسَرُّوهُ بِضَاعَةً وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+        "translations": {
+          "English": "A caravan passed by, and they sent their water-carrier. He lowered his bucket, and said, “Good news. Here is a boy.” And they hid him as merchandise. But God was aware of what they did.",
+          "French": "Une caravane arriva. Ils envoyèrent leur chercheur d’eau, qui fit descendre son seau. Il dit : « Bonne nouvelle ! Voilà un garçon ! » Et ils le dissimulèrent [pour le vendre] comme une marchandise. Allah savait fort bien ce qu’ils faisaient.",
+          "Urdu": "اور ایک قافلہ آیا، تو انہوں نے اپنا پانی لانے والا بھیجا، اس نے اپنا ڈول ڈالا تو کہنے لگا: خوشخبری! یہ تو ایک لڑکا ہے۔ اور انہوں نے اسے مال کے طور پر چھپا لیا، اور اللہ جانتا ہے جو وہ کر رہے تھے۔",
+          "Spanish": "Llegó una caravana y enviaron a su aguador, que hizo descender su cubo [al pozo] y exclamó: “¡Qué buena nueva! ¡Aquí hay un niño!”. Y lo ocultaron como si fuera una mercancía. Pero Allah bien sabía lo que hacían.",
+          "Hindi": "और एक कारवाँ आया, तो उन्होंने अपना पानी लाने वाला भेजा, उसने अपना डोल डाला तो कहने लगा: ख़ुशख़बरी! यह तो एक लड़का है। और उन्होंने उसे माल के तौर पर छिपा लिया, और अल्लाह जानता है जो वे कर रहे थे।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+        "translations": {
+          "English": "And they sold him for a cheap price—a few coins—they considered him to be of little value.",
+          "French": "Et ils le vendirent à vil prix, pour quelques dirhams comptés. Ils le considéraient comme peu de chose.",
+          "Urdu": "اور انہوں نے اسے تھوڑی سی قیمت، گنتی کے چند درہموں کے عوض بیچ دیا، اور وہ اس میں بےرغبتی رکھنے والے تھے۔",
+          "Spanish": "Y lo vendieron por un precio insignificante, unos pocos dírhams, pues no lo valoraban.",
+          "Hindi": "और उन्होंने उसे थोड़ी सी कीमत, गिनती के कुछ दिरहमों के बदले बेच दिया, और वे उसमें बेरुख़ी रखने वाले थे।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَى أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَكَذَلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَاللَّهُ غَالِبٌ عَلَى أَمْرِهِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "translations": {
+          "English": "The Egyptian who bought him said to his wife, “Take good care of him; he may be useful to us, or we may adopt him as a son.” We thus established Joseph in the land, to teach him the interpretation of events. God has control over His affairs, but most people do not know.",
+          "French": "Celui qui l’acheta parmi les gens d’Égypte dit à sa femme : « Accorde-lui une généreuse hospitalité. Il se peut qu’il nous soit utile ou que nous l’adoptions comme notre enfant. » Ainsi avons-Nous établi Joseph dans le pays, et Nous lui avons appris l’interprétation des rêves. Allah est souverain en Son commandement, mais la plupart des gens ne savent pas.",
+          "Urdu": "اور جس شخص نے اسے مصر میں خریدا اس نے اپنی بیوی سے کہا: اسے عزت کے ساتھ رکھو، شاید وہ ہمارے کام آئے یا ہم اسے بیٹا بنا لیں۔ اور اسی طرح ہم نے یوسف کو ملک میں جگہ دی اور اسے واقعات کی تعبیر سکھائی، اور اللہ اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے۔",
+          "Spanish": "Y quien lo compró, un hombre de Egipto, le dijo a su esposa: “Trátalo bien, quizá nos sea de utilidad o lo adoptemos como hijo”. Y así establecimos a José en la tierra [de Egipto] para enseñarle la interpretación de los sueños. Allah tiene poder sobre todas las cosas, pero la mayoría de la gente no lo sabe.",
+          "Hindi": "और जिस शख़्स ने उसे मिस्र में ख़रीदा उसने अपनी बीवी से कहा: उसे इज़्ज़त के साथ रखो, शायद वह हमारे काम आए या हम उसे बेटा बना लें। और इसी तरह हमने यूसुफ़ को मुल्क में जगह दी और उसे वाक़ियात की ताबीर सिखाई, और अल्लाह अपने काम पर ग़ालिब है लेकिन ज़्यादातर लोग नहीं जानते।"
+        }
+      },
+
+      
+        {
+          "no": 22,
+          "arabic": "وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا وَكَذَلِكَ نَجْزِي الْمُحْسِنِينَ",
+          "transliteration": "Wa lammā balagha ashuddahu ātaynāhu hukman wa ‘ilman wa kadhālika najzī al-muḥsinīn",
+          "translations": {
+            "English": "When he reached his maturity, We gave him wisdom and knowledge. We thus reward the righteous.",
+            "Urdu": "اور جب وہ اپنی جوانی کو پہنچا تو ہم نے اسے حکمت اور علم عطا کیا۔ ہم نیکوکاروں کو ایسا ہی بدلہ دیتے ہیں۔",
+            "French": "Et quand il eut atteint sa maturité, Nous lui avons donné la sagesse et la science. Ainsi récompensons-Nous les bienfaisants.",
+            "Spanish": "Cuando alcanzó la madurez, le concedimos sabiduría y conocimiento. Así recompensamos a los que hacen el bien.",
+            "Hindi": "और जब वह अपनी जवानी को पहुँचा तो हमने उसे हिक्मत और इल्म अता किया। हम नेक लोगों को ऐसा ही बदला देते हैं।"
+          }
+        },
+        {
+          "no": 23,
+          "arabic": "وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَنْ نَفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+          "transliteration": "Wa rāwadathu allatī huwa fī baytihā ‘an nafsihi wa ghallaqati al-abwāba wa qālat hayta laka qāla ma‘ādh Allāhi innahu rabbī aḥsana mathwāya innahu lā yufliḥu aẓ-ẓālimūn",
+          "translations": {
+            "English": "She in whose house he was living tried to seduce him. She shut the doors, and said, 'I am yours.' He said, 'God forbid! He is my Lord. He has given me a good home. Sinners never succeed.'",
+            "Urdu": "جس عورت کے گھر میں وہ رہتا تھا، اس نے اسے اپنی طرف مائل کرنا چاہا۔ اس نے دروازے بند کر دیے اور کہا، 'آؤ میں تیرے لیے ہی تیار ہوں۔' اس نے کہا، 'اللہ کی پناہ! وہ میرا رب ہے، اس نے مجھے اچھی جگہ دی ہے۔ ظالم لوگ کبھی کامیاب نہیں ہوتے۔'",
+            "French": "Celle dans la maison de laquelle il se trouvée essaya de le séduire. Elle ferma les portes et dit : 'Viens à moi !' Il dit : 'Qu’Allah me protège ! C’est mon Seigneur qui m’a accordé un bon asile. Les injustes ne réussissent pas.'",
+            "Spanish": "La mujer en cuya casa él vivía intentó seducirlo. Cerró las puertas y dijo: 'Ven a mí'. Él dijo: '¡Dios me libre! Él es mi Señor, me ha dado un buen hogar. Los injustos nunca triunfan.'",
+            "Hindi": "जिस औरत के घर में वह रहता था, उसने उसे अपनी ओर मोल लेना चाहा। उसने दरवाज़े बंद कर दिए और कहा, 'आओ, मैं तुम्हारे लिए तैयार हूँ।' उसने कहा, 'अल्लाह की पनाह! वह मेरा रब है, उसने मुझे अच्छा ठिकाना दिया है। ज़ालिम कभी कामयाब नहीं होते।'"
+          }
+        },
+        {
+          "no": 24,
+          "arabic": "وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَى بُرْهَانَ رَبِّهِ كَذَلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ",
+          "transliteration": "Wa laqad hammat bihi wa hamma bihā lawlā an ra’ā burhāna rabbihi kadhālika li-naṣrifa ‘anhu as-sū’a wa al-faḥshā’a innahu min ‘ibādinā al-mukhlaṣīn",
+          "translations": {
+            "English": "She desired him, and he desired her, had he not seen the proof of his Lord. It was thus that We diverted evil and indecency away from him. He was one of Our loyal servants.",
+            "Urdu": "وہ چاہتی تھی اور وہ بھی چاہتا، اگر وہ اپنے رب کی دلیل نہ دیکھ لیتا۔ اس طرح ہم نے اس سے برائی اور بےحیائی کو دور کر دیا۔ بےشک وہ ہمارے خالص بندوں میں سے تھا।",
+            "French": "Elle le désira, et il l’aurait désirée n’eût été ce qu’il vit comme preuve de son Seigneur. Ainsi écartâmes-Nous de lui le mal et la turpitude. Il était certes parmi Nos serviteurs élus.",
+            "Spanish": "Ella lo deseó, y él la habría deseado de no haber visto la prueba de su Señor. Así apartamos de él el mal y la indecencia. En verdad, era uno de Nuestros siervos sinceros.",
+            "Hindi": "वह चाहती थी और वह भी चाहता, अगर वह अपने रब का सबूत न देख लेता। इस तरह हमने उससे बुराई और बेहयाई को दूर कर दिया। वह हमारे ख़ास बन्दों में से था।"
+          }
+        },
+        {
+          "no": 25,
+          "arabic": "وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِنْ دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ قَالَتْ مَا جَزَاءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا إِلَّا أَنْ يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+          "transliteration": "Wa istabaqā al-bāba wa qaddat qamīṣahu min duburin wa alfayā sayyidahā ladā al-bābi qālat mā jazā’u man arāda bi-ahlika sū’an illā an yusjana aw ‘adhābun alīm",
+          "translations": {
+            "English": "As they raced towards the door, she tore his shirt from behind. At the door, they ran into her husband. She said, 'What is the penalty for him who desired to dishonor your wife, except imprisonment or a painful punishment?'",
+            "Urdu": "وہ دونوں دروازے کی طرف بھاگے، اس نے اس کی قمیص پیچھے سے پھاڑ دی اور دروازے پر اس کے مالک کو پایا۔ اس عورت نے کہا، 'جو تمہاری بیوی کے ساتھ برائی کا ارادہ کرے، اس کی سزا قید یا دردناک عذاب کے سوا کیا ہو سکتی ہے؟'",
+            "French": "Ils coururent vers la porte, et elle déchira sa tunique par derrière. Ils trouvèrent son maître à la porte. Elle dit : 'Quelle serait la sanction contre celui qui a voulu faire du mal à ton épouse, sinon la prison ou un châtiment douloureux ?'",
+            "Spanish": "Corrieron hacia la puerta, y ella le rasgó la camisa por detrás. En la puerta se encontraron con su esposo. Ella dijo: '¿Cuál es el castigo para quien quiso deshonrar a tu esposa, sino la prisión o un castigo doloroso?'",
+            "Hindi": "वे दोनों दरवाज़े की ओर भागे, उसने उसकी क़मीज़ पीछे से फाड़ दी और दरवाज़े पर उसके मालिक को पाया। उस औरत ने कहा, 'जो तुम्हारी बीवी के साथ बुराई का इरादा करे, उसकी सज़ा क़ैद या दर्दनाक अज़ाब के सिवा क्या हो सकती है?'"
+          }
+        },
+        {
+          "no": 26,
+          "arabic": "قَالَ هِيَ رَاوَدَتْنِي عَنْ نَفْسِي وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَا إِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الْكَاذِبِينَ",
+          "transliteration": "Qāla hiya rāwadatnī ‘an nafsī wa shahida shāhidun min ahlihā in kāna qamīṣuhu qudda min qubulin fa-ṣadaqat wa huwa min al-kādhibīn",
+          "translations": {
+            "English": "He said, 'It was she who tried to seduce me.' A witness from her household suggested: 'If his shirt is torn from the front: then she has told the truth, and he is the liar.",
+            "Urdu": "یوسف نے کہا، 'وہی تو مجھے اپنی طرف مائل کر رہی تھی۔' اس کے گھر والوں میں سے ایک گواہ نے کہا، 'اگر اس کی قمیص آگے سے پھٹی ہوئی ہے تو عورت سچی ہے اور یوسف جھوٹا ہے۔'",
+            "French": "Il dit : 'C’est elle qui a cherché à me séduire.' Un témoin de sa famille suggéra : 'Si sa tunique est déchirée par devant, alors elle dit la vérité et il est du nombre des menteurs.",
+            "Spanish": "Él dijo: 'Ella fue quien intentó seducirme.' Un testigo de su familia sugirió: 'Si su camisa está rasgada por delante, entonces ella dice la verdad y él es de los mentirosos.'",
+            "Hindi": "यूसुफ़ ने कहा, 'वही तो मुझे अपनी तरफ़ मोल ले रही थी।' उसके घर वालों में से एक गवाह ने कहा, 'अगर उसकी क़मीज़ आगे से फटी हुई है तो औरत सच्ची है और यूसुफ़ झूठा है।'"
+          }
+        }
+      ,
+      
+        {
+          "no": 27,
+          "arabic": "وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ",
+          "transliteration": "Wa in kāna qamīṣuhu qudda min duburin fa-kadhabat wa huwa min aṣ-ṣādiqīn",
+          "translations": {
+            "English": "But if his shirt is torn from the back: then she has lied, and he is the truthful.",
+            "Urdu": "اور اگر اس کی قمیص پیچھے سے پھٹی ہوئی ہے تو عورت جھوٹی ہے اور یوسف سچا ہے۔",
+            "French": "Mais si sa tunique est déchirée par derrière, alors elle ment et il est du nombre des véridiques.",
+            "Spanish": "Pero si su camisa está rasgada por detrás, entonces ella miente y él es de los veraces.",
+            "Hindi": "और अगर उसकी क़मीज़ पीछे से फटी हुई है तो औरत झूठी है और यूसुफ़ सच्चा है।"
+          }
+        },
+        {
+          "no": 28,
+          "arabic": "فَلَمَّا رَأَى قَمِيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ إِنَّهُ مِنْ كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+          "transliteration": "Fa-lammā ra’ā qamīṣahu qudda min duburin qāla innahu min kaydikunna inna kaydakunna ‘aẓīm",
+          "translations": {
+            "English": "And when he saw that his shirt was torn from the back, he said, 'This is a woman's scheme. Your scheming is serious indeed.'",
+            "Urdu": "پھر جب اس نے دیکھا کہ قمیص پیچھے سے پھٹی ہوئی ہے تو کہا، 'یہ تم عورتوں کی چال ہے۔ بےشک تمہاری چال بڑی سخت ہے۔'",
+            "French": "Quand il vit que sa tunique était déchirée par derrière, il dit : 'C’est une ruse de votre part. Vos ruses sont immenses !'",
+            "Spanish": "Cuando vio que su camisa estaba rasgada por detrás, dijo: 'Esto es un ardid de mujeres. En verdad, vuestros ardides son grandes.'",
+            "Hindi": "फिर जब उसने देखा कि क़मीज़ पीछे से फटी हुई है तो कहा, 'यह तुम औरतों की चाल है। तुम्हारी चाल बड़ी ज़बरदस्त है।'"
+          }
+        },
+        {
+          "no": 29,
+          "arabic": "يُوسُفُ أَعْرِضْ عَنْ هَذَا وَاسْتَغْفِرِي لِذَنْبِكِ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ",
+          "transliteration": "Yūsufu a‘riḍ ‘an hādhā wa-staghfirī li-dhanbiki innaki kunti min al-khāṭi’īn",
+          "translations": {
+            "English": "'Joseph, turn away from this. And you, woman, ask forgiveness for your sin; you are indeed in the wrong.'",
+            "Urdu": "'اے یوسف، اس معاملے سے کنارہ کش ہو جاؤ۔ اور اے عورت، اپنے گناہ کی معافی مانگو، بےشک تم ہی خطاکار ہو۔'",
+            "French": "'Joseph, éloigne-toi de cela. Et toi, femme, demande pardon pour ton péché, car tu as tort.'",
+            "Spanish": "'José, aléjate de esto. Y tú, mujer, pide perdón por tu pecado, pues ciertamente estás equivocada.'",
+            "Hindi": "'ऐ यूसुफ़, इस मामले से दूर रहो। और ऐ औरत, अपने गुनाह की माफ़ी माँगो, तुम ही गुनहगार हो।'"
+          }
+        },
+        {
+          "no": 30,
+          "arabic": "وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ",
+          "transliteration": "Wa qāla niswatun fī al-madīnati imra’atu al-‘azīzi turāwidu fatāhā ‘an nafsihī qad shagha-fahā ḥubban innā la-narāhā fī ḍalālin mubīn",
+          "translations": {
+            "English": "Some ladies in the city said, 'The governor's wife is trying to seduce her servant. She is deeply in love with him. We see she has gone astray.'",
+            "Urdu": "شہر کی کچھ عورتوں نے کہا، 'عزیز مصر کی بیوی اپنے نوجوان غلام کو اپنی طرف مائل کر رہی ہے۔ اس کا عشق اس کے دل میں گھر کر گیا ہے۔ ہم دیکھ رہے ہیں کہ وہ کھلی گمراہی میں ہے۔'",
+            "French": "Des femmes de la ville dirent : 'L’épouse de l’Aziz cherche à séduire son jeune serviteur. Elle est follement amoureuse de lui. Nous la voyons dans un égarement manifeste.'",
+            "Spanish": "Algunas mujeres de la ciudad dijeron: 'La esposa del gobernador intenta seducir a su sirviente. Está profundamente enamorada de él. La vemos en un extravío evidente.'",
+            "Hindi": "शहर की कुछ औरतों ने कहा, 'अज़ीज़-ए-मिस्र की बीवी अपने नौजवान ग़ुलाम को अपनी तरफ़ मोल ले रही है। उसका इश्क़ उसके दिल में घर कर गया है। हम देख रहे हैं कि वह खुली गुमराही में है।'"
+          }
+        },
+        {
+          "no": 31,
+          "arabic": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَذَا بَشَرًا إِنْ هَذَا إِلَّا مَلَكٌ كَرِيمٌ",
+          "transliteration": "Fa-lammā sami‘at bi-makrihinna arsalat ilayhinna wa a‘tadat lahunna muttaka’an wa ātat kulla wāḥidatin minhunna sikkīnan wa qālat ikhruj ‘alayhinna fa-lammā ra’aynahu akbarnahu wa qaṭṭa‘na aydiyahunna wa qulna ḥāsha li-llāhi mā hādhā basharan in hādhā illā malakun karīm",
+          "translations": {
+            "English": "And when she heard of their gossip, she invited them, and prepared for them a banquet, and she gave each one of them a knife. She said, 'Come out before them.' And when they saw him, they marveled at him, and cut their hands. They said, 'Good God, this is not a human, this must be a precious angel.'",
+            "Urdu": "جب اسے ان کی چغلی کا پتہ چلا تو اس نے انہیں دعوت دی، ان کے لیے دستر خوان بچھایا اور ہر ایک کو چھری دی۔ اس نے کہا، 'ان کے سامنے نکل آؤ۔' جب انہوں نے اسے دیکھا تو حیران رہ گئیں اور اپنے ہاتھ کاٹ بیٹھیں۔ انہوں نے کہا، 'خدا کی پناہ! یہ کوئی انسان نہیں، یہ تو ضرور کوئی عظیم فرشتہ ہے۔'",
+            "French": "Lorsqu’elle entendit leurs ruses, elle leur envoya des invitations, prépara un banquet, et donna à chacune un couteau. Elle dit : 'Sors devant elles.' Quand elles le virent, elles furent éblouies et se coupèrent les mains. Elles dirent : 'À Dieu ne plaise ! Ce n’est pas un humain, ce ne peut être qu’un ange noble !'",
+            "Spanish": "Cuando ella escuchó sus murmuraciones, las invitó, preparó un banquete y les dio a cada una un cuchillo. Dijo: 'Sal ante ellas.' Cuando lo vieron, quedaron asombradas y se cortaron las manos. Dijeron: '¡Dios nos libre! Este no es un ser humano, sino un ángel noble.'",
+            "Hindi": "जब उसे उनकी चुगली का पता चला तो उसने उन्हें दावत दी, उनके लिए दस्तरख़्वान बिछाया और हर एक को चाकू दिया। उसने कहा, 'उनके सामने निकल आओ।' जब उन्होंने उसे देखा तो हैरान रह गईं और अपने हाथ काट बैठीं। उन्होंने कहा, 'ख़ुदा की पनाह! यह कोई इंसान नहीं, यह तो ज़रूर कोई बड़ा फरिश्ता है।'"
+          }
+        },
+        {
+          "no": 32,
+          "arabic": "قَالَتْ فَذَلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ",
+          "transliteration": "Qālat fa-dhālikunna alladhī lumtunnanī fīhi wa laqad rāwadtuhu ‘an nafsihi fa-sta‘ṣama wa la’in lam yaf‘al mā āmuruhu la-yusjananna wa la-yakūnan min aṣ-ṣāghirīn",
+          "translations": {
+            "English": "She said, 'Here he is, the one you blamed me for. I did try to seduce him, but he resisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of the despised.'",
+            "Urdu": "اس عورت نے کہا، 'یہ وہی ہے جس پر تم مجھے ملامت کر رہی تھیں۔ میں نے اسے اپنی طرف مائل کرنا چاہا، لیکن اس نے انکار کر دیا۔ لیکن اگر وہ میری بات نہیں مانے گا تو ضرور قید کیا جائے گا اور ذلیل ہو گا۔'",
+            "French": "Elle dit : 'Voilà celui à propos duquel vous me blâmiez. J’ai essayé de le séduire, mais il a résisté. S’il ne fait pas ce que je lui ordonne, il sera emprisonné et sera parmi les humiliés.'",
+            "Spanish": "Ella dijo: 'Este es aquel por quien me reprochabais. Intenté seducirlo, pero se resistió. Si no hace lo que le ordeno, será encarcelado y estará entre los humillados.'",
+            "Hindi": "उस औरत ने कहा, 'यह वही है जिस पर तुम मुझे मलामत कर रही थीं। मैंने उसे अपनी तरफ़ मोल लेना चाहा, मगर उसने इनकार कर दिया। अगर वह मेरी बात नहीं मानेगा तो ज़रूर क़ैद किया जाएगा और ज़लील होगा।'"
+          }
+        },
+        {
+          "no": 33,
+          "arabic": "قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ الْجَاهِلِينَ",
+          "transliteration": "Qāla rabbi as-sijnu aḥabbu ilayya mimmā yad‘ūnanī ilayhi wa illā taṣrif ‘annī kaydahunna aṣbu ilayhinna wa akun min al-jāhilīn",
+          "translations": {
+            "English": "He said, 'My Lord, prison is more desirable to me than what they call me to. Unless You turn their scheming away from me, I may yield to them, and become one of the ignorant.'",
+            "Urdu": "یوسف نے کہا، 'اے میرے رب، ان کے بلانے کی چیزوں سے قید خانہ مجھے زیادہ پسند ہے۔ اگر تو ان کی چالوں کو مجھ سے نہ ہٹائے گا تو میں ان کی طرف مائل ہو جاؤں گا اور جاہلوں میں سے ہو جاؤں گا۔'",
+            "French": "Il dit : 'Seigneur, la prison m’est préférable à ce vers quoi elles m’invitent. Si Tu n’écartes pas de moi leur ruse, je pencherai vers elles et serai du nombre des ignorants.'",
+            "Spanish": "Dijo: 'Señor mío, la prisión es más deseable para mí que aquello a lo que me invitan. Si no apartas de mí sus ardides, me inclinaré hacia ellas y seré de los ignorantes.'",
+            "Hindi": "यूसुफ़ ने कहा, 'ऐ मेरे रब, उनके बुलाने की चीज़ों से क़ैदख़ाना मुझे ज़्यादा पसंद है। अगर तू उनकी चालों को मुझसे न हटाएगा तो मैं उनकी तरफ़ मोल हो जाऊँगा और जाहिलों में से हो जाऊँगा।'"
+          }
+        },
+        {
+          "no": 34,
+          "arabic": "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+          "transliteration": "Fa-stajāba lahu rabbuhu fa-ṣarafa ‘anhu kaydahunna innahu huwa as-samī‘u al-‘alīm",
+          "translations": {
+            "English": "Thereupon his Lord answered him, and diverted their scheming away from him. He is the Hearer, the Knower.",
+            "Urdu": "پھر اس کے رب نے اس کی دعا قبول کی اور ان کی چالوں کو اس سے پھیر دیا۔ بےشک وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔",
+            "French": "Son Seigneur l’exauça donc et éloigna de lui leur ruse. C’est Lui l’Audient, l’Omniscient.",
+            "Spanish": "Su Señor le respondió y apartó de él sus ardides. Él es el Oyente, el Sabio.",
+            "Hindi": "फिर उसके रब ने उसकी दुआ क़बूल की और उनकी चालों को उससे फेर दिया। बेशक वही सब कुछ सुनने वाला, सब कुछ जानने वाला है।"
+          }
+        },
+        {
+          "no": 35,
+          "arabic": "ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّى حِينٍ",
+          "transliteration": "Thumma badā lahum min ba‘di mā ra’aw al-āyāti la-yasjununnahu ḥattā ḥīn",
+          "translations": {
+            "English": "Then it occurred to them, after they had seen the signs, to imprison him for a while.",
+            "Urdu": "پھر انہیں خیال آیا کہ نشانیاں دیکھنے کے بعد بھی اسے تھوڑی دیر کے لیے قید کر دیں۔",
+            "French": "Puis, après avoir vu les preuves, il leur parut évident de l’emprisonner pour un temps.",
+            "Spanish": "Luego, después de ver las señales, se les ocurrió encarcelarlo por un tiempo.",
+            "Hindi": "फिर उन्हें ख़्याल आया कि निशानियाँ देखने के बाद भी उसे थोड़ी देर के लिए क़ैद कर दें।"
+          }
+        },
+        {
+          "no": 36,
+          "arabic": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+          "transliteration": "Wa dakhala ma‘ahu as-sijna fatayāni qāla aḥaduhumā innī arānī a‘ṣiru khamran wa qāla al-ākharu innī arānī aḥmilu fawqa ra’sī khubzan ta’kulu aṭ-ṭayru minhu nabbī’nā bi-ta’wīlihi innā narāka min al-muḥsinīn",
+          "translations": {
+            "English": "Two youth entered the prison with him. One of them said, 'I see myself pressing wine.' The other said, 'I see myself carrying bread on my head, from which the birds are eating. Tell us their interpretation—we see that you are one of the righteous.'",
+            "Urdu": "دو نوجوان اس کے ساتھ قید خانے میں داخل ہوئے۔ ان میں سے ایک نے کہا، 'میں نے خواب میں دیکھا کہ شراب نچوڑ رہا ہوں۔' دوسرے نے کہا، 'میں نے دیکھا کہ اپنے سر پر روٹی اٹھائے ہوئے ہوں جس سے پرندے کھا رہے ہیں۔ ہمیں اس کی تعبیر بتاؤ، ہم دیکھ رہے ہیں کہ تم نیکوکار ہو۔'",
+            "French": "Deux jeunes gens entrèrent en prison avec lui. L’un d’eux dit : 'Je me voyais en train de presser du raisin.' L’autre dit : 'Je me voyais portant du pain sur ma tête, dont les oiseaux mangeaient. Donne-nous leur interprétation, nous te voyons parmi les bienfaisants.'",
+            "Spanish": "Dos jóvenes entraron en prisión con él. Uno dijo: 'Soñé que exprimía uvas.' El otro dijo: 'Soñé que llevaba pan sobre mi cabeza del que los pájaros comían. Infórmanos su interpretación, pues te vemos de los justos.'",
+            "Hindi": "दो नौजवान उसके साथ क़ैदख़ाने में दाख़िल हुए। उनमें से एक ने कहा, 'मैंने ख़्वाब में देखा कि शराब निचोड़ रहा हूँ।' दूसरे ने कहा, 'मैंने देखा कि अपने सिर पर रोटी उठाए हुए हूँ जिससे परिंदे खा रहे हैं। हमें इसकी ताबीर बताओ, हम देख रहे हैं कि तुम नेक हो।'"
+          }
+        },
+        {
+          "no": 37,
+          "arabic": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ذَلِكُمَا مِمَّا عَلَّمَنِي رَبِّي إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+          "transliteration": "Qāla lā ya’tīkumā ṭa‘āmun turzaqānihi illā nabbā’tukumā bi-ta’wīlihi qabla an ya’tiyakumā dhālikumā mimmā ‘allamanī rabbī innī taraktu millata qawmin lā yu’minūna bi-llāhi wa hum bi-l-ākhirati hum kāfirūn",
+          "translations": {
+            "English": "He said, 'No food is served to you, but I have informed you about it before you have received it. That is some of what my Lord has taught me. I have forsaken the tradition of people who do not believe in God; and regarding the Hereafter, they are deniers.'",
+            "Urdu": "یوسف نے کہا، 'تمہیں جو رزق ملتا ہے، اس کی تعبیر میں تمہیں پہلے ہی بتا دیتا ہوں۔ یہ اس علم میں سے ہے جو میرے رب نے مجھے سکھایا ہے۔ میں نے ان لوگوں کے طریقے چھوڑ دیے ہیں جو اللہ پر ایمان نہیں رکھتے اور وہ آخرت کے منکر ہیں۔'",
+            "French": "Il dit : 'Aucun repas ne vous est servi sans que je ne vous en aie informé avant qu’il ne vous parvienne. Cela fait partie de ce que mon Seigneur m’a enseigné. J’ai abandonné la religion de gens qui ne croient pas en Allah et qui mécroient en l’au-delà.'",
+            "Spanish": "Dijo: 'No se os sirve alimento alguno sin que os informe de su interpretación antes de que os llegue. Esto es parte de lo que mi Señor me ha enseñado. He abandonado la tradición de gente que no cree en Dios y niega el Más Allá.'",
+            "Hindi": "यूसुफ़ ने कहा, 'तुम्हें जो रिज़्क़ मिलता है, उसकी ताबीर मैं तुम्हें पहले ही बता देता हूँ। यह उस इल्म में से है जो मेरे रब ने मुझे सिखाया है। मैंने उन लोगों के तरीक़े छोड़ दिए हैं जो अल्लाह पर ईमान नहीं रखते और वह आख़िरत के मुनकिर हैं।'"
+          }
+        },
+        {
+          "no": 38,
+          "arabic": "وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ مَا كَانَ لَنَا أَنْ نُشْرِكَ بِاللَّهِ مِنْ شَيْءٍ ذَلِكَ مِنْ فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+          "transliteration": "Wa attaba‘tu millata ābā’ī Ibrāhīma wa Isḥāqa wa Ya‘qūba mā kāna lanā an nushrika bi-llāhi min shay’in dhālika min faḍli llāhi ‘alaynā wa ‘alā an-nāsi wa lākinna akthara an-nāsi lā yashkurūn",
+          "translations": {
+            "English": "'And I have followed the faith of my forefathers, Abraham, and Isaac, and Jacob. It is not for us to associate anything with God. This is by virtue of God’s grace upon us and upon the people, but most people do not give thanks.'",
+            "Urdu": "'اور میں نے اپنے باپ دادا ابراہیم، اسحاق اور یعقوب کے دین کی پیروی کی ہے۔ ہمارے لیے یہ جائز نہیں کہ ہم اللہ کے ساتھ کسی کو شریک ٹھہرائیں۔ یہ اللہ کا فضل ہے ہم پر اور لوگوں پر، لیکن اکثر لوگ شکر ادا نہیں کرتے۔'",
+            "French": "'Et j’ai suivi la religion de mes ancêtres, Abraham, Isaac et Jacob. Il ne nous appartient pas d’associer quoi que ce soit à Allah. Ceci est une grâce d’Allah sur nous et sur les gens, mais la plupart des gens ne sont pas reconnaissants.'",
+            "Spanish": "'He seguido la religión de mis antepasados Abraham, Isaac y Jacob. No nos corresponde asociar nada a Dios. Esto es por la gracia de Dios sobre nosotros y sobre la gente, pero la mayoría no agradece.'",
+            "Hindi": "'और मैंने अपने बाप-दादा इब्राहीम, इस्हाक़ और याक़ूब के दीन की पैरवी की है। हमारे लिए यह जाइज़ नहीं कि हम अल्लाह के साथ किसी को शरीक ठहराएँ। यह अल्लाह का फ़ज़ल है हम पर और लोगों पर, मगर ज़्यादातर लोग शुक्र अदा नहीं करते।'"
+          }
+        },
+        {
+          "no": 39,
+          "arabic": "يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+          "transliteration": "Yā ṣāḥibayi as-sijni a-arbābun mutafarriqūna khayrun am Allāhu al-wāḥidu al-qahhār",
+          "translations": {
+            "English": "'O My fellow inmates, are diverse lords better, or God, the One, the Supreme?'",
+            "Urdu": "'اے میرے قید خانے کے ساتھیو، کیا الگ الگ رب بہتر ہیں یا ایک اللہ جو سب پر غالب ہے؟'",
+            "French": "'Ô mes deux compagnons de prison ! Est-ce que des seigneurs éparpillés sont meilleurs ou Allah, l’Unique, le Dominateur ?'",
+            "Spanish": "'¡Oh, mis compañeros de prisión! ¿Acaso son mejores dioses separados o Allah, el Único, el Dominador?'",
+            "Hindi": "'ऐ मेरे क़ैदख़ाने के साथियो, क्या अलग-अलग रब बेहतर हैं या एक अल्लाह जो सब पर ग़ालिब है?'"
+          }
+        },
+        {
+          "no": 40,
+          "arabic": "مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ إِنِ الْحُكْمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+          "transliteration": "Mā ta‘budūna min dūnihi illā asmā’an sammaytumūhā antum wa ābā’ukum mā anzala Allāhu bihā min sulṭānin in al-ḥukmu illā li-llāhi amara allā ta‘budū illā iyyāhu dhālika ad-dīnu al-qayyimu wa lākinna akthara an-nāsi lā ya‘lamūn",
+          "translations": {
+            "English": "'You do not worship, besides Him, except names you have named, you and your ancestors, for which God has sent down no authority. Judgment belongs to none but God. He has commanded that you worship none but Him. This is the right religion, but most people do not know.'",
+            "Urdu": "'تم اس کے سوا جن ناموں کی پرستش کرتے ہو، وہ محض نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں۔ اللہ نے ان کے لیے کوئی سند نازل نہیں کی۔ حکم صرف اللہ ہی کا ہے۔ اس نے حکم دیا ہے کہ اس کے سوا کسی کی عبادت نہ کرو۔ یہی سیدھا دین ہے، لیکن اکثر لوگ نہیں جانتے۔'",
+            "French": "'Vous n’adorez, en dehors de Lui, que des noms que vous avez inventés, vous et vos ancêtres, et pour lesquels Allah n’a fait descendre aucune preuve. Le jugement n’appartient qu’à Allah. Il a ordonné que vous n’adoriez que Lui. Telle est la religion droite, mais la plupart des gens ne savent pas.'",
+            "Spanish": "'No adoráis fuera de Él sino nombres que habéis inventado, vosotros y vuestros padres, y por los que Allah no ha hecho descender autoridad alguna. El juicio solo pertenece a Allah. Él ha ordenado que no adoréis sino a Él. Ésta es la religión recta, pero la mayoría no sabe.'",
+            "Hindi": "'तुम उसके सिवा जिन नामों की इबादत करते हो, वह बस नाम हैं जो तुमने और तुम्हारे बाप-दादा ने रख लिए हैं। अल्लाह ने उनके लिए कोई सनद नाज़िल नहीं की। हुक्म सिर्फ़ अल्लाह ही का है। उसने हुक्म दिया है कि उसके सिवा किसी की इबादत न करो। यही सीधा दीन है, मगर ज़्यादातर लोग नहीं जानते।'"
+          }
+        },
+        {
+          "no": 41,
+          "arabic": "يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ",
+          "transliteration": "Yā ṣāḥibayi as-sijni ammā aḥadukumā fa-yasqī rabbahu khamran wa ammā al-ākharu fa-yuṣlabu fa-ta’kulu aṭ-ṭayru min ra’sihi quḍiya al-amru alladhī fīhi tastaftiyān",
+          "translations": {
+            "English": "'O my fellow inmates! One of you will serve his master wine; while the other will be crucified, and the birds will eat from his head. Thus the matter you are inquiring about is settled.'",
+            "Urdu": "'اے میرے قید خانے کے ساتھیو! تم میں سے ایک اپنے مالک کو شراب پلائے گا، جبکہ دوسرا سولی چڑھایا جائے گا اور پرندے اس کے سر سے کھائیں گے۔ جس معاملے کے بارے میں تم پوچھ رہے ہو، وہ فیصل ہو چکا ہے۔'",
+            "French": "'Ô mes deux compagnons de prison ! L’un de vous servira du vin à son maître, quant à l’autre, il sera crucifié et les oiseaux mangeront de sa tête. L’affaire sur laquelle vous me questionnez est déjà décidée.'",
+            "Spanish": "'¡Oh, mis compañeros de prisión! Uno de vosotros servirá vino a su señor, mientras que el otro será crucificado y los pájaros comerán de su cabeza. El asunto sobre el que preguntáis está decidido.'",
+            "Hindi": "'ऐ मेरे क़ैदख़ाने के साथियो! तुममें से एक अपने मालिक को शराब पिलाएगा, जबकि दूसरा सूली पर चढ़ाया जाएगा और परिंदे उसके सिर से खाएँगे। जिस मामले के बारे में तुम पूछ रहे हो, वह फ़ैसल हो चुका है।'"
+          }
+        },
+        {
+          "no": 42,
+          "arabic": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ",
+          "transliteration": "Wa qāla li-lladhī ẓanna annahu nājin minhumā udhkur-nī ‘inda rabbika fa-ansāhu ash-shayṭānu dhikra rabbihi fa-labitha fī as-sijni biḍ‘a sinīn",
+          "translations": {
+            "English": "And he said to the one he thought would be released, 'Mention me to your master.' But Satan caused him to forget mentioning him to his master, so he remained in prison for several years.",
+            "Urdu": "اور اس نے اس شخص سے کہا جس کے بارے میں اس نے سمجھا کہ وہ رہا ہو جائے گا، 'اپنے مالک کے سامنے میرا ذکر کرنا۔' لیکن شیطان نے اسے اپنے مالک کے سامنے ذکر کرنا بھلا دیا، پس وہ کئی سال تک قید میں رہا۔",
+            "French": "Et il dit à celui qu’il pensait être sauvé : 'Mentionne-moi auprès de ton maître.' Mais Satan lui fit oublier de le mentionner à son maître, et Joseph resta en prison quelques années encore.",
+            "Spanish": "Y dijo al que pensaba que sería liberado: 'Mencióname ante tu señor.' Pero Satanás le hizo olvidar mencionarlo a su señor, por lo que permaneció en prisión varios años.",
+            "Hindi": "और उसने उस शख़्स से कहा जिसके बारे में उसने समझा कि वह रिहा हो जाएगा, 'अपने मालिक के सामने मेरा ज़िक्र करना।' मगर शैतान ने उसे अपने मालिक के सामने ज़िक्र करना भुला दिया, इसलिए वह कई साल तक क़ैद में रहा।"
+          }
+        },
+        {
+          "no": 43,
+          "arabic": "وَقَالَ الْمَلِكُ إِنِّي أَرَى سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ يَا أَيُّهَا الْمَلَأُ أَفْتُونِي فِي رُؤْيَايَ إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ",
+          "transliteration": "Wa qāla al-maliku innī arā sab‘a baqarātin simānin ya’kuluhunna sab‘un ‘ijāfun wa sab‘a sunbulātin khuḍrun wa ukharu yābisātun yā ayyuhā al-mala’u aftūnī fī ru’yāya in kuntum li-r-ru’yā ta‘burūn",
+          "translations": {
+            "English": "The king said, 'I see seven fat cows being eaten by seven lean ones, and seven green spikes, and others dried up. O elders, explain to me my vision, if you are able to interpret visions.'",
+            "Urdu": "بادشاہ نے کہا، 'میں نے خواب میں دیکھا کہ سات موٹی گائیں ہیں جنہیں سات دبلی گائیں کھا رہی ہیں، اور سات ہری بھری بالیاں ہیں اور کچھ سوکھی ہوئی۔ اے درباریو، اگر تم خوابوں کی تعبیر جانتے ہو تو میرے خواب کی تعبیر بتاؤ۔'",
+            "French": "Le roi dit : 'Je vois en songe sept vaches grasses mangées par sept maigres, et sept épis verts et autant d’autres secs. Ô notables ! Donnez-moi l’interprétation de mon rêve si vous savez interpréter les rêves.'",
+            "Spanish": "El rey dijo: 'He visto en sueños siete vacas gordas devoradas por siete flacas, y siete espigas verdes y otras secas. ¡Oh, notables! Dadme la interpretación de mi visión si sois capaces de interpretar sueños.'",
+            "Hindi": "बादशाह ने कहा, 'मैंने ख़्वाब में देखा कि सात मोटी गायें हैं जिन्हें सात दुबली गायें खा रही हैं, और सात हरी-भरी बालियाँ हैं और कुछ सूखी हुई। ऐ दरबारियो, अगर तुम ख़्वाबों की ताबीर जानते हो तो मेरे ख़्वाब की ताबीर बताओ।'"
+          }
+        },
+        {
+          "no": 44,
+          "arabic": "قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ",
+          "transliteration": "Qālū aḍghāthu aḥlāmin wa mā naḥnu bi-ta’wīli al-aḥlāmi bi-‘ālimīn",
+          "translations": {
+            "English": "They said, 'Jumbles of dreams, and we know nothing of the interpretation of dreams.'",
+            "Urdu": "انہوں نے کہا، 'یہ خوابوں کے گڈمڈ ہیں، اور ہم خوابوں کی تعبیر نہیں جانتے۔'",
+            "French": "Ils dirent : 'Ce sont des rêves confus, et nous ne savons pas interpréter les rêves.'",
+            "Spanish": "Dijeron: 'Son sueños confusos, y no sabemos interpretar sueños.'",
+            "Hindi": "उन्होंने कहा, 'यह ख़्वाबों के गडमड हैं, और हम ख़्वाबों की ताबीर नहीं जानते।'"
+          }
+        },
+        {
+          "no": 45,
+          "arabic": "وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُمْ بِتَأْوِيلِهِ فَأَرْسِلُونِ",
+          "transliteration": "Wa qāla alladhī najā minhumā wa iddakara ba‘da ummatin anā unabbi’ukum bi-ta’wīlihi fa-arsilūn",
+          "translations": {
+            "English": "The one who was released said, having remembered after a time, 'I will inform you of its interpretation, so send me out.'",
+            "Urdu": "جو ان دونوں میں سے رہا ہوا تھا، اسے کچھ مدت بعد یاد آیا تو اس نے کہا، 'میں تمہیں اس کی تعبیر بتا دوں گا، مجھے بھیج دو۔'",
+            "French": "Celui des deux qui avait été libéré dit, après un certain temps : 'Je vous en donnerai l’interprétation. Envoyez-moi donc.'",
+            "Spanish": "El que había sido liberado dijo, recordando después de un tiempo: 'Os informaré de su interpretación. Enviadme.'",
+            "Hindi": "जो उन दोनों में से रिहा हुआ था, उसे कुछ अरसे बाद याद आया तो उसने कहा, 'मैं तुम्हें इसकी ताबीर बता दूँगा, मुझे भेज दो।'"
+          }
+        },
+        {
+          "no": 46,
+          "arabic": "يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+          "transliteration": "Yūsufu ayyuhā aṣ-ṣiddīqu aftinā fī sab‘i baqarātin simānin ya’kuluhunna sab‘un ‘ijāfun wa sab‘i sunbulātin khuḍrin wa ukharu yābisātin la‘allī arji‘u ilā an-nāsi la‘allahum ya‘lamūn",
+          "translations": {
+            "English": "'Joseph, O man of truth, inform us concerning seven fat cows being eaten by seven lean ones, and seven green spikes, and others dried up, so that I may return to the people, so that they may know.'",
+            "Urdu": "'اے یوسف، اے سچے شخص، ہمیں سات موٹی گایوں کے بارے میں بتاؤ جنہیں سات دبلی گائیں کھا رہی ہیں، اور سات ہری بھری بالیوں اور کچھ سوکھی ہوئی کے بارے میں، تاکہ میں لوگوں کے پاس واپس جاؤں، شاید وہ جان لیں۔'",
+            "French": "'Ô Joseph, homme véridique ! Eclaire-nous au sujet de sept vaches grasses que mangent sept maigres, et sept épis verts et autant d’autres secs, afin que je retourne aux gens et qu’ils sachent.'",
+            "Spanish": "'¡Oh, José, hombre veraz! Infórmanos sobre siete vacas gordas devoradas por siete flacas, y siete espigas verdes y otras secas, para que pueda regresar a la gente y así sepan.'",
+            "Hindi": "'ऐ यूसुफ़, ऐ सच्चे आदमी, हमें सात मोटी गायों के बारे में बताओ जिन्हें सात दुबली गायें खा रही हैं, और सात हरी-भरी बालियों और कुछ सूखी हुई के बारे में, ताकि मैं लोगों के पास वापस जाऊँ, शायद वह जान लें।'"
+          }
+        },
+        {
+          "no": 47,
+          "arabic": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ",
+          "transliteration": "Qāla tazra‘ūna sab‘a sinīna da’ban fa-mā ḥaṣadtum fa-dharūhu fī sunbulihi illā qalīlan mimmā ta’kulūn",
+          "translations": {
+            "English": "He said, 'You will farm for seven consecutive years. But whatever you harvest, leave it in its spikes, except for the little that you eat.'",
+            "Urdu": "اس نے کہا، 'تم سات سال تک لگاتار کھیتی کرو گے۔ جو کچھ کاٹو، اسے بالیوں ہی میں رہنے دو، سوائے تھوڑے سے جو تم کھاؤ۔'",
+            "French": "Il dit : 'Vous sèmerez pendant sept années consécutives. Tout ce que vous aurez moissonné, laissez-le en épi, sauf le peu que vous consommerez.'",
+            "Spanish": "Dijo: 'Sembraréis durante siete años consecutivos. Lo que cosechéis, dejadlo en sus espigas, excepto un poco que comeréis.'",
+            "Hindi": "उसने कहा, 'तुम सात साल तक लगातार खेती करोगे। जो कुछ काटो, उसे बालियों ही में रहने दो, सिवाय थोड़े से जो तुम खाओ।'"
+          }
+        },
+        {
+          "no": 48,
+          "arabic": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ",
+          "transliteration": "Thumma ya’tī min ba‘di dhālika sab‘un shidādun ya’kulna mā qaddamtum lahunna illā qalīlan mimmā tuḥṣinūn",
+          "translations": {
+            "English": "'Then after that will come seven difficult ones, which will consume what you have stored for them, except for the little that you have preserved.'",
+            "Urdu": "'پھر اس کے بعد سات سخت سال آئیں گے جو تمہارے جمع کیے ہوئے کو کھا جائیں گے، سوائے تھوڑے سے جو تم نے محفوظ کر لیا ہو۔'",
+            "French": "'Ensuite viendront sept années de disette qui consommeront tout ce que vous aurez amassé pour elles, sauf le peu que vous aurez réservé.'",
+            "Spanish": "'Luego vendrán siete años de escasez que devorarán lo que habéis almacenado para ellos, excepto un poco que habréis guardado.'",
+            "Hindi": "'फिर उसके बाद सात सख़्त साल आएँगे जो तुम्हारे जमा किए हुए को खा जाएँगे, सिवाय थोड़े से जो तुमने महफ़ूज़ कर लिया हो।'"
+          }
+        },
+        {
+          "no": 49,
+          "arabic": "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ",
+          "transliteration": "Thumma ya’tī min ba‘di dhālika ‘āmun fīhi yughāthu an-nāsu wa fīhi ya‘ṣirūn",
+          "translations": {
+            "English": "'Then after that will come a year that brings relief to the people, and during which they will press.'",
+            "Urdu": "'پھر اس کے بعد ایک سال آئے گا جس میں لوگوں پر بارش ہوگی اور اس سال وہ نچوڑیں گے (یعنی پھل حاصل کریں گے)۔'",
+            "French": "'Ensuite viendra une année de pluies abondantes où les gens presseront les récoltes.'",
+            "Spanish": "'Luego vendrá un año de lluvias en el que la gente recibirá alivio y podrán prensar (uvas, etc.).'",
+            "Hindi": "'फिर उसके बाद एक साल आएगा जिसमें लोगों पर बारिश होगी और उस साल वह निचोड़ेंगे (यानी फल हासिल करेंगे)।'"
+          }
+        },
+        {
+          "no": 50,
+          "arabic": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ فَلَمَّا جَاءَهُ الرَّسُولُ قَالَ ارْجِعْ إِلَى رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ اللَّاتِي قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ",
+          "transliteration": "Wa qāla al-maliku ’tūnī bihi fa-lammā jā’ahu ar-rasūlu qāla irji‘ ilā rabbika fa-s’alhu mā bālu an-niswati allātī qaṭṭa‘na aydiyahunna inna rabbī bi-kaydihinna ‘alīm",
+          "translations": {
+            "English": "The king said, 'Bring him to me.' And when the envoy came to him, he said, 'Go back to your master, and ask him about the intentions of the women who cut their hands; my Lord is well aware of their schemes.'",
+            "Urdu": "بادشاہ نے کہا، 'اسے میرے پاس لاؤ۔' جب قاصد اس کے پاس آیا تو اس نے کہا، 'اپنے مالک کے پاس وापس جاؤ اور اس سے ان عورتوں کے بارے میں پوچھو جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ میرا رب ان کی چالوں سے خوب واقف ہے۔'",
+            "French": "Le roi dit : 'Amenez-le-moi.' Lorsque l’émissaire vint à lui, il dit : 'Retourne auprès de ton maître et demande-lui ce qu’il en est des femmes qui se sont coupé les mains. Mon Seigneur connaît bien leur ruse.'",
+            "Spanish": "El rey dijo: 'Traédmelo.' Cuando el mensajero llegó a él, dijo: 'Regresa a tu señor y pregúntale acerca de las mujeres que se cortaron las manos. Mi Señor conoce bien sus ardides.'",
+            "Hindi": "बादशाह ने कहा, 'उसे मेरे पास लाओ।' जब क़ासिद उसके पास आया तो उसने कहा, 'अपने मालिक के पास वापस जाओ और उससे उन औरतों के बारे में पूछो जिन्होंने अपने हाथ काट लिए थे। मेरा रब उनकी चालों से ख़ूब वाक़िफ़ है।'"
+          }
+        },
+        {
+          "no": 51,
+          "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدْتُنَّ يُوسُفَ عَنْ نَفْسِهِ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُوءٍ قَالَتِ امْرَأَتُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدْتُهُ عَنْ نَفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ",
+          "transliteration": "Qāla mā khaṭbukunna idh rāwadtunna Yūsufa ‘an nafsihi qulna ḥāsha li-llāhi mā ‘alimnā ‘alayhi min sū’in qālati imra’atu al-‘azīzi al-āna ḥaṣḥaṣa al-ḥaqqu anā rāwadtuhu ‘an nafsihi wa innahu lamina aṣ-ṣādiqīn",
+          "translations": {
+            "English": "He said, 'What was the matter with you, women, when you tried to seduce Joseph?' They said, 'God forbid! We knew of no evil committed by him.' The governor’s wife then said, 'Now the truth is out. It was I who tried to seduce him, and he is telling the truth.'",
+            "Urdu": "اس نے کہا، 'تم عورتوں کا کیا حال تھا جب تم یوسف کو اپنی طرف مائل کرنا چاہتی تھیں؟' انہوں نے کہا، 'خدا کی پناہ! ہم نے اس پر کوئی برائی نہیں دیکھی۔' عزیز مصر کی بیوی نے کہا، 'اب حق ظاہر ہو چکا ہے۔ میں ہی اسے اپنی طرف مائل کرنا چاہتی تھی، اور یوسف سچا ہے۔'",
+            "French": "Il dit : 'Qu’aviez-vous en tête lorsque vous avez tenté de séduire Joseph ?' Elles dirent : 'À Dieu ne plaise ! Nous ne lui connaissons aucun mal.' L’épouse de l’Aziz dit alors : 'Maintenant la vérité éclate. C’est moi qui ai tenté de le séduire, et il est du nombre des véridiques.'",
+            "Spanish": "Dijo: '¿Qué os pasó, mujeres, cuando intentasteis seducir a José?' Dijeron: '¡Dios nos libre! No supimos de mal alguno en él.' La esposa del gobernador dijo: 'Ahora ha salido la verdad. Fui yo quien intentó seducirlo, y él dice la verdad.'",
+            "Hindi": "उसने कहा, 'तुम औरतों का क्या हाल था जब तुम यूसुफ़ को अपनी तरफ़ मोल लेना चाहती थीं?' उन्होंने कहा, 'ख़ुदा की पनाह! हमने उस पर कोई बुराई नहीं देखी।' अज़ीज़-ए-मिस्र की बीवी ने कहा, 'अब हक़ ज़ाहिर हो चुका है। मैं ही उसे अपनी तरफ़ मोल लेना चाहती थी, और यूसुफ़ सच्चा है।'"
+          }
+        },
+        {
+          "no": 52,
+          "arabic": "ذَلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ",
+          "transliteration": "Dhālika li-ya‘lama annī lam akhunhu bi-l-ghaybi wa anna Allāha lā yahdī kayda al-khā’inīn",
+          "translations": {
+            "English": "'This is that he may know that I did not betray him in secret, and that God does not guide the scheming of the betrayers.'",
+            "Urdu": "'یہ اس لیے کہ وہ جان لے کہ میں نے اس کی پیٹھ پیچھے خیانت نہیں کی، اور یہ کہ اللہ خیانت کرنے والوں کی چالوں کو راہ نہیں دکھاتا۔'",
+            "French": "'C’est pour qu’il sache que je ne l’ai pas trahi en son absence, et qu’Allah ne guide pas la ruse des traîtres.'",
+            "Spanish": "'Esto es para que sepa que no lo traicioné a sus espaldas, y que Allah no guía las artimañas de los traidores.'",
+            "Hindi": "'यह इसलिए कि वह जान ले कि मैंने उसकी पीठ पीछे ख़ियानत नहीं की, और यह कि अल्लाह ख़ियानत करने वालों की चालों को राह नहीं दिखाता।'"
+          }
+        },
+        {
+          "no": 53,
+          "arabic": "وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي إِنَّ رَبِّي غَفُورٌ رَحِيمٌ",
+          "transliteration": "Wa mā ubarri’u nafsī inna an-nafsa la-ammāratun bi-s-sū’i illā mā raḥima rabbī inna rabbī ghafūrun raḥīm",
+          "translations": {
+            "English": "'Yet I do not claim to be innocent. The soul commands evil, except those on whom my Lord has mercy. Truly my Lord is Forgiving and Merciful.'",
+            "Urdu": "'اور میں اپنے نفس کو بری نہیں ٹھہراتی۔ نفس تو برائی کا حکم دیتا ہے، سوائے ان کے جن پر میرے رب نے رحم کیا۔ بےشک میرا رب بخشنے والا، مہربان ہے۔'",
+            "French": "'Je ne m’innocente cependant pas, car l’âme est très incitatrice au mal, à moins que mon Seigneur ne fasse miséricorde. Mon Seigneur est Pardonneur et Miséricordieux.'",
+            "Spanish": "'Sin embargo, no declaro mi inocencia, pues el alma incita al mal, salvo aquellos a quienes mi Señor tenga misericordia. En verdad, mi Señor es Perdonador, Misericordioso.'",
+            "Hindi": "'और मैं अपने नफ़्स को बरी नहीं ठहराती। नफ़्स तो बुराई का हुक्म देता है, सिवाय उनके जिन पर मेरे रब ने रहम किया। बेशक मेरा रब बख़्शने वाला, मेहरबान है।'"
+          }
+        },
+        {
+          "no": 54,
+          "arabic": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+          "transliteration": "Wa qāla al-maliku ’tūnī bihi astakhliṣhu li-nafsī fa-lammā kallamahu qāla innaka al-yawma ladaynā makīnun amīn",
+          "translations": {
+            "English": "The king said, 'Bring him to me, and I will reserve him for myself.' And when he spoke to him, he said, 'This day you are with us established and secure.'",
+            "Urdu": "بادشاہ نے کہا، 'اسے میرے پاس لاؤ، میں اسے اپنے لیے خاص کر لوں گا۔' جب اس سے بات کی تو کہا، 'آج تم ہمارے ہاں معزز اور امانت دار ہو۔'",
+            "French": "Le roi dit : 'Amenez-le-moi, je me le réserve.' Et lorsqu’il lui eut parlé, il dit : 'Tu es aujourd’hui auprès de nous en une position d’autorité et de confiance.'",
+            "Spanish": "El rey dijo: 'Traédmelo, lo tomaré para mí.' Cuando habló con él, dijo: 'Hoy estás ante nosotros en una posición de autoridad y confianza.'",
+            "Hindi": "बादशाह ने कहा, 'उसे मेरे पास लाओ, मैं उसे अपने लिए ख़ास कर लूँगा।' जब उससे बात की तो कहा, 'आज तुम हमारे यहाँ मुअज़्ज़ज़ और अमानतदार हो।'"
+          }
+        },
+        {
+          "no": 55,
+          "arabic": "قَالَ اجْعَلْنِي عَلَى خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ",
+          "transliteration": "Qāla ij‘alnī ‘alā khazā’ini al-arḍi innī ḥafīẓun ‘alīm",
+          "translations": {
+            "English": "He said, 'Put me in charge of the storehouses of the land; I am honest and knowledgeable.'",
+            "Urdu": "یوسف نے کہا، 'مجھے ملک کے خزانوں کا نگران بنا دو، میں حفاظت کرنے والا اور علم رکھنے والا ہوں۔'",
+            "French": "Il dit : 'Place-moi à la tête des greniers du pays, je suis bon gardien et savant.'",
+            "Spanish": "Dijo: 'Ponme a cargo de los almacenes de la tierra, soy custodio y conocedor.'",
+            "Hindi": "यूसुफ़ ने कहा, 'मुझे मुल्क के ख़ज़ानों का निगरान बना दो, मैं हिफ़ाज़त करने वाला और इल्म रखने वाला हूँ।'"
+          }
+        },
+        {
+          "no": 56,
+          "arabic": "وَكَذَلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+          "transliteration": "Wa kadhālika makkannā li-Yūsufa fī al-arḍi yatawawa’u minhā ḥaythu yashā’u nuṣību bi-raḥmatinā man nashā’u wa lā nuḍī‘u ajra al-muḥsinīn",
+          "translations": {
+            "English": "And thus We established Joseph in the land, to live therein wherever he wished. We touch with Our mercy whomever We will, and We never waste the reward of the righteous.",
+            "Urdu": "اور اس طرح ہم نے یوسف کو ملک میں اقتدار عطا کیا، وہ جہاں چاہتا رہتا۔ ہم اپنی رحمت سے جسے چاہتے ہیں نوازتے ہیں، اور ہم نیکوکاروں کا اجر ضائع نہیں کرتے۔",
+            "French": "Ainsi avons-Nous établi Joseph dans le pays. Il s’y installait là où il voulait. Nous touchons de Notre miséricorde qui Nous voulons, et ne laissons pas perdre la récompense des bienfaisants.",
+            "Spanish": "Y así establecimos a José en la tierra, para que se asentara donde quisiera. Con Nuestra misericordia tocamos a quien queremos, y no dejamos perder la recompensa de los que hacen el bien.",
+            "Hindi": "और इस तरह हमने यूसुफ़ को मुल्क में इक़्तिदार अता किया, वह जहाँ चाहता रहता। हम अपनी रहमत से जिसे चाहते हैं नवाज़ते हैं, और हम नेक लोगों का अज्र ज़ाया नहीं करते।"
+          }
+        },
+        {
+          "no": 57,
+          "arabic": "وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ",
+          "transliteration": "Wa la-ajru al-ākhirati khayrun li-lladhīna āmanū wa kānū yattaqūn",
+          "translations": {
+            "English": "But the reward of the Hereafter is better for those who believe and observed piety.",
+            "Urdu": "اور آخرت کا اجر ان لوگوں کے لیے بہتر ہے جو ایمان لائے اور پرہیزگاری اختیار کی۔",
+            "French": "La récompense de l’au-delà est meilleure pour ceux qui croient et craignent Allah.",
+            "Spanish": "Pero la recompensa del Más Allá es mejor para quienes creen y son piadosos.",
+            "Hindi": "और आख़िरत का अज्र उन लोगों के लिए बेहतर है जो ईमान लाए और परहेज़गारी इख़्तियार की।"
+          }
+        },
+        {
+          "no": 58,
+          "arabic": "وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ",
+          "transliteration": "Wa jā’a ikhwat Yūsufa fa-dakhalū ‘alayhi fa-‘arafahum wa hum lahu munkirūn",
+          "translations": {
+            "English": "And Joseph's brothers came, and entered into his presence. He recognized them, but they did not recognize him.",
+            "Urdu": "اور یوسف کے بھائی آئے اور اس کے سامنے حاضر ہوئے۔ اس نے انہیں پہچان لیا، لیکن وہ اسے نہ پہچان سکے۔",
+            "French": "Les frères de Joseph vinrent et se présentèrent à lui. Il les reconnut, mais eux ne le reconnurent pas.",
+            "Spanish": "Los hermanos de José llegaron y se presentaron ante él. Él los reconoció, pero ellos no lo reconocieron.",
+            "Hindi": "और यूसुफ़ के भाई आए और उसके सामने हाज़िर हुए। उसने उन्हें पहचान लिया, लेकिन वह उसे न पहचान सके।"
+          }
+        },
+        {
+          "no": 59,
+          "arabic": "وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونِي بِأَخٍ لَكُمْ مِنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّي أُوفِي الْكَيْلَ وَأَنَا خَيْرُ الْمُنْزِلِينَ",
+          "transliteration": "Wa lammā jahhazahum bi-jahāzihim qāla ’tūnī bi-akhin lakum min abīkum alā tarawna annī ūfī al-kayla wa anā khayru al-munzilīn",
+          "translations": {
+            "English": "When he provided them with their provisions, he said, 'Bring me a brother of yours from your father. Do you not see that I fill up the measure, and I am the best of hosts?'",
+            "Urdu": "جب اس نے انہیں ان کا سامان دے دیا تو کہا، 'اپنے باپ کے پاس سے اپنے ایک بھائی کو میرے پاس لاؤ۔ کیا تم نہیں دیکھتے کہ میں پورا ناپتا ہوں اور مہمان نوازی میں بہترین ہوں؟'",
+            "French": "Lorsqu’il les eut pourvus de leurs provisions, il dit : 'Amenez-moi un frère que vous avez de votre père. Ne voyez-vous pas que je donne la pleine mesure et que je suis le meilleur des hôtes ?'",
+            "Spanish": "Cuando les proveyó de sus provisiones, dijo: 'Traedme a un hermano que tenéis de vuestro padre. ¿No veis que doy la medida completa y que soy el mejor de los anfitriones?'",
+            "Hindi": "जब उसने उन्हें उनका सामान दे दिया तो कहा, 'अपने बाप के पास से अपने एक भाई को मेरे पास लाओ। क्या तुम नहीं देखते कि मैं पूरा नापता हूँ और मेहमाननवाज़ी में बेहतरीन हूँ?'"
+          }
+        },
+        {
+          "no": 60,
+          "arabic": "فَإِنْ لَمْ تَأْتُونِي بِهِ فَلَا كَيْلَ لَكُمْ عِنْدِي وَلَا تَقْرَبُونِ",
+          "transliteration": "Fa-in lam ta’tūnī bihi fa-lā kayla lakum ‘indī wa lā taqrabūn",
+          "translations": {
+            "English": "'But if you do not bring him to me, you will have no measure from me, and you will not come near me.'",
+            "Urdu": "'لیکن اگر تم اسے میرے پاس نہ لائے تو تمہارے لیے میرے پاس کوئی ناپ نہیں ہوگا اور تم میرے قریب بھی نہیں آ سکو گے۔'",
+            "French": "'Mais si vous ne me l’amenez pas, il n’y aura plus de mesure pour vous chez moi, et vous ne m’approcherez plus.'",
+            "Spanish": "'Pero si no me lo traéis, no habrá más medida para vosotros ante mí, ni podréis acercaros.'",
+            "Hindi": "'मगर अगर तुम उसे मेरे पास न लाए तो तुम्हारे लिए मेरे पास कोई नाप नहीं होगा और तुम मेरे क़रीब भी नहीं आ सकोगे।'"
+          }
+        },
+        {
+          "no": 61,
+          "arabic": "قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَاعِلُونَ",
+          "transliteration": "Qālū sa-nurāwidu ‘anhu abāhu wa innā la-fā‘ilūn",
+          "translations": {
+            "English": "They said, 'We will solicit him from his father. We will surely do.'",
+            "Urdu": "انہوں نے کہا، 'ہم اس کے بارے میں اس کے باپ سے کوشش کریں گے، ہم ضرور کریں گے۔'",
+            "French": "Ils dirent : 'Nous allons essayer de convaincre son père. Certes, nous le ferons.'",
+            "Spanish": "Dijeron: 'Intentaremos convencer a su padre. Ciertamente lo haremos.'",
+            "Hindi": "उन्होंने कहा, 'हम उसके बारे में उसके बाप से कोशिश करेंगे, हम ज़रूर करेंगे।'"
+          }
+        },
+        {
+          "no": 62,
+          "arabic": "وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَى أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+          "transliteration": "Wa qāla li-fityānihi ij‘alū biḍā‘atahum fī riḥālihim la‘allahum ya‘rifūnahā idhā inqalabū ilā ahlihim la‘allahum yarji‘ūn",
+          "translations": {
+            "English": "He said to his servants, 'Put their goods in their saddlebags; perhaps they will recognize them when they return to their families, and maybe they will come back.'",
+            "Urdu": "اس نے اپنے نوکروں سے کہا، 'ان کا مال ان کے اسباب میں رکھ دو، شاید وہ اسے پہچان لیں جب اپنے گھر والوں کے پاس واپس جائیں، شاید وہ لوٹ کر آئیں۔'",
+            "French": "Il dit à ses serviteurs : 'Replacez leurs marchandises dans leurs sacs, peut-être les reconnaîtront-ils à leur retour chez eux, et peut-être reviendront-ils.'",
+            "Spanish": "Dijo a sus sirvientes: 'Poned sus mercancías en sus alforjas, quizá las reconozcan al volver con sus familias, y tal vez regresen.'",
+            "Hindi": "उसने अपने नौकरों से कहा, 'उनका माल उनके सामान में रख दो, शायद वह उसे पहचान लें जब अपने घर वालों के पास वापस जाएँ, शायद वह लौट कर आएँ।'"
+          }
+        },
+        {
+          "no": 63,
+          "arabic": "فَلَمَّا رَجَعُوا إِلَى أَبِيهِمْ قَالُوا يَا أَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَأَرْسِلْ مَعَنَا أَخَانَا نَكْتَلْ وَإِنَّا لَهُ لَحَافِظُونَ",
+          "transliteration": "Fa-lammā raja‘ū ilā abīhim qālū yā abānā muni‘a minnā al-kaylu fa-arsil ma‘anā akhānā naktal wa innā lahu la-ḥāfiẓūn",
+          "translations": {
+            "English": "When they returned to their father, they said, 'O father, we were denied measure, but send our brother with us, and we will obtain measure. We will take care of him.'",
+            "Urdu": "جب وہ اپنے باپ کے پاس واپس آئے تو کہا، 'اے ہمارے باپ، ہمیں ناپنے سے روک دیا گیا، لیکن ہمارے بھائی کو ہمارے ساتھ بھیج دو، ہم ناپ لیں گے۔ ہم اس کی حفاظت کریں گے۔'",
+            "French": "Lorsqu’ils retournèrent chez leur père, ils dirent : 'Ô notre père, la mesure nous a été refusée. Envoie donc avec nous notre frère pour que nous obtenions la mesure. Nous le protégerons.'",
+            "Spanish": "Cuando regresaron a su padre, dijeron: '¡Oh, padre! Se nos negó la medida, pero envía a nuestro hermano con nosotros para obtenerla. Lo protegeremos.'",
+            "Hindi": "जब वह अपने बाप के पास वापस आए तो कहा, 'ऐ हमारे बाप, हमें नापने से रोक दिया गया, लेकिन हमारे भाई को हमारे साथ भेज दो, हम नाप लेंगे। हम उसकी हिफ़ाज़त करेंगे।'"
+          }
+        },
+        {
+          "no": 64,
+          "arabic": "قَالَ هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنْتُكُمْ عَلَى أَخِيهِ مِنْ قَبْلُ فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+          "transliteration": "Qāla hal āmanukum ‘alayhi illā kamā amintukum ‘alā akhīhi min qablu fa-llāhu khayrun ḥāfiẓan wa huwa arḥamu ar-rāḥimīn",
+          "translations": {
+            "English": "He said, 'Shall I trust you with him, as I trusted you with his brother before? God is the Best Guardian, and He is the Most Merciful of the merciful.'",
+            "Urdu": "ان کے باپ نے کہا، 'کیا میں تم پر اسے اسی طرح بھروسہ کر دوں جیسے پہلے اس کے بھائی پر کیا تھا؟ اللہ سب سے بہتر حفاظت کرنے والا ہے، اور وہ سب رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے۔'",
+            "French": "Il dit : 'Vais-je vous le confier comme je vous ai confié son frère auparavant ? Allah est le meilleur des gardiens, et Il est le Plus Miséricordieux des miséricordieux.'",
+            "Spanish": "Dijo: '¿He de confiároslo como antes os confié a su hermano? Allah es el mejor custodio, y Él es el más Misericordioso de los misericordiosos.'",
+            "Hindi": "उनके बाप ने कहा, 'क्या मैं तुम पर उसे उसी तरह भरोसा कर दूँ जैसे पहले उसके भाई पर किया था? अल्लाह सबसे बेहतर हिफ़ाज़त करने वाला है, और वह सब रहम करने वालों से बढ़ कर रहम करने वाला है।'"
+          }
+        },
+        {
+          "no": 65,
+          "arabic": "وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا يَا أَبَانَا مَا نَبْغِي هَذِهِ بِضَاعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَلِكَ كَيْلٌ يَسِيرٌ",
+          "transliteration": "Wa lammā fataḥū matā‘ahum wajadū biḍā‘atahum ruddat ilayhim qālū yā abānā mā nabghī hādhihi biḍā‘atunā ruddat ilaynā wa namīru ahlanā wa naḥfaẓu akhānā wa nazdādu kayla ba‘īrin dhālika kaylun yasīr",
+          "translations": {
+            "English": "And when they opened their baggage, they found that their goods were returned to them. They said, 'Father, what more do we want? Here are our goods, returned to us. We will provide for our family, and protect our brother, and have an additional camel-load. This is easy commerce.'",
+            "Urdu": "جب انہوں نے اپنا سامان کھولا تو دیکھا کہ ان کا مال انہیں واپس کر دیا گیا ہے۔ انہوں نے کہا، 'اے ہمارے باپ، ہمیں اور کیا چاہیے؟ ہمارا مال ہمیں واپس مل گیا ہے۔ ہم اپنے گھر والوں کے لیے رزق لے جائیں گے، اپنے بھائی کی حفاظت کریں گے، اور ایک اونٹ کا بوجھ اور زیادہ لے جائیں گے۔ یہ تو آسان سودا ہے۔'",
+            "French": "Et lorsqu’ils ouvrirent leurs bagages, ils trouvèrent que leurs marchandises leur avaient été rendues. Ils dirent : 'Ô notre père, que désirons-nous de plus ? Voici nos marchandises qui nous ont été rendues. Nous approvisionnerons notre famille, protégerons notre frère et obtiendrons une charge de chameau supplémentaire. C’est une mesure facile.'",
+            "Spanish": "Cuando abrieron sus pertenencias, encontraron que sus mercancías les habían sido devueltas. Dijeron: '¡Oh, padre! ¿Qué más queremos? Nuestras mercancías nos han sido devueltas. Proveeremos a nuestra familia, protegeremos a nuestro hermano y obtendremos una carga adicional de camello. Es un comercio fácil.'",
+            "Hindi": "जब उन्होंने अपना सामान खोला तो देखा कि उनका माल उन्हें वापस कर दिया गया है। उन्होंने कहा, 'ऐ हमारे बाप, हमें और क्या चाहिए? हमारा माल हमें वापस मिल गया है। हम अपने घर वालों के लिए रिज़्क़ ले जाएँगे, अपने भाई की हिफ़ाज़त करेंगे, और एक ऊँट का बोझ और ज़्यादा ले जाएँगे। यह तो आसान सौदा है।'"
+          }
+        },
+        {
+          "no": 66,
+          "arabic": "قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّى تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ لَتَأْتُنَّنِي بِهِ إِلَّا أَنْ يُحَاطَ بِكُمْ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَى مَا نَقُولُ وَكِيلٌ",
+          "transliteration": "Qāla lan ursilahu ma‘akum ḥattā tu’tūnī mawthiqan min Allāhi la-ta’tunnanī bihi illā an yuḥāṭa bikum fa-lammā ātawhu mawthiqahum qāla Allāhu ‘alā mā naqūlu wakīl",
+          "translations": {
+            "English": "He said, 'I will not send him with you, unless you give me a pledge before God that you will bring him back to me, unless you get trapped.' And when they gave him their pledge, he said, 'God is witness to what we say.'",
+            "Urdu": "ان کے باپ نے کہا، 'میں اسے تمہارے ساتھ نہیں بھیجوں گا جب تک تم مجھے اللہ کی طرف سے پختہ عہد نہ دو کہ تم اسے میرے پاس ضرور واپس لاؤ گے، سوائے اس کے کہ تم گھر میں گھر جاؤ۔' جب انہوں نے اسے اپنا عہد دے دیا تو اس نے کहا، 'اللہ ہماری باتوں پر گواہ ہے۔'",
+            "French": "Il dit : 'Je ne l’enverrai pas avec vous avant que vous ne me donniez un engagement formel devant Allah que vous me le ramènerez, à moins que vous ne soyez encerclés.' Et lorsqu’ils lui eurent donné leur engagement, il dit : 'Allah est garant de ce que nous disons.'",
+            "Spanish": "Dijo: 'No lo enviaré con vosotros hasta que me deis una promesa solemne ante Allah de que me lo traeréis, a menos que seáis rodeados.' Cuando le dieron su promesa, dijo: 'Allah es testigo de lo que decimos.'",
+            "Hindi": "उनके बाप ने कहा, 'मैं उसे तुम्हारे साथ नहीं भेजूँगा जब तक तुम मुझे अल्लाह की तरफ़ से पक्का अहद न दो कि तुम उसे मेरे पास ज़रूर वापस लाओगे, सिवाय इसके कि तुम घर में घिर जाओ।' जब उन्होंने उसे अपना अहद दे दिया तो उसने कहा, 'अल्लाह हमारी बातों पर गवाह है।'"
+          }
+        },
+        {
+          "no": 67,
+          "arabic": "وَقَالَ يَا بَنِيَّ لَا تَدْخُلُوا مِنْ بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُتَفَرِّقَةٍ وَمَا أُغْنِي عَنْكُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِنِ الْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+          "transliteration": "Wa qāla yā baniyya lā tadkhulū min bābin wāḥidin wa udkhulū min abwābin mutafarriqatin wa mā ughnī ‘ankum min Allāhi min shay’in in al-ḥukmu illā li-llāhi ‘alayhi tawakkaltu wa ‘alayhi fa-l-yatawakkali al-mutawakkilūn",
+          "translations": {
+            "English": "And he said, 'O my sons, do not enter by one gate, but enter by different gates. I cannot avail you anything against God. The decision rests only with God. On Him I rely, and on Him let the reliant rely.'",
+            "Urdu": "اور اس نے کہا، 'اے میرے بیٹو، ایک ہی دروازے سے داخل نہ ہونا، بلکہ الگ الگ دروازوں سے داخل ہونا۔ میں تمہارے لیے اللہ کے مقابلے میں کچھ بھی نہیں کر سکتا۔ حکم صرف اللہ ہی کا ہے۔ میں نے اسی پر بھروسہ کیا ہے، اور اسی پر بھروسہ کرنے والوں کو بھروسہ کرنا چاہیے۔'",
+            "French": "Et il dit : 'Ô mes fils ! N’entrez pas par une seule porte, mais entrez par des portes différentes. Je ne peux vous être d’aucune utilité contre Allah. La décision n’appartient qu’à Allah. En Lui je place ma confiance, et en Lui que les confiants placent leur confiance.'",
+            "Spanish": "Y dijo: '¡Oh, hijos míos! No entréis por una sola puerta, sino por puertas separadas. No puedo beneficiaros en nada frente a Allah. El juicio solo pertenece a Allah. En Él confío, y en Él que confíen los que confían.'",
+            "Hindi": "और उसने कहा, 'ऐ मेरे बेटो, एक ही दरवाज़े से दाख़िल न होना, बल्कि अलग-अलग दरवाज़ों से दाख़िल होना। मैं तुम्हारे लिए अल्लाह के मुक़ाबले में कुछ भी नहीं कर सकता। हुक्म सिर्फ़ अल्लाह ही का है। मैंने उसी पर भरोसा किया है, और उसी पर भरोसा करने वालों को भरोसा करना चाहिए।'"
+          }
+        },
+        {
+          "no": 68,
+          "arabic": "وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُمْ مَا كَانَ يُغْنِي عَنْهُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+          "transliteration": "Wa lammā dakhalū min ḥaythu amarahum abūhum mā kāna yughnī ‘anhum min Allāhi min shay’in illā ḥājatan fī nafsi Ya‘qūba qaḍāhā wa innahu la-dhū ‘ilmin li-mā ‘allamnāhu wa lākinna akthara an-nāsi lā ya‘lamūn",
+          "translations": {
+            "English": "And when they entered as their father had instructed them, it did not avail them anything against God; it was just a need in the soul of Jacob, which he carried out. He was a person of knowledge inasmuch as We had taught him, but most people do not know.",
+            "Urdu": "اور جب وہ اپنے باپ کے حکم کے مطابق داخل ہوئے تو اس سے اللہ کے مقابلے میں انہیں کوئی فائدہ نہیں ہوا، یہ تو یعقوب کے دل کی ایک خواہش تھی جسے اس نے پورا کیا۔ اور بےشک وہ علم رکھنے والا تھا جیسا کہ ہم نے اسے سکھایا تھا، لیکن اکثر لوگ نہیں جانتے۔",
+            "French": "Et lorsqu’ils entrèrent comme leur père le leur avait ordonné, cela ne leur servit à rien contre Allah. C’était seulement un besoin dans l’âme de Jacob qu’il satisfit. Il était certes doué d’une science que Nous lui avions enseignée, mais la plupart des gens ne savent pas.",
+            "Spanish": "Cuando entraron como su padre les había ordenado, no les sirvió de nada frente a Allah. Era solo un deseo en el alma de Jacob que cumplió. Él poseía conocimiento por lo que le habíamos enseñado, pero la mayoría de la gente no sabe.",
+            "Hindi": "और जब वह अपने बाप के हुक्म के मुताबिक़ दाख़िल हुए तो इससे अल्लाह के मुक़ाबले में उन्हें कोई फ़ायदा नहीं हुआ, यह तो याक़ूब के दिल की एक ख़्वाहिश थी जिसे उसने पूरी की। और बेशक वह इल्म रखने वाला था जैसा कि हमने उसे सिखाया था, मगर ज़्यादातर लोग नहीं जानते।"
+          }
+        },
+        {
+          "no": 69,
+          "arabic": "وَلَمَّا دَخَلُوا عَلَى يُوسُفَ آوَى إِلَيْهِ أَخَاهُ قَالَ إِنِّي أَنَا أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ",
+          "transliteration": "Wa lammā dakhalū ‘alā Yūsufa āwā ilayhi akhāhu qāla innī anā akhūka fa-lā tabta’is bi-mā kānū ya‘malūn",
+          "translations": {
+            "English": "And when they entered into the presence of Joseph, he embraced his brother, and said, 'I am your brother; do not be saddened by what they used to do.'",
+            "Urdu": "اور جب وہ یوسف کے پاس داخل ہوئے تو اس نے اپنے بھائی کو اپنے پاس جگہ دی اور کہا، 'میں تمہارا بھائی ہوں، جو کچھ وہ کرتے تھے اس پر غم نہ کرو۔'",
+            "French": "Lorsqu’ils se présentèrent devant Joseph, celui-ci accueillit son frère et dit : 'Je suis ton frère. Ne t’afflige pas de ce qu’ils faisaient.'",
+            "Spanish": "Cuando se presentaron ante José, él acogió a su hermano y dijo: 'Soy tu hermano. No te aflijas por lo que hacían.'",
+            "Hindi": "और जब वह यूसुफ़ के पास दाख़िल हुए तो उसने अपने भाई को अपने पास जगह दी और कहा, 'मैं तुम्हारा भाई हूँ, जो कुछ वह करते थे उस पर ग़म न करो।'"
+          }
+        },
+        {
+          "no": 70,
+          "arabic": "فَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ جَعَلَ السِّقَايَةَ فِي رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ",
+          "transliteration": "Fa-lammā jahhazahum bi-jahāzihim ja‘ala as-siqāyata fī raḥli akhīhi thumma adhdhana mu’adhdhinun ayyatuhā al-‘īru innakum la-sāriqūn",
+          "translations": {
+            "English": "Then, when he provided them with their provisions, he placed the drinking-cup in his brother’s saddlebag. Then an announcer called out, 'O people of the caravan, you are thieves.'",
+            "Urdu": "پھر جب اس نے انہیں ان کا سامان دے دیا تو پینے کا پیالہ اپنے بھائی کے اسباب میں رکھ دیا۔ پھر ایک منادی نے پکارا، 'اے قافلے والو، تم چور ہو۔'",
+            "French": "Puis, lorsqu’il les eut pourvus de leurs provisions, il glissa la coupe dans le sac de son frère. Ensuite un crieur annonça : 'Ô vous, de la caravane ! Vous êtes des voleurs !'",
+            "Spanish": "Luego, cuando les proveyó de sus provisiones, colocó la copa en la alforja de su hermano. Entonces un pregonero anunció: '¡Oh, gente de la caravana! Sois ladrones.'",
+            "Hindi": "फिर जब उसने उन्हें उनका सामान दे दिया तो पीने का प्याला अपने भाई के सामान में रख दिया। फिर एक मुनादी ने पुकारा, 'ऐ क़ाफ़िले वालो, तुम चोर हो।'"
+          }
+        },
+     
+            {
+              "no": 71,
+              "arabic": "قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ",
+              "transliteration": "Qālū wa aqbalū ʿalayhim mādhā tafqidūn",
+              "translations": {
+                "English": "They said, as they came towards them, “What are you missing?”",
+                "Urdu": "انہوں نے کہا، اور ان کی طرف متوجہ ہوئے، تمہارا کیا گم ہوا ہے؟",
+                "French": "Ils dirent, en s’approchant d’eux : « Qu’avez-vous perdu ? »",
+                "Spanish": "Dijeron, mientras se acercaban a ellos: «¿Qué es lo que habéis perdido?»",
+                "Hindi": "उन्होंने कहा, और उनकी ओर मुड़े, तुम क्या खो रहे हो?"
+              }
+            },
+            {
+              "no": 72,
+              "arabic": "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ",
+              "transliteration": "Qālū nafqidu ṣuwāʿa l-maliki wa liman jāʾa bihi ḥimlu baʿīrin wa anā bihi zaʿīmun",
+              "translations": {
+                "English": "They said, “We are missing the king’s goblet. Whoever brings it will have a camel-load; and I personally guarantee it.”",
+                "Urdu": "انہوں نے کہا، ہم بادشاہ کا پیالہ کھو چکے ہیں۔ جو کوئی اسے لے آئے گا، اسے ایک اونٹ کا بوجھ دیا جائے گا، اور میں اس کا ضامن ہوں۔",
+                "French": "Ils répondirent : « Nous avons perdu la coupe du roi. Quiconque la rapportera recevra une charge de chameau, et j’en suis garant. »",
+                "Spanish": "Dijeron: «Hemos perdido la copa del rey. Quien la devuelva recibirá una carga de camello, y yo lo garantizo».",
+                "Hindi": "उन्होंने कहा, हम राजा का प्याला खो चुके हैं। जो कोई इसे लाएगा, उसे एक ऊँट का भार दिया जाएगा, और मैं इसका ज़िम्मेदार हूँ।"
+              }
+            },
+            {
+              "no": 73,
+              "arabic": "قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ",
+              "transliteration": "Qālū tallāhi laqad ʿalimtum mā jiʾnā linufsida fī l-arḍi wa mā kunnā sāriqīn",
+              "translations": {
+                "English": "They said, “By God, you know we did not come to cause trouble in the land, and we are not thieves.”",
+                "Urdu": "انہوں نے کہا، اللہ کی قسم، تم جانتے ہو کہ ہم زمین میں فساد کرنے نہیں آئے، اور ہم چور نہیں ہیں۔",
+                "French": "Ils dirent : « Par Allah, vous savez que nous ne sommes pas venus semer le désordre dans le pays, et nous ne sommes pas des voleurs. »",
+                "Spanish": "Dijeron: «¡Por Allah! Sabéis que no hemos venido a corromper en la tierra, y no somos ladrones».",
+                "Hindi": "उन्होंने कहा, अल्लाह की क़सम, तुम जानते हो कि हम धरती में बिगाड़ फैलाने नहीं आए, और हम चोर नहीं हैं।"
+              }
+            },
+            {
+              "no": 74,
+              "arabic": "قَالُوا فَمَا جَزَاؤُهُ إِنْ كُنْتُمْ كَاذِبِينَ",
+              "transliteration": "Qālū famā jazāʾuhu in kuntum kādhibīn",
+              "translations": {
+                "English": "They said, “What shall be his punishment, if you are lying?”",
+                "Urdu": "انہوں نے کہا، اگر تم جھوٹے ہو تو اس کی سزا کیا ہوگی؟",
+                "French": "Ils dirent : « Quelle sera donc sa sanction si vous êtes des menteurs ? »",
+                "Spanish": "Dijeron: «¿Y cuál será su castigo si mentís?»",
+                "Hindi": "उन्होंने कहा, अगर तुम झूठे हो तो उसकी सज़ा क्या होगी?"
+              }
+            },
+            {
+              "no": 75,
+              "arabic": "قَالُوا جَزَاؤُهُ مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَلِكَ نَجْزِي الظَّالِمِينَ",
+              "transliteration": "Qālū jazāʾuhu man wujida fī raḥlihi fa-huwa jazāʾuhu kadhālika najzī ẓ-ẓālimīn",
+              "translations": {
+                "English": "They said, “His punishment, if it is found in his bag: he will belong to you. Thus we penalize the guilty.”",
+                "Urdu": "انہوں نے کہا، اس کی سزا یہ ہے کہ جس کے سامان میں وہ ملے، وہی اس کی سزا ہے۔ ہم ظالموں کو ایسا ہی بدلہ دیتے ہیں۔",
+                "French": "Ils dirent : « Celui dans les bagages duquel elle sera retrouvée sera lui-même la sanction. C’est ainsi que nous châtion les injustes. »",
+                "Spanish": "Dijeron: «Su castigo será que aquel en cuyo equipaje se encuentre será retenido. Así castigamos a los injustos».",
+                "Hindi": "उन्होंने कहा, उसकी सज़ा यह है कि जिसके सामान में वह मिले, वही उसकी सज़ा होगी। हम अत्याचारियों को ऐसा ही बदला देते हैं।"
+              }
+            },
+
+                {
+                  "no": 76,
+                  "arabic": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَاءِ أَخِيهِ كَذَلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ إِلَّا أَنْ يَشَاءَ اللَّهُ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ",
+                  "transliteration": "Fabadaʾa bi-awʿiyatihim qabla wiʿāʾi akhīhi thumma istakhrajahā min wiʿāʾi akhīhi kadhālika kidnā li-Yūsufa mā kāna liyaʾkhudha akhāhu fī dīni l-maliki illā an yashāʾa Llāhu narfaʿu darajātin man nashāʾu wa fawqa kulli dhī ʿilmin ʿalīmun",
+                  "translations": {
+                    "English": "So he began with their bags, before his brother's bag. Then he pulled it out of his brother’s bag. Thus We devised a plan for Joseph; he could not have detained his brother under the king’s law, unless God so willed. We elevate by degrees whomever We will; and above every person of knowledge, there is one more learned.",
+                    "Urdu": "پس اس نے ان کے اسباب کی تلاشی شروع کی، اپنے بھائی کے اسباب سے پہلے، پھر اسے اپنے بھائی کے اسباب سے نکال لیا۔ ہم نے یوسف کے لیے یہ تدبیر کی تھی، وہ بادشاہ کے قانون کے تحت اپنے بھائی کو نہیں روک سکتا تھا، مگر یہ کہ اللہ ہی چاہتا۔ ہم جسے چاہتے ہیں درجات بلند کرتے ہیں، اور ہر صاحب علم سے بڑھ کر ایک اور جاننے والا ہے۔",
+                    "French": "Il commença par fouiller leurs sacs avant celui de son frère. Puis il la sortit du sac de son frère. Ainsi avons-Nous manigancé pour Joseph : il ne pouvait pas retenir son frère selon la loi du roi, à moins que Dieu ne le veuille. Nous élevons en degré qui Nous voulons, et au-dessus de tout détenteur de science il y a un plus savant.",
+                    "Spanish": "Empezó por sus alforjas antes de la de su hermano, luego la sacó de la alforja de su hermano. Así planeamos para José. No podía haber retenido a su hermano según la ley del rey, a menos que Allah lo quisiera. Elevamos en grados a quien queremos, y por encima de todo sabio hay uno más sabio.",
+                    "Hindi": "फिर उसने अपने भाई के सामान से पहले उनके सामान की तलाशी शुरू की, फिर उसे अपने भाई के सामान से निकाल लिया। हमने यूसुफ़ के लिए यह योजना बनाई थी; वह राजा के कानून के तहत अपने भाई को नहीं रोक सकता था, जब तक कि अल्लाह न चाहे। हम जिसे चाहते हैं पदों को ऊँचा करते हैं, और हर ज्ञानी से ऊपर एक और ज्ञानी है।"
+                  }
+                },
+                {
+                  "no": 77,
+                  "arabic": "قَالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ فَأَسَرَّهَا يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنْتُمْ شَرٌّ مَكَانًا وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+                  "transliteration": "Qālū in yasriq faqad saraqa akhun lahu min qablu fa-asarrahā Yūsufu fī nafsihi wa lam yubdihā lahum qāla antum sharrun makānan wa Llāhu aʿlamu bimā taṣifūn",
+                  "translations": {
+                    "English": "They said, “If he has stolen, a brother of his has stolen before.” But Joseph kept it to himself, and did not reveal it to them. He said, “You are in a worse situation, and God is Aware of what you allege.”",
+                    "Urdu": "انہوں نے کہا، اگر اس نے چوری کی ہے تو اس کا ایک بھائی پہلے بھی چوری کر چکا ہے۔ لیکن یوسف نے یہ بات اپنے دل میں چھپا لی اور ان پر ظاہر نہیں کی۔ اس نے کہا، تم لوگ بدتر مقام پر ہو، اور اللہ تمہارے دعوؤں کو خوب جانتا ہے۔",
+                    "French": "Ils dirent : « S’il a volé, un frère à lui a déjà volé auparavant. » Mais Joseph garda cela secret et ne le leur révéla pas. Il dit : « Votre position est pire. Allah sait parfaitement ce que vous avancez. »",
+                    "Spanish": "Dijeron: «Si ha robado, un hermano suyo ya robó antes». Pero José lo guardó para sí y no se lo reveló. Dijo: «Vuestra situación es peor. Allah sabe bien lo que alegáis».",
+                    "Hindi": "उन्होंने कहा, अगर उसने चोरी की है, तो उसका एक भाई पहले भी चोरी कर चुका है। पर यूसुफ़ ने इसे अपने मन में छिपा लिया और उन्हें बताया नहीं। उसने कहा, तुम लोग बुरे स्थान पर हो, और अल्लाह तुम्हारे दावों को भली-भाँति जानता है।"
+                  }
+                },
+                {
+                  "no": 78,
+                  "arabic": "قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+                  "transliteration": "Qālū yā ayyuhā l-ʿazīzu inna lahu aban shaykhan kabīran fa-khudh aḥadanā makānahu innā narāka mina l-muḥsinīn",
+                  "translations": {
+                    "English": "They said, “O noble prince, he has a father, a very old man, so take one of us in his place. We see that you are a good person.”",
+                    "Urdu": "انہوں نے کہا، اے عزیز! اس کا ایک بوڑھا باپ ہے، اس لیے ہم میں سے کسی کو اس کی جگہ رکھ لو۔ ہم دیکھ رہے ہیں کہ تم نیک آدمی ہو۔",
+                    "French": "Ils dirent : « Ô Al-Aziz, il a un père très âgé. Prends l’un de nous à sa place. Nous voyons que tu es du nombre des bienfaisants. »",
+                    "Spanish": "Dijeron: «¡Oh, poderoso! Tiene un padre anciano. Toma a uno de nosotros en su lugar. Vemos que eres de los benefactores».",
+                    "Hindi": "उन्होंने कहा, हे अज़ीज़! उसका एक बूढ़ा पिता है, इसलिए हममें से किसी एक को उसकी जगह रख लो। हम देख रहे हैं कि तुम अच्छे व्यक्ति हो।"
+                  }
+                },
+                {
+                  "no": 79,
+                  "arabic": "قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ",
+                  "transliteration": "Qāla maʿādha Llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindahu innā idhan la-ẓālimūn",
+                  "translations": {
+                    "English": "He said, “God forbid that we should arrest anyone except him in whose possession we found our property; for then we would be unjust.”",
+                    "Urdu": "اس نے کہا، اللہ کی پناہ کہ ہم اس کے سوا کسی کو پکڑیں جس کے پاس ہم اپنا مال پائیں، ورنہ ہم ظالم ہوں گے۔",
+                    "French": "Il dit : « Qu’Allah nous garde de prendre quelqu’un d’autre que celui chez qui nous avons trouvé notre bien. Nous serions alors injustes. »",
+                    "Spanish": "Dijo: «¡Allah nos libre de tomar a otro que aquel en quien encontramos nuestros bienes! Seríamos entonces injustos».",
+                    "Hindi": "उसने कहा, अल्लाह की पनाह कि हम उसके अलावा किसी को पकड़ें जिसके पास हमारा सामान मिला, नहीं तो हम अत्याचारी होंगे।"
+                  }
+                },
+                {
+                  "no": 80,
+                  "arabic": "فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوا أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللَّهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ فَلَنْ أَبْرَحَ الْأَرْضَ حَتَّى يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي وَهُوَ خَيْرُ الْحَاكِمِينَ",
+                  "transliteration": "Falammā istayʾasū minhu khalasū najiyyan qāla kabīruhum alam taʿlamū anna abākum qad akhadha ʿalaykum mawthiqan mina Llāhi wa min qablu mā farraṭtum fī Yūsufa fa-lan abraḥa l-arḍa ḥattā yaʾdhana lī abī aw yaḥkuma Llāhu lī wa huwa khayru l-ḥākimīn",
+                  "translations": {
+                    "English": "And when they despaired of him, they conferred privately. Their eldest said, “Don’t you know that your father received a pledge from you before God, and in the past you failed with regard to Joseph? I will not leave this land until my father permits me, or God decides for me; for He is the Best of Deciders.”",
+                    "Urdu": "جب انہیں اس سے مایوسی ہوئی تو وہ خفیہ مشورہ کرنے لگے۔ ان کے بڑے نے کہا، کیا تم نہیں جانتے کہ تمہارے باپ نے تم سے اللہ کے نام پر عہد لیا تھا، اور اس سے پہلے تم یوسف کے معاملے میں قصوروار ہو چکے ہو؟ میں اس سرزمین کو نہیں چھوڑوں گا جب تک کہ میرا باپ مجھے اجازت نہ دے، یا اللہ میرے لیے فیصلہ نہ کر دے، کیونکہ وہ بہترین فیصلہ کرنے والا ہے۔",
+                    "French": "Désespérant de le convaincre, ils se concertèrent en secret. Le plus âgé d’entre eux dit : « Ne savez-vous pas que votre père a pris de vous un engagement au nom d’Allah, et qu’auparavant vous avez déjà manqué à Joseph ? Je ne quitterai donc ce pays que si mon père me le permet, ou qu’Allah décide en ma faveur, car Il est le Meilleur des juges. »",
+                    "Spanish": "Cuando perdieron la esperanza, se apartaron a deliberar. El mayor dijo: «¿No sabéis que vuestro padre os tomó un compromiso ante Allah, y que antes fallasteis con José? No abandonaré esta tierra hasta que mi padre me lo permita o Allah decida por mí. Él es el mejor de los jueces».",
+                    "Hindi": "जब उन्हें उससे निराशा हो गई, तो वे गुप्त मंत्रणा करने लगे। उनमें सबसे बड़े ने कहा, क्या तुम नहीं जानते कि तुम्हारे पिता ने तुमसे अल्लाह के नाम पर वचन लिया था, और इससे पहले तुम यूसुफ़ के मामले में कोताही कर चुके हो? मैं इस धरती को नहीं छोड़ूँगा जब तक मेरे पिता मुझे अनुमति न दें, या अल्लाह मेरे लिए फैसला न करे, क्योंकि वह सर्वोत्तम न्यायकर्ता है।"
+                  }
+                },
+                {
+                  "no": 81,
+                  "arabic": "ارْجِعُوا إِلَى أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+                  "transliteration": "Irjiʿū ilā abīkum fa-qūlū yā abānā inna bnak sarqa wa mā shahidnā illā bimā ʿalimnā wa mā kunnā lil-ghaybi ḥāfiẓīn",
+                  "translations": {
+                    "English": "“Go back to your father, and say, ‘Our father, your son has stolen. We testify only to what we know, and we could not have prevented the unforeseen.’”",
+                    "Urdu": "تم اپنے باپ کے پاس واپس جاؤ اور کہو، اے ہمارے باپ! تیرا بیٹا چوری کر چکا ہے۔ ہم صرف اسی کی گواہی دیتے ہیں جو ہم جانتے ہیں، اور ہم غیب کی حفاظت کرنے والے نہیں تھے۔",
+                    "French": "« Retournez à votre père et dites-lui : “Ô notre père, ton fils a volé. Nous ne témoignons que de ce que nous savons, et nous ne pouvions deviner l’invisible.” »",
+                    "Spanish": "«Regresad a vuestro padre y decid: “¡Oh, padre! Tu hijo ha robado. Solo atestiguamos lo que sabemos, y no podíamos prever lo oculto”».",
+                    "Hindi": "अपने पिता के पास लौटो और कहो, हे हमारे पिता! तेरा बेटा चोरी कर चुका है। हम केवल उसी की गवाही देते हैं जो हम जानते हैं, और हम ग़ैब की रक्षा करने वाले नहीं थे।"
+                  }
+                },
+                {
+                  "no": 82,
+                  "arabic": "وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي أَقْبَلْنَا فِيهَا وَإِنَّا لَصَادِقُونَ",
+                  "transliteration": "Wa sʾali l-qaryata allatī kunnā fīhā wa l-ʿīra allatī aqbalnā fīhā wa innā la-ṣādiqūn",
+                  "translations": {
+                    "English": "“Ask the town where we were, and the caravan in which we came. We are being truthful.”",
+                    "Urdu": "اور اس بستی کے لوگوں سے پوچھ لو جہاں ہم تھے، اور اس قافلے سے بھی جس میں ہم آئے تھے۔ ہم سچ کہہ رہے ہیں۔",
+                    "French": "« Interroge la ville où nous étions et la caravane avec laquelle nous sommes arrivés. Nous disons la vérité. »",
+                    "Spanish": "«Pregunta en la ciudad donde estuvimos y a la caravana con la que vinimos. Ciertamente, decimos la verdad».",
+                    "Hindi": "और उस बस्ती के लोगों से पूछो जहाँ हम थे, और उस कारवाँ से भी जिसमें हम आए थे। हम सच कह रहे हैं।"
+                  }
+                },
+                {
+                  "no": 83,
+                  "arabic": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+                  "transliteration": "Qāla bal sawwalat lakum anfusukum amran fa-ṣabrun jamīlun ʿasā Llāhu an yaʾtiyanī bihim jamīʿan innahu huwa l-ʿalīmu l-ḥakīm",
+                  "translations": {
+                    "English": "He said, “Rather, your souls have contrived something for you. Patience is a virtue. Perhaps God will bring them all back to me. He is the Knowing, the Wise.”",
+                    "Urdu": "اس نے کہا، بلکہ تمہارے نفسوں نے تمہارے لیے ایک بات گھڑ لی ہے۔ پس صبر کرنا اچھا ہے۔ شاید اللہ ان سب کو میرے پاس لوٹا دے۔ وہ ज्ञानी, तत्वदर्शी है।",
+                    "French": "Il dit : « Ce sont plutôt vos âmes qui vous ont suggéré cette action. Mais patience ! Peut-être Allah me les ramènera-t-il tous. Il est l’Omniscient, le Sage. »",
+                    "Spanish": "Dijo: «Más bien, vuestras almas os han seducido. ¡Paciencia! Quizá Allah me los devuelva a todos. Él es el Omnisciente, el Sabio».",
+                    "Hindi": "उसने कहा, बल्कि तुम्हारे मनों ने तुम्हारे लिए एक बात गढ़ ली है। तो धैर्य रखना अच्छा है। शायद अल्लाह उन सभी को मेरे पास लौटा दे। वह ज्ञानी, तत्वदर्शी है।"
+                  }
+                },
+                {
+                  "no": 84,
+                  "arabic": "وَتَوَلَّى عَنْهُمْ وَقَالَ يَا أَسَفَى عَلَى يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ",
+                  "transliteration": "Wa tawallā ʿanhum wa qāla yā asafā ʿalā Yūsufa wa byaḍḍat ʿaynāhu mina l-ḥuzni fa-huwa kaẓīm",
+                  "translations": {
+                    "English": "Then he turned away from them, and said, “O my bitterness for Joseph.” And his eyes turned white from sorrow, and he became depressed.",
+                    "Urdu": "پھر وہ ان سے منہ موڑ کر بیٹھ گیا اور کہنے لگا، اے یوسف کی یاد کا غم! اور اس کی آنکھیں غم سے سفید ہو گئیں، اور وہ گھٹنے لگا।",
+                    "French": "Et il se détourna d’eux et dit : « Ô mon chagrin pour Joseph ! » Et ses yeux blanchirent de tristesse, et il était accablé.",
+                    "Spanish": "Y se apartó de ellos y dijo: «¡Oh, mi dolor por José!». Sus ojos se volvieron blancos de tristeza, y estaba consumido por el dolor.",
+                    "Hindi": "फिर वह उनसे मुँह फेरकर बैठ गया और कहने लगा, हे यूसुफ़ की याद का दुःख! और उसकी आँखें दुःख से सफ़ेद हो गईं, और वह घुटने लगा।"
+                  }
+                },
+                {
+                  "no": 85,
+                  "arabic": "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّى تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+                  "transliteration": "Qālū tallāhi taftaʾu tadhkuru Yūsufa ḥattā takūna ḥaraḍan aw takūna mina l-hālikīn",
+                  "translations": {
+                    "English": "They said, “By God, you will not stop remembering Joseph, until you have ruined your health, or you have passed away.”",
+                    "Urdu": "انہوں نے کہا، اللہ کی قسم، تم यूसुफ़ को याद करते रहोगे यहाँ तक कہ تم بیمار ہو جاؤ گے یا ہلاک ہو جاؤ گے۔",
+                    "French": "Ils dirent : « Par Allah, tu ne cesseras d’évoquer Joseph jusqu’à ce que tu t’épuises ou que tu meures. »",
+                    "Spanish": "Dijeron: «¡Por Allah! No dejarás de recordar a José hasta que consumas tu salud o perezcas».",
+                    "Hindi": "उन्होंने कहा, अल्लाह की क़सम, तुम यूसुफ़ को याद करते रहोगे यहाँ तक कि तुम बीमार हो जाओगे या मर जाओगे।"
+                  }
+                },
+                {
+                  "no": 86,
+                  "arabic": "قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+                  "transliteration": "Qāla innamā ashkū baththī wa ḥuznī ilā Llāhi wa aʿlamu mina Llāhi mā lā taʿlamūn",
+                  "translations": {
+                    "English": "He said, “I only complain of my grief and sorrow to God, and I know from God what you do not know.”",
+                    "Urdu": "اس نے کہا، میں اپنی پریشانی اور غم کا شکوہ صرف اللہ سے کرتا ہوں، اور میں اللہ کی طرف سے وہ جانتا ہوں جو تم نہیں جانتے۔",
+                    "French": "Il dit : « Je ne me plains qu’à Allah de mon chagrin et de ma tristesse, et je sais d’Allah ce que vous ne savez pas. »",
+                    "Spanish": "Dijo: «Solo me quejo de mi aflicción y tristeza ante Allah, y sé de Allah lo que vosotros no sabéis».",
+                    "Hindi": "उसने कहा, मैं अपनी व्यथा और दुःख की शिकायत केवल अल्लाह से करता हूँ, और मैं अल्लाह की ओर से वह जानता हूँ जो तुम नहीं जानते।"
+                  }
+                },
+                {
+                  "no": 87,
+                  "arabic": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+                  "transliteration": "Yā baniyya dhhabū fa-taḥassasū min Yūsufa wa akhīhi wa lā tayʾasū min rawḥi Llāhi innahu lā yayʾasu min rawḥi Llāhi illā l-qawmu l-kāfirūn",
+                  "translations": {
+                    "English": "“O my sons, go and inquire about Joseph and his brother, and do not despair of God's comfort. None despairs of God's comfort except the disbelieving people.”",
+                    "Urdu": "اے میرے بیٹو! जाओ और यूसुफ़ और उसके भाई के बारे में पता करो, और अल्लाह की रहमत से निराश न हो। अल्लाह की रहमत से वही लोग निराश होते हैं जो काफ़िर हैं।",
+                    "French": "« Ô mes fils, partez et enquérez-vous de Joseph et de son frère. Et ne désespérez pas de la miséricorde d’Allah, car seuls les mécréants désespèrent de la miséricorde d’Allah. »",
+                    "Spanish": "«¡Oh, hijos míos! Id e informaos sobre José y su hermano, y no desesperéis del consuelo de Allah. Solo los incrédulos desesperan del consuelo de Allah».",
+                    "Hindi": "हे मेरे बेटों! जाओ और यूसुफ़ और उसके भाई के बारे में पता करो, और अल्लाह की दया से निराश न हो। अल्लाह की दया से वही लोग निराश होते हैं जो काफ़िर हैं।"
+                  }
+                },
+                {
+                  "no": 88,
+                  "arabic": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ",
+                  "transliteration": "Falammā dakhalū ʿalayhi qālū yā ayyuhā l-ʿazīzu massanā wa ahlanā ḍ-ḍurru wa jiʾnā bi-biḍāʿatin muzjātin fa-awfi lanā l-kayla wa taṣaddaq ʿalaynā inna Llāha yajzī l-mutaṣaddiqīn",
+                  "translations": {
+                    "English": "Then, when they entered into his presence, they said, “Mighty governor, adversity has befallen us, and our family. We have brought scant merchandise. But give us full measure, and be charitable towards us—God rewards the charitable.”",
+                    "Urdu": "پھر جب وہ اس کے پاس داخل ہوئے تو کہنے لگے، اے عزیز! ہم پر اور ہمارے گھر والوں پر مصیبت آ پڑی ہے۔ ہم تھوڑا سا سامان لائے ہیں۔ پس ہمیں پورا ناپ دے، اور ہم پر احسان کر—اللہ احسان کرने والوں کو بدلہ دیتا ہے۔",
+                    "French": "Puis, lorsqu’ils se présentèrent à lui, ils dirent : « Ô Al-Aziz, la détresse nous a touchés, ainsi que notre famille. Nous n’avons que peu de marchandises. Donne-nous une pleine mesure, et fais-nous la charité. Allah récompense les charitables. »",
+                    "Spanish": "Cuando se presentaron ante él, dijeron: «¡Oh, poderoso! Nos ha alcanzado la adversidad, a nosotros y a nuestra familia. Traemos escasas mercancías. Danos la medida completa y sé caritativo con nosotros. Allah recompensa a los caritativos».",
+                    "Hindi": "फिर जब वे उसके पास पहुँचे तो कहने लगे, हे अज़ीज़! हम पर और हमारे परिवार पर मुसीबत आ पड़ी है। हम थोड़ा सा सामान लाए हैं। तो हमें पूरा नाप दे, और हम पर दया कर—अल्लाह दया करने वालों को बदला देता है।"
+                  }
+                },
+                {
+                  "no": 89,
+                  "arabic": "قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ",
+                  "transliteration": "Qāla hal ʿalimtum mā faʿaltum bi-Yūsufa wa akhīhi idh antum jāhilūn",
+                  "translations": {
+                    "English": "He said, “Do you realize what you did with Joseph and his brother, in your ignorance?”",
+                    "Urdu": "اس نے کہا، کیا تم جانते ہو کہ تم نے यूसुफ़ और اس کے بھाई के ساتھ کیا کیا تھا، جب تم نادان تھے؟",
+                    "French": "Il dit : « Savez-vous ce que vous avez fait de Joseph et de son frère, dans votre ignorance ? »",
+                    "Spanish": "Dijo: «¿Sabéis lo que hicisteis con José y su hermano en vuestra ignorancia?»",
+                    "Hindi": "उसने कहा, क्या तुम जानते हो कि तुमने यूसुफ़ और उसके भाई के साथ क्या किया था, जब तुम अनजान थे?"
+                  }
+                },
+                {
+                  "no": 90,
+                  "arabic": "قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ قَالَ أَنَا يُوسُفُ وَهَذَا أَخِي قَدْ مَنَّ اللَّهُ عَلَيْنَا إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+                  "transliteration": "Qālū a-innaka la-anta Yūsufu qāla anā Yūsufu wa hādhā akhī qad manna Llāhu ʿalaynā innahu man yattaqi wa yaṣbir fa-inna Llāha lā yuḍīʿu ajra l-muḥsinīn",
+                  "translations": {
+                    "English": "They said, “Is that you, Joseph?” He said, “I am Joseph, and this is my brother. God has been gracious to us. He who practices piety and patience—God never fails to reward the righteous.”",
+                    "Urdu": "انہوں نے کہا، کیا تم واقعی यूसुफ़ ہو؟ اس نے کہا، میں यूसुफ़ ہوں، اور یہ میرا بھائی ہے۔ اللہ نے ہم پر احسان کیا ہے۔ جو کوئی پرہیزگاری اور صبر کرے، تو اللہ نیکوکاروں کا اجر ضائع نہیں کرتا۔",
+                    "French": "Ils dirent : « Est-ce toi, Joseph ? » Il dit : « Je suis Joseph, et voici mon frère. Allah nous a comblés de Sa grâce. Quiconque craint Allah et patiente... Allah ne laisse pas perdre la récompense des bienfaisants. »",
+                    "Spanish": "Dijeron: «¿Eres tú, José?». Dijo: «Soy José, y este es mi hermano. Allah nos ha agraciado. Quien sea piadoso y paciente... Allah no dejará de recompensar a los benefactores».",
+                    "Hindi": "उन्होंने कहा, क्या तुम सचमुच यूसुफ़ हो? उसने कहा, मैं यूसुफ़ हूँ, और यह मेरा भाई है। अल्लाह ने हम पर कृपा की है। जो कोई डर रखे और धैर्य धरे, तो अल्लाह अच्छे कर्म करने वालों का बदला बेकार नहीं जाने देता।"
+                  }
+                },
+                {
+                  "no": 91,
+                  "arabic": "قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ",
+                  "transliteration": "Qālū tallāhi laqad ātharaka Llāhu ʿalaynā wa in kunnā la-khāṭiʾīn",
+                  "translations": {
+                    "English": "They said, “By God, God has preferred you over us. We were definitely in the wrong.”",
+                    "Urdu": "انہوں نے کہا، اللہ کی قسم، اللہ نے تمہیں ہم پر فضیلت دی ہے، اور ہم یقیناً خطا کار تھے۔",
+                    "French": "Ils dirent : « Par Allah, Allah t’a préféré à nous, et nous avons été fautifs. »",
+                    "Spanish": "Dijeron: «¡Por Allah! Allah te ha preferido sobre nosotros, y ciertamente fuimos culpables».",
+                    "Hindi": "उन्होंने कहा, अल्लाह की क़सम, अल्लाह ने तुम्हें हम पर प्राथमिकता दी है, और हम निश्चय ही गुनहगार थे।"
+                  }
+                },
+                {
+                  "no": 92,
+                  "arabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+                  "transliteration": "Qāla lā tathrība ʿalaykumu l-yawma yaghfiru Llāhu lakum wa huwa arḥamu r-rāḥimīn",
+                  "translations": {
+                    "English": "He said, “There is no blame upon you today. God will forgive you. He is the Most Merciful of the merciful.”",
+                    "Urdu": "اس نے کہا، آج تم پر کوئی ملامت نہیں۔ اللہ تمہیں بخش دے گا۔ وہ سب سے بڑھ کر رحم کرنے والا ہے।",
+                    "French": "Il dit : « Aujourd’hui, aucun reproche ne vous sera fait. Qu’Allah vous pardonne. Il est le Plus Miséricordieux des miséricordieux. »",
+                    "Spanish": "Dijo: «Hoy no habrá reproche contra vosotros. Allah os perdonará. Él es el más Misericordioso de los misericordiosos».",
+                    "Hindi": "उसने कहा, आज तुम पर कोई झिड़की नहीं। अल्लाह तुम्हें माफ़ कर देगा। वह सबसे अधिक दयावान है।"
+                  }
+                },
+                {
+                  "no": 93,
+                  "arabic": "اذْهَبُوا بِقَمِيصِي هَذَا فَأَلْقُوهُ عَلَى وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
+                  "transliteration": "Idhhabū bi-qamīṣī hādhā fa-alqūhu ʿalā wajhi abī yaʾti baṣīran waʾtūnī bi-ahlikum ajmaʿīn",
+                  "translations": {
+                    "English": "“Take this shirt of mine, and lay it over my father’s face, and he will recover his sight. And bring your whole family to me.”",
+                    "Urdu": "میری یہ قمیص لے جاؤ اور میرے باپ کے چہرے پر ڈال دو، وہ بینائی پا لیں گے۔ اور اپنے سارے گھر والوں کو میرے پاس لے آؤ۔",
+                    "French": "« Prenez cette tunique que voici et jetez-la sur le visage de mon père : il recouvrera la vue. Et amenez-moi toute votre famille. »",
+                    "Spanish": "«Tomad esta camisa mía y arrojadla sobre el rostro de mi padre: recobrará la vista. Y traedme a toda vuestra familia».",
+                    "Hindi": "मेरी यह कमीज़ ले जाओ और मेरे पिता के चेहरे पर डाल दो, वे नज़र पा लेंगे। और अपने सारे परिवार को मेरे पास ले आओ।"
+                  }
+                },
+                {
+                  "no": 94,
+                  "arabic": "وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ",
+                  "transliteration": "Wa lammā faṣalati l-ʿīru qāla abūhum innī la-ajidu rīḥa Yūsufa lawlā an tufannidūn",
+                  "translations": {
+                    "English": "As the caravan set out, their father said, “I sense the presence of Joseph, though you may think I am senile.”",
+                    "Urdu": "جب قافلہ روانہ ہوا تو ان کے باپ نے کہا، مجھे यूसुफ़ کی خوشبو आ رہی ہے، اگرچہ تم مجھے بڑھاپے کا الزام دو۔",
+                    "French": "Et lorsque la caravane se mit en route, leur père dit : « Je décèle certes l’odeur de Joseph, même si vous me traitez de radoteur. »",
+                    "Spanish": "Cuando la caravana partió, su padre dijo: «Ciertamente huelo el aroma de José, aunque me creáis senil».",
+                    "Hindi": "जब कारवाँ चला तो उनके पिता ने कहा, मुझे यूसुफ़ की खुशबू आ रही है, हालाँकि तुम मुझे बूढ़ा समझते हो।"
+                  }
+                },
+                {
+                  "no": 95,
+                  "arabic": "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+                  "transliteration": "Qālū tallāhi innaka la-fī ḍalālika l-qadīm",
+                  "translations": {
+                    "English": "They said, “By God, you are still in your old confusion.”",
+                    "Urdu": "انہوں نے کہا، اللہ کی قسم، تم اپنی پرانی گمراہی میں ہی ہو۔",
+                    "French": "Ils dirent : « Par Allah, te voilà encore dans ton ancien égarement. »",
+                    "Spanish": "Dijeron: «¡Por Allah! Sigues en tu antiguo extravío».",
+                    "Hindi": "उन्होंने कहा, अल्लाह की क़सम, तुम अपनी पुरानी भटकन में ही हो।"
+                  }
+                },
+                {
+                  "no": 96,
+                  "arabic": "فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَى وَجْهِهِ فَارْتَدَّ بَصِيرًا قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+                  "transliteration": "Falammā an jāʾa l-bashīru alqāhu ʿalā wajhihi fa-rtadda baṣīran qāla a-lam aqul lakum innī aʿlamu mina Llāhi mā lā taʿlamūn",
+                  "translations": {
+                    "English": "Then, when the bearer of good news arrived, he laid it over his face, and he regained his sight. He said, “Did I not say to you that I know from God what you do not know?”",
+                    "Urdu": "پھر جب خوشخبری دینے والا آیا تو اس نے اسے ان کے چہرے پر ڈال دیا، اور ان کی بینائی لوٹ آئی۔ انہوں نے کہا، کیا میں نے تم سے نہیں کہا تھا کہ میں اللہ کی طرف سے وہ جانتا ہوں جو تم نہیں جانتے؟",
+                    "French": "Puis, lorsque arriva le porteur de la bonne nouvelle, il jeta la tunique sur le visage de Jacob, qui recouvra la vue. Il dit : « Ne vous avais-je pas dit que je sais d’Allah ce que vous ne savez pas ? »",
+                    "Spanish": "Cuando llegó el portador de la buena nueva, la arrojó sobre su rostro y recobró la vista. Dijo: «¿No os dije que sé de Allah lo que vosotros no sabéis?»",
+                    "Hindi": "फिर जब खुशखबरी लाने वाला आया तो उसने उसे उनके चेहरे पर डाल दिया, और उनकी नज़र लौट आई। उन्होंने कहा, क्या मैंने तुमसे नहीं कहा था कि मैं अल्लाह की ओर से वह जानता हूँ जो तुम नहीं जानते?"
+                  }
+                },
+                {
+                  "no": 97,
+                  "arabic": "قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ",
+                  "transliteration": "Qālū yā abānā staghfir lanā dhunūbanā innā kunnā khāṭiʾīn",
+                  "translations": {
+                    "English": "They said, “Father, pray for the forgiveness of our sins; we were indeed at fault.”",
+                    "Urdu": "انہوں نے کہا، اے ہمارے باپ! ہمارے گناہوں کی بخشش کی دعا کرو، ہم یقیناً خطا کار تھے۔",
+                    "French": "Ils dirent : « Ô notre père, implore pour nous la rémission de nos péchés. Nous étions vraiment fautifs. »",
+                    "Spanish": "Dijeron: «¡Oh, padre nuestro! Pide perdón por nuestros pecados. Ciertamente, estábamos equivocados».",
+                    "Hindi": "उन्होंने कहा, हे हमारे पिता! हमारे गुनाहों की माफ़ी की दुआ करो, हम निश्चय ही गुनहगार थे।"
+                  }
+                },
+                {
+                  "no": 98,
+                  "arabic": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+                  "transliteration": "Qāla sawfa astaghfiru lakum rabbī innahu huwa l-ghafūru r-raḥīm",
+                  "translations": {
+                    "English": "He said, “I will ask my Lord to forgive you. He is the Forgiver, the Most Merciful.”",
+                    "Urdu": "انہوں نے کہا، میں تمہارے لیے اپنے رب سے بخشش کی دعا کروں گا۔ وہ بخشنے والا، رحم کرنے والا ہے۔",
+                    "French": "Il dit : « J’implorerai pour vous le pardon de mon Seigneur. Il est le Pardonneur, le Très Miséricordieux. »",
+                    "Spanish": "Dijo: «Pediré a mi Señor que os perdone. Él es el Indulgente, el Misericordioso».",
+                    "Hindi": "उन्होंने कहा, मैं तुम्हारे लिए अपने रब से माफ़ी की दुआ करूँगा। वह माफ़ करने वाला, दयावान है।"
+                  }
+                },
+                {
+                  "no": 99,
+                  "arabic": "فَلَمَّا دَخَلُوا عَلَى يُوسُفَ آوَى إِلَيْهِ أَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ إِنْ شَاءَ اللَّهُ آمِنِينَ",
+                  "transliteration": "Falammā dakhalū ʿalā Yūsufa āwā ilayhi abawayhi wa qāla dkhulū Miṣra in shāʾa Llāhu āminīn",
+                  "translations": {
+                    "English": "Then, when they entered into the presence of Joseph, he embraced his parents, and said, “Enter Egypt, God willing, safe and secure.”",
+                    "Urdu": "پھر जब वे यूसुफ़ के पاس پहुँचे تو اس نے اپنے ماں باپ کو گلے لگا لیا اور کہا، مصر میں داخل ہو جاؤ، ان شاء اللہ، امن کے ساتھ۔",
+                    "French": "Puis, lorsqu’ils se présentèrent à Joseph, celui-ci accueillit ses parents et dit : « Entrez en Égypte en sécurité, si Allah le veut. »",
+                    "Spanish": "Cuando llegaron ante José, él acogió a sus padres y dijo: «Entrad en Egipto, si Allah quiere, seguros».",
+                    "Hindi": "फिर जब वे यूसुफ़ के पास पहुँचे तो उसने अपने माता-पिता को गले लगा लिया और कहा, मिस्र में दाख़िल हो जाओ, इन शा अल्लाह, अमन के साथ।"
+                  }
+                },
+                {
+                  "no": 100,
+                  "arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا وَقَالَ يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَنِي مِنَ السِّجْنِ وَجَاءَ بِكُمْ مِنَ الْبَدْوِ مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي إِنَّ رَبِّي لَطِيفٌ لِمَا يَشَاءُ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+                  "transliteration": "Wa rafaʿa abawayhi ʿalā l-ʿarshi wa kharrū lahu sujjadan wa qāla yā abati hādhā taʾwīlu ruʾyāya min qablu qad jaʿalahā rabbī ḥaqqan wa qad aḥsana bī idh akhrajani mina s-sijni wa jāʾa bikum mina l-badwi min baʿdi an nazagha sh-shayṭānu baynī wa bayna ikhwatī inna rabbī laṭīfun limā yashāʾu innahu huwa l-ʿalīmu l-ḥakīm",
+                  "translations": {
+                    "English": "And he elevated his parents on the throne, and they fell prostrate before him. He said, “Father, this is the fulfillment of my vision of long ago. My Lord has made it come true. He has blessed me, when he released me from prison, and brought you out of the wilderness, after the devil had sown conflict between me and my brothers. My Lord is Most Kind towards whomever He wills. He is the All-knowing, the Most Wise.”",
+                    "Urdu": "اور اس نے اپنے ماں باپ کو تخت پر بٹھایا، اور وہ اس کے سامنے سجدے میں گر پڑے۔ اس نے کہا، اے میرے باپ! یہ میرے پہلے خواب کی تعبیر ہے۔ میرے رب نے اسے سچ کر دکھایا۔ اس نے مجھ پر احسان کیا، جب اس نے مجھے قید سے نکالا، اور تمہیں صحرا سے لے آیا، بعد اس کے کہ شیطان نے میرے اور میرے بھائیوں کے درمیان فساد ڈال دیا تھا۔ میرا رب جس پر چاہے بڑی مہربانی کرتا ہے۔ وہ جاننے والا، حکمت والا ہے۔",
+                    "French": "Et il fit monter ses parents sur le trône, et ils tombèrent prosternés devant lui. Il dit : « Ô mon père, voilà l’interprétation de mon rêve d’autrefois. Mon Seigneur l’a réalisé. Il m’a comblé de bienfaits quand Il m’a fait sortir de prison et vous a fait venir du désert, après que le Diable ait semé la discorde entre mes frères et moi. Mon Seigneur est Doux envers qui Il veut. Il est l’Omniscient, le Sage. »",
+                    "Spanish": "Elevó a sus padres al trono, y cayeron postrados ante él. Dijo: «¡Oh, padre mío! Esta es la interpretación de mi sueño de antaño. Mi Señor lo ha hecho realidad. Me ha agraciado al sacarme de la prisión y traeros del desierto, después de que el demonio sembrara discordia entre mis hermanos y yo. Mi Señor es Sutil con quien Él quiere. Él es el Omnisciente, el Sabio».",
+                    "Hindi": "और उसने अपने माता-पिता को सिंहासन पर बैठाया, और वे उसके सामने सजदे में गिर पड़े। उसने कहा, हे मेरे पिता! यह मेरे पहले सपने की व्याख्या है। मेरे रब ने इसे सच कर दिखाया। उसने मुझ पर एहसान किया, जब उसने मुझे कैद से निकाला, और तुम्हें रेगिस्तान से ले आया, उसके बाद कि शैतान ने मेरे और मेरे भाइयों के बीच फूट डाल दी थी। मेरा रब जिस पर चाहे बड़ी दया करता है। वह जानने वाला, तत्वदर्शी है।"
+                  }
+                },
+                {
+                  "no": 101,
+                  "arabic": "رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِنْ تَأْوِيلِ الْأَحَادِيثِ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنْتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+                  "transliteration": "Rabbi qad ātaytanī mina l-mulki wa ʿallamtanī min taʾwīli l-aḥādīthi fāṭira s-samāwāti wa l-arḍi anta waliyyī fī d-dunyā wa l-ākhirati tawaffanī musliman wa alḥiqnī bi-ṣ-ṣāliḥīn",
+                  "translations": {
+                    "English": "“My Lord, You have given me some authority, and taught me some interpretation of events. Initiator of the heavens and the earth; You are my Protector in this life and in the Hereafter. Receive my soul in submission, and unite me with the righteous.”",
+                    "Urdu": "اے میرے رب! تو نے مجھے کچھ حکومت دی ہے، اور مجھے واقعات کی تعبیر سکھائی ہے۔ اے آسمانوں اور زمین کے پیدا کرنے والے! تو دنیا اور آخرت میں میرا کارساز ہے۔ مجھے مسلمان ہی موت دے، اور مجھے صالحین کے ساتھ ملا دے۔",
+                    "French": "« Ô mon Seigneur, Tu m’as donné du pouvoir et m’as enseigné l’interprétation des rêves. Créateur des cieux et de la terre, Tu es mon Protecteur ici-bas et dans l’au-delà. Fais-moi mourir en parfaite soumission et fais-moi rejoindre les vertueux. »",
+                    "Spanish": "«¡Oh, Señor mío! Me has concedido autoridad y me has enseñado la interpretación de los sueños. Creador de los cielos y la tierra, Tú eres mi Protector en esta vida y en la otra. Haz que muera sometido y reúname con los justos».",
+                    "Hindi": "हे मेरे रब! तूने मुझे कुछ सत्ता दी है, और मुझे घटनाओं की व्याख्या सिखाई है। हे आकाशों और धरती के उत्पन्न करने वाले! तू दुनिया और आख़िरत में मेरा संरक्षक है। मुझे मुस्लिम ही मृत्यु दे, और मुझे नेक लोगों के साथ मिला दे।"
+                  }
+                },
+                {
+                  "no": 102,
+                  "arabic": "ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+                  "transliteration": "Dhālika min anbāʾi l-ghaybi nūḥīhi ilayka wa mā kunta ladayhim idh ajmaʿū amrahum wa hum yamkurūn",
+                  "translations": {
+                    "English": "This is news from the past that We reveal to you. You were not present with them when they plotted and agreed on a plan.",
+                    "Urdu": "یہ غیب کی خبریں ہیں جو ہم تم پر نازل کر رہے ہیں۔ تم ان کے پاس موجود نہیں تھے جب انہوں نے اپنا کام طے کیا اور سازش کی۔",
+                    "French": "Voilà des récits inconnus que Nous te révélons. Tu n’étais pas auprès d’eux quand ils se concertèrent et complotèrent.",
+                    "Spanish": "Esto es parte de las noticias de lo oculto que te revelamos. No estabas con ellos cuando decidieron su plan y conspiraban.",
+                    "Hindi": "यह ग़ैब की ख़बरें हैं जो हम तुम्हारी ओर प्रकट कर रहे हैं। तुम उनके पास मौजूद नहीं थे जब उन्होंने अपना काम तय किया और साज़िश रची।"
+                  }
+                },
+                {
+                  "no": 103,
+                  "arabic": "وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+                  "transliteration": "Wa mā aktharu n-nāsi wa law ḥaraṣta bi-muʾminīn",
+                  "translations": {
+                    "English": "But most people, for all your eagerness, are not believers.",
+                    "Urdu": "اور اکثر لوگ، خواہ تم کتنی ہی کوشش کرو، ایمان نہیں لائیں گے۔",
+                    "French": "Et la plupart des gens, malgré ton ardeur, ne sont pas croyants.",
+                    "Spanish": "Pero la mayoría de los hombres, por más que lo anheles, no creerán.",
+                    "Hindi": "और अधिकांश लोग, चाहे तुम कितनी भी कोशिश करो, ईमान नहीं लाएँगे।"
+                  }
+                },
+                {
+                  "no": 104,
+                  "arabic": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+                  "transliteration": "Wa mā tasʾaluhum ʿalayhi min ajrin in huwa illā dhikrun lil-ʿālamīn",
+                  "translations": {
+                    "English": "You ask them no wage for it. It is only a reminder for all mankind.",
+                    "Urdu": "تم اس پر ان سے کوئی اجرت نہیں مانگتے۔ یہ تو بس سارے جہان والوں کے لیے ایک نصیحت ہے۔",
+                    "French": "Et tu ne leur demandes aucun salaire pour cela. Ce n’est qu’un rappel pour l’univers.",
+                    "Spanish": "No les pides a cambio ninguna retribución. Solo es un recordatorio para todos los mundos.",
+                    "Hindi": "तुम इस पर उनसे कोई मज़दूरी नहीं माँगते। यह तो बस सारे संसार वालों के लिए एक नसीहत है।"
+                  }
+                },
+                {
+                  "no": 105,
+                  "arabic": "وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+                  "transliteration": "Wa kaʾayyin min āyatin fī s-samāwāti wa l-arḍi yamurrūna ʿalayhā wa hum ʿanhā muʿriḍūn",
+                  "translations": {
+                    "English": "How many a sign in the heavens and the earth do they pass by, paying no attention to them?",
+                    "Urdu": "آسمانوں اور زمین میں کتنی ہی نشانیاں ہیں جن کے پاس سے وہ گزرتے ہیں اور ان سے منہ موڑ لیتے ہیں۔",
+                    "French": "Que de signes dans les cieux et sur la terre, devant lesquels ils passent en s’en détournant !",
+                    "Spanish": "¡Cuántos signos hay en los cielos y en la tierra que pasan ante ellos y a los que no prestan atención!",
+                    "Hindi": "आकाशों और धरती में कितनी ही निशानियाँ हैं जिनके पास से वे गुज़रते हैं और उनसे मुँह फेर लेते हैं।"
+                  }
+                },
+                {
+                  "no": 106,
+                  "arabic": "وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ",
+                  "transliteration": "Wa mā yuʾminu aktharuhum bi-Llāhi illā wa hum mushrikūn",
+                  "translations": {
+                    "English": "And most of them do not believe in God unless they associate others.",
+                    "Urdu": "اور ان میں سے اکثر اللہ پر ایمان نہیں لاتے مگر یہ کہ شرک کرتے ہوئے۔",
+                    "French": "Et la plupart d’entre eux ne croient en Allah qu’en Lui donnant des associés.",
+                    "Spanish": "Y la mayoría de ellos no creen en Allah sin asociarle copartícipes.",
+                    "Hindi": "और उनमें से अधिकांश अल्लाह पर ईमान नहीं लाते मगर यह कि शिर्क करते हुए।"
+                  }
+                },
+                {
+                  "no": 107,
+                  "arabic": "أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+                  "transliteration": "A-fa-amīnū an taʾtiyahum ghāshiyatun min ʿadhābi Llāhi aw taʾtiyahumu s-sāʿatu baghtatan wa hum lā yashʿurūn",
+                  "translations": {
+                    "English": "Do they feel secure that a covering of God’s punishment will not come upon them, or that the Hour will not come upon them suddenly, while they are unaware?",
+                    "Urdu": "کیا انہیں یہ اطمینان ہے کہ اللہ کے عذاب کا کوئی طوفان ان پر نہیں آئے گا، یا قیامت اچانک ان پر نہیں آ جائے گی اور وہ بےخبر ہوں گے؟",
+                    "French": "Se sentent-ils à l’abri de l’arrivée soudaine d’un châtiment d’Allah, ou de celle de l’Heure les surprenant sans qu’ils s’en rendent compte ?",
+                    "Spanish": "¿Acaso se sienten a salvo de que les sobrevenga un castigo de Allah que los cubra, o de que la Hora les llegue de repente sin que se den cuenta?",
+                    "Hindi": "क्या उन्हें यह अमन है कि अल्लाह की सज़ा का कोई आवरण उन पर नहीं आएगा, या क़यामत अचानक उन पर नहीं आ जाएगी और वे बेख़बर होंगे?"
+                  }
+                },
+                {
+                  "no": 108,
+                  "arabic": "قُلْ هَذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَى بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+                  "transliteration": "Qul hādhihī sabīlī adʿū ilā Llāhi ʿalā baṣīratin anā wa mani ttabaʿanī wa subḥāna Llāhi wa mā anā mina l-mushrikīn",
+                  "translations": {
+                    "English": "Say, “This is my way; I invite to God, based on clear knowledge—I and whoever follows me. Glory be to God; and I am not of the polytheists.”",
+                    "Urdu": "کہہ دو، یہ میرا راستہ ہے، میں اللہ کی طرف بلاتا ہوں، بصیرت کی بنیاد پر—میں اور جو میری پیروی کرے۔ اللہ پاک ہے، اور میں مشرکوں میں سے نہیں ہوں۔",
+                    "French": "Dis : « Voici ma voie, j’appelle les gens à Allah en toute clairvoyance, moi et ceux qui me suivent. Gloire à Allah ! Et je ne suis point du nombre des associateurs. »",
+                    "Spanish": "Di: «Este es mi camino: invito a Allah con clara percepción, yo y quienes me siguen. ¡Gloria a Allah! Yo no soy de los que asocian».",
+                    "Hindi": "कह दो, यह मेरा रास्ता है, मैं अल्लाह की ओर बुलाता हूँ, स्पष्ट ज्ञान के आधार पर—मैं और जो मेरी पैरवी करे। अल्लाह पाक है, और मैं मुशरिकों में से नहीं हूँ।"
+                  }
+                },
+                {
+                  "no": 109,
+                  "arabic": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ مِنْ أَهْلِ الْقُرَى أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا أَفَلَا تَعْقِلُونَ",
+                  "transliteration": "Wa mā arsalnā min qablika illā rijālan nūḥī ilayhim min ahli l-qurā a-fa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu alladhīna min qablihim wa la-dāru l-ākhirati khayrun lilladhīna ttaqaw a-fa-lā taʿqilūn",
+                  "translations": {
+                    "English": "We did not send before you except men, whom We inspired, from the people of the towns. Have they not roamed the earth and seen the consequences for those before them? The Home of the Hereafter is better for those who are righteous. Do you not understand?",
+                    "Urdu": "ہم نے تم سے پہلے بستیوں والوں میں سے مردوں ہی کو بھیجا جنہیں ہم نے وحی دی۔ کیا انہوں نے زمین میں سفر نہیں کیا تاکہ دیکھیں کہ ان سے پہلے لوگوں کا کیا انجام ہوا؟ آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے۔ کیا تم عقل نہیں رکھتے؟",
+                    "French": "Nous n’avons envoyé avant toi que des hommes originaires des cités, à qui Nous avons révélé. N’ont-ils pas parcouru la terre pour voir ce qu’il est advenu de ceux qui les ont précédés ? La demeure de l’au-delà est certes meilleure pour ceux qui craignent Allah. Ne raisonnez-vous pas ?",
+                    "Spanish": "No enviamos antes de ti sino hombres a quienes inspiramos, de entre la gente de las ciudades. ¿No han viajado por la tierra para ver cuál fue el final de quienes les precedieron? La morada de la otra vida es mejor para los piadosos. ¿Es que no razonáis?",
+                    "Hindi": "हमने तुमसे पहले बस्तियों वालों में से पुरुषों ही को भेजा जिन्हें हमने वह़्य की। क्या उन्होंने धरती में सफ़र नहीं किया ताकि देखें कि उनसे पहले लोगों का क्या अंजाम हुआ? आख़िरत का घर डर रखने वालों के लिए बेहतर है। क्या तुम अक्ल नहीं रखते?"
+                  }
+                },
+                {
+                  "no": 110,
+                  "arabic": "حَتَّى إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+                  "transliteration": "Ḥattā idhā stayʾasa r-rusulu wa ẓannū annahum qad kudhibū jāʾahum naṣrunā fa-nujjiya man nashāʾu wa lā yuraddu baʾsunā ʿani l-qawmi l-mujrimīn",
+                  "translations": {
+                    "English": "Until, when the messengers have despaired, and thought that they were rejected, Our help came to them. We save whomever We will, and Our severity is not averted from the guilty people.",
+                    "Urdu": "یہاں تک کہ جب رسولوں کو مایوسی ہوئی اور انہوں نے سمجھا کہ انہیں جھٹلا دیا گیا ہے، تو ہماری مدد ان کے پاس آ پہنچی۔ ہم جسے چاہتے ہیں بچا لیتے ہیں، اور ہمارا عذاب مجرم لوگوں سے ٹالا نہیں جاتا۔",
+                    "French": "Puis, lorsque les messagers désespérèrent et crurent avoir été traités de menteurs, Notre secours leur vint. Et Nous sauvâmes qui Nous voulûmes. Et Notre rigueur ne saurait être détournée des gens criminels.",
+                    "Spanish": "Hasta que, cuando los Mensajeros perdieron la esperanza y creyeron que se les había desmentido, les llegó Nuestro auxilio. Salvamos a quien quisimos, y Nuestro rigor no puede ser desviado de la gente criminal.",
+                    "Hindi": "यहाँ तक कि जब रसूलों को निराशा हुई और उन्होंने समझा कि उन्हें झुठला दिया गया है, तो हमारी मदद उनके पास आ पहुँची। हम जिसे चाहते हैं बचा लेते हैं, और हमारी सज़ा अपराधी लोगों से टली नहीं जाती।"
+                  }
+                },
+                {
+                  "no": 111,
+                  "arabic": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ مَا كَانَ حَدِيثًا يُفْتَرَى وَلَكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+                  "transliteration": "Laqad kāna fī qaṣaṣihim ʿibratun li-ulī l-albābi mā kāna ḥadīthan yuftarā wa lākin taṣdīqa alladhī bayna yadayhi wa tafṣīla kulli shayʾin wa hudan wa raḥmatan li-qawmin yuʾminūn",
+                  "translations": {
+                    "English": "In their stories is a lesson for those who possess intelligence. This is not a fabricated tale, but a confirmation of what came before it, and a detailed explanation of all things, and guidance, and mercy for people who believe.",
+                    "Urdu": "بے شک ان کے قصوں میں عقل والوں کے لیے عبرت ہے۔ یہ کوئی گھڑی ہوئی بات نہیں ہے، بلکہ اس سے پہلے کی چیزوں کی تصدیق ہے، اور ہر چیز کی تفصیل، اور ہدایت، اور ایمان والوں کے لیے رحمت۔",
+                    "French": "Il y a certes dans leurs récits une leçon pour les doués d’intelligence. Ce n’est point là un récit fabriqué, mais une confirmation de ce qui existait déjà avant lui, un exposé détaillé de toute chose, un guide et une miséricorde pour des gens qui croient.",
+                    "Spanish": "En sus historias hay una lección para los dotados de intelecto. No es un relato inventado, sino una confirmación de lo que había antes, una explicación detallada de todas las cosas, guía y misericordia para gente que cree.",
+                    "Hindi": "निश्चय ही उनके क़िस्सों में अक़्ल वालों के लिए इबरत है। यह कोई गढ़ी हुई बात नहीं है, बल्कि इससे पहले की चीज़ों की पुष्टि है, और हर चीज़ की विस्तृत व्याख्या, और हिदायत, और ईमान वालों के लिए रहमत।"
+                  }
+                }
+            
+        
+      
+    ]
+}

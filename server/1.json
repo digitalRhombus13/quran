@@ -1,0 +1,99 @@
+[{
+    "no": 1,
+    "name": "Al-Fatiha",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+        "transliteration": "Bismillāhir-Raḥmānir-Raḥīm",
+        "translations": {
+          "English": "In the name of God, the Gracious, the Merciful.",
+          "Urdu": "اللہ کے نام سے جو رحمن اور رحیم ہے۔",
+          "French": "Au nom de Dieu, le Tout Miséricordieux, le Très Miséricordieux.",
+          "Spanish": "En el nombre de Dios, el Clemente, el Misericordioso.",
+          "Hindi": "ईश्वर के नाम से, जो दयालु और कृपालु है।"
+        } 
+      
+      }, 
+      {
+        "no": 2,
+        "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+        "transliteration": "Al-ḥamdu lillāhi rabbil-‘ālamīn",
+        "translations": {
+          "English": "Praise be to God, Lord of the Worlds.",
+          "Urdu": "سب تعریف اللہ کے لیے ہے جو تمام جہانوں کا رب ہے۔",
+          "French": "Louange à Dieu, Seigneur des mondes.",
+          "Spanish": "Alabado sea Dios, Señor de los mundos.",
+          "Hindi": "ईश्वर की प्रशंसा हो, जो सभी विश्वों का प्रभु है।"
+        }
+       
+      },
+      {
+        "no": 3,
+        "arabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+        "transliteration": "Ar-Raḥmānir-Raḥīm",
+        "translations": {
+          "English": "The Most Gracious, the Most Merciful.",
+          "Urdu": "رحمن اور رحیم۔",
+          "French": "Le Tout Miséricordieux, le Très Miséricordieux.",
+          "Spanish": "El Más Clemente, el Más Misericordioso.",
+          "Hindi": "सर्वाधिक दयालु, सर्वाधिक कृपालु।"
+        }
+     
+      },
+      {
+        "no": 4,
+        "arabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+        "transliteration": "Māliki yawmiddīn",
+        "translations": {
+          "English": "Master of the Day of Judgment.",
+          "Urdu": "قیامت کے دن کا مالک۔",
+          "French": "Maître du Jour du Jugement.",
+          "Spanish": "Soberano del Día del Juicio.",
+          "Hindi": "न्याय के दिन का स्वामी।"
+        }
+       
+      },
+      {
+        "no": 5,
+        "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "transliteration": "Iyyāka na‘budu wa iyyāka nasta‘īn",
+        "translations": {
+          "English": "It is You we worship, and upon You we call for help.",       
+          "Urdu": "ہم تیری ہی عبادت کرتے ہیں اور تجھ سے ہی مدد مانگتے ہیں۔",       
+          "French": "C’est Toi que nous adorons, et c’est de Toi que nous implorons secours.",
+          "Spanish": "A Ti solo adoramos, y a Ti solo pedimos ayuda.",
+          "Hindi": "हम केवल तेरी ही पूजा करते हैं और केवल तुझसे ही सहायता मांगते है           ।"
+        }
+      
+      },
+      {
+        "no": 6,
+        "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+        "transliteration": "Ihdināṣ-ṣirāṭal-mustaqīm",
+        "translations": {
+          "English": "Guide us to the straight path.",
+          "Urdu": "ہمیں سیدھا راستہ دکھا۔",
+          "French": "Guide-nous sur le droit chemin.",
+          "Spanish": "Guíanos por el camino recto.",
+          "Hindi": "हमें सीधे मार्ग पर ले चल।"
+        }
+      
+      },
+      {
+        "no": 7,
+        "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَ                           يْهِمْ وَلَا ٱلضَّالِّينَ",
+        "transliteration": "Ṣirāṭalladhīna an‘amta ‘alayhim ghayril-maghḍūbi ‘alayhim walāḍ-ḍāllīn",
+        "translations": {
+          "English": "The path of those You have blessed, not those against whom there is anger, nor those who are misguided.",
+          "Urdu": "ان لوگوں کا راستہ جن پر تو نے انعام کیا، نہ کہ ان کا جن پر غضب ہوا اور نہ گمراہوں کا۔",
+          "French": "Le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
+          "Spanish": "El camino de aquellos a quienes has favorecido, no de los que han incurrido en Tu ira, ni de los extraviados.",
+          "Hindi": "उन लोगों का मार्ग जिन पर तूने कृपा की, न कि उन पर जिन पर क्रोध       है, और न ही भटके हुए लोगों का।"
+        }
+      
+      }
+    ]
+    
+  }
+]

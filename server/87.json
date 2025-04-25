@@ -1,0 +1,234 @@
+{
+    "no": 87,
+    "name": "Al-A'la",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+        "transliteration": "Sabbihi sma rabbika l-a'lā",
+        "translations": {
+          "English": "Praise the Name of your Lord, the Most High.",
+          "Urdu": "اپنے بلند مرتبہ رب کے نام کی تسبیح کرو۔",
+          "French": "Glorifie le nom de ton Seigneur, le Très-Haut,",
+          "Spanish": "Glorifica el nombre de tu Señor, el Altísimo,",
+          "Hindi": "अपने सर्वोच्च रब के नाम की पवित्रता बयान करो।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "الَّذِي خَلَقَ فَسَوَّى",
+        "transliteration": "Alladhī khalaqa fa sawwā",
+        "translations": {
+          "English": "He who creates and regulates.",
+          "Urdu": "جس نے پیدا کیا پھر درست کیا۔",
+          "French": "Celui qui a créé et agencé harmonieusement,",
+          "Spanish": "Quien crea y perfecciona,",
+          "Hindi": "जिसने पैदा किया फिर संवारा।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَالَّذِي قَدَّرَ فَهَدَى",
+        "transliteration": "Wa alladhī qaddara fa hadā",
+        "translations": {
+          "English": "He who measures and guides.",
+          "Urdu": "اور جس نے تقدیر بنائی پھر راہ دکھائی۔",
+          "French": "qui a décrété et guidé,",
+          "Spanish": "quien decreta y guía,",
+          "Hindi": "और जिसने तक़दीर बनाई फिर राह दिखाई।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَالَّذِي أَخْرَجَ الْمَرْعَى",
+        "transliteration": "Wa alladhī akhraja l-mar'ā",
+        "translations": {
+          "English": "He who produces the pasture.",
+          "Urdu": "اور جس نے چارہ اگایا۔",
+          "French": "et qui a fait pousser le pâturage,",
+          "Spanish": "y hace brotar los pastos,",
+          "Hindi": "और जिसने चारा उगाया।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَجَعَلَهُ غُثَاءً أَحْوَى",
+        "transliteration": "Fa ja'alahu ghuthā'an ahwā",
+        "translations": {
+          "English": "And then turns it into light debris.",
+          "Urdu": "پھر اسے سیاہ کوڑا کرکٹ بنا دیا۔",
+          "French": "puis en a fait une herbe sombre et desséchée.",
+          "Spanish": "y luego lo convierte en heno oscuro.",
+          "Hindi": "फिर उसे काला कूड़ा-करकट बना दिया।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "سَنُقْرِئُكَ فَلَا تَنْسَى",
+        "transliteration": "Sanuqri'uka fa lā tansā",
+        "translations": {
+          "English": "We will make you read, so do not forget.",
+          "Urdu": "ہم تمہیں پڑھائیں گے پھر تم بھول نہ جانا۔",
+          "French": "Nous te ferons réciter, et tu n’oublieras",
+          "Spanish": "Te haremos recitar y no olvidarás,",
+          "Hindi": "हम तुम्हें पढ़ाएँगे फिर तुम भूल न जाना।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "إِلَّا مَا شَاءَ اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَى",
+        "transliteration": "Illā mā shā'a llāhu innahu ya'lamu l-jahra wa mā yakhfā",
+        "translations": {
+          "English": "Except what God wills. He knows what is declared, and what is hidden.",
+          "Urdu": "مگر جو اللہ چاہے۔ بے شک وہ ظاہر اور پوشیدہ کو جانتا ہے۔",
+          "French": "sauf ce que Dieu veut. Car Il connaît ce qui est manifeste et ce qui est caché.",
+          "Spanish": "excepto lo que Dios quiera. Él conoce lo manifiesto y lo oculto.",
+          "Hindi": "मगर जो अल्लाह चाहे। बेशक वह ज़ाहिर और छिपी को जानता है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَى",
+        "transliteration": "Wa nuyassiruka li-l-yusrā",
+        "translations": {
+          "English": "We will ease you into the Easy Way.",
+          "Urdu": "اور ہم تمہیں آسانی کی راہ دکھائیں گے۔",
+          "French": "Nous te mettrons sur la voie la plus facile.",
+          "Spanish": "Y te facilitaremos el camino más fácil.",
+          "Hindi": "और हम तुम्हें आसान राह दिखाएँगे।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَى",
+        "transliteration": "Fa dhakkir in nafa'ati dh-dhikrā",
+        "translations": {
+          "English": "So remind, if reminding helps.",
+          "Urdu": "پس نصیحت کرو اگر نصیحت فائدہ دے۔",
+          "French": "Rappelle donc, si le rappel profite.",
+          "Spanish": "Así que advierte, si la advertencia es beneficiosa.",
+          "Hindi": "फिर नसीहत करो अगर नसीहत फ़ायदा दे।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "سَيَذَّكَّرُ مَنْ يَخْشَى",
+        "transliteration": "Sa yadhakkaru man yakhshā",
+        "translations": {
+          "English": "The reverent will remember.",
+          "Urdu": "ڈرنے والا نصیحت قبول کرے گا۔",
+          "French": "Celui qui craint (Dieu) s’en souviendra,",
+          "Spanish": "Quien tema (a Dios) recordará,",
+          "Hindi": "डरने वाला नसीहत क़बूल करेगा।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+        "transliteration": "Wa yatajannabuhā l-ashqā",
+        "translations": {
+          "English": "But the wretched will avoid it.",
+          "Urdu": "اور بدبخت اس سے کنارہ کرے گا۔",
+          "French": "tandis que le plus misérable s’en détournera,",
+          "Spanish": "pero el más desdichado la evitará,",
+          "Hindi": "और बदबख़्त उससे किनारा करेगा।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "الَّذِي يَصْلَى النَّارَ الْكُبْرَى",
+        "transliteration": "Alladhī yaṣlā n-nāra l-kubrā",
+        "translations": {
+          "English": "He who will enter the Gigantic Fire.",
+          "Urdu": "جو بڑی آگ میں داخل ہوگا۔",
+          "French": "Celui qui brûlera dans le plus grand Feu,",
+          "Spanish": "Quien ingresará al Fuego mayor,",
+          "Hindi": "जो बड़ी आग में दाख़िल होगा।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى",
+        "transliteration": "Thumma lā yamūtu fīhā wa lā yahyā",
+        "translations": {
+          "English": "Where he will neither die, nor live.",
+          "Urdu": "پھر وہ اس میں نہ مرے گا نہ جیے گا۔",
+          "French": "où il ne mourra ni ne vivra.",
+          "Spanish": "donde no morirá ni vivirá.",
+          "Hindi": "फिर वह उसमें न मरेगा न जिएगा।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "قَدْ أَفْلَحَ مَنْ تَزَكَّى",
+        "transliteration": "Qad aflaha man tazakkā",
+        "translations": {
+          "English": "Successful is he who purifies himself.",
+          "Urdu": "بیشک کامیاب ہوا وہ جس نے پاکی حاصل کی۔",
+          "French": "Réussit, certes, celui qui se purifie,",
+          "Spanish": "En verdad, triunfará quien se purifique,",
+          "Hindi": "बेशक कामयाब हुआ वह जिसने पाकी हासिल की।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى",
+        "transliteration": "Wa dhakara sma rabbihi fa sallā",
+        "translations": {
+          "English": "And mentions the name of his Lord, and prays.",
+          "Urdu": "اور اپنے رب کے نام کو یاد کیا پھر نماز پڑھی۔",
+          "French": "et invoque le nom de son Seigneur, puis célèbre la Salat.",
+          "Spanish": "y mencione el nombre de su Señor y ore.",
+          "Hindi": "और अपने रब के नाम को याद किया फिर नमाज़ पढ़ी।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+        "transliteration": "Bal tu'thirūna l-hayāta d-dunyā",
+        "translations": {
+          "English": "But you prefer the present life.",
+          "Urdu": "بلکہ تم دنیا کی زندگی کو ترجیح دیتے ہو۔",
+          "French": "Mais vous préférez plutôt la vie présente,",
+          "Spanish": "Pero vosotros preferís la vida mundanal,",
+          "Hindi": "बल्कि तुम दुनिया की ज़िंदगी को तरजीह देते हो।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَى",
+        "transliteration": "Wa l-ākhiratu khayrun wa abqā",
+        "translations": {
+          "English": "Though the Hereafter is better, and more lasting.",
+          "Urdu": "حالانکہ آخرت بہتر اور باقی رہنے والی ہے۔",
+          "French": "alors que l’au-delà est meilleur et plus durable.",
+          "Spanish": "cuando la otra vida es mejor y más duradera.",
+          "Hindi": "हालाँकि आख़िरत बेहतर और बाक़ी रहने वाली है।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "إِنَّ هَذَا لَفِي الصُّحُفِ الْأُولَى",
+        "transliteration": "Inna hādhā lafī s-suhufi l-ūlā",
+        "translations": {
+          "English": "This is in the former scriptures.",
+          "Urdu": "بے شک یہ (تعلیم) پہلی کتابوں میں بھی ہے۔",
+          "French": "Ceci se trouve, certes, dans les Feuilles anciennes,",
+          "Spanish": "En verdad, esto está en las primeras Escrituras,",
+          "Hindi": "बेशक यह (शिक्षा) पहली किताबों में भी है।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "صُحُفِ إِبْرَاهِيمَ وَمُوسَى",
+        "transliteration": "Suhufi ibrāhīma wa mūsā",
+        "translations": {
+          "English": "The Scriptures of Abraham and Moses.",
+          "Urdu": "ابراہیم اور موسیٰ کی کتابوں میں۔",
+          "French": "les Feuilles d’Abraham et de Moïse.",
+          "Spanish": "las Escrituras de Abraham y Moisés.",
+          "Hindi": "इब्राहीम और मूसा की किताबों में।"
+        }
+      }
+    ]
+  }

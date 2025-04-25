@@ -1,0 +1,950 @@
+{
+      "no": 22,
+      "name": "Al-Hajj",
+      "verses": [
+        {
+          "no": 1,
+          "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+          "translations": {
+            "English": "O people, be conscious of your Lord. The quaking of the Hour is a tremendous thing.",
+            "French": "Ô gens ! Craignez votre Seigneur. Le séisme de l'Heure est une chose terrible.",
+            "Urdu": "اے لوگو! اپنے رب سے ڈرو، بے شک قیامت کا زلزلہ بڑی ہولناک چیز ہے۔",
+            "Spanish": "¡Oh, gente! Temed a vuestro Señor, porque el temblor de la Hora será algo tremendo.",
+            "Hindi": "हे लोगो! अपने रब का भय रखो। क़यामत का भूकंप बड़ी भयंकर चीज़ है।"
+          }
+        },
+        {
+          "no": 2,
+          "arabic": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَى وَمَا هُمْ بِسُكَارَى وَلَكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+          "translations": {
+            "English": "On the Day when you will see it: every nursing mother will discard her infant, and every pregnant woman will abort her load, and you will see the people drunk, even though they are not drunk—but the punishment of God is severe.",
+            "French": "Le jour où vous la verrez, toute nourrice oubliera ce qu'elle allaitait, et toute femme enceinte avortera de ce qu'elle portait. Tu verras les gens ivres, bien qu'ils ne le soient pas; mais le châtiment d'Allah est terrible.",
+            "Urdu": "جس دن تم اسے دیکھو گے، ہر دودھ پلانے والی اپنی دودھ پینے والی سے غافل ہو جائے گی اور ہر حاملہ عورت اپنا حمل گرا دے گی اور تم لوگوں کو نشے میں دیکھو گے، حالانکہ وہ نشے میں نہیں ہوں گے بلکہ اللہ کا عذاب بہت سخت ہے۔",
+            "Spanish": "El día que la veáis, toda madre que amamanta olvidará a su hijo y toda mujer embarazada abortará. Verás a la gente embriagada, aunque no estén ebrios, sino que el castigo de Dios es severo.",
+            "Hindi": "जिस दिन तुम उसे देखोगे, हर दूध पिलाने वाली अपने बच्चे को भूल जाएगी, और हर गर्भवती अपना गर्भ गिरा देगी, और तुम लोगों को मतवाला देखोगे, जबकि वे मतवाले नहीं होंगे, बल्कि अल्लाह का अज़ाब बहुत कठोर है।"
+          }
+        },
+        {
+          "no": 3,
+          "arabic": "وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَانٍ مَرِيدٍ",
+          "transliteration": "Wa mina an-nāsi may yujādilu fī Allāhi bi-ghayri 'ilmiw wa yattabi'u kulla shayṭānim marīd",
+          "translations": {
+            "English": "Among the people is he who argues about God without knowledge, and follows every defiant devil.",
+            "Urdu": "اور بعض لوگ ایسے ہیں جو بغیر علم کے اللہ کے بارے میں جھگڑتے ہیں اور ہر سرکش شیطان کی پیروی کرتے ہیں۔",
+            "French": "Parmi les gens, il en est qui discutent au sujet d’Allah sans aucune science et suivent tout démon rebelle.",
+            "Spanish": "Entre los hombres hay quien discute acerca de Allah sin conocimiento y sigue a todo demonio rebelde.",
+            "Hindi": "और कुछ लोग ऐसे हैं जो बिना ज्ञान के अल्लाह के बारे में झगड़ते हैं और हर एक विद्रोही शैतान का अनुसरण करते हैं।"
+          }
+        },
+        {
+          "no": 4,
+          "arabic": "كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ وَيَهْدِيهِ إِلَى عَذَابِ السَّعِيرِ",
+          "transliteration": "Kutiba 'alayhi annahu man tawallāhu fa annahu yuḍilluhu wa yahdīhi ilā 'adhābi as-sa'īr",
+          "translations": {
+            "English": "It was decreed for him, that whoever follows him—he will misguide him, and lead him to the torment of the Blaze.",
+            "Urdu": "اس کے لیے لکھ دیا گیا ہے کہ جو بھی اس کی پیروی کرے گا، وہ اسے گمراہ کرے گا اور جہنم کے عذاب کی طرف لے جائے گا۔",
+            "French": "Il est décrété que quiconque le suit, il l’égarera et le conduira au châtiment de la Fournaise.",
+            "Spanish": "Está decretado que quien lo siga, él lo extraviará y lo conducirá al castigo del Fuego.",
+            "Hindi": "उसके लिए लिख दिया गया है कि जो कोई उसका अनुसरण करेगा, वह उसे गुमराह करेगा और जहन्नम के अज़ाब की तरफ़ ले जाएगा।"
+          }
+        },
+        {
+          "no": 5,
+          "arabic": "يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِنُبَيِّنَ لَكُمْ وَنُقِرُّ فِي الْأَرْحَامِ مَا نَشَاءُ إِلَى أَجَلٍ مُسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ وَمِنْكُمْ مَنْ يُتَوَفَّى وَمِنْكُمْ مَنْ يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْلَا يَعْلَمَ مِنْ بَعْدِ عِلْمٍ شَيْئًا وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ وَأَنْبَتَتْ مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+          "transliteration": "Yā ayyuhan-nāsu in kuntum fī raybim minal-ba'thi fa innā khalaqnākum min turābin thumma min nuṭfatin thumma min 'alaqatin thumma min muḍghatim mukhallaqatin wa ghayri mukhallaqatil li-nubayyina lakum, wa nuqirru fil-arḥāmi mā nashā'u ilā ajalin musammā, thumma nukhrijukum ṭiflan thumma li-tablughū ashuddakum, wa minkum may yutawaffā wa minkum may yuraddu ilā ardhali-l'umuri likay lā ya'lama min ba'di 'ilmin shay'ā, wa taral-arḍa hāmidatan fa idhā anzalnā 'alayhal-mā'ahtazzat wa rabat wa ambatat min kulli zawjin bahīj",
+          "translations": {
+            "English": "O people! If you are in doubt about the Resurrection—We created you from dust, then from a small drop, then from a clinging clot, then from a lump of flesh, partly developed and partly undeveloped. In order to clarify things for you. And We settle in the wombs whatever We will for a designated term, and then We bring you out as infants, until you reach your full strength. And some of you will pass away, and some of you will be returned to the vilest age, so that he may not know, after having known. And you see the earth still; but when We send down water on it, it vibrates, and swells, and grows all kinds of lovely pairs.",
+            "Urdu": "اے لوگو! اگر تمہیں قیامت کے بارے میں شک ہے تو ہم نے تمہیں مٹی سے پیدا کیا، پھر نطفہ سے، پھر خون کے لوتھڑے سے، پھر گوشت کے ایک ٹکڑے سے جو مکمل بھی ہوتا ہے اور نامکمل بھی، تاکہ ہم تم پر واضح کر دیں۔ اور ہم رحموں میں جو چاہتے ہیں ایک مقررہ مدت تک ٹھہراتے ہیں، پھر ہم تمہیں بچے کی صورت میں نکالتے ہیں، یہاں تک کہ تم اپنی پوری جوانی کو پہنچ جاؤ۔ اور تم میں سے بعض فوت ہو جاتے ہیں اور بعض کو انتہائی کمزور بڑھاپے کی طرف لوٹا دیا جاتا ہے تاکہ وہ جاننے کے بعد بھی کچھ نہ جان سکے۔ اور تم زمین کو مردہ دیکھتے ہو، پھر جب ہم اس پر پانی برساتے ہیں تو وہ ہلنے لگتی ہے، پھول اٹھتی ہے اور ہر قسم کی خوشنما چیزیں اگاتی ہے۔",
+            "French": "Ô hommes ! Si vous doutez de la résurrection, [sachez que] Nous vous avons créés de terre, puis d’une goutte de sperme, puis d’un caillot de sang, puis d’un embryon formé ou informe, pour vous montrer [Notre puissance]. Et Nous déposons dans les matrices ce que Nous voulons jusqu’à un terme fixé. Ensuite Nous vous en sortons [comme] bébés, pour qu’ensuite vous atteignez votre maturité. Certains parmi vous meurent [jeunes], et d’autres parviennent au plus vil de l’âge, si bien qu’ils ne savent plus rien après avoir su. Et tu vois la terre desséchée : dès que Nous y faisons descendre de l’eau, elle remue, se gonfle, et fait pousser toutes sortes de splendides couples de végétaux.",
+            "Spanish": "¡Oh, seres humanos! Si dudáis de la resurrección, [sabed que] os creamos a partir de tierra, luego de una gota de esperma, luego de un coágulo de sangre, luego de un embrión formado o sin formar, para mostraros [Nuestro poder]. Depositamos en las matrices lo que queremos hasta un plazo determinado. Luego os hacemos salir [como] bebés, para que luego alcancéis la madurez. Algunos de vosotros mueren [jóvenes], y otros alcanzan la vejez decrépita, hasta el punto de que ya no saben nada después de haber sabido. Y ves la tierra árida: cuando hacemos descender sobre ella agua, se agita, se hincha y hace brotar toda clase de hermosas plantas.",
+            "Hindi": "ऐ लोगो! अगर तुम्हें क़यामत के बारे में शक है तो हमने तुम्हें मिट्टी से पैदा किया, फिर वीर्य की बूँद से, फिर जमे हुए ख़ून के लोथड़े से, फिर मांस के एक लोथड़े से जो बना भी होता है और बिना बना भी, ताकि हम तुम पर स्पष्ट कर दें। और हम गर्भाशयों में जो चाहते हैं एक निर्धारित अवधि तक ठहराते हैं, फिर हम तुम्हें शिशु की शक्ल में निकालते हैं, यहाँ तक कि तुम अपनी पूरी जवानी को पहुँच जाते हो। और तुम में से कुछ मर जाते हैं और कुछ को बेहद कमज़ोर बुढ़ापे की तरफ़ लौटा दिया जाता है ताकि वह जानने के बाद भी कुछ न जान सके। और तुम धरती को सूना देखते हो, फिर जब हम उस पर पानी बरसाते हैं तो वह हिलने लगती है, फूल उठती है और हर तरह की ख़ूबसूरत चीज़ें उगाती है।"
+          }
+        },
+        {
+          "no": 6,
+          "arabic": "ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَى وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "transliteration": "Dhālika bi-anna Allāha huwa al-ḥaqqu wa annahu yuḥyī al-mawtā wa annahu 'alā kulli shay'in qadīr",
+          "translations": {
+            "English": "That is because God is the truth, and because He gives life to the dead, and because He is Capable of everything.",
+            "Urdu": "یہ اس لیے کہ اللہ ہی حق ہے اور وہی مردوں کو زندہ کرتا ہے اور وہ ہر چیز پر قادر ہے۔",
+            "French": "Cela, parce qu’Allah est la Vérité, et que c’est Lui qui rend la vie aux morts, et que c’est Lui qui est Omnipotent.",
+            "Spanish": "Esto es porque Allah es la Verdad, y Él da vida a los muertos, y Él es sobre toda cosa Poderoso.",
+            "Hindi": "यह इसलिए कि अल्लाह ही सच्चा है और वही मुर्दों को जिलाता है और वह हर चीज़ पर क़ादिर है।"
+          }
+        },
+        {
+          "no": 7,
+          "arabic": "وَأَنَّ السَّاعَةَ آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ",
+          "transliteration": "Wa anna as-sā'ata ātiyatul lā rayba fīhā wa anna Allāha yab'athu man fī al-qubūr",
+          "translations": {
+            "English": "And because the Hour is coming—there is no doubt about it—and because God will resurrect those in the graves.",
+            "Urdu": "اور یہ کہ قیامت آنے والی ہے، اس میں کوئی شک نہیں، اور یہ کہ اللہ قبروں والوں کو اٹھائے گا۔",
+            "French": "Et que l’Heure arrivera sans aucun doute, et qu’Allah ressuscitera ceux qui sont dans les tombeaux.",
+            "Spanish": "Y que la Hora llegará, no hay duda de ello, y que Allah resucitará a quienes están en las tumbas.",
+            "Hindi": "और यह कि क़यामत आने वाली है, इसमें कोई शक नहीं, और यह कि अल्लाह क़ब्रों वालों को उठाएगा।"
+          }
+        },
+        {
+          "no": 8,
+          "arabic": "وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ",
+          "transliteration": "Wa mina an-nāsi may yujādilu fī Allāhi bi-ghayri 'ilmin wa lā hudan wa lā kitābin munīr",
+          "translations": {
+            "English": "And among the people is he who argues about God without knowledge, or guidance, or an enlightening scripture.",
+            "Urdu": "اور بعض لوگ ایسے ہیں جو بغیر علم، ہدایت اور روشن کتاب کے اللہ کے بارے میں جھگڑتے ہیں۔",
+            "French": "Parmi les gens, il en est qui discutent au sujet d’Allah sans aucune science, ni guide, ni Livre éclairant.",
+            "Spanish": "Entre los hombres hay quien discute acerca de Allah sin conocimiento, ni guía, ni libro luminoso.",
+            "Hindi": "और कुछ लोग ऐसे हैं जो बिना ज्ञान, मार्गदर्शन और रोशन किताब के अल्लाह के बारे में झगड़ते हैं।"
+          }
+        },
+        {
+          "no": 9,
+          "arabic": "ثَانِيَ عِطْفِهِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ لَهُ فِي الدُّنْيَا خِزْيٌ وَنُذِيقُهُ يَوْمَ الْقِيَامَةِ عَذَابَ الْحَرِيقِ",
+          "transliteration": "Thāniya 'iṭfihi li-yuḍilla 'an sabīli Allāhi lahu fī ad-dunyā khizyun wa nudhīquhu yawma al-qiyāmati 'adhāba al-ḥarīq",
+          "translations": {
+            "English": "Turning aside in contempt, to lead away from the path of God. He will have humiliation in this world, and on the Day of Resurrection We will make him taste the agony of burning.",
+            "Urdu": "وہ تکبر سے منہ پھیرتا ہے تاکہ اللہ کے راستے سے گمراہ کرے۔ اس کے لیے دنیا میں رسوائی ہے اور قیامت کے دن ہم اسے جلنے کے عذاب کا مزہ چکھائیں گے۔",
+            "French": "Détournant [les gens] de la voie d’Allah avec arrogance, comme pour semer le trouble sur terre. Il aura l’ignominie ici-bas ; et le Jour de la Résurrection, Nous lui ferons goûter au châtiment du Feu ardent.",
+            "Spanish": "Apartando [a la gente] del camino de Allah con arrogancia, como para sembrar la discordia en la tierra. Tendrá la ignominia en esta vida; y el Día de la Resurrección le haremos gustar el castigo del Fuego ardiente.",
+            "Hindi": "वह अकड़कर मुँह फेरता है ताकि अल्लाह के रास्ते से गुमराह करे। उसके लिए दुनिया में बेइज़्ज़ती है और क़यामत के दिन हम उसे जलने के अज़ाब का मज़ा चखाएँगे।"
+          }
+        },
+        {
+          "no": 10,
+          "arabic": "ذَلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+          "transliteration": "Dhālika bi-mā qaddamat yadāka wa anna Allāha laysa bi-ẓallāmin lil-'abīd",
+          "translations": {
+            "English": "That is for what your hands have advanced, and because God is not unjust to the servants.",
+            "Urdu": "یہ اس لیے کہ تمہارے ہاتھوں نے آگے بھیجا ہے، اور یہ کہ اللہ بندوں پر ظلم کرنے والا نہیں ہے۔",
+            "French": "Voilà ce que tes deux mains ont accompli, car Allah n’est point injuste envers les serviteurs.",
+            "Spanish": "Eso es por lo que tus manos han cometido, porque Allah no es injusto con los siervos.",
+            "Hindi": "यह इसलिए कि तुम्हारे हाथों ने आगे भेजा है, और यह कि अल्लाह बन्दों पर ज़ुल्म करने वाला नहीं है।"
+          }
+        },
+        {
+          "no": 11,
+          "arabic": "وَمِنَ النَّاسِ مَنْ يَعْبُدُ اللَّهَ عَلَى حَرْفٍ فَإِنْ أَصَابَهُ خَيْرٌ اطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ انْقَلَبَ عَلَى وَجْهِهِ خَسِرَ الدُّنْيَا وَالْآخِرَةَ ذَلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+          "transliteration": "Wa mina an-nāsi may ya'budu Allāha 'alā ḥarfin fa in aṣābahū khayrun itma'anna bihī, wa in aṣābat-hu fitnatun inqalaba 'alā wajhihī khasira ad-dunyā wal-ākhirah, dhālika huwa al-khusrānu al-mubīn",
+          "translations": {
+            "English": "And among the people is he who worships God on edge. When something good comes his way, he is content with it. But when an ordeal strikes him, he makes a turnaround. He loses this world and the next. That is the obvious loss.",
+            "Urdu": "اور بعض لوگ ایسے ہیں جو اللہ کی عبادت کنارے پر کرتے ہیں۔ اگر اسے کوئی بھلائی ملتی ہے تو اس پر مطمئن ہو جاتا ہے، اور اگر کوئی آزمائش آتی ہے تو وہ الٹا منہ پھیر لیتا ہے۔ وہ دنیا اور آخرت دونوں کا نقصان اٹھاتا ہے۔ یہی صریح نقصان ہے۔",
+            "French": "Et parmi les gens, il en est qui adorent Allah de façon incertaine : si un bien lui advient, il s’en réjouit ; mais si une épreuve l’atteint, il renverse son visage, perdant ainsi [le bien de] la vie présente et la vie future. Voilà la perte évidente.",
+            "Spanish": "Y entre los hombres hay quien adora a Allah de manera incierta: si le llega un bien, se contenta; pero si le alcanza una prueba, da media vuelta, perdiendo así [el bien de] la vida mundanal y la otra vida. Esa es la pérdida evidente.",
+            "Hindi": "और कुछ लोग ऐसे हैं जो अल्लाह की इबादत किनारे पर करते हैं। अगर उसे कोई भलाई मिलती है तो उस पर संतुष्ट हो जाता है, और अगर कोई परीक्षा आती है तो वह उलटा मुँह फेर लेता है। वह दुनिया और आख़िरत दोनों का नुक़सान उठाता है। यही स्पष्ट नुक़सान है।"
+          }
+        },
+        {
+          "no": 12,
+          "arabic": "يَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُ وَمَا لَا يَنْفَعُهُ ذَلِكَ هُوَ الضَّلَالُ الْبَعِيدُ",
+          "transliteration": "Yad'ū min dūni Allāhi mā lā yaḍurruhū wa mā lā yanfa'uhū, dhālika huwa aḍ-ḍalālu al-ba'īd",
+          "translations": {
+            "English": "He invokes, instead of God, what can neither harm him nor benefit him. That is the far straying.",
+            "Urdu": "وہ اللہ کے سوا ایسے کو پکارتا ہے جو نہ اسے نقصان پہنچا سکتا ہے اور نہ نفع۔ یہی دور کی گمراہی ہے।",
+            "French": "Il invoque en dehors d’Allah ce qui ne peut ni lui nuire ni lui profiter. Voilà l’égarement profond.",
+            "Spanish": "Invoca en lugar de Allah lo que no puede dañarle ni beneficiarle. Esa es la desviación profunda.",
+            "Hindi": "वह अल्लाह के सिवा ऐसे को पुकारता है जो न उसे नुक़सान पहुँचा सकता है और न फ़ायदा। यही दूर की गुमराही है।"
+          }
+        },
+        {
+          "no": 13,
+          "arabic": "يَدْعُو لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ لَبِئْسَ الْمَوْلَى وَلَبِئْسَ الْعَشِيرُ",
+          "transliteration": "Yad'ū lamana ḍarruhū aqrabu min naf'ihī, la bi'sa al-mawlā wa la bi'sa al-'ashīr",
+          "translations": {
+            "English": "He invokes one whose harm is closer than his benefit. What a miserable master. What a miserable companion.",
+            "Urdu": "وہ ایسے کو پکارتا ہے جس کا نقصان اس کے نفع سے زیادہ قریب ہے۔ کیا ہی برا مالک ہے اور کیا ہی برا ساتھی ہے۔",
+            "French": "Il invoque celui qui est plus nuisible qu’utile. Quel mauvais allié ! Quel mauvais compagnon !",
+            "Spanish": "Invoca a quien es más perjudicial que beneficioso. ¡Qué pésimo aliado! ¡Qué pésimo compañero!",
+            "Hindi": "वह ऐसे को पुकारता है जिसका नुक़सान उसके फ़ायदे से ज़्यादा क़रीब है। क्या ही बुरा मालिक है और क्या ही बुरा साथी है।"
+          }
+        },
+        {
+          "no": 14,
+          "arabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ إِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+          "transliteration": "Inna Allāha yudkhilu alladhīna āmanū wa 'amilu aṣ-ṣāliḥāti jannātin tajrī min taḥtihā al-anhār, inna Allāha yaf'alu mā yurīd",
+          "translations": {
+            "English": "God will admit those who believe and do righteous deeds into Gardens beneath which rivers flow. God does whatever He wills.",
+            "Urdu": "بے شک اللہ ایمان لانے والوں اور نیک اعمال کرنے والوں کو ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی۔ بے شک اللہ جو چاہتا ہے کرتا ہے۔",
+            "French": "Certes, Allah introduit ceux qui croient et accomplissent les bonnes œuvres dans des Jardins sous lesquels coulent les ruisseaux. Allah fait ce qu’Il veut.",
+            "Spanish": "En verdad, Allah introducirá a quienes creen y obran rectamente en Jardines por donde corren ríos. Allah hace lo que quiere.",
+            "Hindi": "बेशक अल्लाह ईमान लाने वालों और नेक अमल करने वालों को ऐसे बाग़ों में दाख़िल करेगा जिनके नीचे नहरें बहती होंगी। बेशक अल्लाह जो चाहता है करता है।"
+          }
+        },
+        {
+          "no": 15,
+          "arabic": "مَنْ كَانَ يَظُنُّ أَنْ لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لْيَقْطَعْ فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ",
+          "transliteration": "Man kāna yaẓunnu an lan yanṣurahu Allāhu fī ad-dunyā wal-ākhirati fa lyamdud bi-sababin ilā as-samā'i thumma lyaqṭa' fa lyanẓur hal yudh-hibanna kayduhū mā yaghīẓ",
+          "translations": {
+            "English": "Whoever thinks that God will not help him in this life and in the Hereafter—let him turn to heaven, then sever, and see if his cunning eliminates what enrages him.",
+            "Urdu": "جو یہ گمان رکھتا ہے کہ اللہ اس کی دنیا اور آخرت میں مدد نہیں کرے گا، تو اسے چاہیے کہ آسمان کی طرف ایک رسی لٹکائے، پھر اسے کاٹ دے اور دیکھے کہ کیا اس کی چال اس کے غصے کو دور کر دیتی ہے۔",
+            "French": "Quiconque pense qu’Allah ne le secourra pas dans ce monde et dans l’au-delà, qu’il tende une corde vers le ciel, puis qu’il la coupe, et qu’il voie si sa ruse dissipe ce qui l’irrite.",
+            "Spanish": "Quien piense que Allah no le auxiliará en esta vida ni en la otra, que tienda una cuerda hacia el cielo, luego que la corte, y que vea si su artimaña disipa lo que le irrita.",
+            "Hindi": "जो यह गुमान रखता है कि अल्लाह उसकी दुनिया और आख़िरत में मदद नहीं करेगा, तो उसे चाहिए कि आसमान की तरफ़ एक रस्सी लटकाए, फिर उसे काट दे और देखे कि क्या उसकी चाल उसके ग़ुस्से को दूर कर देती है।"
+          }
+        },
+        {
+          "no": 16,
+          "arabic": "وَكَذَلِكَ أَنْزَلْنَاهُ آيَاتٍ بَيِّنَاتٍ وَأَنَّ اللَّهَ يَهْدِي مَنْ يُرِيدُ",
+          "transliteration": "Wa kadhalika anzalnāhu āyātin bayyinātin wa anna Allāha yahdī may yurīd",
+          "translations": {
+            "English": "Thus We revealed it as clarifying signs, and God guides whomever He wills.",
+            "Urdu": "اور اسی طرح ہم نے اسے واضح آیات کے ساتھ نازل کیا ہے، اور اللہ جسے چاہتا ہے ہدایت دیتا ہے۔",
+            "French": "Ainsi Nous l’avons fait descendre en versets clairs. Et Allah guide qui Il veut.",
+            "Spanish": "Y así lo hemos hecho descender como versículos claros. Y Allah guía a quien Él quiere.",
+            "Hindi": "और इसी तरह हमने इसे स्पष्ट आयतों के साथ उतारा है, और अल्लाह जिसे चाहता है हिदायत देता है।"
+          }
+        },
+        {
+          "no": 17,
+          "arabic": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئِينَ وَالنَّصَارَى وَالْمَجُوسَ وَالَّذِينَ أَشْرَكُوا إِنَّ اللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ شَهِيدٌ",
+          "transliteration": "Inna alladhīna āmanū wa alladhīna hādū wa aṣ-ṣābi'īna wa an-naṣārā wa al-majūsa wa alladhīna ashrakū, inna Allāha yafṣilu baynahum yawma al-qiyāmati inna Allāha 'alā kulli shay'in shahīd",
+          "translations": {
+            "English": "Those who believe, and those who are Jewish, and the Sabeans, and the Christians, and the Zoroastrians, and the Polytheists—God will judge between them on the Day of Resurrection. God is witness to all things.",
+            "Urdu": "جو لوگ ایمان لائے، اور یہودی، اور صابی، اور نصرانی، اور مجوسی، اور مشرک—اللہ قیامت کے دن ان کے درمیان فیصلہ کرے گا۔ بے شک اللہ ہر چیز کا گواہ ہے۔",
+            "French": "Certes, ceux qui ont cru, ceux qui se sont judaïsés, les Sabéens, les Chrétiens, les Mages et les polythéistes, Allah tranchera entre eux le Jour de la Résurrection. Car Allah est témoin de toute chose.",
+            "Spanish": "En verdad, los creyentes, los judíos, los sabeos, los cristianos, los magos y los idólatras, Allah decidirá entre ellos el Día de la Resurrección. En verdad, Allah es testigo de todas las cosas.",
+            "Hindi": "जो लोग ईमान लाए, और यहूदी, और साबिईन, और नसारा, और मजूसी, और मुशरिक—अल्लाह क़यामत के दिन उनके बीच फ़ैसला करेगा। बेशक अल्लाह हर चीज़ का गवाह है।"
+          }
+        },
+        
+        {
+          "no": 18,
+          "arabic": "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ وَمَنْ يُهِنِ اللَّهُ فَمَا لَهُ مِنْ مُكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ",
+          "transliteration": "Alam tara anna Allāha yasjudu lahu man fī as-samāwāti wa man fī al-arḍi wa ash-shamsu wa al-qamaru wa an-nujūmu wa al-jibālu wa ash-shajaru wa ad-dawābbu wa kathīrun mina an-nāsi wa kathīrun ḥaqqa 'alayhi al-'adhāb, wa may yuhini Allāhu fa mā lahu min mukrim, inna Allāha yaf'alu mā yashā'",
+          "translations": {
+            "English": "Do you not realize that to God prostrates everyone in the heavens and everyone on earth, and the sun, and the moon, and the stars, and the mountains, and the trees, and the animals, and many of the people? But many are justly deserving of punishment. Whomever God shames, there is none to honor him. God does whatever He wills.",
+            "Urdu": "کیا تم نہیں دیکھتے کہ اللہ کے سجدہ کرتے ہیں جو آسمانوں میں ہے اور جو زمین میں ہے، اور سورج، اور چاند، اور ستارے، اور پہاڑ، اور درخت، اور جانور، اور بہت سے لوگ؟ لیکن بہت سے لوگ عذاب کے مستحق ہیں۔ جسے اللہ ذلیل کرے، اسے کوئی عزت دینے والا نہیں۔ اللہ جو چاہتا ہے کرتا ہے۔",
+            "French": "Ne vois-tu pas que ceux qui sont dans les cieux et ceux qui sont sur la terre se prosternent devant Allah, ainsi que le soleil, la lune, les étoiles, les montagnes, les arbres, les animaux, et beaucoup de gens ? Mais beaucoup méritent le châtiment. Quiconque Allah avilit, nul ne peut l’honorer. Allah fait ce qu’Il veut.",
+            "Spanish": "¿No ves que quienes están en los cielos y en la tierra se prosternan ante Allah, así como el sol, la luna, las estrellas, las montañas, los árboles, los animales y muchos seres humanos? Pero muchos merecen el castigo. A quien Allah humilla, nadie puede honrarlo. Allah hace lo que quiere.",
+            "Hindi": "क्या तुम नहीं देखते कि अल्लाह को सज्दा करते हैं जो आसमानों में है और जो ज़मीन में है, और सूरज, और चाँद, और सितारे, और पहाड़, और पेड़, और जानवर, और बहुत से लोग? लेकिन बहुत से लोग अज़ाब के हक़दार हैं। जिसे अल्लाह रुसवा करे, उसे कोई इज़्ज़त देने वाला नहीं। अल्लाह जो चाहता है करता है।"
+          }
+        },
+        {
+          "no": 19,
+          "arabic": "هَذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِنْ نَارٍ يُصَبُّ مِنْ فَوْقِ رُءُوسِهِمُ الْحَمِيمُ",
+          "transliteration": "Hādhāni khaṣmāni ikhtaṣamū fī rabbihim, fa alladhīna kafarū quṭṭi'at lahum thiyābun min nārin yuṣabbu min fawqi ru'ūsihimu al-ḥamīm",
+          "translations": {
+            "English": "Here are two adversaries feuding regarding their Lord. As for those who disbelieve, garments of fire will be tailored for them, and scalding water will be poured over their heads.",
+            "Urdu": "یہ دو گروہ ہیں جو اپنے رب کے بارے میں جھگڑ رہے ہیں۔ رہے کافر، تو ان کے لیے آگ کے کپڑے بنائے جائیں گے، اور ان کے سروں پر کھولتا ہوا پانی انڈیلا جائے گا۔",
+            "French": "Voici deux groupes adverses qui disputent au sujet de leur Seigneur. À ceux qui mécroient, on taillera des vêtements de feu, tandis que sur leurs têtes on versera de l’eau bouillante.",
+            "Spanish": "He aquí dos bandos rivales que disputan acerca de su Señor. A los incrédulos se les confeccionarán vestiduras de fuego, y sobre sus cabezas se verterá agua hirviendo.",
+            "Hindi": "ये दो गिरोह हैं जो अपने रब के बारे में झगड़ रहे हैं। रहे काफ़िर, तो उनके लिए आग के कपड़े बनाए जाएँगे, और उनके सिरों पर उबलता हुआ पानी उंडेला जाएगा।"
+          }
+        },
+        {
+          "no": 20,
+          "arabic": "يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ",
+          "transliteration": "Yuṣharu bihi mā fī buṭūnihim wa al-julūd",
+          "translations": {
+            "English": "Melting their insides and their skins.",
+            "Urdu": "اس سے ان کے پیٹ اور کھالیں پگھل جائیں گی۔",
+            "French": "Elle fera fondre ce qui est dans leurs ventres ainsi que leurs peaux.",
+            "Spanish": "Se fundirá lo que hay en sus vientres y sus pieles.",
+            "Hindi": "इससे उनके पेट और खालें पिघल जाएँगी।"
+          }
+        },
+        {
+          "no": 21,
+          "arabic": "وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ",
+          "transliteration": "Wa lahum maqāmi'u min ḥadīd",
+          "translations": {
+            "English": "And they will have maces of iron.",
+            "Urdu": "اور ان کے لیے لوہے کے گرز ہوں گے।",
+            "French": "Et il y aura pour eux des maillets de fer.",
+            "Spanish": "Y tendrán mazas de hierro.",
+            "Hindi": "और उनके लिए लोहे के गुरज़ होंगे।"
+          }
+        },
+        {
+          "no": 22,
+          "arabic": "كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ",
+          "transliteration": "Kullamā arādū an yakhrujū minhā min ghammin u'īdū fīhā wa dhūqū 'adhāba al-ḥarīq",
+          "translations": {
+            "English": "Whenever they try to escape the gloom, they will be driven back to it: “Taste the suffering of burning.”",
+            "Urdu": "جب بھی وہ اس دکھ سے نکلنا چاہیں گے، انہیں واپس اس میں ڈال دیا جائے گا: \"جلنے کے عذاب کا مزہ چکھو۔\"",
+            "French": "Toutes les fois qu’ils voudront sortir de là, accablés de détresse, ils y seront ramenés : « Goûtez au châtiment du Feu. »",
+            "Spanish": "Cada vez que quieran salir de allí, abrumados por la angustia, serán devueltos: «Gustad el castigo del Fuego.»",
+            "Hindi": "जब भी वे इस दुख से निकलना चाहेंगे, उन्हें वापस इसी में डाल दिया जाएगा: \"जलने के अज़ाब का मज़ा चखो।\""
+          }
+        },
+        {
+          "no": 23,
+          "arabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+          "transliteration": "Inna Allāha yudkhilu alladhīna āmanū wa 'amilu aṣ-ṣāliḥāti jannātin tajrī min taḥtihā al-anhār, yuḥallawna fīhā min asāwira min dhahabin wa lu'lu'an wa libāsuhum fīhā ḥarīr",
+          "translations": {
+            "English": "But God will admit those who believe and do good deeds into Gardens beneath which rivers flow. They will be decorated therein with bracelets of gold and pearls, and their garments therein will be of silk.",
+            "Urdu": "اللہ ایمان لانے والوں اور نیک اعمال کرنے والوں کو ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، وہاں انہیں سونے اور موتی کے کنگن پہنائے جائیں گے، اور ان کے کپڑے ریشم کے ہوں گے۔",
+            "French": "Certes, Allah introduira ceux qui croient et accomplissent de bonnes œuvres dans des Jardins sous lesquels coulent les ruisseaux, où ils seront parés de bracelets d’or et de perles, et où leurs vêtements seront de soie.",
+            "Spanish": "En verdad, Allah introducirá a quienes creen y obran rectamente en Jardines por donde corren ríos, donde serán adornados con brazaletes de oro y perlas, y sus vestiduras serán de seda.",
+            "Hindi": "अल्लाह ईमान लाने वालों और नेक अमल करने वालों को ऐसे बाग़ों में दाख़िल करेगा जिनके नीचे नहरें बहती होंगी, वहाँ उन्हें सोने और मोती के कंगन पहनाए जाएँगे, और उनके कपड़े रेशम के होंगे।"
+          }
+        },
+        {
+          "no": 24,
+          "arabic": "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ",
+          "transliteration": "Wa hudū ilā aṭ-ṭayyibi min al-qawli wa hudū ilā ṣirāṭi al-ḥamīd",
+          "translations": {
+            "English": "They were guided to purity of speech. They were guided to the path of the Most Praised.",
+            "Urdu": "انہیں پاکیزہ باتوں کی ہدایت دی گئی اور قابل تعریف راستے کی ہدایت دی گئی۔",
+            "French": "Ils ont été guidés vers la bonne parole, et guidés vers le chemin du Digne de louange.",
+            "Spanish": "Han sido guiados a la buena palabra, y guiados al camino del Digno de alabanza.",
+            "Hindi": "उन्हें पाकीज़ा बातों की हिदायत दी गई और क़ाबिले तारीफ़ रास्ते की हिदायत दी गई।"
+          }
+        },
+        {
+          "no": 25,
+          "arabic": "إِنَّ الَّذِينَ كَفَرُوا وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَالْمَسْجِدِ الْحَرَامِ الَّذِي جَعَلْنَاهُ لِلنَّاسِ سَوَاءً الْعَاكِفُ فِيهِ وَالْبَادِ وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ نُذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+          "transliteration": "Inna alladhīna kafarū wa yaṣuddūna 'an sabīli Allāhi wa al-masjidi al-ḥarāmi alladhī ja'alnāhu li an-nāsi sawā'an al-'ākifu fīhi wa al-bādi, wa may yurid fīhi bi ilḥādin bi ẓulmin nudhiquhu min 'adhābin alīm",
+          "translations": {
+            "English": "As for those who disbelieve and repel from God’s path and from the Sacred Mosque—which We have designated for all mankind equally, whether residing therein or passing through—and seek to commit sacrilege therein—We will make him taste of a painful punishment.",
+            "Urdu": "جو لوگ کفر کرتے ہیں اور اللہ کے راستے سے اور مسجد حرام سے روکتے ہیں، جسے ہم نے تمام لوگوں کے لیے برابر قرار دیا ہے، خواہ وہ اس میں رہنے والے ہوں یا آس پاس کے، اور جو اس میں ظلم کے ساتھ کج روی کا ارادہ کرے، ہم اسے دردناک عذاب کا مزہ چکھائیں گے۔",
+            "French": "Ceux qui ont mécru et qui obstruent le chemin d’Allah et la Mosquée sacrée que Nous avons établie pour les gens, aussi bien pour celui qui y réside que pour l’étranger. Quiconque y cherchera un culte pervers par iniquité, Nous lui ferons goûter un châtiment douloureux.",
+            "Spanish": "Quienes no creen y apartan del camino de Allah y de la Mezquita Sagrada, que hemos establecido para toda la humanidad, tanto para el residente como para el forastero. Quien pretenda en ella desviarse con injusticia, le haremos gustar un castigo doloroso.",
+            "Hindi": "जो लोग कुफ़्र करते हैं और अल्लाह के रास्ते से और मस्जिद-ए-हराम से रोकते हैं, जिसे हमने सभी लोगों के लिए बराबर ठहराया है, चाहे वह उसमें रहने वाले हों या आस-पास के, और जो उसमें ज़ुल्म के साथ टेढ़ी चाल चले, हम उसे दर्दनाक अज़ाब का मज़ा चखाएँगे।"
+          }
+        },
+        {
+          "no": 26,
+          "arabic": "وَإِذْ بَوَّأْنَا لِإِبْرَاهِيمَ مَكَانَ الْبَيْتِ أَنْ لَا تُشْرِكْ بِي شَيْئًا وَطَهِّرْ بَيْتِيَ لِلطَّائِفِينَ وَالْقَائِمِينَ وَالرُّكَّعِ السُّجُودِ",
+          "transliteration": "Wa idh bawwa'nā li Ibrāhīma makāna al-bayti an lā tushrik bī shay'an wa ṭahhir baytiya liṭ-ṭā'ifīna wa al-qā'imīna wa ar-rukka'i as-sujūd",
+          "translations": {
+            "English": "We showed Abraham the location of the House: “Do not associate anything with Me; and purify My House for those who circle around, and those who stand to pray, and those who kneel and prostrate.”",
+            "Urdu": "اور جب ہم نے ابراہیم کو گھر کی جگہ دکھائی کہ میرے ساتھ کسی کو شریک نہ کرنا، اور میرے گھر کو طواف کرنے والوں، قیام کرنے والوں، رکوع و سجود کرنے والوں کے لیے پاک رکھنا۔",
+            "French": "Et quand Nous indiquâmes pour Abraham le lieu de la Maison [en lui disant] : « Ne M’associe rien ; et purifie Ma Maison pour ceux qui tournent autour, pour ceux qui s’y tiennent debout, qui s’y inclinent et s’y prosternent. »",
+            "Spanish": "Y cuando indicamos a Abraham el sitio de la Casa [diciéndole]: «No Me asocies nada y purifica Mi Casa para quienes la circunvalan, para quienes se mantienen en pie, se inclinan y se prosternan.»",
+            "Hindi": "और जब हमने इब्राहीम को घर की जगह दिखाई कि मेरे साथ किसी को शरीक न करना, और मेरे घर को तवाफ़ करने वालों, क़याम करने वालों, रुकू और सज्दा करने वालों के लिए पाक रखना।"
+          }
+        },
+        {
+          "no": 27,
+          "arabic": "وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَى كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ",
+          "transliteration": "Wa adh-dhin fī an-nāsi bil-ḥajji ya'tūka rijālan wa 'alā kulli ḍāmirin ya'tīna min kulli fajjin 'amīq",
+          "translations": {
+            "English": "And announce the pilgrimage to humanity. They will come to you on foot, and on every transport. They will come from every distant point.",
+            "Urdu": "اور لوگوں میں حج کا اعلان کر دو، وہ تمہارے پاس پیدل اور ہر دبلی سواری پر چل کر آئیں گے، ہر دور دراز راستے سے۔",
+            "French": "Et fais aux gens une annonce pour le Hajj. Ils viendront vers toi, à pied, et aussi sur toute monture, venant de tout chemin éloigné,",
+            "Spanish": "Y proclama a la gente la peregrinación. Vendrán a ti a pie y sobre toda montura, desde todo camino lejano,",
+            "Hindi": "और लोगों में हज का एलान कर दो, वह तुम्हारे पास पैदल और हर दुबली सवारी पर चलकर आएँगे, हर दूर के रास्ते से।"
+          }
+        },
+        {
+          "no": 28,
+          "arabic": "لِيَشْهَدُوا مَنَافِعَ لَهُمْ وَيَذْكُرُوا اسْمَ اللَّهِ فِي أَيَّامٍ مَعْلُومَاتٍ عَلَى مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ فَكُلُوا مِنْهَا وَأَطْعِمُوا الْبَائِسَ الْفَقِيرَ",
+          "transliteration": "Li yashhadū manāfi'a lahum wa yadhkurū asma Allāhi fī ayyāmin ma'lūmātin 'alā mā razaqahum min bahīmati al-an'ām, fa kulū minhā wa aṭ'imū al-bā'isa al-faqīr",
+          "translations": {
+            "English": "That they may witness the benefits for themselves, and celebrate the name of God during the appointed days, for providing them with the animal livestock. So eat from it, and feed the unfortunate poor.",
+            "Urdu": "تاکہ وہ اپنے لیے فوائد دیکھیں اور مقررہ دنوں میں اللہ کا نام لیں، انہیں چوپایوں کی روزی دینے پر۔ پس اس میں سے کھاؤ اور مصیبت زدہ فقیر کو کھلاؤ۔",
+            "French": "pour en retirer des avantages et invoquer le nom d’Allah aux jours fixés, sur la bête de cheptel qu’Il leur a attribuée. « Mangez-en vous-mêmes et donnez-en à manger au malheureux dans le besoin. »",
+            "Spanish": "para que presencien sus beneficios e invoquen el nombre de Allah en días conocidos, sobre lo que Él les ha proveído del ganado. «Comed de ello y dad de comer al indigente necesitado.»",
+            "Hindi": "ताकि वह अपने लिए फ़ायदे देखें और निर्धारित दिनों में अल्लाह का नाम लें, उन्हें चौपायों की रोज़ी देने पर। फिर उसमें से खाओ और मुसीबतज़दा फ़क़ीर को खिलाओ।"
+          }
+        },
+        {
+          "no": 29,
+          "arabic": "ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ",
+          "transliteration": "Thumma lyaqḍū tafathahum wa lyūfū nudhūrahum wa lyyaṭṭawwafū bil-bayti al-'atīq",
+          "translations": {
+            "English": "Then let them perform their acts of cleansing, and fulfill their vows, and circle around the Ancient House.",
+            "Urdu": "پھر وہ اپنی گندگی دور کریں اور اپنی نذریں پوری کریں اور قدیم گھر کا طواف کریں۔",
+            "French": "Ensuite, qu’ils mettent fin à leurs interdits, qu’ils accomplissent leurs vœux, et qu’ils fassent les circuits autour de l’Antique Maison.",
+            "Spanish": "Luego, que eliminen sus impurezas, que cumplan sus votos y que circunvalen la Casa Antigua.",
+            "Hindi": "फिर वह अपनी गंदगी दूर करें और अपनी नज़रें पूरी करें और पुराने घर का तवाफ़ करें।"
+          }
+        },
+        {
+          "no": 30,
+          "arabic": "ذَلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَى عَلَيْكُمْ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ",
+          "transliteration": "Dhālika wa may yu'aẓẓim ḥurumāti Allāhi fa huwa khayrun lahu 'inda rabbih, wa uḥillat lakumu al-an'āmu illā mā yutlā 'alaykum, fa ijtanibū ar-rijsa min al-awthāni wa ijtanibū qawla az-zūr",
+          "translations": {
+            "English": "All that. Whoever venerates the sanctities of God—it is good for him with his Lord. All livestock are permitted to you, except what is recited to you. So stay away from the abomination of idols, and stay away from perjury.",
+            "Urdu": "یہ سب۔ جو اللہ کی حرمتوں کی تعظیم کرے، تو یہ اس کے لیے اس کے رب کے ہاں بہتر ہے۔ تمہارے لیے تمام چوپائے حلال کیے گئے ہیں، سوائے اس کے جو تمہیں پڑھ کر سنایا جائے۔ پس بتوں کی گندگی سے بچو اور جھوٹی بات سے بچو۔",
+            "French": "Voilà [les ordres]. Quiconque vénère les rites sacrés d’Allah, cela émane de la piété des cœurs. Vous êtes autorisés à profiter des bêtes de troupeaux, sauf celles qui vous seront énumérées. Écartez-vous donc de la souillure des idoles et évitez les paroles mensongères.",
+            "Spanish": "Esto [es lo ordenado]. Quien respete los ritos sagrados de Allah, eso proviene de la piedad de los corazones. Se os ha permitido beneficiaros del ganado, excepto lo que se os ha mencionado. Apartaos, pues, de la impureza de los ídolos y evitad la palabra falsa.",
+            "Hindi": "यह सब। जो अल्लाह की हुरमतों की इज़्ज़त करे, तो यह उसके लिए उसके रब के यहाँ बेहतर है। तुम्हारे लिए सभी चौपाए हलाल किए गए हैं, सिवाय उसके जो तुम्हें पढ़कर सुनाया जाए। फिर मूर्तियों की गंदगी से बचो और झूठी बात से बचो।"
+          }
+        },
+        {
+          "no": 31,
+          "arabic": "حُنَفَاءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَنْ يُشْرِكْ بِاللَّهِ فَكَأَنَّمَا خَرَّ مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ",
+          "transliteration": "Ḥunafā'a lillāhi ghayra mushrikīna bih, wa may yushrik billāhi fa ka'annamā kharra min as-samā'i fa takhṭafuhu aṭ-ṭayru aw tahwī bihi ar-rīḥu fī makānin saḥīq",
+          "translations": {
+            "English": "Being true to God, without associating anything with Him. Whoever associates anything with God—it is as though he has fallen from the sky, and is snatched by the birds, or is swept away by the wind to a distant abyss.",
+            "Urdu": "اللہ کے لیے یکسو ہو کر، اس کے ساتھ کسی کو شریک نہ کرتے ہوئے۔ جو اللہ کے ساتھ کسی کو شریک کرے، تو گویا وہ آسمان سے گر پڑا اور پرندوں نے اسے اچک لیا یا ہوا اسے دور کی گہرائی میں لے گئی۔",
+            "French": "Sincères envers Allah, sans Lui associer quoi que ce soit. Quiconque associe à Allah, c’est comme s’il tombait du ciel et que les oiseaux l’emportaient ou que le vent le précipitait dans un abîme profond.",
+            "Spanish": "Sinceros con Allah, sin asociarle nada. Quien asocie algo a Allah, es como si cayera del cielo y los pájaros lo arrebataran o el viento lo arrojara a un abismo profundo.",
+            "Hindi": "अल्लाह के लिए एकाग्र होकर, उसके साथ किसी को शरीक न करते हुए। जो अल्लाह के साथ किसी को शरीक करे, तो गोया वह आसमान से गिर पड़ा और परिंदों ने उसे झपट लिया या हवा उसे दूर की गहराई में ले गई।"
+          }
+        },
+        {
+          "no": 32,
+          "arabic": "ذَلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ",
+          "transliteration": "Dhālika wa may yu'aẓẓim sha'ā'ira Allāhi fa innahā min taqwā al-qulūb",
+          "translations": {
+            "English": "So it is. Whoever venerates the sacraments of God—it is from the piety of the hearts.",
+            "Urdu": "یہی بات ہے۔ جو اللہ کی نشانیوں کی تعظیم کرے، تو یہ دلوں کے تقویٰ سے ہے।",
+            "French": "Il en est ainsi. Quiconque vénère les rites sacrés d’Allah, cela émane de la piété des cœurs.",
+            "Spanish": "Así es. Quien respete los ritos sagrados de Allah, eso proviene de la piedad de los corazones.",
+            "Hindi": "यही बात है। जो अल्लाह की निशानियों की इज़्ज़त करे, तो यह दिलों के तक़वा से है।"
+          }
+        },
+        {
+          "no": 33,
+          "arabic": "لَكُمْ فِيهَا مَنَافِعُ إِلَى أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ",
+          "transliteration": "Lakum fīhā manāfi'u ilā ajalin musammā, thumma maḥilluhā ilā al-bayti al-'atīq",
+          "translations": {
+            "English": "In them are benefits for you until a certain time. Then their place is by the Ancient House.",
+            "Urdu": "تمہارے لیے ان میں ایک مقررہ وقت تک فائدے ہیں، پھر ان کی قربان گاہ قدیم گھر کے پاس ہے۔",
+            "French": "Vous en profitez jusqu’à un terme fixé ; ensuite leur lieu de sacrifice est auprès de l’Antique Maison.",
+            "Spanish": "Podéis beneficiaros de ellos hasta un plazo fijado; luego, su lugar de sacrificio está junto a la Casa Antigua.",
+            "Hindi": "तुम्हारे लिए उनमें एक निर्धारित समय तक फ़ायदे हैं, फिर उनकी क़ुरबानगाह पुराने घर के पास है।"
+          }
+        },
+
+
+
+        
+          {
+            "no": 34,
+            "arabic": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا لِيَذْكُرُوا اسْمَ اللَّهِ عَلَى مَا رَزَقَهُمْ مِنْ بَهِيمَةِ الْأَنْعَامِ فَإِلَهُكُمْ إِلَهٌ وَاحِدٌ فَلَهُ أَسْلِمُوا وَبَشِّرِ الْمُخْبِتِينَ",
+            "transliteration": "Wa li kulli ummatin ja'alnā mansakan li yadhkurū asma Allāhi 'alā mā razaqahum min bahīmati al-an'ām, fa ilāhukum ilāhun wāḥidun fa lahu aslimū wa bashshiri al-mukhbitīn",
+            "translations": {
+              "English": "We have appointed a rite for every nation, that they may commemorate God’s name over the livestock He has provided for them. Your God is One God, so to Him submit, and announce good news to the humble.",
+              "Urdu": "ہم نے ہر امت کے لیے ایک قربانی کا طریقہ مقرر کیا ہے، تاکہ وہ ان چوپایوں پر اللہ کا نام لیں جو اس نے انہیں عطا کیے ہیں۔ تمہارا معبود ایک ہی معبود ہے، پس اسی کے آگے سر تسلیم خم کرو، اور عاجزی کرنے والوں کو خوشخبری سنا دو۔",
+              "French": "À chaque communauté, Nous avons assigné un rite sacrificiel, afin qu’ils invoquent le nom d’Allah sur la bête de cheptel qu’Il leur a attribuée. Votre Dieu est un Dieu Unique. Soumettez-vous donc à Lui. Et fais bonne annonce à ceux qui s’humilient,",
+              "Spanish": "A cada comunidad le hemos asignado un rito de sacrificio, para que invoquen el nombre de Allah sobre el ganado que Él les ha proveído. Vuestro Dios es un Dios Único. Sométanse, pues, a Él. Y albricia a los humildes,",
+              "Hindi": "हमने हर उम्मत के लिए एक क़ुरबानी का तरीक़ा मुक़र्रर किया है, ताकि वह उन चौपायों पर अल्लाह का नाम लें जो उसने उन्हें अता किए हैं। तुम्हारा माबूद एक ही माबूद है, फिर उसी के आगे सर झुकाओ, और नम्रता अपनाने वालों को ख़ुशख़बरी सुनाओ।"
+            }
+          },
+          {
+            "no": 35,
+            "arabic": "الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ وَالصَّابِرِينَ عَلَى مَا أَصَابَهُمْ وَالْمُقِيمِي الصَّلَاةِ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+            "transliteration": "Alladhīna idhā dhukira Allāhu wajilat qulūbuhum wa aṣ-ṣābirīna 'alā mā aṣābahum wa al-muqīmī aṣ-ṣalāti wa mimmā razaqnāhum yunfiqūn",
+            "translations": {
+              "English": "Those whose hearts tremble when God is mentioned, and those who endure what has befallen them, and those who perform the prayer and spend from what We have provided for them.",
+              "Urdu": "وہ لوگ جن کے دل اللہ کے ذکر سے ڈر جاتے ہیں، اور جو مصیبت پر صبر کرتے ہیں، اور نماز قائم کرتے ہیں، اور جو کچھ ہم نے انہیں دیا ہے اس میں سے خرچ کرتے ہیں۔",
+              "French": "ceux dont les cœurs frémissent quand on mentionne Allah, ceux qui endurent avec patience ce qui leur arrive, ceux qui accomplissent la prière et dépensent de ce que Nous leur avons attribué.",
+              "Spanish": "aquellos cuyos corazones tiemblan cuando se menciona a Allah, los que soportan con paciencia lo que les acontece, los que establecen la oración y gastan de lo que les hemos proveído.",
+              "Hindi": "वह लोग जिनके दिल अल्लाह के ज़िक्र से डर जाते हैं, और जो मुसीबत पर सब्र करते हैं, और नमाज़ क़ायम करते हैं, और जो कुछ हमने उन्हें दिया है उसमें से ख़र्च करते हैं।"
+            }
+          },
+          {
+            "no": 36,
+            "arabic": "وَالْبُدْنَ جَعَلْنَاهَا لَكُمْ مِنْ شَعَائِرِ اللَّهِ لَكُمْ فِيهَا خَيْرٌ فَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهَا صَوَافَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا مِنْهَا وَأَطْعِمُوا الْقَانِعَ وَالْمُعْتَرَّ كَذَلِكَ سَخَّرْنَاهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+            "transliteration": "Wa al-budna ja'alnāhā lakum min sha'ā'iri Allāhi lakum fīhā khayrun fa udhkurū asma Allāhi 'alayhā ṣawwāffa fa idhā wajabat junūbuhā fa kulū minhā wa aṭ'imū al-qāni'a wa al-mu'tarr, kadhālika sakhkharnāhā lakum la'allakum tashkurūn",
+            "translations": {
+              "English": "We have made the animal offerings emblems of God for you. In them is goodness for you. So pronounce God’s name upon them as they line up. Then, when they have fallen on their sides, eat of them and feed the contented and the beggar. Thus We have subjected them to you, that you may be thankful.",
+              "Urdu": "اور ہم نے قربانی کے اونٹوں کو اللہ کی نشانیوں میں سے تمہارے لیے بنایا ہے، تمہارے لیے ان میں بھلائی ہے۔ پس ان پر اللہ کا نام لو جب وہ صف بستہ کھڑے ہوں۔ پھر جب وہ اپنے پہلوؤں پر گر پڑیں تو ان میں سے کھاؤ اور قناعت کرنے والے اور مانگنے والے کو کھلاؤ۔ اسی طرح ہم نے انہیں تمہارے لیے مسخر کر دیا ہے، تاکہ تم شکر کرو۔",
+              "French": "Les bêtes sacrificielles, Nous vous les avons désignées comme faisant partie des rites établis par Allah. Il y a en elles un bien pour vous. Invoquez donc le nom d’Allah sur elles quand elles sont alignées. Puis, une fois qu’elles gisent sur le flanc, mangez-en et nourrissez-en le besogneux discret et le mendiant. Ainsi Nous vous les avons assujetties afin que vous soyez reconnaissants.",
+              "Spanish": "Los animales de sacrificio los hemos establecido para vosotros como parte de los ritos de Allah. Hay en ellos un bien para vosotros. Invocad, pues, el nombre de Allah sobre ellos cuando estén alineados. Luego, cuando caigan sobre sus costados, comed de ellos y alimentad al necesitado discreto y al mendigo. Así os los hemos sometido para que seáis agradecidos.",
+              "Hindi": "और हमने क़ुरबानी के ऊँटों को अल्लाह की निशानियों में से तुम्हारे लिए बनाया है, तुम्हारे लिए उनमें भलाई है। फिर उन पर अल्लाह का नाम लो जब वह कतारबद्ध खड़े हों। फिर जब वह अपने पहलुओं पर गिर पड़ें तो उनमें से खाओ और संतोष करने वाले और माँगने वाले को खिलाओ। इसी तरह हमने उन्हें तुम्हारे लिए मुतमइन कर दिया है, ताकि तुम शुक्र करो।"
+            }
+          },
+          {
+            "no": 37,
+            "arabic": "لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى مِنْكُمْ كَذَلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَبَشِّرِ الْمُحْسِنِينَ",
+            "transliteration": "Lan yanāla Allāha luḥūmuhā wa lā dimā'uhā wa lakin yanāluhu at-taqwā minkum, kadhālika sakhkharahā lakum li tukabbirū Allāha 'alā mā hadākum wa bashshiri al-muḥsinīn",
+            "translations": {
+              "English": "Neither their flesh, nor their blood, ever reaches God. What reaches Him is the righteousness from you. Thus He subdued them to you, that you may glorify God for guiding you. And give good news to the charitable.",
+              "Urdu": "نہ تو ان کا گوشت اللہ تک پہنچتا ہے اور نہ ان کا خون، لیکن اس تک تمہارا تقویٰ پہنچتا ہے۔ اسی طرح اس نے انہیں تمہارے لیے مسخر کر دیا ہے، تاکہ تم اللہ کی بڑائی بیان کرو اس پر کہ اس نے تمہیں ہدایت دی۔ اور نیکی کرنے والوں کو خوشخبری سنا دو۔",
+              "French": "Ni leurs chairs ni leurs sangs n’atteindront Allah, mais ce qui L’atteint de votre part, c’est la piété. Ainsi vous les a-t-Il assujettis, afin que vous proclamiez la grandeur d’Allah pour vous avoir guidés. Et annonce la bonne nouvelle aux bienfaisants.",
+              "Spanish": "Ni sus carnes ni sus sangres llegarán a Allah, sino que Le llegará vuestra piedad. Así os los ha sometido, para que proclaméis la grandeza de Allah por haberos guiado. Y albricia a los bienhechores.",
+              "Hindi": "न तो उनका गोश्त अल्लाह तक पहुँचता है और न उनका ख़ून, लेकिन उस तक तुम्हारा तक़वा पहुँचता है। इसी तरह उसने उन्हें तुम्हारे लिए मुतमइन कर दिया है, ताकि तुम अल्लाह की बड़ाई बयान करो इस पर कि उसने तुम्हें हिदायत दी। और अच्छा काम करने वालों को ख़ुशख़बरी सुनाओ।"
+            }
+          },
+          {
+            "no": 38,
+            "arabic": "إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+            "transliteration": "Inna Allāha yudāfi'u 'ani alladhīna āmanū, inna Allāha lā yuḥibbu kulla khawwānin kafūr",
+            "translations": {
+              "English": "God defends those who believe. God does not love any ungrateful traitor.",
+              "Urdu": "بے شک اللہ ایمان والوں کی مدد کرتا ہے۔ بے شک اللہ کسی بھی دغاباز ناشکرے کو پسند نہیں کرتا۔",
+              "French": "Allah défend ceux qui ont cru. Allah n’aime aucun traître ingrat.",
+              "Spanish": "En verdad, Allah defiende a los creyentes. En verdad, Allah no ama a ningún traidor ingrato.",
+              "Hindi": "बेशक अल्लाह ईमान वालों की हिफ़ाज़त करता है। बेशक अल्लाह किसी भी धोखेबाज़ नाशुक्रे को पसंद नहीं करता।"
+            }
+          },
+          {
+            "no": 39,
+            "arabic": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ عَلَى نَصْرِهِمْ لَقَدِيرٌ",
+            "transliteration": "Udhina lilladhīna yuqātalūna bi-annahum ẓulimū, wa inna Allāha 'alā naṣrihim laqadīr",
+            "translations": {
+              "English": "Permission is given to those who are fought against, and God is Able to give them victory.",
+              "Urdu": "اجازت دے دی گئی ہے انہیں جو لڑائی کا نشانہ بنائے جاتے ہیں، کیونکہ ان پر ظلم کیا گیا ہے، اور بے شک اللہ ان کی مدد پر قادر ہے۔",
+              "French": "Permission est donnée à ceux qui sont combattus, parce que vraiment ils ont été lésés. Et Allah est certes Capable de les secourir.",
+              "Spanish": "Se ha permitido [combatir] a quienes son atacados, porque han sido oprimidos. Y Allah es, en verdad, Poderoso para auxiliarles.",
+              "Hindi": "इजाज़त दे दी गई है उन्हें जो लड़ाई का निशाना बनाए जाते हैं, क्योंकि उन पर ज़ुल्म किया गया है, और बेशक अल्लाह उनकी मदद पर क़ादिर है।"
+            }
+          },
+          {
+            "no": 40,
+            "arabic": "الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ بِغَيْرِ حَقٍّ إِلَّا أَنْ يَقُولُوا رَبُّنَا اللَّهُ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ يُذْكَرُ فِيهَا اسْمُ اللَّهِ كَثِيرًا وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+            "transliteration": "Alladhīna ukhrijū min diyārihim bi-ghayri ḥaqqin illā an yaqūlū rabbunā Allāhu, wa law lā daf'u Allāhi an-nāsa ba'ḍahum bi-ba'ḍin lahuddimat ṣawāmi'u wa biya'un wa ṣalawātun wa masājidu yudhkaru fīhā asmu Allāhi kathīrā, wa la yanṣuranna Allāhu may yanṣuruh, inna Allāha laqawiyyun 'azīz",
+            "translations": {
+              "English": "Those who were unjustly evicted from their homes, merely for saying, “Our Lord is God.” Were it not that God repels people by means of others: monasteries, churches, synagogues, and mosques—where the name of God is mentioned much—would have been demolished. God supports whoever supports Him. God is Strong and Mighty.",
+              "Urdu": "وہ لوگ جنہیں ناحق ان کے گھروں سے نکال دیا گیا، صرف اس بات پر کہ وہ کہتے تھے: 'ہمارا رب اللہ ہے۔' اگر اللہ لوگوں کو ایک دوسرے کے ذریعے نہ روکتا تو گرجا گھر، عبادت گاہیں، صلیبیں اور مسجدیں، جن میں اللہ کا نام بکثرت لیا جاتا ہے، سب مسمار کر دی جاتیں۔ اللہ اس کی مدد کرتا ہے جو اس کی مدد کرے۔ بے شک اللہ طاقتور ہے، زبردست ہے۔",
+              "French": "Ceux qui ont été expulsés de leurs demeures, injustement, seulement parce qu’ils disaient : « Notre Seigneur est Allah. » Si Allah ne repoussait pas les gens les uns par les autres, les ermitages seraient démolis, ainsi que les églises, les synagogues et les mosquées où le nom d’Allah est beaucoup invoqué. Allah soutient, certes, ceux qui soutiennent (Sa Religion). Allah est assurément Fort et Puissant.",
+              "Spanish": "Aquellos que fueron expulsados de sus hogares injustamente, solo por decir: «Nuestro Señor es Allah.» Si Allah no hubiera repelido a unos pueblos mediante otros, habrían sido demolidos monasterios, iglesias, sinagogas y mezquitas donde se menciona mucho el nombre de Allah. Allah auxiliará a quienes Le auxilien. En verdad, Allah es Fuerte y Poderoso.",
+              "Hindi": "वह लोग जिन्हें नाहक़ उनके घरों से निकाल दिया गया, सिर्फ़ इस बात पर कि वह कहते थे: 'हमारा रब अल्लाह है।' अगर अल्लाह लोगों को एक-दूसरे के ज़रिए न रोकता तो गिरजे, इबादतगाहें, सलीबें और मस्जिदें, जिनमें अल्लाह का नाम बहुत लिया जाता है, सब ढहा दी जातीं। अल्लाह उसकी मदद करता है जो उसकी मदद करे। बेशक अल्लाह ताक़तवर है, ज़बरदस्त है।"
+            }
+          },
+          {
+            "no": 41,
+            "arabic": "الَّذِينَ إِنْ مَكَّنَّاهُمْ فِي الْأَرْضِ أَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ وَأَمَرُوا بِالْمَعْرُوفِ وَنَهَوْا عَنِ الْمُنْكَرِ وَلِلَّهِ عَاقِبَةُ الْأُمُورِ",
+            "transliteration": "Alladhīna in makkannāhum fī al-arḍi aqāmū aṣ-ṣalāta wa ātawu az-zakāta wa amarū bil-ma'rūfi wa nahaw 'ani al-munkari wa lillāhi 'āqibatu al-umūr",
+            "translations": {
+              "English": "Those who, when We empower them in the land, observe the prayer, and give regular charity, and command what is right, and forbid what is wrong. To God belongs the outcome of events.",
+              "Urdu": "وہ لوگ جنہیں اگر ہم زمین میں اقتدار دیں تو نماز قائم کریں، زکوٰۃ دیں، نیکی کا حکم کریں اور برائی سے روکیں۔ اور تمام معاملات کا انجام اللہ کے ہاتھ میں ہے۔",
+              "French": "Ceux qui, si Nous leur donnons la puissance sur terre, accomplissent la prière, acquittent la zakāt, ordonnent le convenable et interdisent le blâmable. Cependant, l’issue finale de toute chose appartient à Allah.",
+              "Spanish": "Aquellos que, si les damos poder en la tierra, establecen la oración, dan el azaque, ordenan el bien y prohíben el mal. Y a Allah pertenece el destino final de todos los asuntos.",
+              "Hindi": "वह लोग जिन्हें अगर हम ज़मीन में इख़्तियार दें तो नमाज़ क़ायम करें, ज़कात दें, नेकी का हुक्म दें और बुराई से रोकें। और सारे मामलों का अंजाम अल्लाह के हाथ में है।"
+            }
+          },
+          {
+            "no": 42,
+            "arabic": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ",
+            "transliteration": "Wa in yukadhdhibūka fa qad kadhdhabat qablahum qawmu Nūḥin wa 'Ādun wa Thamūd",
+            "translations": {
+              "English": "If they deny you—before them the people of Noah, and Aad, and Thamood also denied.",
+              "Urdu": "اور اگر وہ تمہیں جھٹلائیں تو ان سے پہلے قوم نوح، عاد اور ثمود نے بھی جھٹلایا تھا۔",
+              "French": "S’ils te traitent de menteur, avant eux les peuples de Noé, des ‘Aad et des Thamoud ont aussi traité [leurs prophètes] de menteurs.",
+              "Spanish": "Y si te desmienten, antes que ellos ya el pueblo de Noé, los ‘Ad y los Zamud desmintieron.",
+              "Hindi": "और अगर वह तुम्हें झुठलाएँ तो उनसे पहले क़ौम-ए-नूह, आद और थमूद ने भी झुठलाया था।"
+            }
+          },
+          {
+            "no": 43,
+            "arabic": "وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ",
+            "transliteration": "Wa qawmu Ibrāhīma wa qawmu Lūṭ",
+            "translations": {
+              "English": "And the people of Abraham, and the people of Lot.",
+              "Urdu": "اور قوم ابراہیم اور قوم لوط۔",
+              "French": "De même le peuple d’Abraham, le peuple de Lot,",
+              "Spanish": "Y el pueblo de Abraham y el pueblo de Lot.",
+              "Hindi": "और क़ौम-ए-इब्राहीम और क़ौम-ए-लूत।"
+            }
+          },
+          {
+            "no": 44,
+            "arabic": "وَأَصْحَابُ مَدْيَنَ وَكُذِّبَ مُوسَى فَأَمْلَيْتُ لِلْكَافِرِينَ ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ",
+            "transliteration": "Wa aṣḥābu Madyana wa kudhdhiba Mūsā fa amlaytu lil-kāfirīna thumma akhadhtuhum fa kayfa kāna nakīr",
+            "translations": {
+              "English": "And the inhabitants of Median. And Moses was denied. Then I reprieved those who disbelieved, but then I seized them. So how was My rejection?",
+              "Urdu": "اور مدین والے، اور موسیٰ کو جھٹلایا گیا۔ تو میں نے کافروں کو مہلت دی، پھر میں نے انہیں پکڑ لیا۔ تو میری پکڑ کیسی تھی؟",
+              "French": "et les habitants de Madyan. Et Moïse fut traité de menteur. J’ai donné un répit aux mécréants, puis Je les ai saisis. Et quel fut Mon désaveu !",
+              "Spanish": "Y los habitantes de Madián. Y Moisés fue desmentido. Di un plazo a los incrédulos, luego los castigué. ¡Y qué terrible fue Mi rechazo!",
+              "Hindi": "और मदयन वाले, और मूसा को झुठलाया गया। फिर मैंने काफ़िरों को मोहलत दी, फिर मैंने उन्हें पकड़ लिया। तो मेरी पकड़ कैसी थी?"
+            }
+          },
+          {
+            "no": 45,
+            "arabic": "فَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا وَهِيَ ظَالِمَةٌ فَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا وَبِئْرٍ مُعَطَّلَةٍ وَقَصْرٍ مَشِيدٍ",
+            "transliteration": "Fa ka'ayyin min qaryatin ahlaknāhā wa hiya ẓālimatun fa hiya khāwiyatun 'alā 'urūshihā wa bi'rin mu'aṭṭalatin wa qaṣrin mashīd",
+            "translations": {
+              "English": "How many a town have We destroyed while it was doing wrong? They lie in ruins; with stilled wells, and lofty mansions.",
+              "Urdu": "پس ہم نے کتنی ہی بستیوں کو ہلاک کیا جو ظالم تھیں، تو وہ اپنی چھتوں پر گر پڑیں، اور کتنے ہی کنوئیں ویران ہو گئے، اور کتنے ہی مضبوط محل۔",
+              "French": "Que de cités avons-Nous fait périr parce qu’elles étaient injustes ! Elles sont réduites à des toits écroulés. Que de puits abandonnés et de châteaux bien fortifiés [sont déserts] !",
+              "Spanish": "¡Cuántas ciudades destruimos por su injusticia! Quedaron reducidas a techos derrumbados. ¡Cuántos pozos abandonados y castillos bien fortificados [quedaron desiertos]!",
+              "Hindi": "फिर हमने कितनी ही बस्तियों को हलाक किया जो ज़ालिम थीं, तो वह अपनी छतों पर गिर पड़ीं, और कितने ही कुएँ उजड़ गए, और कितने ही मज़बूत महल।"
+            }
+          },
+          {
+            "no": 46,
+            "arabic": "أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ",
+            "transliteration": "A fa lam yasīrū fī al-arḍi fa takūna lahum qulūbun ya'qilūna bihā aw ādhānun yasma'ūna bihā, fa innahā lā ta'mā al-abṣāru wa lakin ta'mā al-qulūbu allatī fī aṣ-ṣudūr",
+            "translations": {
+              "English": "Have they not journeyed in the land, and had minds to reason with, or ears to listen with? It is not the eyes that go blind, but it is the hearts, within the chests, that go blind.",
+              "Urdu": "کیا انہوں نے زمین میں سفر نہیں کیا کہ ان کے دل ہوتے جن سے وہ سمجھتے، یا کان ہوتے جن سے وہ سنتے؟ درحقیقت آنکھیں اندھی نہیں ہوتیں، بلکہ دل اندھے ہو جاتے ہیں جو سینوں میں ہیں۔",
+              "French": "N’ont-ils pas parcouru la terre afin d’avoir des cœurs pour comprendre, et des oreilles pour entendre ? Car ce ne sont pas les yeux qui s’aveuglent, mais ce sont les cœurs dans les poitrines qui s’aveuglent.",
+              "Spanish": "¿No han viajado por la tierra para que tengan corazones con los que comprender y oídos con los que oír? En verdad, no son los ojos los que se ciegan, sino los corazones en los pechos los que se ciegan.",
+              "Hindi": "क्या उन्होंने ज़मीन में सफ़र नहीं किया कि उनके दिल होते जिनसे वह समझते, या कान होते जिनसे वह सुनते? दरअसल आँखें अंधी नहीं होतीं, बल्कि दिल अंधे हो जाते हैं जो सीनों में हैं।"
+            }
+          },
+          {
+            "no": 47,
+            "arabic": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ وَلَنْ يُخْلِفَ اللَّهُ وَعْدَهُ وَإِنَّ يَوْمًا عِنْدَ رَبِّكَ كَأَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ",
+            "transliteration": "Wa yasta'jilūnaka bil-'adhābi wa lan yukhlifa Allāhu wa'dah, wa inna yawman 'inda rabbika ka'alfi sanatin mimmā ta'uddūn",
+            "translations": {
+              "English": "And they ask you to hasten the punishment. But God never breaks His promise. A day with your Lord is like a thousand years of your count.",
+              "Urdu": "اور وہ تم سے عذاب کی جلدی چاہتے ہیں، حالانکہ اللہ اپنے وعدے کے خلاف نہیں کرتا۔ اور بے شک تمہارے رب کے ہاں ایک دن تمہارے حساب سے ہزار سال کے برابر ہے۔",
+              "French": "Et ils te demandent de hâter [l’arrivée] du châtiment. Allah cependant ne manquera jamais à Sa promesse. Mais, en vérité, un jour auprès de ton Seigneur est comme mille ans de ce que vous comptez.",
+              "Spanish": "Te piden que apresures el castigo. Pero Allah no faltará a Su promesa. En verdad, un día junto a tu Señor es como mil años de los que contáis.",
+              "Hindi": "और वह तुमसे अज़ाब की जल्दी चाहते हैं, हालाँकि अल्लाह अपने वादे के ख़िलाफ़ नहीं करता। और बेशक तुम्हारे रब के यहाँ एक दिन तुम्हारे हिसाब से हज़ार साल के बराबर है।"
+            }
+          },
+          {
+            "no": 48,
+            "arabic": "وَكَأَيِّنْ مِنْ قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ",
+            "transliteration": "Wa ka'ayyin min qaryatin amlaytu lahā wa hiya ẓālimatun thumma akhadhtuhā wa ilayya al-maṣīr",
+            "translations": {
+              "English": "How many a town have I reprieved, although it was unjust? Then I seized it. To Me is the destination.",
+              "Urdu": "اور کتنی ہی بستیاں ہیں جنہیں میں نے مہلت دی حالانکہ وہ ظالم تھیں، پھر میں نے انہیں پکڑ لیا، اور میری ہی طرف لوٹنا ہے۔",
+              "French": "Que de cités, cependant, qui étaient injustes, avons-Nous laissé vivre un certain temps, avant de les saisir ! C’est vers Moi qu’est le retour.",
+              "Spanish": "¡Cuántas ciudades, siendo injustas, les dimos un plazo, antes de castigarlas! Y hacia Mí es el retorno.",
+              "Hindi": "और कितनी ही बस्तियाँ हैं जिन्हें मैंने मोहलत दी हालाँकि वह ज़ालिम थीं, फिर मैंने उन्हें पकड़ लिया, और मेरी ही तरफ़ लौटना है।"
+            }
+          },
+          
+            {
+              "no": 49,
+              "arabic": "قُلْ يَا أَيُّهَا النَّاسُ إِنَّمَا أَنَا لَكُمْ نَذِيرٌ مُبِينٌ",
+              "transliteration": "Qul yā ayyuhā al-nāsu innamā anā lakum nadhīrun mubīn",
+              "translations": {
+                "English": "Say, ‘O people, I am only a plain warner to you.’",
+                "Urdu": "کہو، ‘اے لوگو! میں تو بس تمہارے لیے ایک واضح متنبہ کرنے والا ہوں۔’",
+                "French": "Dis : ‘Ô gens, je ne suis pour vous qu’un avertisseur clair.’",
+                "Spanish": "Di: ‘Oh gente, solo soy para vosotros un advertidor claro.’",
+                "Hindi": "कहो, ‘ऐ लोगों! मैं तो बस तुम्हारे लिए एक स्पष्ट चेतावनी देने वाला हूँ।’"
+              }
+            },
+            {
+              "no": 50,
+              "arabic": "فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+              "transliteration": "Fa-alladhīna āmanū wa ‘amilū al-ṣāliḥāti lahum maghfiratun wa rizqun karīm",
+              "translations": {
+                "English": "Those who believe and work righteousness—for them is forgiveness and a generous provision.",
+                "Urdu": "پس جو لوگ ایمان لائے اور نیک عمل کیے، ان کے لیے مغفرت اور عزت والا رزق ہے۔",
+                "French": "Ceux qui croient et accomplissent de bonnes œuvres, pour eux il y a le pardon et une provision généreuse.",
+                "Spanish": "Aquellos que creen y realizan obras justas, para ellos hay perdón y una provisión generosa.",
+                "Hindi": "जो लोग ईमान लाए और नेक काम किए, उनके लिए माफी और सम्मानजनक रिज़्क़ है।"
+              }
+            }
+          ,
+          {
+            "no": 51,
+            "arabic": "وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَئِكَ أَصْحَابُ الْجَحِيمِ",
+            "transliteration": "Wa alladhīna sa‘aw fī āyātinā mu‘ājizīna ulā’ika aṣḥābu al-jaḥīm",
+            "translations": {
+              "English": "But those who strive against Our revelations—these are the inmates of Hell.",
+              "Urdu": "اور جو لوگ ہماری آیات کے خلاف کوشش کرتے ہیں، وہ جہنم کے باشندے ہیں۔",
+              "French": "Mais ceux qui s’efforcent contre Nos révélations, ceux-là sont les habitants de l’Enfer.",
+              "Spanish": "Pero aquellos que se esfuerzan contra Nuestras revelaciones, esos son los habitantes del Infierno.",
+              "Hindi": "और जो लोग हमारी आयतों के खिलाफ कोशिश करते हैं, वे जहन्नम के बाशिंदे हैं।"
+            }
+          },
+          {
+            "no": 52,
+            "arabic": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنْسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+            "transliteration": "Wa mā arsalnā min qablika min rasūlin wa lā nabiyyin illā idhā tamannā alqā al-shayṭānu fī umniyyatihi fayansakhu Allāhu mā yulqī al-shayṭānu thumma yuḥkimu Allāhu āyātihi wa Allāhu ‘alīmun ḥakīm",
+            "translations": {
+              "English": "We never sent a messenger before you, or a prophet, but when he had a desire Satan interfered in his wishes. But God nullifies what Satan interjects, and God affirms His revelations. God is Omniscient and Wise.",
+              "Urdu": "اور ہم نے تم سے پہلے کوئی رسول یا نبی نہیں بھیجا مگر جب اس نے کوئی خواہش کی تو شیطان نے اس کی خواہش میں مداخلت کی۔ لیکن اللہ شیطان کی مداخلت کو منسوخ کر دیتا ہے، پھر اللہ اپنی آیات کو مضبوط کرتا ہے۔ اور اللہ سب کچھ جاننے والا، حکمت والا ہے۔",
+              "French": "Nous n’avons jamais envoyé avant toi de messager ou de prophète sans que, lorsqu’il formait un souhait, Satan n’interférât dans son désir. Mais Dieu annule ce que Satan introduit, puis Dieu raffermit Ses révélations. Dieu est Omniscient et Sage.",
+              "Spanish": "Nunca enviamos antes de ti a un mensajero o profeta sin que, cuando tenía un deseo, Satanás interfiriera en sus anhelos. Pero Dios anula lo que Satanás introduce, y Dios afirma Sus revelaciones. Dios es Omnisciente y Sabio.",
+              "Hindi": "और हमने तुमसे पहले कोई रसूल या नबी नहीं भेजा, सिवाय इसके कि जब उसने कोई इच्छा की, तो शैतान ने उसकी इच्छा में दखल दिया। लेकिन अल्लाह शैतान के दखल को रद्द कर देता है, फिर अल्लाह अपनी आयतों को पक्का करता है। और अल्लाह सर्वज्ञ, बुद्धिमान है।"
+            }
+          },
+          {
+            "no": 53,
+            "arabic": "لِيَجْعَلَ مَا يُلْقِي الشَّيْطَانُ فِتْنَةً لِلَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْقَاسِيَةِ قُلُوبُهُمْ وَإِنَّ الظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ",
+            "transliteration": "Liyaj‘ala mā yulqī al-shayṭānu fitnatan lilladhīna fī qulūbihim maraḍun wa al-qāsiyati qulūbuhum wa inna al-ẓālimīna lafī shiqāqin ba‘īd",
+            "translations": {
+              "English": "In order to make Satan’s suggestions a trial for those whose hearts are diseased, and those whose hearts are hardened. The wrongdoers are in profound discord.",
+              "Urdu": "تاکہ شیطان کی طرف سے ڈالی گئی چیز کو ان لوگوں کے لیے فتنہ بنا دے جن کے دلوں میں بیماری ہے اور جن کے دل سخت ہیں۔ اور بے شک ظالم بہت بڑی مخالفت میں ہیں۔",
+              "French": "Afin de faire des suggestions de Satan une épreuve pour ceux dont les cœurs sont malades et ceux dont les cœurs sont endurcis. Les injustes sont dans une profonde discorde.",
+              "Spanish": "Para hacer de las sugerencias de Satanás una prueba para aquellos cuyos corazones están enfermos y cuyos corazones están endurecidos. Los malhechores están en una profunda discordia.",
+              "Hindi": "ताकि शैतान की ओर से डाली गई चीज़ को उन लोगों के लिए आज़माइश बना दे जिनके दिलों में बीमारी है और जिनके दिल सख्त हैं। और निश्चित रूप से ज़ालिम बहुत बड़ी विरोध में हैं।"
+            }
+          },
+          {
+            "no": 54,
+            "arabic": "وَلِيَعْلَمَ الَّذِينَ أُوتُوا الْعِلْمَ أَنَّهُ الْحَقُّ مِنْ رَبِّكَ فَيُؤْمِنُوا بِهِ فَتُخْبِتَ لَهُ قُلُوبُهُمْ وَإِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+            "transliteration": "Wa liya‘lama alladhīna ūtū al-‘ilma annahu al-ḥaqqu min rabbika fayu’minū bihi fatukhbitu lahu qulūbuhum wa inna Allāha lahādi alladhīna āmanū ilā ṣirāṭin mustaqīm",
+            "translations": {
+              "English": "And so that those endowed with knowledge may know that it is the truth from your Lord, and so believe in it, and their hearts soften to it. God guides those who believe to a straight path.",
+              "Urdu": "اور تاکہ جن لوگوں کو علم دیا گیا وہ جان لیں کہ یہ تمہارے رب کی طرف سے حق ہے، سو وہ اس پر ایمان لائیں اور ان کے دل اس کے لیے نرم ہو جائیں۔ اور بے شک اللہ ایمان والوں کو سیدھے راستے کی طرف ہدایت دیتا ہے۔",
+              "French": "Et pour que ceux qui ont reçu le savoir sachent que c’est la vérité de ton Seigneur, qu’ils y croient et que leurs cœurs s’y adoucissent. Dieu guide ceux qui croient vers un chemin droit.",
+              "Spanish": "Y para que aquellos dotados de conocimiento sepan que es la verdad de tu Señor, y así crean en ella, y sus corazones se suavicen hacia ella. Dios guía a los que creen hacia un camino recto.",
+              "Hindi": "और ताकि जिन लोगों को ज्ञान दिया गया, वे जान लें कि यह तुम्हारे रब की ओर से सत्य है, ताकि वे उस पर ईमान लाएँ और उनके दिल उसके लिए नरम हो जाएँ। और निश्चित रूप से अल्लाह ईमान वालों को सीधे रास्ते की ओर मार्गदर्शन करता है।"
+            }
+          },
+          {
+            "no": 55,
+            "arabic": "وَلَا يَزَالُ الَّذِينَ كَفَرُوا فِي مِرْيَةٍ مِنْهُ حَتَّى تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+            "transliteration": "Wa lā yazālu alladhīna kafarū fī miryatin minhu ḥattā ta’tiyahumu al-sā‘atu baghtatan aw ya’tiyahum ‘adhābu yawmin ‘aqīm",
+            "translations": {
+              "English": "Those who disbelieve will continue to be hesitant about it, until the Hour comes upon them suddenly, or there comes to them the torment of a desolate Day.",
+              "Urdu": "اور کافر اس کے بارے میں شک میں رہیں گے یہاں تک کہ قیامت اچانک ان پر آ جائے یا ان پر ایک بنجر دن کا عذاب آئے۔",
+              "French": "Ceux qui mécroient resteront dans le doute à son sujet, jusqu’à ce que l’Heure leur arrive soudainement ou que leur parvienne le châtiment d’un jour stérile.",
+              "Spanish": "Los que no creen seguirán dudando al respecto, hasta que la Hora les llegue de repente o les llegue el tormento de un día desolado.",
+              "Hindi": "और काफिर इसके बारे में संदेह में रहेंगे, यहाँ तक कि क़ियामत अचानक उन पर आ जाए या उन पर एक बंजर दिन का अज़ाब आए।"
+            }
+          },
+          {
+            "no": 56,
+            "arabic": "الْمُلْكُ يَوْمَئِذٍ لِلَّهِ يَحْكُمُ بَيْنَهُمْ فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فِي جَنَّاتِ النَّعِيمِ",
+            "transliteration": "Al-mulku yawma’idhin lillāhi yaḥkumu baynahum fa-alladhīna āmanū wa ‘amilū al-ṣāliḥāti fī jannāti al-na‘īm",
+            "translations": {
+              "English": "Sovereignty on that Day belongs to God; He will judge between them. Those who believe and do good deeds will be in the Gardens of Bliss.",
+              "Urdu": "اس دن بادشاہی اللہ کے لیے ہوگی، وہ ان کے درمیان فیصلہ کرے گا۔ پس جو لوگ ایمان لائے اور نیک عمل کیے، وہ نعمتوں کے باغوں میں ہوں گے۔",
+              "French": "La souveraineté, ce jour-là, appartiendra à Dieu ; Il jugera entre eux. Ceux qui ont cru et fait de bonnes œuvres seront dans les Jardins de Délices.",
+              "Spanish": "La soberanía en ese Día pertenecerá a Dios; Él juzgará entre ellos. Los que creyeron e hicieron buenas obras estarán en los Jardines de la Felicidad.",
+              "Hindi": "उस दिन बादशाहत अल्लाह के लिए होगी; वह उनके बीच फैसला करेगा। जो लोग ईमान लाए और नेक काम किए, वे नेअमतों के बागों में होंगे।"
+            }
+          },
+          {
+            "no": 57,
+            "arabic": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُولَئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+            "transliteration": "Wa alladhīna kafarū wa kadhdhabū bi-āyātinā fa-ulā’ika lahum ‘adhābun muhīn",
+            "translations": {
+              "English": "But those who disbelieve and reject Our revelations—these will have a humiliating punishment.",
+              "Urdu": "اور جو لوگ کفر کرتے ہیں اور ہماری آیات کو جھٹلاتے ہیں، ان کے لیے ذلت آمیز عذاب ہے۔",
+              "French": "Mais ceux qui mécroient et rejettent Nos révélations, ceux-là auront un châtiment humiliant.",
+              "Spanish": "Pero aquellos que no creen y rechazan Nuestras revelaciones, esos tendrán un castigo humillante.",
+              "Hindi": "और जो लोग कुफ्र करते हैं और हमारी आयतों को झुठलाते हैं, उनके लिए अपमानजनक अज़ाब है।"
+            }
+          },
+          {
+            "no": 58,
+            "arabic": "وَالَّذِينَ هَاجَرُوا فِي سَبِيلِ اللَّهِ ثُمَّ قُتِلُوا أَوْ مَاتُوا لَيَرْزُقَنَّهُمُ اللَّهُ رِزْقًا حَسَنًا وَإِنَّ اللَّهَ لَهُوَ خَيْرُ الرَّازِقِينَ",
+            "transliteration": "Wa alladhīna hājarū fī sabīli Allāhi thumma qutilū aw mātū layarzuqannahumu Allāhu rizqan ḥasanan wa inna Allāha lahuwa khayru al-rāziqīn",
+            "translations": {
+              "English": "Those who emigrate in God’s cause, then get killed, or die, God will provide them with fine provisions. God is the Best of Providers.",
+              "Urdu": "اور جو لوگ اللہ کی راہ میں ہجرت کرتے ہیں، پھر قتل ہو جاتے ہیں یا مر جاتے ہیں، اللہ انہیں ضرور اچھا رزق دے گا۔ اور بے شک اللہ بہترین رزق دینے والا ہے۔",
+              "French": "Ceux qui émigrent pour la cause de Dieu, puis sont tués ou meurent, Dieu leur accordera certainement de belles provisions. Dieu est le Meilleur des Pourvoyeurs.",
+              "Spanish": "Aquellos que emigran por la causa de Dios y luego son asesinados o mueren, Dios les proveerá con excelentes provisiones. Dios es el Mejor de los Proveedores.",
+              "Hindi": "और जो लोग अल्लाह की राह में हिजरत करते हैं, फिर क़त्ल हो जाते हैं या मर जाते हैं, अल्लाह उन्हें ज़रूर अच्छा रिज़्क़ देगा। और निश्चित रूप से अल्लाह सबसे बेहतर रिज़्क़ देने वाला है।"
+            }
+          },
+          {
+            "no": 59,
+            "arabic": "لَيُدْخِلَنَّهُمْ مُدْخَلًا يَرْضَوْنَهُ وَإِنَّ اللَّهَ لَعَلِيمٌ حَلِيمٌ",
+            "transliteration": "Layudkhilannahum mudkhalan yarḍawnahu wa inna Allāha la‘alīmun ḥalīm",
+            "translations": {
+              "English": "He will admit them an admittance that will please them. God is Knowing and Clement.",
+              "Urdu": "وہ انہیں ایسی جگہ داخل کرے گا جس سے وہ راضی ہوں گے۔ اور بے شک اللہ سب کچھ جاننے والا، بردبار ہے۔",
+              "French": "Il les fera entrer dans un lieu dont ils seront satisfaits. Dieu est Savant et Clément.",
+              "Spanish": "Él los admitirá en un lugar que les agradará. Dios es Conocedor y Clemente.",
+              "Hindi": "वह उन्हें ऐसी जगह दाखिल करेगा जिससे वे राज़ी होंगे। और निश्चित रूप से अल्लाह सब कुछ जानने वाला, सहनशील है।"
+            }
+          },
+          {
+            "no": 60,
+            "arabic": "ذَلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِ ثُمَّ بُغِيَ عَلَيْهِ لَيَنْصُرَنَّهُ اللَّهُ إِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
+            "transliteration": "Dhālika wa man ‘āqaba bimithli mā ‘ūqiba bihi thumma bughiya ‘alayhi layanṣurannahu Allāhu inna Allāha la‘afuwwun ghafūr",
+            "translations": {
+              "English": "That is so! Whoever retaliates similarly to the affliction he was made to suffer, and then he is wronged again, God will definitely assist him. God is Pardoning and Forgiving.",
+              "Urdu": "یہ ہے! اور جو کوئی اسی طرح بدلہ لے جیسا اسے سزا دی گئی، پھر اس پر ظلم کیا جائے، اللہ ضرور اس کی مدد کرے گا۔ بے شک اللہ معاف کرنے والا، بخشنے والا ہے۔",
+              "French": "C’est ainsi ! Quiconque riposte à hauteur de ce qu’il a subi, puis est à nouveau opprimé, Dieu lui viendra certainement en aide. Dieu est Pardonneur et Miséricordieux.",
+              "Spanish": "¡Así es! Quien se vengue de manera similar al daño que sufrió, y luego es agraviado de nuevo, Dios ciertamente lo ayudará. Dios es Indulgente y Perdonador.",
+              "Hindi": "ऐसा ही है! जो कोई उसी तरह बदला ले जैसा उसे सजा दी गई, फिर उस पर ज़ुल्म किया जाए, अल्लाह ज़रूर उसकी मदद करेगा। निश्चित रूप से अल्लाह माफ करने वाला, क्षमाशील है।"
+            }
+          },
+          {
+            "no": 61,
+            "arabic": "ذَلِكَ بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَأَنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+            "transliteration": "Dhālika bi-anna Allāha yūliju al-layla fī al-nahāri wa yūliju al-nahāra fī al-layli wa anna Allāha samī‘un baṣīr",
+            "translations": {
+              "English": "That is because God merges the night into the day, and He merges the day into the night, and because God is Hearing and Seeing.",
+              "Urdu": "یہ اس لیے کہ اللہ رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے، اور اللہ سننے والا، دیکھنے والا ہے۔",
+              "French": "Cela parce que Dieu fait pénétrer la nuit dans le jour et le jour dans la nuit, et que Dieu est Audient et Voyant.",
+              "Spanish": "Eso es porque Dios fusiona la noche en el día y el día en la noche, y porque Dios es Oyente y Vidente.",
+              "Hindi": "यह इसलिए कि अल्लाह रात को दिन में और दिन को रात में मिलाता है, और अल्लाह सुनने वाला, देखने वाला है।"
+            }
+          },
+          {
+            "no": 62,
+            "arabic": "ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ",
+            "transliteration": "Dhālika bi-anna Allāha huwa al-ḥaqqu wa anna mā yad‘ūna min dūnihi huwa al-bāṭilu wa anna Allāha huwa al-‘aliyyu al-kabīr",
+            "translations": {
+              "English": "That is because God is the Reality, and what they invoke besides Him is vanity, and because God is the Sublime, the Grand.",
+              "Urdu": "یہ اس لیے کہ اللہ ہی حق ہے اور جو وہ اس کے سوا پکارتے ہیں وہ باطل ہے، اور اللہ بلند و بزرگ ہے۔",
+              "French": "Cela parce que Dieu est la Réalité, et ce qu’ils invoquent en dehors de Lui est le néant, et que Dieu est le Sublime, le Grand.",
+              "Spanish": "Eso es porque Dios es la Realidad, y lo que invocan además de Él es vanidad, y porque Dios es el Sublime, el Grande.",
+              "Hindi": "यह इसलिए कि अल्लाह ही हक़ है और जो वे उसके सिवा पुकारते हैं वह बातिल है, और अल्लाह सर्वोच्च, महान है।"
+            }
+          },
+          {
+            "no": 63,
+            "arabic": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَتُصْبِحُ الْأَرْضُ مُخْضَرَّةً إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+            "transliteration": "Alam tara anna Allāha anzala mina al-samā’i mā’an fatuṣbiḥu al-arḍu mukhḍarratan inna Allāha laṭīfun khabīr",
+            "translations": {
+              "English": "Do you not see that God sends down water from the sky, and the land becomes green? God is Kind and Aware.",
+              "Urdu": "کیا تم نے نہیں دیکھا کہ اللہ آسمان سے پانی اتارتا ہے، تو زمین سرسبز ہو جاتی ہے؟ بے شک اللہ نہایت مہربان، باخبر ہے۔",
+              "French": "Ne vois-tu pas que Dieu fait descendre de l’eau du ciel, et que la terre devient verte ? Dieu est Bienveillant et Informé.",
+              "Spanish": "¿No ves que Dios envía agua del cielo y la tierra se vuelve verde? Dios es Bondadoso y Consciente.",
+              "Hindi": "क्या तुमने नहीं देखा कि अल्लाह आसमान से पानी उतारता है, तो ज़मीन हरी-भरी हो जाती है? निश्चित रूप से अल्लाह अत्यंत दयालु, खबर रखने वाला है।"
+            }
+          },
+          {
+            "no": 64,
+            "arabic": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِنَّ اللَّهَ لَهُوَ الْغَنِيُّ الْحَمِيدُ",
+            "transliteration": "Lahu mā fī al-samāwāti wa mā fī al-arḍi wa inna Allāha lahuwa al-ghaniyyu al-ḥamīd",
+            "translations": {
+              "English": "To Him belongs everything in the heavens and everything on earth. God is the Rich, the Praised.",
+              "Urdu": "اس کے لیے ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے۔ اور بے شک اللہ ہی بے نیاز، قابلِ حمد ہے۔",
+              "French": "À Lui appartient tout ce qui est dans les cieux et sur la terre. Dieu est le Riche, le Digne de louanges.",
+              "Spanish": "A Él pertenece todo lo que está en los cielos y en la tierra. Dios es el Rico, el Alabado.",
+              "Hindi": "उसके लिए है जो कुछ आसमानों में है और जो कुछ ज़मीन में है। और निश्चित रूप से अल्लाह ही बेनियाज़, प्रशंसनीय है।"
+            }
+          },
+          {
+            "no": 65,
+            "arabic": "أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي الْأَرْضِ وَالْفُلْكَ تَجْرِي فِي الْبَحْرِ بِأَمْرِهِ وَيُمْسِكُ السَّمَاءَ أَنْ تَقَعَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+            "transliteration": "Alam tara anna Allāha sakhkhara lakum mā fī al-arḍi wa al-fulka tajrī fī al-baḥri bi-amrihi wa yumsiku al-samā’a an taqa‘a ‘alā al-arḍi illā bi-idhnihi inna Allāha bil-nāsi lara’ūfun raḥīm",
+            "translations": {
+              "English": "Do you not see that God made everything on earth subservient to you? How the ships sail at sea by His command? That He holds up the sky lest it falls on earth—except by His permission? God is Gracious towards the people, Most Merciful.",
+              "Urdu": "کیا تم نے نہیں دیکھا کہ اللہ نے تمہارے لیے زمین کی ہر چیز کو مسخر کر دیا؟ اور کشتیاں اس کے حکم سے سمندر میں چلتی ہیں؟ اور وہ آسمان کو روکتا ہے کہ زمین پر نہ گرے، سوائے اس کے اذن کے۔ بے شک اللہ لوگوں پر نہایت مہربان، رحم کرنے والا ہے۔",
+              "French": "Ne vois-tu pas que Dieu a assujetti pour vous tout ce qui est sur la terre ? Et que les navires voguent sur la mer par Son ordre ? Qu’Il retient le ciel de tomber sur la terre, sauf par Sa permission ? Dieu est Bienveillant et Très Miséricordieux envers les gens.",
+              "Spanish": "¿No ves que Dios ha sometido a tu servicio todo lo que hay en la tierra? ¿Cómo los barcos navegan en el mar por Su mandato? ¿Que Él sostiene el cielo para que no caiga sobre la tierra, salvo con Su permiso? Dios es Benévolo y Muy Misericordioso con la gente.",
+              "Hindi": "क्या तुमने नहीं देखा कि अल्लाह ने तुम्हारे लिए ज़मीन की हर चीज़ को वश में कर दिया? और जहाज़ उसके हुक्म से समुद्र में चलते हैं? और वह आसमान को रोकता है कि ज़मीन पर न गिरे, सिवाय उसकी इजाज़त के। निश्चित रूप से अल्लाह लोगों पर अत्यंत दयालु, रहम करने वाला है।"
+            }
+          },
+          {
+            "no": 66,
+            "arabic": "وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ الْإِنْسَانَ لَكَفُورٌ",
+            "transliteration": "Wa huwa alladhī aḥyākum thumma yumītukum thumma yuḥyīkum inna al-insāna lakafūr",
+            "translations": {
+              "English": "And it is He who gives you life, then makes you die, then revives you. The human being is unappreciative.",
+              "Urdu": "اور وہی ہے جس نے تمہیں زندگی دی، پھر تمہیں موت دیتا ہے، پھر تمہیں دوبارہ زندہ کرتا ہے۔ بے شک انسان ناشکرا ہے۔",
+              "French": "Et c’est Lui qui vous donne la vie, puis vous fait mourir, puis vous redonne vie. L’homme est vraiment ingrat.",
+              "Spanish": "Y es Él quien os da la vida, luego os hace morir, y luego os revive. El ser humano es desagradecido.",
+              "Hindi": "और वही है जिसने तुम्हें ज़िंदगी दी, फिर तुम्हें मौत देता है, फिर तुम्हें दोबारा ज़िंदा करता है। निश्चित रूप से इंसान नाशुक्रा है।"
+            }
+          },
+          {
+            "no": 67,
+            "arabic": "لِكُلِّ أُمَّةٍ جَعَلْنَا مَنْسَكًا هُمْ نَاسِكُوهُ فَلَا يُنَازِعُنَّكَ فِي الْأَمْرِ وَادْعُ إِلَى رَبِّكَ إِنَّكَ لَعَلَى هُدًى مُسْتَقِيمٍ",
+            "transliteration": "Likulli ummatin ja‘alnā mansakan hum nāsikūhu falā yunāzi‘unnaka fī al-amri wa ad‘u ilā rabbika innaka la‘alā hudan mustaqīm",
+            "translations": {
+              "English": "For every congregation We have appointed acts of devotion, which they observe. So do not let them dispute with you in this matter. And invite to your Lord; you are upon a straight guidance.",
+              "Urdu": "ہر امت کے لیے ہم نے عبادت کے طریقے مقرر کیے ہیں جن پر وہ عمل کرتے ہیں۔ پس وہ اس معاملے میں تم سے جھگڑا نہ کریں۔ اور اپنے رب کی طرف بلاؤ؛ بے شک تم سیدھے ہدایت پر ہو۔",
+              "French": "Pour chaque communauté, Nous avons institué des rites qu’ils observent. Qu’ils ne te disputent donc pas à ce sujet. Et invite à ton Seigneur ; tu es certes sur une guidance droite.",
+              "Spanish": "Para cada comunidad Hemos establecido actos de devoción que ellos observan. Así que no dejes que discutan contigo sobre este asunto. E invita a tu Señor; tú estás en una guía recta.",
+              "Hindi": "हर उम्मत के लिए हमने इबादत के तरीके मुकर्रर किए हैं जिन पर वे अमल करते हैं। तो वे इस मामले में तुमसे झगड़ा न करें। और अपने रब की ओर बुलाओ; निश्चित रूप से तुम सीधे मार्गदर्शन पर हो।"
+            }
+          },
+          {
+            "no": 68,
+            "arabic": "وَإِنْ جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ",
+            "transliteration": "Wa in jādalūka faquli Allāhu a‘lamu bimā ta‘malūn",
+            "translations": {
+              "English": "But if they dispute with you, say, ‘God is fully aware of what you do.’",
+              "Urdu": "اور اگر وہ تم سے جھگڑیں تو کہو، ‘اللہ تمہارے اعمال سے بہتر جانتا ہے۔’",
+              "French": "Et s’ils te contredisent, dis : ‘Dieu sait parfaitement ce que vous faites.’",
+              "Spanish": "Pero si discuten contigo, di: ‘Dios sabe perfectamente lo que hacéis.’",
+              "Hindi": "और अगर वे तुमसे बहस करें, तो कहो, ‘अल्लाह तुम्हारे कर्मों को बेहतर जानता है।’"
+            }
+          },
+          {
+            "no": 69,
+            "arabic": "اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ فِيمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+            "transliteration": "Allāhu yaḥkumu baynakum yawma al-qiyāmati fīmā kuntum fīhi takhtalifūn",
+            "translations": {
+              "English": "God will judge between you on the Day of Resurrection regarding what you disagree about.",
+              "Urdu": "اللہ قیامت کے دن تمہارے درمیان فیصلہ کرے گا اس بارے میں جس میں تم اختلاف کرتے تھے۔",
+              "French": "Dieu jugera entre vous le Jour de la Résurrection au sujet de ce sur quoi vous divergiez.",
+              "Spanish": "Dios juzgará entre vosotros en el Día de la Resurrección respecto a lo que discrepabais.",
+              "Hindi": "अल्लाह क़ियामत के दिन तुम्हारे बीच फैसला करेगा उस बारे में जिसमें तुम मतभेद करते थे।"
+            }
+          },
+          {
+            "no": 70,
+            "arabic": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاءِ وَالْأَرْضِ إِنَّ ذَلِكَ فِي كِتَابٍ إِنَّ ذَلِكَ عَلَى اللَّهِ يَسِيرٌ",
+            "transliteration": "Alam ta‘lam anna Allāha ya‘lamu mā fī al-samā’i wa al-arḍi inna dhālika fī kitābin inna dhālika ‘alā Allāhi yasīr",
+            "translations": {
+              "English": "Do you not know that God knows everything in the heavens and the earth? This is in a book. That is easy for God.",
+              "Urdu": "کیا تم نہیں جانتے کہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب جانتا ہے؟ یہ سب ایک کتاب میں ہے۔ یہ اللہ کے لیے آسان ہے۔",
+              "French": "Ne sais-tu pas que Dieu sait tout ce qui est dans les cieux et sur la terre ? Cela est dans un livre. Cela est facile pour Dieu.",
+              "Spanish": "¿No sabes que Dios conoce todo lo que hay en los cielos y en la tierra? Esto está en un libro. Eso es fácil para Dios.",
+              "Hindi": "क्या तुम नहीं जानते कि अल्लाह आसमानों और ज़मीन में जो कुछ है, सब जानता है? यह सब एक किताब में है। यह अल्लाह के लिए आसान है।"
+            }
+          },
+          {
+            "no": 71,
+            "arabic": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَا لَيْسَ لَهُمْ بِهِ عِلْمٌ وَمَا لِلظَّالِمِينَ مِنْ نَصِيرٍ",
+            "transliteration": "Wa ya‘budūna min dūni Allāhi mā lam yunazzil bihi sulṭānan wa mā laysa lahum bihi ‘ilmun wa mā lil-ẓālimīna min naṣīr",
+            "translations": {
+              "English": "Yet they worship, besides God, things for which He sent down no warrant, and what they have no knowledge of. There is no savior for the transgressors.",
+              "Urdu": "اور وہ اللہ کے سوا ان چیزوں کی عبادت کرتے ہیں جن کے لیے اس نے کوئی دلیل نازل نہیں کی اور جن کا انہیں کوئی علم نہیں۔ اور ظالموں کے لیے کوئی مددگار نہیں۔",
+              "French": "Et ils adorent, en dehors de Dieu, ce pour quoi Il n’a fait descendre aucune autorité et dont ils n’ont aucune connaissance. Les injustes n’ont aucun secours.",
+              "Spanish": "Y adoran, además de Dios, cosas para las que Él no envió ninguna autoridad y de las que no tienen conocimiento. No hay salvador para los transgresores.",
+              "Hindi": "और वे अल्लाह के सिवा उन चीज़ों की इबादत करते हैं जिनके लिए उसने कोई दलील नाज़िल नहीं की और जिनका उन्हें कोई इल्म नहीं। और ज़ालिमों के लिए कोई मददगार नहीं।"
+            }
+          },
+          {
+            "no": 72,
+            "arabic": "وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ تَعْرِفُ فِي وُجُوهِ الَّذِينَ كَفَرُوا الْمُنْكَرَ يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا قُلْ أَفَأُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَلِكُمُ النَّارُ وَعَدَهَا اللَّهُ الَّذِينَ كَفَرُوا وَبِئْسَ الْمَصِيرُ",
+            "transliteration": "Wa idhā tutlā ‘alayhim āyātunā bayyinātin ta‘rifu fī wujūhi alladhīna kafarū al-munkara yakādūna yasṭūna bi-alladhīna yatlūna ‘alayhim āyātinā qul afa’unabbi’ukum bisharrin min dhālikumu al-nāru wa‘adahā Allāhu alladhīna kafarū wa bi’sa al-maṣīr",
+            "translations": {
+              "English": "And when Our Clear Verses are recited to them, you will recognize disgust on the faces of those who disbelieve. They nearly assault those who recite to them Our Verses. Say, ‘Shall I inform you of something worse than that? The Fire! God has promised it to those who disbelieve. And what a wretched outcome!’",
+              "Urdu": "اور جب ان پر ہماری واضح آیات پڑھی جاتی ہیں، تو تم کافروں کے چہروں پر نفرت دیکھتے ہو۔ وہ قریب ہوتے ہیں کہ ان پر ہماری آیات پڑھنے والوں پر حملہ کر دیں۔ کہو، ‘کیا میں تمہیں اس سے بدتر چیز کی خبر دوں؟ آگ! اللہ نے اس کا وعدہ کافروں سے کیا ہے۔ اور کیا برا انجام ہے!’",
+              "French": "Et lorsque Nos versets clairs leur sont récités, tu reconnais le dégoût sur les visages des mécréants. Ils sont sur le point d’attaquer ceux qui leur récitent Nos versets. Dis : ‘Voulez-vous que je vous informe de quelque chose de pire que cela ? Le Feu ! Dieu l’a promis à ceux qui mécroient. Quel mauvais destin !’",
+              "Spanish": "Y cuando Nuestros Versos claros les son recitados, reconocerás el disgusto en los rostros de los que no creen. Casi atacan a quienes les recitan Nuestros Versos. Di: ‘¿Queréis que os informe de algo peor que eso? ¡El Fuego! Dios lo ha prometido a los que no creen. ¡Qué pésimo desenlace!’",
+              "Hindi": "और जब हमारी साफ आयतें उन पर पढ़ी जाती हैं, तो तुम काफिरों के चेहरों पर नफरत देखते हो। वे लगभग उन लोगों पर हमला कर देते हैं जो उन पर हमारी आयतें पढ़ते हैं। कहो, ‘क्या मैं तुम्हें इससे बदतर चीज़ की खबर दूँ? आग! अल्लाह ने उसका वादा काफिरों से किया है। और क्या बुरा अंजाम है!’"
+            }
+          },
+          {
+            "no": 73,
+            "arabic": "يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ إِنَّ الَّذِينَ تَدْعُونَ مِنْ دُونِ اللَّهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+            "transliteration": "Yā ayyuhā al-nāsu ḍuriba mathalun fastami‘ū lahu inna alladhīna tad‘ūna min dūni Allāhi lan yakhluqū dhubāban wa lawi ijtama‘ū lahu wa in yaslubhumu al-dhubābu shay’an lā yastanqidhūhu minhu ḍa‘ufa al-ṭālibu wa al-maṭlūb",
+            "translations": {
+              "English": "O people! A parable is presented, so listen to it: Those you invoke besides God will never create a fly, even if they banded together for that purpose. And if the fly steals anything from them, they cannot recover it from it. Weak are the pursuer and the pursued.",
+              "Urdu": "اے لوگو! ایک مثال پیش کی گئی ہے، تو اسے سنو: جنہیں تم اللہ کے سوا پکارتے ہو، وہ کبھی مکھی بھی پیدا نہیں کر سکتے، چاہے وہ اس کے لیے جمع ہو جائیں۔ اور اگر مکھی ان سے کچھ چھین لے، تو وہ اسے اس سے واپس نہیں لے سکتے۔ طالب اور مطلوب دونوں کمزور ہیں۔",
+              "French": "Ô gens ! Une parabole vous est proposée, écoutez-la : Ceux que vous invoquez en dehors de Dieu ne créeront jamais une mouche, même s’ils s’unissaient pour cela. Et si la mouche leur vole quelque chose, ils ne pourront pas le récupérer. Faibles sont le demandeur et le demandé.",
+              "Spanish": "¡Oh gente! Se os presenta una parábola, escuchadla: Aquellos a quienes invocáis además de Dios nunca crearán una mosca, aunque se unieran para ello. Y si la mosca les roba algo, no podrán recuperarlo de ella. Débiles son el perseguidor y el perseguido.",
+              "Hindi": "ऐ लोगों! एक मिसाल पेश की गई है, तो इसे सुनो: जिन्हें तुम अल्लाह के सिवा पुकारते हो, वे कभी मक्खी भी पैदा नहीं कर सकते, चाहे वे इसके लिए इकट्ठा हो जाएँ। और अगर मक्खी उनसे कुछ छीन ले, तो वे उसे उससे वापस नहीं ले सकते। कमज़ोर हैं माँगने वाला और माँगा हुआ।"
+            }
+          },
+          {
+            "no": 74,
+            "arabic": "مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+            "transliteration": "Mā qadarū Allāha ḥaqqa qadrihi inna Allāha laqawiyyun ‘azīz",
+            "translations": {
+              "English": "They do not value God as He should be valued. God is Strong and Powerful.",
+              "Urdu": "انہوں نے اللہ کی قدر اس کے حق کے مطابق نہیں کی۔ بے شک اللہ طاقتور، غالب ہے۔",
+              "French": "Ils n’ont pas estimé Dieu à Sa juste valeur. Dieu est Fort et Puissant.",
+              "Spanish": "No han valorado a Dios como Él merece ser valorado. Dios es Fuerte y Poderoso.",
+              "Hindi": "उन्होंने अल्लाह की कद्र उसके हक के मुताबिक नहीं की। निश्चित रूप से अल्लाह ताकतवर, प्रबल है।"
+            }
+          },
+          {
+            "no": 75,
+            "arabic": "اللَّهُ يَصْطَفِي مِنَ الْمَلَائِكَةِ رُسُلًا وَمِنَ النَّاسِ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+            "transliteration": "Allāhu yaṣṭafī mina al-malā’ikati rusulan wa mina al-nāsi inna Allāha samī‘un baṣīr",
+            "translations": {
+              "English": "God chooses messengers from among the angels, and from among the people. God is Hearing and Seeing.",
+              "Urdu": "اللہ فرشتوں میں سے رسول چنتا ہے اور لوگوں میں سے بھی۔ بے شک اللہ سننے والا، دیکھنے والا ہے۔",
+              "French": "Dieu choisit des messagers parmi les anges et parmi les hommes. Dieu est Audient et Voyant.",
+              "Spanish": "Dios elige mensajeros de entre los ángeles y de entre las personas. Dios es Oyente y Vidente.",
+              "Hindi": "अल्लाह फरिश्तों में से रसूल चुनता है और लोगों में से भी। निश्चित रूप से अल्लाह सुनने वाला, देखने वाला है।"
+            }
+          },
+          {
+            "no": 76,
+            "arabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+            "transliteration": "Ya‘lamu mā bayna aydīhim wa mā khalfahum wa ilā Allāhi turja‘u al-umūr",
+            "translations": {
+              "English": "He knows what is before them, and what is behind them. To God all matters are referred.",
+              "Urdu": "وہ جانتا ہے جو ان کے سامنے ہے اور جو ان کے پیچھے ہے۔ اور اللہ کی طرف تمام معاملات لوٹائے جاتے ہیں۔",
+              "French": "Il sait ce qui est devant eux et ce qui est derrière eux. Et à Dieu toutes les affaires sont renvoyées.",
+              "Spanish": "Él sabe lo que está delante de ellos y lo que está detrás de ellos. A Dios se remiten todos los asuntos.",
+              "Hindi": "वह जानता है जो उनके सामने है और जो उनके पीछे है। और अल्लाह की ओर सभी मामले लौटाए जाते हैं।"
+            }
+          },
+          {
+            "no": 77,
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+            "transliteration": "Yā ayyuhā alladhīna āmanū irka‘ū wa asjudū wa a‘budū rabbakum wa af‘alū al-khayra la‘allakum tufliḥūn",
+            "translations": {
+              "English": "O you who believe! Kneel, and prostrate, and worship your Lord, and do good deeds, so that you may succeed.",
+              "Urdu": "اے ایمان والو! رکوع کرو اور سجدہ کرو اور اپنے رب کی عبادت کرو اور نیک کام کرو، تاکہ تم کامیاب ہو جاؤ۔",
+              "French": "Ô vous qui croyez ! Inclinez-vous, prosternez-vous, adorez votre Seigneur et faites le bien, afin que vous réussissiez.",
+              "Spanish": "¡Oh vosotros que creéis! Inclinaos, postraos, adorad a vuestro Señor y haced buenas obras, para que podáis tener éxito.",
+              "Hindi": "ऐ ईमान वालो! रुकू करो और सजदा करो और अपने रब की इबादत करो और नेक काम करो, ताकि तुम कामयाब हो जाओ।"
+            }
+          },
+          {
+            "no": 78,
+            "arabic": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِنْ قَبْلُ وَفِي هَذَا لِيَكُونَ الرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ فَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَاعْتَصِمُوا بِاللَّهِ هُوَ مَوْلَاكُمْ فَنِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ",
+            "transliteration": "Wa jāhidū fī Allāhi ḥaqqa jihādihi huwa ijtabākum wa mā ja‘ala ‘alaykum fī al-dīni min ḥarajin millata abīkum Ibrāhīma huwa sammākumu al-muslimīna min qablu wa fī hādhā liyakūna al-rasūlu shahīdan ‘alaykum wa takūnū shuhadā’a ‘alā al-nāsi fa-aqīmū al-ṣalāta wa ātū al-zakāta wa i‘taṣimū billāhi huwa mawlākum fani‘ma al-mawlā wa ni‘ma al-naṣīr",
+            "translations": {
+              "English": "And strive for God, with the striving due to Him. He has chosen you, and has not burdened you in religion—the faith of your father Abraham. It is he who named you Muslims before, and in this. So that the Messenger may be a witness over you, and you may be witnesses over the people. So pray regularly, and give regular charity, and cleave to God. He is your Protector. What an excellent Protector, and what an excellent Helper.",
+              "Urdu": "اور اللہ کے لیے جہاد کرو جیسا کہ اس کا حق ہے۔ اس نے تمہیں منتخب کیا اور تم پر دین میں کوئی تنگی نہیں رکھی—تمہارے باپ ابراہیم کا مذہب۔ اس نے تمہیں پہلے سے اور اس میں مسلمان کہا۔ تاکہ رسول تم پر گواہ ہو اور تم لوگوں پر گواہ ہو۔ پس نماز قائم کرو، زکوٰة دو، اور اللہ سے وابستہ رہو۔ وہ تمہارا سرپرست ہے۔ کیا ہی اچھا سرپرست اور کیا ہی اچھا مددگار۔",
+              "French": "Et luttez pour Dieu avec l’effort qui Lui est dû. Il vous a choisis et ne vous a imposé aucune gêne dans la religion—la foi de votre père Abraham. C’est lui qui vous a nommés musulmans auparavant et dans ceci, afin que le Messager soit un témoin sur vous et que vous soyez des témoins sur les gens. Accomplissez donc la prière, donnez la zakat et attachez-vous à Dieu. Il est votre Protecteur. Quel excellent Protecteur et quel excellent Soutien !",
+              "Spanish": "Y esforzaos por Dios con el esfuerzo que Le es debido. Él os ha elegido y no os ha impuesto ninguna dificultad en la religión—la fe de vuestro padre Abraham. Fue él quien os nombró musulmanes antes y en esto, para que el Mensajero sea un testigo sobre vosotros y vosotros seáis testigos sobre la gente. Así que estableced la oración, dad la caridad regularmente y aferraos a Dios. Él es vuestro Protector. ¡Qué excelente Protector y qué excelente Ayudante!",
+              "Hindi": "और अल्लाह के लिए जिहाद करो जैसा कि उसका हक है। उसने तुम्हें चुना और तुम पर दीन में कोई सख्ती नहीं रखी—तुम्हारे पिता इब्राहिम का धर्म। उसने तुम्हें पहले से और इसमें मुसलमान कहा। ताकि रसूल तुम पर गवाह हो और तुम लोगों पर गवाह हो। तो नमाज़ कायम करो, ज़कात दो, और अल्लाह से जुड़े रहो। वह तुम्हारा संरक्षक है। क्या ही उत्तम संरक्षक और क्या ही उत्तम सहायक।"
+            }
+          }
+        
+          ]
+    }
+  
+  

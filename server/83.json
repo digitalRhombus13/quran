@@ -1,0 +1,438 @@
+{
+    "no": 83,
+    "name": "Al-Mutaffifin",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَيْلٌ لِلْمُطَفِّفِينَ",
+        "transliteration": "Waylun lil-muṭaffifīn",
+        "translations": {
+          "English": "Woe to the defrauders.",
+          "Urdu": "ناپ تول میں کمی کرنے والوں کے لیے تباہی ہے۔",
+          "French": "Malheur aux fraudeurs,",
+          "Spanish": "¡Ay de los defraudadores!",
+          "Hindi": "नाप-तौल में कमी करने वालों के लिए विनाश है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+        "transliteration": "Alladhīna idhā aktālū ʿalā an-nāsi yastawfūn",
+        "translations": {
+          "English": "Those who, when they take a measure from people, they take in full.",
+          "Urdu": "جو لوگوں سے ناپ لیتے وقت پورا لیتے ہیں۔",
+          "French": "Ceux qui, lorsqu’ils font mesurer pour eux-mêmes exigent la pleine mesure,",
+          "Spanish": "Que cuando miden para sí, toman la medida completa,",
+          "Hindi": "जो लोगों से नाप लेते समय पूरा लेते हैं।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+        "transliteration": "Wa idhā kālūhum aw wazanūhum yukh'sirūn",
+        "translations": {
+          "English": "But when they measure or weigh to others, they cheat.",
+          "Urdu": "لیکن جب انہیں ناپ کر یا تول کر دیتے ہیں تو کم دیتے ہیں۔",
+          "French": "Et qui, lorsqu’eux-mêmes mesurent ou pèsent pour les autres, [leur] causent perte.",
+          "Spanish": "Pero cuando miden o pesan para otros, dan menos.",
+          "Hindi": "लेकिन जब उन्हें नापकर या तौलकर देते हैं तो कम देते हैं।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "أَلَا يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+        "transliteration": "Alā yaẓunnu ulā'ika annahum mabʿūthūn",
+        "translations": {
+          "English": "Do these not know that they will be resurrected?",
+          "Urdu": "کیا یہ لوگ نہیں سمجھتے کہ وہ اٹھائے جائیں گے؟",
+          "French": "Ne pensent-ils pas qu’ils seront ressuscités,",
+          "Spanish": "¿No piensan esos que serán resucitados,",
+          "Hindi": "क्या ये लोग नहीं समझते कि वे उठाए जाएँगे?"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "لِيَوْمٍ عَظِيمٍ",
+        "transliteration": "Li-yawmin ʿaẓīm",
+        "translations": {
+          "English": "For a Great Day?",
+          "Urdu": "ایک بڑے دن کے لیے؟",
+          "French": "Pour un jour terrible,",
+          "Spanish": "Para un día grandioso,",
+          "Hindi": "एक बड़े दिन के लिए?"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+        "transliteration": "Yawma yaqūmu an-nāsu li-rabbi l-ʿālamīn",
+        "translations": {
+          "English": "The Day when mankind will stand before the Lord of the Worlds?",
+          "Urdu": "جس دن لوگ رب العالمین کے سامنے کھڑے ہوں گے؟",
+          "French": "Le jour où les gens se tiendront debout devant le Seigneur de l’univers?",
+          "Spanish": "El día en que la gente comparecerá ante el Señor de los mundos?",
+          "Hindi": "जिस दिन लोग रब्बुल आलमीन के सामने खड़े होंगे?"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+        "transliteration": "Kallā inna kitāba l-fujjāri lafī sijjīn",
+        "translations": {
+          "English": "Not at all. The record of the wicked is in Sijjeen.",
+          "Urdu": "ہرگز نہیں، بے شک بدکاروں کا نامہ اعمال سجین میں ہے۔",
+          "French": "En vérité, le livre des pervers sera dans le Sijjîn.",
+          "Spanish": "¡No! En verdad, el registro de los pecadores está en Sijjîn.",
+          "Hindi": "हर्गिज़ नहीं, बेशक बदकारों का अमलनामा सिज्जीन में है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+        "transliteration": "Wa mā adrāka mā sijjīn",
+        "translations": {
+          "English": "But how can you know what Sijjeen is?",
+          "Urdu": "اور تم کیا سمجھے کہ سجین کیا ہے؟",
+          "French": "Et qui te dira ce qu’est le Sijjîn?",
+          "Spanish": "¿Y qué te hará saber qué es Sijjîn?",
+          "Hindi": "और तुम क्या जानो कि सिज्जीन क्या है?"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "كِتَابٌ مَرْقُومٌ",
+        "transliteration": "Kitābun marqūm",
+        "translations": {
+          "English": "A numerical book.",
+          "Urdu": "ایک لکھی ہوئی کتاب۔",
+          "French": "Un livre marqué.",
+          "Spanish": "Un registro escrito.",
+          "Hindi": "एक लिखी हुई किताब।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+        "transliteration": "Waylun yawma'idhin lil-mukadhdhibīn",
+        "translations": {
+          "English": "Woe on that Day to the deniers.",
+          "Urdu": "اس دن جھٹلانے والوں کے لیے تباہی ہے۔",
+          "French": "Malheur, ce jour-là, à ceux qui criaient au mensonge,",
+          "Spanish": "¡Ay ese día para los desmentidores!",
+          "Hindi": "उस दिन झुठलाने वालों के लिए विनाश है।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+        "transliteration": "Alladhīna yukadhdhibūna bi-yawmi d-dīn",
+        "translations": {
+          "English": "Those who deny the Day of Reckoning.",
+          "Urdu": "جو جزا کے دن کو جھٹلاتے ہیں۔",
+          "French": "Ceux qui traitent de mensonge le Jour de la Rétribution.",
+          "Spanish": "Que desmienten el Día del Juicio.",
+          "Hindi": "जो बदले के दिन को झुठलाते हैं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+        "transliteration": "Wa mā yukadhdhibu bihi illā kullu muʿtadin athīm",
+        "translations": {
+          "English": "But none denies it except the sinful aggressor.",
+          "Urdu": "اور اسے ہر حد سے گزرنے والا گنہگار ہی جھٹلاتا ہے۔",
+          "French": "Et seul le délinquant pervers le dément.",
+          "Spanish": "Y no lo desmiente sino todo transgresor pecador.",
+          "Hindi": "और उसे हर हद से गुज़रने वाला गुनहगार ही झुठलाता है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "إِذَا تُتْلَى عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+        "transliteration": "Idhā tutlā ʿalayhi āyātunā qāla asāṭīru l-awwalīn",
+        "translations": {
+          "English": "When Our revelations are recited to him, he says, 'Legends of the ancients.'",
+          "Urdu": "جب اس کے سامنے ہماری آیتیں پڑھی جاتی ہیں تو کہتا ہے: 'اگلوں کے افسانے ہیں'۔",
+          "French": "Quand Nos versets lui sont récités, il dit: «Des contes d’anciens!»",
+          "Spanish": "Cuando se le recitan Nuestros versículos, dice: 'Son fábulas de los antiguos'.",
+          "Hindi": "जब उसके सामने हमारी आयतें पढ़ी जाती हैं तो कहता है: 'अगलों की कहानियाँ हैं'।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "كَلَّا بَلْ رَانَ عَلَى قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+        "transliteration": "Kallā bal rāna ʿalā qulūbihim mā kānū yaksibūn",
+        "translations": {
+          "English": "Not at all. Their hearts have become corroded by what they used to earn.",
+          "Urdu": "ہرگز نہیں، بلکہ ان کے دلوں پر ان کے اعمال کا زنگ چڑھ گیا ہے۔",
+          "French": "Non! Mais ce qu’ils ont accompli couvre leurs cœurs de rouille.",
+          "Spanish": "¡No! Sino que sus corazones se han corroído por lo que cometían.",
+          "Hindi": "हर्गिज़ नहीं, बल्कि उनके दिलों पर उनके कर्मों की जंग चढ़ गई है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ",
+        "transliteration": "Kallā innahum ʿan rabbihim yawma'idhin la-maḥjūbūn",
+        "translations": {
+          "English": "Not at all. On that Day, they will be screened from their Lord.",
+          "Urdu": "ہرگز نہیں، بے شک اس دن وہ اپنے رب سے پردے میں ہوں گے۔",
+          "French": "Non! Ce jour-là, ils seront voilés [de la miséricorde] de leur Seigneur.",
+          "Spanish": "¡No! Ese día estarán apartados de su Señor.",
+          "Hindi": "हर्गिज़ नहीं, बेशक उस दिन वे अपने रब से पर्दे में होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+        "transliteration": "Thumma innahum la-ṣālū l-jaḥīm",
+        "translations": {
+          "English": "Then they will roast in Hell.",
+          "Urdu": "پھر وہ ضرور جہنم میں جھونک دیے جائیں گے۔",
+          "French": "Ensuite, ils brûleront dans la Fournaise.",
+          "Spanish": "Luego, ciertamente, arderán en el Infierno.",
+          "Hindi": "फिर वे ज़रूर जहन्नम में झोंक दिए जाएँगे।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "ثُمَّ يُقَالُ هَذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+        "transliteration": "Thumma yuqālu hādhā alladhī kuntum bihi tukadhdhibūn",
+        "translations": {
+          "English": "Then it will be said, 'This is what you used to deny.'",
+          "Urdu": "پھر کہا جائے گا: 'یہی ہے وہ جسے تم جھٹلایا کرتے تھے'۔",
+          "French": "Ensuite on leur dira: «Voilà ce que vous traitiez de mensonge!»",
+          "Spanish": "Luego se les dirá: 'Esto es lo que desmentíais'.",
+          "Hindi": "फिर कहा जाएगा: 'यही है वह जिसे तुम झुठलाया करते थे'।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+        "transliteration": "Kallā inna kitāba l-abrāri lafī ʿilliyyīn",
+        "translations": {
+          "English": "No indeed; the record of the righteous is in Elliyyeen.",
+          "Urdu": "ہرگز نہیں، بے شک نیکوکاروں کا نامہ اعمال علیین میں ہے۔",
+          "French": "En vérité, le livre des vertueux sera dans l’Illiyyûn.",
+          "Spanish": "¡No! En verdad, el registro de los justos está en 'Illiyyûn.",
+          "Hindi": "हर्गिज़ नहीं, बेशक नेक लोगों का अमलनामा इल्लिय्यीन में है।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+        "transliteration": "Wa mā adrāka mā ʿilliyyūn",
+        "translations": {
+          "English": "But how can you know what Elliyyoon is?",
+          "Urdu": "اور تم کیا سمجھے کہ علیین کیا ہے؟",
+          "French": "Et qui te dira ce qu’est l’Illiyyûn?",
+          "Spanish": "¿Y qué te hará saber qué es 'Illiyyûn?",
+          "Hindi": "और तुम क्या जानो कि इल्लिय्यून क्या है?"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "كِتَابٌ مَرْقُومٌ",
+        "transliteration": "Kitābun marqūm",
+        "translations": {
+          "English": "A numerical book.",
+          "Urdu": "ایک لکھی ہوئی کتاب۔",
+          "French": "Un livre marqué.",
+          "Spanish": "Un registro escrito.",
+          "Hindi": "एक लिखी हुई किताब।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+        "transliteration": "Yashhaduhu l-muqarrabūn",
+        "translations": {
+          "English": "Witnessed by those brought near.",
+          "Urdu": "جسے مقرب فرشتے دیکھتے ہیں۔",
+          "French": "Témoin, ceux qui sont rapprochés.",
+          "Spanish": "Atestiguado por los cercanos [a Allah].",
+          "Hindi": "जिसे मुक़र्रब फ़रिश्ते देखते हैं।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+        "transliteration": "Inna l-abrāra lafī naʿīm",
+        "translations": {
+          "English": "Indeed, the righteous will be amid bliss.",
+          "Urdu": "بے شک نیکوکار نعمتوں میں ہوں گے۔",
+          "French": "Les vertueux seront dans un [jardin] de délice,",
+          "Spanish": "En verdad, los justos estarán en dicha,",
+          "Hindi": "बेशक नेक लोग नेमतों में होंगे।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+        "transliteration": "ʿAlā l-arā'iki yanẓurūn",
+        "translations": {
+          "English": "On thrones, looking on.",
+          "Urdu": "تختوں پر بیٹھے دیکھ رہے ہوں گے۔",
+          "French": "Sur des lits, regardant.",
+          "Spanish": "Sobre lechos, mirando.",
+          "Hindi": "तख़्तों पर बैठे देख रहे होंगे।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+        "transliteration": "Taʿrifu fī wujūhihim naḍrata n-naʿīm",
+        "translations": {
+          "English": "You will recognize on their faces the radiance of bliss.",
+          "Urdu": "تم ان کے چہروں پر نعمت کی تازگی پہچان لو گے۔",
+          "French": "Tu reconnaîtras sur leurs visages l’éclat de la félicité.",
+          "Spanish": "Reconocerás en sus rostros el resplandor de la dicha.",
+          "Hindi": "तुम उनके चेहरों पर नेमत की ताज़गी पहचान लोगे।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ",
+        "transliteration": "Yusqawna min raḥīqin makhtūm",
+        "translations": {
+          "English": "They will be given to drink a sealed wine.",
+          "Urdu": "انہیں مہر لگی شراب پلائی جائے گی۔",
+          "French": "On leur fera boire un vin pur, cacheté",
+          "Spanish": "Se les dará de beber un vino puro, sellado,",
+          "Hindi": "उन्हें मुहर लगी शराब पिलाई जाएगी।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "خِتَامُهُ مِسْكٌ وَفِي ذَلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+        "transliteration": "Khitāmuhu misk wa fī dhālika falyatanāfasi l-mutanāfisūn",
+        "translations": {
+          "English": "Whose seal is musk—this is what competitors should compete for.",
+          "Urdu": "جس کی مہر مشک ہوگی، اور اسی میں سبقت کرنی چاہیے۔",
+          "French": "Dont le cachet sera de musc. C’est à cela que doivent aspirer les ambitieux.",
+          "Spanish": "Su sello será de almizcle. ¡Que por ello compitan los competidores!",
+          "Hindi": "जिसकी मुहर कस्तूरी होगी, और इसी में आगे बढ़ना चाहिए।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ",
+        "transliteration": "Wa mizājuhu min tasnīm",
+        "translations": {
+          "English": "Its mixture is of Tasneem.",
+          "Urdu": "اور اس کی آمیزش تسنیم سے ہوگی۔",
+          "French": "Son mélange sera de Tasnîm:",
+          "Spanish": "Y su mezcla será de Tasnîm,",
+          "Hindi": "और उसका मिश्रण तस्नीम से होगा।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+        "transliteration": "ʿAynan yashrabu bihā l-muqarrabūn",
+        "translations": {
+          "English": "A spring from which those brought near drink.",
+          "Urdu": "ایک چشمہ جس سے مقرب لوگ پیتے ہیں۔",
+          "French": "Une source dont boiront les rapprochés.",
+          "Spanish": "Una fuente de la que beben los cercanos.",
+          "Hindi": "एक चश्मा जिससे मुक़र्रब लोग पीते हैं।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+        "transliteration": "Inna alladhīn ajramū kānū min alladhīn āmanū yaḍḥakūn",
+        "translations": {
+          "English": "Those who committed crimes used to laugh at those who believed.",
+          "Urdu": "بے شک گنہگار لوگ ایمان والوں پر ہنستے تھے۔",
+          "French": "Ceux qui commettaient des crimes riaient de ceux qui croyaient.",
+          "Spanish": "En verdad, los criminales se reían de los creyentes.",
+          "Hindi": "बेशक गुनहगार लोग ईमान वालों पर हँसते थे।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+        "transliteration": "Wa idhā marrū bihim yataghāmazūn",
+        "translations": {
+          "English": "And when they passed by them, they would wink at one another.",
+          "Urdu": "اور جب ان کے پاس سے گزرتے تو آنکھوں سے اشارے کرتے۔",
+          "French": "Et quand ils passaient près d’eux, ils se faisaient des clins d’œil,",
+          "Spanish": "Y cuando pasaban junto a ellos, se guiñaban el ojo,",
+          "Hindi": "और जब उनके पास से गुज़रते तो आँखों से इशारे करते।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "وَإِذَا انْقَلَبُوا إِلَى أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+        "transliteration": "Wa idhā inqalabū ilā ahlihimu inqalabū fakihīn",
+        "translations": {
+          "English": "And when they went back to their families, they would go back exulting.",
+          "Urdu": "اور جب اپنے گھر والوں کے پاس لوٹتے تو خوشی سے لوटتے۔",
+          "French": "Et quand ils retournaient auprès des leurs, ils retournaient en plaisantant.",
+          "Spanish": "Y cuando regresaban con sus familias, volvían burlándose.",
+          "Hindi": "और जब अपने घर वालों के पास लौटते तो खुशी से लौटते।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَؤُلَاءِ لَضَالُّونَ",
+        "transliteration": "Wa idhā ra'awhum qālū inna hā'ulā'i laḍāllūn",
+        "translations": {
+          "English": "And if they saw them, they would say, 'These people are lost.'",
+          "Urdu": "اور جب انہیں دیکھتے تو کہتے: 'یہ لوگ گمراہ ہیں'۔",
+          "French": "Et quand ils les voyaient, ils disaient: «Voilà certes des gens égarés!»",
+          "Spanish": "Y cuando los veían, decían: 'En verdad, estos están extraviados'.",
+          "Hindi": "और जब उन्हें देखते तो कहते: 'ये लोग गुमराह हैं'।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+        "transliteration": "Wa mā ursilū ʿalayhim ḥāfiẓīn",
+        "translations": {
+          "English": "Yet they were not sent as guardians over them.",
+          "Urdu": "حالانکہ انہیں ان پر نگران بنا کر نہیں بھیجا گیا تھا۔",
+          "French": "Or, ils n’ont pas été envoyés comme gardiens sur eux.",
+          "Spanish": "Pero no habían sido enviados como guardianes sobre ellos.",
+          "Hindi": "हालाँकि उन्हें उन पर निगरान बनाकर नहीं भेजा गया था।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+        "transliteration": "Fal-yawma alladhīn āmanū mina l-kuffāri yaḍḥakūn",
+        "translations": {
+          "English": "But on that Day, those who believed will laugh at the unbelievers.",
+          "Urdu": "تو آج ایمان والے کافروں پر ہنسیں گے۔",
+          "French": "Aujourd’hui, ce sont ceux qui croient qui rient des mécréants,",
+          "Spanish": "Pero hoy son los creyentes quienes se ríen de los incrédulos,",
+          "Hindi": "तो आज ईमान वाले काफ़िरों पर हँसेंगे।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+        "transliteration": "ʿAlā l-arā'iki yanẓurūn",
+        "translations": {
+          "English": "On luxurious furnishings, looking on.",
+          "Urdu": "تختوں پر بیٹھے دیکھ رہے ہوں گے۔",
+          "French": "Sur des lits, regardant.",
+          "Spanish": "Sobre lechos, mirando.",
+          "Hindi": "तख़्तों पर बैठे देख रहे होंगे।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+        "transliteration": "Hal thuwiba l-kuffāru mā kānū yafʿalūn",
+        "translations": {
+          "English": "Have the unbelievers been repaid for what they used to do?",
+          "Urdu": "کیا کافروں کو ان کے اعمال کا بدلہ دے دیا گیا؟",
+          "French": "Est-ce que les mécréants ont été rétribués pour ce qu’ils faisaient?",
+          "Spanish": "¿Acaso no se ha retribuido a los incrédulos por lo que hacían?",
+          "Hindi": "क्या काफ़िरों को उनके कर्मों का बदला दे दिया गया?"
+        }
+      }
+    ]
+  }

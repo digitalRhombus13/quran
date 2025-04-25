@@ -1,0 +1,234 @@
+{
+    "no": 82,
+    "name": "Al-Infitar",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِذَا السَّمَاءُ انْفَطَرَتْ",
+        "transliteration": "Idhā s-samā'u nfaṭarat",
+        "translations": {
+          "English": "When the sky breaks apart.",
+          "Urdu": "جب آسمان پھٹ جائے گا۔",
+          "French": "Quand le ciel se rompra,",
+          "Spanish": "Cuando el cielo se hienda,",
+          "Hindi": "जब आसमान फट जाएगा।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ",
+        "transliteration": "Wa idhā l-kawākibu ntatharat",
+        "translations": {
+          "English": "When the planets are scattered.",
+          "Urdu": "جب ستارے بکھر جائیں گے۔",
+          "French": "que les planètes se disperseront,",
+          "Spanish": "y los planetas se dispersen,",
+          "Hindi": "और जब तारे बिखर जाएँगे।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+        "transliteration": "Wa idhā l-biḥāru fujjirat",
+        "translations": {
+          "English": "When the oceans are exploded.",
+          "Urdu": "جب سمندر پھٹ جائیں گے۔",
+          "French": "que les mers seront mises à bouillonner,",
+          "Spanish": "y los mares estallen,",
+          "Hindi": "और जब समुद्र फट जाएँगे।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+        "transliteration": "Wa idhā l-qubūru bu'ṭhirat",
+        "translations": {
+          "English": "When the tombs are strewn around.",
+          "Urdu": "جب قبریں اُلٹ دی جائیں گی۔",
+          "French": "que les tombes seront bouleversées,",
+          "Spanish": "y las tumbas sean vueltas,",
+          "Hindi": "और जब क़ब्रें उलट दी जाएँगी।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ",
+        "transliteration": "'Alimat nafsun mā qaddamat wa akhkhart",
+        "translations": {
+          "English": "Each soul will know what it has advanced, and what it has deferred.",
+          "Urdu": "ہر شخص جان لے گا جو کچھ اس نے آگے بھیجا اور جو پیچھے چھوڑا۔",
+          "French": "alors chaque âme saura ce qu’elle a avancé et ce qu’elle a remis à plus tard.",
+          "Spanish": "toda alma sabrá lo que hizo y lo que dejó de hacer.",
+          "Hindi": "हर शख़्स जान लेगा जो कुछ उसने आगे भेजा और जो पीछे छोड़ा।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+        "transliteration": "Yā ayyuhā l-insānu mā gharraka birabbika l-karīm",
+        "translations": {
+          "English": "O man! What deluded you concerning your Lord, the Most Generous?",
+          "Urdu": "اے انسان! تجھے کس چیز نے اپنے کریم رب کے بارے میں دھوکے میں ڈالا؟",
+          "French": "Ô homme ! Qu’est-ce qui t’a trompé au sujet de ton Seigneur, le Généreux,",
+          "Spanish": "¡Oh, hombre! ¿Qué te ha engañado acerca de tu Señor, el Generoso?",
+          "Hindi": "ऐ इंसान! तुझे किस चीज़ ने अपने करीम रब के बारे में धोखे में डाला?"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+        "transliteration": "Alladhī khalaqaka fa sawwāka fa 'adalak",
+        "translations": {
+          "English": "He Who created you, and formed you, and proportioned you?",
+          "Urdu": "جس نے تجھے پیدا کیا، پھر سنوارا پھر اعتدال پر قائم کیا؟",
+          "French": "Celui qui t’a créé, t’a façonné et t’a rendu harmonieux,",
+          "Spanish": "Quien te creó, te formó y te dio armonía,",
+          "Hindi": "जिसने तुझे पैदा किया, फिर संवारा फिर संतुलित बनाया?"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
+        "transliteration": "Fī ayyi ṣūratin mā shā'a rakkabak",
+        "translations": {
+          "English": "In whatever shape He willed, He assembled you.",
+          "Urdu": "جس صورت میں چاہا، تجھے جوڑ دیا۔",
+          "French": "et t’a constitué dans la forme qu’Il a voulue ?",
+          "Spanish": "y te dio la forma que Él quiso?",
+          "Hindi": "जिस सूरत में चाहा, तुझे जोड़ दिया।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+        "transliteration": "Kallā bal tukadhibūna bi-d-dīn",
+        "translations": {
+          "English": "But you reject the religion.",
+          "Urdu": "ہرگز نہیں، بلکہ تم جزا کو جھٹلاتے ہو۔",
+          "French": "Mais non ! Vous traitez la Rétribution de mensonge,",
+          "Spanish": "¡No! Sino que desmienten el Día del Juicio,",
+          "Hindi": "हर्गिज़ नहीं, बल्कि तुम बदले के दिन को झुठलाते हो।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+        "transliteration": "Wa inna 'alaykum laḥāfiẓīn",
+        "translations": {
+          "English": "Though over you are watchers.",
+          "Urdu": "حالانکہ تم پر نگہبان مقرر ہیں۔",
+          "French": "alors que vous avez des gardiens (anges) sur vous,",
+          "Spanish": "cuando hay guardianes sobre vosotros,",
+          "Hindi": "हालाँकि तुम पर निगेहबान मुक़र्रर हैं।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "كِرَامًا كَاتِبِينَ",
+        "transliteration": "Kirāman kātibīn",
+        "translations": {
+          "English": "Honest recorders.",
+          "Urdu": "عزت والے لکھنے والے۔",
+          "French": "de nobles scribes,",
+          "Spanish": "nobles escribas,",
+          "Hindi": "इज़्ज़त वाले लिखने वाले।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+        "transliteration": "Ya'lamūna mā taf'alūn",
+        "translations": {
+          "English": "They know everything you do.",
+          "Urdu": "جو کچھ تم کرتے ہو، وہ جانتے ہیں۔",
+          "French": "qui savent ce que vous faites.",
+          "Spanish": "que saben lo que hacéis.",
+          "Hindi": "जो कुछ तुम करते हो, वह जानते हैं।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+        "transliteration": "Inna l-abrāra lafī na'īm",
+        "translations": {
+          "English": "The virtuous will be in bliss.",
+          "Urdu": "بے شک نیکوکار لوگ نعمتوں میں ہوں گے۔",
+          "French": "Les bons seront dans un [jardin] de délice,",
+          "Spanish": "En verdad, los justos estarán en dicha,",
+          "Hindi": "बेशक नेक लोग नेमतों में होंगे।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+        "transliteration": "Wa inna l-fujjāra lafī jaḥīm",
+        "translations": {
+          "English": "While the wicked will be in Hell.",
+          "Urdu": "اور بدکار لوگ جہنم میں ہوں گے۔",
+          "French": "et les libertins seront dans une Fournaise,",
+          "Spanish": "y los pecadores estarán en el Infierno,",
+          "Hindi": "और बदकार लोग जहन्नम में होंगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+        "transliteration": "Yaṣlawnahā yawma d-dīn",
+        "translations": {
+          "English": "They will enter it on the Day of Justice.",
+          "Urdu": "جزا کے دن اس میں داخل ہوں گے۔",
+          "French": "où ils brûleront, le Jour de la Rétribution,",
+          "Spanish": "y arderán en él el Día del Juicio,",
+          "Hindi": "बदले के दिन उसमें दाख़िल होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+        "transliteration": "Wa mā hum 'anhā bighā'ibīn",
+        "translations": {
+          "English": "And they will not be absent from it.",
+          "Urdu": "اور وہ اس سے غائب نہ ہوں گے۔",
+          "French": "et ils ne pourront s’y soustraire.",
+          "Spanish": "y no podrán escapar de él.",
+          "Hindi": "और वह उससे ग़ायब न होंगे।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+        "transliteration": "Wa mā adrāka mā yawmu d-dīn",
+        "translations": {
+          "English": "But what will convey to you what the Day of Justice is?",
+          "Urdu": "اور تمہیں کیا معلوم کہ جزا کا دن کیا ہے؟",
+          "French": "Et qui te dira ce qu’est le Jour de la Rétribution ?",
+          "Spanish": "¿Y qué te hará comprender qué es el Día del Juicio?",
+          "Hindi": "और तुम्हें क्या मालूम कि बदले का दिन क्या है?"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+        "transliteration": "Thumma mā adrāka mā yawmu d-dīn",
+        "translations": {
+          "English": "Then again, what will convey to you what the Day of Justice is?",
+          "Urdu": "پھر تمہیں کیا معلوم کہ جزا کا دن کیا ہے؟",
+          "French": "Encore une fois, qui te dira ce qu’est le Jour de la Rétribution ?",
+          "Spanish": "Luego, ¿qué te hará comprender qué es el Día del Juicio?",
+          "Hindi": "फिर तुम्हें क्या मालूम कि बदले का दिन क्या है?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ",
+        "transliteration": "Yawma lā tamliku nafsun li-nafsin shay'an wa l-amru yawma'idhin li-llāh",
+        "translations": {
+          "English": "The Day when no soul will avail another soul anything; and the decision on that Day is God's.",
+          "Urdu": "جس دن کوئی شخص کسی کے لیے کچھ بھی اختیار نہیں رکھے گا، اور اس دن حکم صرف اللہ کا ہوگا۔",
+          "French": "C’est le Jour où aucune âme ne pourra rien en faveur d’une autre âme. Et ce jour-là, le commandement tout entier sera à Dieu.",
+          "Spanish": "Es el día en que nadie podrá hacer nada por otro, y ese día la orden pertenecerá solo a Dios.",
+          "Hindi": "जिस दिन कोई शख़्स किसी के लिए कुछ भी इख़्तियार नहीं रखेगा, और उस दिन हुक्म सिर्फ़ अल्लाह का होगा।"
+        }
+      }
+    ]
+  }

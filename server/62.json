@@ -1,0 +1,138 @@
+{
+    "no": 62,
+    "name": "Al-Jumu'ah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+        "transliteration": "Yusabbihu lillahi ma fee alssamawati wama fee alardi almaliki alquddoodi alAAazeezi alhakeemi",
+        "translations": {
+          "English": "Everything in the heavens and the earth glorifies God the Sovereign, the Holy, the Almighty, the Wise.",
+          "Urdu": "آسمانوں اور زمین میں جو کچھ ہے وہ اللہ کی تسبیح کرتا ہے جو بادشاہ، پاک، غالب اور حکمت والا ہے۔",
+          "French": "Tout ce qui est dans les cieux et sur la terre glorifie Allah, le Souverain, le Saint, le Tout-Puissant, le Sage.",
+          "Spanish": "Todo lo que está en los cielos y en la tierra glorifica a Alá, el Soberano, el Santo, el Poderoso, el Sabio.",
+          "Hindi": "आकाशों और धरती में जो कुछ है वह अल्लाह की पवित्रता बयान करता है, जो बादशाह, पवित्र, प्रभुत्वशाली और तत्वदर्शी है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+        "transliteration": "Huwa allathee baAAatha fee alommiyeena rasoolan minhum yatloo AAalayhim ayatihi wayuzakkeehim wayuAAallimuhumu alkitaba waalhikmata wa-in kanoo min qablu lafee dalalin mubeenin",
+        "translations": {
+          "English": "It is He who sent among the unlettered a messenger from themselves; reciting His revelations to them, and purifying them, and teaching them the Scripture and wisdom; although they were in obvious error before that.",
+          "Urdu": "وہی ہے جس نے ان پڑھ لوگوں میں انہی میں سے ایک رسول بھیجا جو انہیں اس کی آیات پڑھ کر سناتا ہے، انہیں پاک کرتا ہے اور انہیں کتاب اور حکمت سکھاتا ہے، حالانکہ اس سے پہلے وہ کھلی گمراہی میں تھے۔",
+          "French": "C'est Lui qui a envoyé à des gens illettrés un messager des leurs qui leur récite Ses versets, les purifie et leur enseigne le Livre et la sagesse, bien qu'ils fussent auparavant dans un égarement évident.",
+          "Spanish": "Él es quien ha enviado a los iletrados un Mensajero de entre ellos, que les recita Sus versículos, los purifica y les enseña el Libro y la sabiduría, aunque antes estaban en un error evidente.",
+          "Hindi": "वही है जिसने अनपढ़ लोगों में से उन्हीं में एक रसूल भेजा, जो उन्हें उसकी आयतें सुनाता है, उन्हें पवित्र करता है और उन्हें किताब और हिकमत सिखाता है, हालाँकि इससे पहले वे खुली गुमराही में थे।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "transliteration": "Waakhareena minhum lamma yalhaqoo bihim wahuwa alAAazeezu alhakeemu",
+        "translations": {
+          "English": "And others from them, who have not yet joined them. He is the Glorious, the Wise.",
+          "Urdu": "اور دوسروں کو بھی جو ابھی ان سے نہیں ملے۔ اور وہ غالب، حکمت والا ہے۔",
+          "French": "Ainsi qu'à d'autres parmi eux qui ne les ont pas encore rejoints. C'est Lui le Puissant, le Sage.",
+          "Spanish": "Y a otros de ellos que aún no se han unido a ellos. Él es el Poderoso, el Sabio.",
+          "Hindi": "और दूसरों को भी जो अभी उनसे नहीं मिले। और वह प्रभुत्वशाली, तत्वदर्शी है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+        "transliteration": "Thalika fadlu Allahi yu/teehi man yashao waAllahu thoo alfadli alAAatheemi",
+        "translations": {
+          "English": "That is God's grace, which He grants to whomever He wills. God is Possessor of limitless grace.",
+          "Urdu": "یہ اللہ کا فضل ہے جسے وہ جسے چاہتا ہے عطا کرتا ہے، اور اللہ بڑے فضل والا ہے۔",
+          "French": "Telle est la grâce d'Allah qu'Il accorde à qui Il veut. Et Allah est le Détenteur de l'immense grâce.",
+          "Spanish": "Ese es el favor de Alá, que concede a quien Él quiere. Alá es el poseedor del favor inmenso.",
+          "Hindi": "यह अल्लाह का अनुग्रह है जिसे वह जिसे चाहता है प्रदान करता है, और अल्लाह बड़े अनुग्रह वाला है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "transliteration": "Mathalu allatheena hummiloo alttawrata thumma lam yahmilooha kamathali alhimaryahmilu asfaran bi/sa mathalu alqawmi allatheena kaththaboo bi-ayati Allahi waAllahu la yahdee alqawma alththalimeena",
+        "translations": {
+          "English": "The example of those who were entrusted with the Torah, but then failed to uphold it, is like the donkey carrying works of literature. Miserable is the example of the people who denounce God's revelations. God does not guide the wrongdoing people.",
+          "Urdu": "جن لوگوں کو تورات کا بوجھ دیا گیا پھر انہوں نے اسے نہ اٹھایا، ان کی مثال گدھے کی سی ہے جو کتابیں لادے ہوئے ہے۔ بری ہے ان لوگوں کی مثال جنہوں نے اللہ کی آیات کو جھٹلایا، اور اللہ ظالم لوگوں کو ہدایت نہیں دیتا۔",
+          "French": "Ceux qui ont été chargés de la Torah mais qui ne l'ont pas appliquée sont comme un âne qui porte des livres. Quel mauvais exemple que celui de ceux qui traitent de mensonges les versets d'Allah. Et Allah ne guide pas les gens injustes.",
+          "Spanish": "La parábola de quienes fueron cargados con la Torá y luego no la cumplieron es como la de un asno que carga libros. ¡Qué mala es la parábola de quienes desmienten los versículos de Alá! Alá no guía al pueblo injusto.",
+          "Hindi": "जिन लोगों को तौरात का भार सौंपा गया फिर उन्होंने उसे नहीं उठाया, उनकी मिसाल गधे जैसी है जो किताबें लादे हुए है। बुरी है उन लोगों की मिसाल जिन्होंने अल्लाह की आयतों को झुठलाया, और अल्लाह अत्याचारी लोगों को मार्गदर्शन नहीं देता।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "قُلْ يَا أَيُّهَا الَّذِينَ هَادُوا إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+        "transliteration": "Qul ya ayyuha allatheena hadoo in zaAAamtum annakum awliyao lillahi min dooni alnnasi fatamannawoo almawta in kuntum sadiqeena",
+        "translations": {
+          "English": "Say, 'O you who follow Judaism; if you claim to be the chosen of God, to the exclusion of the rest of mankind, then wish for death if you are sincere.'",
+          "Urdu": "کہہ دو، اے یہود والو! اگر تم یہ سمجھتے ہو کہ تم اللہ کے دوست ہو اور باقی لوگ نہیں، تو موت کی تمنا کرو اگر تم سچے ہو۔",
+          "French": "Dis : « Ô vous qui pratiquez le judaïsme ! Si vous prétendez être les bien-aimés d'Allah à l'exclusion des autres, souhaitez alors la mort, si vous êtes sincères. »",
+          "Spanish": "Di: «¡Oh, judíos! Si pretendéis ser los aliados de Alá con exclusión de los demás, entonces desead la muerte si sois sinceros».",
+          "Hindi": "कह दो, 'ऐ यहूदियो! अगर तुम यह समझते हो कि तुम अल्लाह के दोस्त हो और बाकी लोग नहीं, तो मौत की इच्छा करो अगर तुम सच्चे हो।'"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+        "transliteration": "Wala yatamannawnahu abadan bima qaddamat aydeehim waAllahu AAaleemun bialththalimeena",
+        "translations": {
+          "English": "But they will not wish for it, ever, due to what their hands have advanced. God knows well the wrongdoers.",
+          "Urdu": "لیکن وہ کبھی بھی اس کی تمنا نہیں کریں گے، اپنے ہاتھوں کے اعمال کی وجہ سے، اور اللہ ظالموں کو خوب جانتا ہے۔",
+          "French": "Mais ils ne la souhaiteront jamais, à cause de ce que leurs mains ont accompli. Allah connaît bien les injustes.",
+          "Spanish": "Pero nunca la desearán, debido a lo que sus manos han cometido. Alá conoce bien a los injustos.",
+          "Hindi": "लेकिन वे कभी भी इसकी इच्छा नहीं करेंगे, अपने हाथों के कर्मों के कारण, और अल्लाह अत्याचारियों को अच्छी तरह जानता है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "transliteration": "Qul inna almawta allathee tafiroona minhu fa-innahu mulaqeekum thumma turaddoona ila AAalimi alghaybi waalshshahadati fayunabbi-okum bima kuntum taAAmaloona",
+        "translations": {
+          "English": "Say, 'The death from which you flee will catch up with you; then you will be returned to the Knower of the Invisible and the Visible, and He will inform you of what you used to do.'",
+          "Urdu": "کہہ دو، 'جس موت سے تم بھاگتے ہو وہ تمہیں ضرور ملے گی، پھر تم غیب اور حاضر کے جاننے والے کی طرف لوٹائے جاؤ گے، اور وہ تمہیں بتا دے گا کہ تم کیا کرتے تھے۔'",
+          "French": "Dis : « La mort dont vous fuyez va certainement vous atteindre. Ensuite, vous serez ramenés à Celui qui connaît l'invisible et le visible, et Il vous informera de ce que vous faisiez. »",
+          "Spanish": "Di: «La muerte de la que huís os alcanzará. Luego seréis devueltos al Conocedor de lo oculto y lo manifiesto, y Él os informará de lo que solíais hacer».",
+          "Hindi": "कह दो, 'जिस मौत से तुम भागते हो वह तुम्हें ज़रूर मिलेगी, फिर तुम ग़ायब और मौजूद के जानने वाले की ओर लौटाए जाओगे, और वह तुम्हें बता देगा कि तुम क्या करते थे।'"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+        "transliteration": "Ya ayyuha allatheena amanoo itha noodiya lilssalati min yawmi aljumuAAati faisAAaw ila thikri Allahi watharoo albayAAa thalikum khayrun lakum in kuntum taAAlamoona",
+        "translations": {
+          "English": "O you who believe! When the call is made for prayer on Congregation Day, hasten to the remembrance of God, and drop all business. That is better for you, if you only knew.",
+          "Urdu": "اے ایمان والو! جمعہ کے دن جب نماز کے لیے پکارا جائے تو اللہ کے ذکر کی طرف دوڑو اور خرید و فروخت چھوڑ دو، یہ تمہارے لیے بہتر ہے اگر تم جانتے ہو۔",
+          "French": "Ô vous qui avez cru ! Quand on appelle à la prière du vendredi, accourez à l'invocation d'Allah et laissez tout commerce. Cela est bien meilleur pour vous, si vous saviez.",
+          "Spanish": "¡Oh, creyentes! Cuando se llame a la oración del viernes, acudid al recuerdo de Alá y dejad el comercio. Eso es mejor para vosotros, si supierais.",
+          "Hindi": "ऐ ईमान वालो! जुम्मा के दिन जब नमाज़ के लिए पुकारा जाए तो अल्लाह के ज़िक्र की ओर दौड़ो और खरीद-फरोख्त छोड़ दो, यह तुम्हारे लिए बेहतर है अगर तुम जानते हो।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+        "transliteration": "Fa-itha qudiyati alssalatu faintashiroo fee al-ardi waibtaghoo min fadli Allahi waothkuroo Allaha katheeran laAAallakum tuflihoona",
+        "translations": {
+          "English": "Then, when the prayer is concluded, disperse through the land, and seek God's bounty, and remember God much, so that you may prosper.",
+          "Urdu": "پھر جب نماز ختم ہو جائے تو زمین میں پھیل جاؤ اور اللہ کا فضل تلاش کرو، اور اللہ کو کثرت سے یاد کرو تاکہ تم فلاح پاؤ۔",
+          "French": "Une fois la prière terminée, dispersez-vous sur la terre et recherchez la grâce d'Allah. Et invoquez Allah abondamment afin que vous réussissiez.",
+          "Spanish": "Cuando la oración haya terminado, dispersaos por la tierra y buscad el favor de Alá. Y recordad a Alá mucho para que tengáis éxito.",
+          "Hindi": "फिर जब नमाज़ समाप्त हो जाए तो धरती में फैल जाओ और अल्लाह का अनुग्रह तलाश करो, और अल्लाह को अधिक याद करो ताकि तुम सफल हो जाओ।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+        "transliteration": "Wa-itha raaw tijaratan aw lahwan infaddoo ilayha watarooka qa-iman qul ma AAinda Allahi khayrun mina allahwi wamina alttijarati waAllahu khayru alrraziqeena",
+        "translations": {
+          "English": "Yet whenever they come across some business, or some entertainment, they scramble towards it, and leave you standing. Say, 'What is with God is better than entertainment and business; and God is the Best of providers.'",
+          "Urdu": "اور جب وہ کوئی تجارت یا کھیل دیکھتے ہیں تو اس کی طرف دوڑ پڑتے ہیں اور تمہیں کھڑا چھوڑ دیتے ہیں۔ کہہ دو، 'اللہ کے پاس جو ہے وہ کھیل اور تجارت سے بہتر ہے، اور اللہ سب سے بہتر رزق دینے والا ہے۔'",
+          "French": "Mais quand ils voient quelque commerce ou quelque divertissement, ils s'y dispersent et te laissent debout. Dis : « Ce qui est auprès d'Allah est bien meilleur que le divertissement et le commerce, et Allah est le Meilleur des pourvoyeurs. »",
+          "Spanish": "Pero cuando ven algún negocio o diversión, se dispersan hacia ello y te dejan de pie. Di: «Lo que está junto a Alá es mejor que la diversión y el negocio, y Alá es el mejor de los proveedores».",
+          "Hindi": "और जब वे कोई व्यापार या मनोरंजन देखते हैं तो उसकी ओर दौड़ पड़ते हैं और तुम्हें खड़ा छोड़ देते हैं। कह दो, 'अल्लाह के पास जो है वह मनोरंजन और व्यापार से बेहतर है, और अल्लाह सबसे अच्छा रोज़ी देने वाला है।'"
+        }
+      }
+    ]
+  }

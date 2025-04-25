@@ -1,0 +1,354 @@
+{
+    "no": 81,
+    "name": "At-Takwir",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ",
+        "transliteration": "Idhā ash-shamsu kuwwirat",
+        "translations": {
+          "English": "When the sun is rolled up.",
+          "Urdu": "جب سورج لپیٹ دیا جائے گا۔",
+          "French": "Quand le soleil sera obscurci,",
+          "Spanish": "Cuando el sol sea enrollado,",
+          "Hindi": "जब सूरज लपेट दिया जाएगा।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+        "transliteration": "Wa idhā an-nujūmu inkadarat",
+        "translations": {
+          "English": "When the stars are dimmed.",
+          "Urdu": "اور جب ستارے گر جائیں گے۔",
+          "French": "Et que les étoiles deviendront ternes,",
+          "Spanish": "Y las estrellas se oscurezcan,",
+          "Hindi": "और जब तारे बुझ जाएँगे।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+        "transliteration": "Wa idhā al-jibālu suyyirat",
+        "translations": {
+          "English": "When the mountains are set in motion.",
+          "Urdu": "اور جب پہاڑ چلائے جائیں گے।",
+          "French": "Et que les montagnes seront mises en mouvement,",
+          "Spanish": "Y las montañas sean removidas,",
+          "Hindi": "और जब पहाड़ चलाए जाएँगे।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+        "transliteration": "Wa idhā al-'ishāru 'uttilat",
+        "translations": {
+          "English": "When the pregnant camels are neglected.",
+          "Urdu": "اور جب حمل والی اونٹنیاں بے کار چھوڑ دی جائیں گی۔",
+          "French": "Et que les chamelles à terme seront délaissées,",
+          "Spanish": "Y las camellas preñadas sean abandonadas,",
+          "Hindi": "और जब गर्भवती ऊँटनियाँ बेकार छोड़ दी जाएँगी।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+        "transliteration": "Wa idhā al-wuḥūshu ḥushirat",
+        "translations": {
+          "English": "When the wild beasts are gathered.",
+          "Urdu": "اور جب جنگلی جانور جمع کیے جائیں گे۔",
+          "French": "Et que les bêtes sauvages seront rassemblées,",
+          "Spanish": "Y las bestias salvajes sean reunidas,",
+          "Hindi": "और जब जंगली जानवर इकट्ठे किए जाएँगे।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+        "transliteration": "Wa idhā al-biḥāru sujjirat",
+        "translations": {
+          "English": "When the oceans are set aflame.",
+          "Urdu": "اور جب سمندر بھڑکا دیے جائیں گے۔",
+          "French": "Et que les mers seront allumées,",
+          "Spanish": "Y los mares sean inflamados,",
+          "Hindi": "और जब समुद्र जला दिए जाएँगे।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+        "transliteration": "Wa idhā an-nufūsu zuwwijat",
+        "translations": {
+          "English": "When the souls are paired.",
+          "Urdu": "اور جب روحیں جوڑ دی جائیں گی۔",
+          "French": "Et que les âmes seront appariées,",
+          "Spanish": "Y las almas sean emparejadas,",
+          "Hindi": "और जब रूहें जोड़ दी जाएँगी।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+        "transliteration": "Wa idhā al-maw'ūdatu su'ilat",
+        "translations": {
+          "English": "When the girl buried alive is asked:",
+          "Urdu": "اور جب زندہ دفن کی گئی لڑکی سے پوچھا جائے گا:",
+          "French": "Et qu'on demandera à la fillette enterrée vivante:",
+          "Spanish": "Y cuando se le pregunte a la niña enterrada viva:",
+          "Hindi": "और जब ज़िंदा दफ़न की गई लड़की से पूछा जाएगा:"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+        "transliteration": "Bi-ayyi dhanbin qutilat",
+        "translations": {
+          "English": "'For what crime was she killed?'",
+          "Urdu": "'کس گناہ پر اسے قتل کیا گیا؟'",
+          "French": "'Pour quel crime a-t-elle été tuée?'",
+          "Spanish": "'¿Por qué crimen fue asesinada?'",
+          "Hindi": "'किस गुनाह पर उसे मारा गया?'"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+        "transliteration": "Wa idhā aṣ-ṣuḥufu nushirat",
+        "translations": {
+          "English": "When the records are made public.",
+          "Urdu": "اور جب نامہ اعمال کھول دیے جائیں گے।",
+          "French": "Et que les feuilles seront déployées,",
+          "Spanish": "Y los registros sean abiertos,",
+          "Hindi": "और जब अमलनामे खोल दिए जाएँगे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+        "transliteration": "Wa idhā as-samā'u kushitat",
+        "translations": {
+          "English": "When the sky is peeled away.",
+          "Urdu": "اور جب آسمان اتار لیا جائے گا।",
+          "French": "Et que le ciel sera enlevé,",
+          "Spanish": "Y el cielo sea arrancado,",
+          "Hindi": "और जब आसमान उतार लिया जाएगा।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+        "transliteration": "Wa idhā al-jaḥīmu su'irat",
+        "translations": {
+          "English": "When the Fire is set ablaze.",
+          "Urdu": "اور جب دوزخ بھڑکائی جائے گی۔",
+          "French": "Et que l'Enfer sera attisé,",
+          "Spanish": "Y el Infierno sea avivado,",
+          "Hindi": "और जब जहन्नम भड़काई जाएगी।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+        "transliteration": "Wa idhā al-jannatu uzlifat",
+        "translations": {
+          "English": "When Paradise is brought near.",
+          "Urdu": "اور جب جنت قریب کر دی جائے گی۔",
+          "French": "Et que le Paradis sera rapproché,",
+          "Spanish": "Y el Paraíso sea acercado,",
+          "Hindi": "और जब जन्नत नज़दीक कर दी जाएगी।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+        "transliteration": "'Alimat nafsun mā aḥḍarat",
+        "translations": {
+          "English": "Each soul will know what it has brought.",
+          "Urdu": "ہر شخص جان لے گا کہ وہ کیا لے کر آیا ہے۔",
+          "French": "Alors, chaque âme saura ce qu'elle a préparé.",
+          "Spanish": "Cada alma sabrá lo que ha traído.",
+          "Hindi": "हर शख़्स जान लेगा कि वह क्या लेकर आया है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+        "transliteration": "Falā uqsimu bil-khunnas",
+        "translations": {
+          "English": "I swear by the retreating stars,",
+          "Urdu": "پس میں قسم کھاتا ہوں پیچھے ہٹنے والوں (ستاروں) کی،",
+          "French": "Non! Je jure par les planètes qui gravitent,",
+          "Spanish": "¡No! Juro por los astros que retroceden,",
+          "Hindi": "तो मैं कसम खाता हूँ पीछे हटने वालों (तारों) की,"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "الْجَوَارِ الْكُنَّسِ",
+        "transliteration": "Al-jawāri al-kunnas",
+        "translations": {
+          "English": "The swiftly moving, the hiding,",
+          "Urdu": "جو چلتی ہیں اور چھپ جاتی ہیں،",
+          "French": "Qui courent et disparaissent,",
+          "Spanish": "Que corren y se ocultan,",
+          "Hindi": "जो चलती हैं और छिप जाती हैं,"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+        "transliteration": "Wal-layli idhā 'as'as",
+        "translations": {
+          "English": "And by the night as it departs,",
+          "Urdu": "اور رات کی جب وہ چلی جائے،",
+          "French": "Et par la nuit quand elle s'achève,",
+          "Spanish": "Y por la noche cuando se retira,",
+          "Hindi": "और रात की जब वह चली जाए,"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+        "transliteration": "Waṣ-ṣubḥi idhā tanaffas",
+        "translations": {
+          "English": "And by the dawn as it breathes,",
+          "Urdu": "اور صبح کی جب وہ سانس لے،",
+          "French": "Et par l'aube quand elle respire,",
+          "Spanish": "Y por la aurora cuando respira,",
+          "Hindi": "और सुबह की जब वह साँस ले,"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "transliteration": "Innahu laqawlu rasūlin karīm",
+        "translations": {
+          "English": "This is indeed the word of a noble messenger,",
+          "Urdu": "بے شک یہ ایک معزز رسول کا قول ہے،",
+          "French": "Que ceci est la parole d'un noble Messager,",
+          "Spanish": "Que ésta es la palabra de un noble Mensajero,",
+          "Hindi": "निस्संदेह यह एक सम्मानित रसूल का कथन है,"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+        "transliteration": "Dhī quwwatin 'inda dhī l-'arshi makīn",
+        "translations": {
+          "English": "Endowed with power, established with the Lord of the Throne,",
+          "Urdu": "جو طاقت والا ہے، عرش والے کے ہاں معزز ہے،",
+          "French": "Doux de force, auprès du Maître du Trône, ferme,",
+          "Spanish": "Dotado de poder, ante el Señor del Trono, firme,",
+          "Hindi": "जो ताकतवर है, अर्श वाले के पास मक़ाम वाला है,"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "مُطَاعٍ ثَمَّ أَمِينٍ",
+        "transliteration": "Muṭā'in thamma amīn",
+        "translations": {
+          "English": "Obeyed there and trustworthy.",
+          "Urdu": "جس کی وہاں اطاعت کی جاتی ہے، امانت دار ہے۔",
+          "French": "Obéi là-haut, et digne de confiance.",
+          "Spanish": "Obedeciéndose allí, y digno de confianza.",
+          "Hindi": "जिसकी वहाँ इताअत की जाती है, अमानतदार है।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+        "transliteration": "Wa mā ṣāḥibukum bimajnūn",
+        "translations": {
+          "English": "Your companion is not mad.",
+          "Urdu": "اور تمہارا ساتھی دیوانہ نہیں ہے۔",
+          "French": "Votre compagnon n'est pas fou.",
+          "Spanish": "Vuestro compañero no está loco.",
+          "Hindi": "और तुम्हारा साथी पागल नहीं है।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+        "transliteration": "Wa laqad ra'āhu bil-ufuqi l-mubīn",
+        "translations": {
+          "English": "He saw him on the clear horizon.",
+          "Urdu": "اور اس نے اسے روشن افق پر دیکھا ہے۔",
+          "French": "Il l'a vu à l'horizon clair.",
+          "Spanish": "Y lo vio en el horizonte claro.",
+          "Hindi": "और उसने उसे स्पष्ट क्षितिज पर देखा है।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+        "transliteration": "Wa mā huwa 'alā l-ghaybi biḍanīn",
+        "translations": {
+          "English": "And he does not withhold knowledge of the unseen.",
+          "Urdu": "اور وہ غیب کی باتوں پر بخیل نہیں ہے۔",
+          "French": "Et il ne garde pas avarement ce qui lui est révélé.",
+          "Spanish": "Y no es avaro con lo oculto.",
+          "Hindi": "और वह ग़ैब की बातों पर कंजूस नहीं है।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+        "transliteration": "Wa mā huwa biqawli shayṭānin rajīm",
+        "translations": {
+          "English": "And it is not the word of an accursed devil.",
+          "Urdu": "اور یہ کسی مردود شیطان کا قول نہیں ہے।",
+          "French": "Et ce n'est pas la parole d'un diable banni.",
+          "Spanish": "Y no es la palabra de un demonio maldito.",
+          "Hindi": "और यह किसी मरदूद शैतान का कथन नहीं है।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "فَأَيْنَ تَذْهَبُونَ",
+        "transliteration": "Fa ayna tadhhabūn",
+        "translations": {
+          "English": "So where are you going?",
+          "Urdu": "پھر تم کدھر جا رہے ہو؟",
+          "French": "Où allez-vous donc?",
+          "Spanish": "¿Adónde vais, pues?",
+          "Hindi": "फिर तुम किधर जा रहे हो?"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+        "transliteration": "In huwa illā dhikrun lil-'ālamīn",
+        "translations": {
+          "English": "It is only a reminder to all the worlds,",
+          "Urdu": "یہ تو بس سارے جہان والوں کے لیے نصیحت ہے،",
+          "French": "Ce n'est qu'un rappel pour l'univers,",
+          "Spanish": "No es sino un Recuerdo para los mundos,",
+          "Hindi": "यह तो बस सारे संसार वालों के लिए नसीहत है,"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+        "transliteration": "Li-man shā'a minkum an yastaqīm",
+        "translations": {
+          "English": "For whoever among you wills to go straight.",
+          "Urdu": "تم میں سے جو کوئی سیدھا راستہ اختیار کرنا چاہے۔",
+          "French": "Pour celui d'entre vous qui veut suivre le droit chemin.",
+          "Spanish": "Para quien de vosotros quiera ser recto.",
+          "Hindi": "तुममें से जो कोई सीधा रास्ता अपनाना चाहे।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+        "transliteration": "Wa mā tashā'ūna illā an yashā'a llāhu rabbu l-'ālamīn",
+        "translations": {
+          "English": "But you cannot will, unless Allah wills—Lord of the Worlds.",
+          "Urdu": "اور تم نہیں چاہ سکتے مگر یہ کہ اللہ چاہے جو سارے جہان کا رب ہے۔",
+          "French": "Mais vous ne voudrez que si Allah veut, Lui, le Seigneur de l'univers.",
+          "Spanish": "Pero no querréis a menos que Allah quiera, Señor de los mundos.",
+          "Hindi": "और तुम नहीं चाह सकते मगर यह कि अल्लाह चाहे जो सारे संसार का रब है।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,942 @@
+{
+    "no": 55,
+    "name": "Ar-Rahman",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "الرَّحْمَنُ",
+        "transliteration": "Ar-Rahman",
+        "translations": {
+          "English": "The Compassionate.",
+          "Urdu": "وہ رحمن (نہایت مہربان)",
+          "French": "Le Tout Miséricordieux,",
+          "Spanish": "El Compasivo,",
+          "Hindi": "वह अत्यंत दयालु (अर-रहमान)"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "عَلَّمَ الْقُرْآنَ",
+        "transliteration": "Allama al-Qur'an",
+        "translations": {
+          "English": "Has taught the Quran.",
+          "Urdu": "جس نے قرآن سکھایا۔",
+          "French": "Il a enseigné le Coran.",
+          "Spanish": "Enseñó el Corán.",
+          "Hindi": "उसने क़ुरआन सिखाया।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "خَلَقَ الْإِنْسَانَ",
+        "transliteration": "Khalaqa al-insan",
+        "translations": {
+          "English": "He created man.",
+          "Urdu": "اس نے انسان کو پیدا کیا۔",
+          "French": "Il a créé l'homme.",
+          "Spanish": "Creó al ser humano.",
+          "Hindi": "उसने मनुष्य को पैदा किया।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "عَلَّمَهُ الْبَيَانَ",
+        "transliteration": "Allamahu al-bayan",
+        "translations": {
+          "English": "And taught him clear expression.",
+          "Urdu": "اسے بیان کرنا سکھایا۔",
+          "French": "Il lui a enseigné l'éloquence.",
+          "Spanish": "Le enseñó la elocuencia.",
+          "Hindi": "उसे बोलना सिखाया।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+        "transliteration": "Ash-shamsu wal-qamaru bihusban",
+        "translations": {
+          "English": "The sun and the moon move according to plan.",
+          "Urdu": "سورج اور چاند ایک حساب سے چل رہے ہیں۔",
+          "French": "Le soleil et la lune évoluent selon un calcul.",
+          "Spanish": "El sol y la luna siguen una órbita calculada.",
+          "Hindi": "सूरज और चाँद एक नियम के अनुसार चलते हैं।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+        "transliteration": "Wan-najmu wash-shajaru yasjudan",
+        "translations": {
+          "English": "And the stars and the trees prostrate themselves.",
+          "Urdu": "اور تارے اور درخت سجدہ کرتے ہیں۔",
+          "French": "Et les étoiles et les arbres se prosternent.",
+          "Spanish": "Las estrellas y los árboles se prosternan.",
+          "Hindi": "और तारे और पेड़ सजदा करते हैं।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+        "transliteration": "Wassamaa rafa'aha wa wada'a al-mizan",
+        "translations": {
+          "English": "And the sky, He raised; and He set up the balance.",
+          "Urdu": "اور آسمان کو اس نے بلند کیا اور ترازو قائم کی۔",
+          "French": "Et le ciel, Il l'a élevé bien haut. Et Il a établi la balance,",
+          "Spanish": "Y elevó el cielo y estableció la balanza,",
+          "Hindi": "और आसमान को उसने ऊँचा किया और न्याय स्थापित किया।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+        "transliteration": "Alla tatghaw fil-mizan",
+        "translations": {
+          "English": "So do not transgress in the balance.",
+          "Urdu": "تاکہ تم ترازو میں ناانصافی نہ کرو۔",
+          "French": "afin que vous ne transgressiez pas dans la pesée.",
+          "Spanish": "para que no cometáis injusticia en la balanza.",
+          "Hindi": "ताकि तुम नाप-तौल में अन्याय न करो।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+        "transliteration": "Wa aqeemul-wazna bil-qisti wa la tukhsiroo al-mizan",
+        "translations": {
+          "English": "But maintain the weights with justice, and do not violate the balance.",
+          "Urdu": "اور انصاف کے ساتھ وزن پورا کرو اور ترازو میں کمی نہ کرو۔",
+          "French": "Et observez le poids avec équité et ne faussez pas la balance.",
+          "Spanish": "Y pesad con equidad, y no hagáis trampa en la balanza.",
+          "Hindi": "और न्याय के साथ तौल पूरी करो और तराजू में कमी न करो।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+        "transliteration": "Wal-arda wada'aha lil-anam",
+        "translations": {
+          "English": "And the earth; He set up for the creatures.",
+          "Urdu": "اور زمین کو اس نے مخلوقات کے لیے بنایا۔",
+          "French": "Et la terre, Il l'a étendue pour les êtres vivants.",
+          "Spanish": "Y extendió la tierra para las criaturas.",
+          "Hindi": "और धरती को उसने प्राणियों के लिए बिछाया।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+        "transliteration": "Feeha fakihatun wan-nakhl dhatu al-akmam",
+        "translations": {
+          "English": "In it are fruits, and palms in clusters.",
+          "Urdu": "اس میں میوے ہیں اور کھجور کے درخت جن کے خوشے ہیں۔",
+          "French": "Il s'y trouve des fruits, et aussi les palmiers aux régimes fournis,",
+          "Spanish": "En ella hay frutas y palmeras con racimos,",
+          "Hindi": "इसमें फल हैं और खजूर के पेड़ जिनके गुच्छे हैं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالْرَّيْحَانُ",
+        "transliteration": "Wal-habbu thu al-'asfi war-rayhan",
+        "translations": {
+          "English": "And grains in the blades, and fragrant plants.",
+          "Urdu": "اور اناج ہیں جو بھوسے والے ہیں اور خوشبودار پودے۔",
+          "French": "Et les grains dans leurs enveloppes, et les plantes aromatiques.",
+          "Spanish": "Y granos con sus vainas y plantas aromáticas.",
+          "Hindi": "और अनाज जिसके साथ भूसा होता है और सुगंधित पौधे।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+        "transliteration": "Khalaqa al-insana min salsalin kal-fakhkhar",
+        "translations": {
+          "English": "He created man from hard clay, like bricks.",
+          "Urdu": "اس نے انسان کو ٹھیکری کی طرح خشک مٹی سے پیدا کیا۔",
+          "French": "Il a créé l'homme d'argile sonnante comme la poterie,",
+          "Spanish": "Creó al hombre de arcilla seca, como la cerámica,",
+          "Hindi": "उसने मनुष्य को ठीकरी जैसी सूखी मिट्टी से पैदा किया।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+        "transliteration": "Wa khalaqa al-janna min marijin min nar",
+        "translations": {
+          "English": "And created the jinn from a fusion of fire.",
+          "Urdu": "اور جنّات کو آگ کے شعلے سے پیدا کیا۔",
+          "French": "et Il a créé les djinns d'une flamme de feu sans fumée.",
+          "Spanish": "y creó a los yinn de fuego sin humo.",
+          "Hindi": "और जिन्न को धुंए रहित आग की लौ से पैदा किया।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+        "transliteration": "Rabbu almashriqayni wa rabbu almaghribayn",
+        "translations": {
+          "English": "Lord of the two Easts and Lord of the two Wests.",
+          "Urdu": "وہ دونوں مشرقوں اور دونوں مغربوں کا رب ہے۔",
+          "French": "Seigneur des deux Levants et Seigneur des deux Couchants.",
+          "Spanish": "Señor de los dos amaneceres y de los dos ocasos.",
+          "Hindi": "दोनों पूर्वों और दोनों पश्चिमों का रब।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+        "transliteration": "Maraja albahrayni yaltaqiyan",
+        "translations": {
+          "English": "He merged the two seas, converging together.",
+          "Urdu": "اس نے دو سمندروں کو ملایا جو آپس میں ملتے ہیں۔",
+          "French": "Il a donné libre cours aux deux mers pour se rencontrer.",
+          "Spanish": "Ha dejado que los dos mares se encuentren.",
+          "Hindi": "उसने दो समुद्रों को मिलाया जो आपस में मिलते हैं।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+        "transliteration": "Baynahuma barzakhun la yabghiyan",
+        "translations": {
+          "English": "Between them is a barrier, which they do not overrun.",
+          "Urdu": "ان دونوں کے درمیان ایک آڑ ہے جس سے وہ تجاوز نہیں کرتے۔",
+          "French": "Il y a entre elles une barrière qu’elles ne dépassent pas.",
+          "Spanish": "Entre ellos hay una barrera que no traspasan.",
+          "Hindi": "उन दोनों के बीच एक अवरोध है जिसे वह लाँघ नहीं सकते।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+        "transliteration": "Yakhruju minhuma allu-lu-u wa almarjan",
+        "translations": {
+          "English": "From them emerge pearls and coral.",
+          "Urdu": "ان دونوں سے موتی اور مرجان نکلتے ہیں۔",
+          "French": "De ces deux [mers] sortent la perle et le corail.",
+          "Spanish": "De ambos se extraen perlas y coral.",
+          "Hindi": "उन दोनों से मोती और मूँगा निकलते हैं।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+        "transliteration": "Walahu aljawari almunshaatu fee albahri kal-a'lam",
+        "translations": {
+          "English": "His are the ships, raised above the sea like landmarks.",
+          "Urdu": "اور اسی کے ہیں وہ کشتیاں جو سمندر میں پہاڑوں کی طرح اٹھی ہوئی چلتی ہیں۔",
+          "French": "A Lui appartiennent les vaisseaux élevés sur la mer comme des montagnes.",
+          "Spanish": "Suyas son las naves que surcan el mar como montañas.",
+          "Hindi": "और उसी के हैं वह जहाज़ जो समुद्र में पहाड़ों की तरह चलते हैं।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+        "transliteration": "Kullu man 'alayha fanin",
+        "translations": {
+          "English": "Everyone upon it is perishing.",
+          "Urdu": "جو کوئی بھی زمین پر ہے فنا ہونے والا ہے۔",
+          "French": "Tout ce qui est sur elle [la terre] doit disparaître,",
+          "Spanish": "Todo lo que hay en ella perecerá,",
+          "Hindi": "धरती पर जो कुछ भी है वह नष्ट होने वाला है।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+        "transliteration": "Wa yabqa wajhu rabbika dhu al-jalali wal-ikram",
+        "translations": {
+          "English": "But will remain the Presence of your Lord, Full of Majesty and Splendor.",
+          "Urdu": "اور تیرے رب کی ذات جو صاحبِ جلال و اکرام ہے باقی رہے گی۔",
+          "French": "Seule subsistera La Face de ton Seigneur, pleine de Majesté et de Munificence.",
+          "Spanish": "Sólo permanecerá el Rostro de tu Señor, Dueño de la Majestad y la Generosidad.",
+          "Hindi": "और तेरे रब का चेहरा, जो प्रताप और इज़्ज़त वाला है, सदा बाकी रहेगा।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+        "transliteration": "Yas'aluhu man fee as-samawati wal-ard; kulla yawmin huwa fee sha'n",
+        "translations": {
+          "English": "Everyone in the heavens and the earth asks Him. Every day He is managing.",
+          "Urdu": "آسمانوں اور زمین میں جو بھی ہے اسی سے مانگتا ہے۔ وہ ہر روز ایک نئی تدبیر میں ہے۔",
+          "French": "Tous ceux qui sont dans les cieux et sur la terre L’implorent. Chaque jour, Il accomplit une œuvre nouvelle.",
+          "Spanish": "Todos los que están en los cielos y en la tierra Le imploran. Cada día está ocupado en una obra.",
+          "Hindi": "आकाशों और धरती में जो कोई भी है वह उसी से माँगता है। वह हर दिन एक नई शान (कार्य) में होता है।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+        "transliteration": "Sanafrughu lakum ayyuha ath-thaqalan",
+        "translations": {
+          "English": "We will attend to you, O prominent two.",
+          "Urdu": "اے جنوں اور انسانوں کے گروہ! ہم عنقریب تمہارا حساب لینے کو تیار ہوں گے۔",
+          "French": "Nous allons bientôt Nous occuper de vous, ô les deux charges [hommes et djinns] !",
+          "Spanish": "¡Oh, seres humanos y yinnes! Pronto Nos ocuparemos de vosotros.",
+          "Hindi": "हे मनुष्यों और जिन्नों के समुदाय! हम जल्द ही तुम्हारा हिसाब लेंगे।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا ۚ لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ",
+        "transliteration": "Ya ma'shara al-jinni wal-insi ini istata'tum an tanfudhu min aqtari as-samawati wal-ardhi fanfudhu; la tanfudhuna illa bisultan",
+        "translations": {
+          "English": "O society of jinn and humans! If you can pass through the bounds of the heavens and the earth, go ahead and pass. But you will not pass except with authorization.",
+          "Urdu": "اے جنوں اور انسانوں کے گروہ! اگر تم آسمانوں اور زمین کے کناروں سے نکل جانے پر قادر ہو تو نکل جاؤ۔ تم زور کے بغیر نہیں نکل سکتے۔",
+          "French": "Ô communauté des djinns et des hommes ! Si vous pouvez franchir les limites des cieux et de la terre, alors franchissez-les. Mais vous ne les franchirez qu’à l’aide d’un pouvoir [divin].",
+          "Spanish": "¡Oh, comunidad de yinnes y seres humanos! Si podéis traspasar los confines de los cielos y la tierra, hacedlo. Pero no podréis traspasarlos sin autoridad.",
+          "Hindi": "हे जिन्नों और इंसानों के समुदाय! अगर तुम आकाशों और धरती के छोरों से निकल जाने की सामर्थ्य रखते हो तो निकल जाओ। तुम बिना सत्ता के नहीं निकल सकते।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اपने رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+        "transliteration": "Yursalu 'alaykuma shuwazun min narin wa nuhasun fala tantasiran",
+        "translations": {
+          "English": "You will be bombarded with flares of fire and brass, and you will not succeed.",
+          "Urdu": "تم دونوں پر آگ کے شعلے اور دھواں بھیجا جائے گا، پھر تم مدد نہیں پا سکو گے۔",
+          "French": "On lancera contre vous des flammes de feu et du métal en fusion, et vous ne serez pas secourus.",
+          "Spanish": "Se lanzará sobre vosotros llamas de fuego y metal fundido, y no podréis defenderos.",
+          "Hindi": "तुम दोनों पर आग की लपटें और धुआँ भेजा जाएगा, फिर तुम बच नहीं सकोगे।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو जھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+        "transliteration": "Fa-itha inshaqqati as-sama'u fakanaat wardatan kaddihan",
+        "translations": {
+          "English": "When the sky splits apart, and becomes rose, like paint.",
+          "Urdu": "پھر جب آسمان پھٹ جائے گا تو سرخ ہو جائے گا جیسے چمڑے کا سرخ رنگ۔",
+          "French": "Puis quand le ciel se fendra et deviendra rouge comme le cuir rougeoyant,",
+          "Spanish": "Cuando el cielo se abra y se torne rojo como el cuero teñido,",
+          "Hindi": "फिर जब आसमान फट जाएगा और लाल हो जाएगा जैसे चमड़े का लाल रंग।"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
+        "transliteration": "Fayawma-ithin la yus'alu 'an dhanbihi insun wa la jann",
+        "translations": {
+          "English": "On that Day, no human and no jinn will be asked about his sins.",
+          "Urdu": "اس دن نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پوچھا جائے گا اور نہ ہی کسی جن سے۔",
+          "French": "Ce jour-là, on ne demandera ni aux hommes ni aux djinns leurs péchés.",
+          "Spanish": "Ese día no se preguntará a ningún ser humano ni a ningún yinn por sus pecados.",
+          "Hindi": "उस दिन न किसी इंसान से उसके गुनाह के बारे में पूछा जाएगा और न किसी जिन्न से।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+        "transliteration": "Yu'rafu al-mujrimoona biseemahum fa-yu'khadhu bin-nawasi wal-aqdam",
+        "translations": {
+          "English": "The guilty will be recognized by their marks; they will be taken by the forelocks and the feet.",
+          "Urdu": "مجرم اپنے چہروں کی سیاہی سے پہچان لیے جائیں گے، پھر ان کے پیشانیوں کے بال اور پاؤں پکڑ کر گھسیٹا جائے گا۔",
+          "French": "Les criminels seront reconnus à leurs traits; ils seront saisis par les toupets et les pieds.",
+          "Spanish": "Los pecadores serán reconocidos por sus señales, y serán arrastrados por sus melenas y sus pies.",
+          "Hindi": "गुनहगार अपने चेहरों की कालिमा से पहचान लिए जाएँगे, फिर उनकी माँग और पैर पकड़कर घसीटा जाएगा।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 43,
+        "arabic": "هَذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+        "transliteration": "Hathihi jahannamu allati yukaththibu biha al-mujrimoon",
+        "translations": {
+          "English": "This is Hell that the guilty denied.",
+          "Urdu": "یہی وہ جہنم ہے جسے مجرموں نے جھٹلایا تھا۔",
+          "French": "Voici l’Enfer que les criminels traitaient de mensonge.",
+          "Spanish": "Este es el Infierno que los pecadores desmentían.",
+          "Hindi": "यही वह जहन्नम है जिसे गुनहगार झुठलाते थे।"
+        }
+      },
+      {
+        "no": 44,
+        "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+        "transliteration": "Yatoofoona baynaha wa bayna hameemin an",
+        "translations": {
+          "English": "They circulate between it and between a seething bath.",
+          "Urdu": "وہ اس کے اور کھولتے ہوئے پانی کے درمیان چکر لگاتے رہیں گے۔",
+          "French": "Ils tourneront entre elle et une eau bouillante très-chaude.",
+          "Spanish": "Darán vueltas entre él y un líquido hirviente.",
+          "Hindi": "वह उस (जहन्नम) और उबलते हुए पानी के बीच चक्कर लगाएँगे।"
+        }
+      },
+      {
+        "no": 45,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 46,
+        "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+        "transliteration": "Wa liman khafa maqama rabbihi jannatan",
+        "translations": {
+          "English": "But for him who feared the standing of his Lord are two gardens.",
+          "Urdu": "اور جو اپنے رب کے سامنے کھڑے ہونے سے ڈرا، اس کے لیے دو باغ ہیں۔",
+          "French": "Et pour celui qui aura craint de comparaître devant son Seigneur, il y aura deux Jardins.",
+          "Spanish": "Pero para quien haya temido comparecer ante su Señor habrá dos jardines.",
+          "Hindi": "और जो अपने रब के सामने खड़े होने से डरा, उसके लिए दो बाग़ हैं।"
+        }
+      },
+      {
+        "no": 47,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم اپنے رب کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 48,
+        "arabic": "ذَوَاتَا أَفْنَانٍ",
+        "transliteration": "Dhawata afnan",
+        "translations": {
+          "English": "Full of varieties.",
+          "Urdu": "ان میں طرح طرح کی شاخیں ہوں گی۔",
+          "French": "Aux branches touffues.",
+          "Spanish": "De ramas frondosas.",
+          "Hindi": "जिनमें तरह-तरह की डालियाँ होंगी।"
+        }
+      },
+      {
+        "no": 49,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پस तम अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 50,
+        "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+        "transliteration": "Feehima 'aynani tajriyan",
+        "translations": {
+          "English": "In them are two flowing springs.",
+          "Urdu": "ان دونوں میں دو چشمے بہ رہے ہوں گے۔",
+          "French": "Il y aura là deux sources jaillissantes.",
+          "Spanish": "En ellos habrá dos manantiales fluyendo.",
+          "Hindi": "उन दोनों में दो चश्में बह रहे होंगे।"
+        }
+      },
+      {
+        "no": 51,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 52,
+        "arabic": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+        "transliteration": "Feehima min kulli fakihatin zawjan",
+        "translations": {
+          "English": "In them are fruits of every kind, in pairs.",
+          "Urdu": "ان میں ہر قسم کے میووں کے جوڑے ہوں گے۔",
+          "French": "Il y aura là deux espèces de chaque fruit.",
+          "Spanish": "En ellos habrá dos variedades de cada fruta.",
+          "Hindi": "उनमें हर तरह के फलों के जोड़े होंगे।"
+        }
+      },
+      {
+        "no": 53,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس तम अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 54,
+        "arabic": "مُتَّكِئِينَ عَلَى فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۖ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+        "transliteration": "Muttaki-eena 'ala furushin bata-inuha min istabraq; wa jana al-jannatayni dan",
+        "translations": {
+          "English": "Reclining on furnishings lined with brocade, and the fruits of the two gardens are near at hand.",
+          "Urdu": "وہ ریشم کے گداؤں پر تکیے لگائے بیٹھے ہوں گے، اور دونوں باغوں کے میوے قریب ہوں گے۔",
+          "French": "Ils seront accoudés sur des tapis doublés de brocart, et les fruits des deux Jardins seront à portée de main.",
+          "Spanish": "Reclinados sobre cojines forrados de brocado, y los frutos de ambos jardines al alcance.",
+          "Hindi": "वह मखमल के गद्दों पर टेक लगाए बैठे होंगे, और दोनों बाग़ों के फल नज़दीक होंगे।"
+        }
+      },
+      {
+        "no": 55,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس तम अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 56,
+        "arabic": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+        "transliteration": "Feehinna qasiratu at-tarfi lam yatmishunna insun qablahum wa la jann",
+        "translations": {
+          "English": "In them are maidens restraining their glances, untouched before by any man or jinn.",
+          "Urdu": "ان میں نیچی نظروں والی حوریں ہوں گی جنہیں نہ کسی انسان نے پہلے چھوا ہو گا اور نہ کسی جن نے۔",
+          "French": "Il y aura là des vertueuses et des belles aux regards chastes, qu’avant eux aucun homme ou djinn n’aura déflorées.",
+          "Spanish": "En ellos estarán las de mirada casta, a las que no habrán tocado antes hombre ni yinn.",
+          "Hindi": "उनमें नज़रें झुकाए हुई हूरें होंगी, जिन्हें न किसी इंसान ने पहले छुआ होगा और न किसी जिन्न ने।"
+        }
+      },
+      {
+        "no": 57,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "पس तम अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 58,
+        "arabic": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+        "transliteration": "Ka-annahunna al-yaqootu wal-marjan",
+        "translations": {
+          "English": "As though they were rubies and corals.",
+          "Urdu": "گویا وہ याकूत और मोती हों۔",
+          "French": "Elles seront comme le rubis et le corail.",
+          "Spanish": "Como si fueran rubíes y coral.",
+          "Hindi": "मानो वह याक़ूत और मोती हों।"
+        }
+      },
+      {
+        "no": 59,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब की कन कन सी नमतन को झटलाओ गे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 60,
+        "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+        "transliteration": "Hal jazao al-ihsani illa al-ihsan",
+        "translations": {
+          "English": "Is the reward of goodness anything but goodness?",
+          "Urdu": "نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے؟",
+          "French": "Y a-t-il d’autre récompense pour le bien, que le bien ?",
+          "Spanish": "¿Acaso hay otra recompensa para el bien que no sea el bien?",
+          "Hindi": "भलाई का बदला भलाई के सिवा और क्या हो सकता है?"
+        }
+      },
+      {
+        "no": 61,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 62,
+        "arabic": "وَمِنْ دُونِهِمَا جَنَّتَانِ",
+        "transliteration": "Wa min doonihima jannatan",
+        "translations": {
+          "English": "And beneath them are two gardens.",
+          "Urdu": "اور ان دونوں کے علاوہ دو اور باغ ہوں گے۔",
+          "French": "Et en deçà de ces deux-là, il y aura deux autres Jardins.",
+          "Spanish": "Y además de esos dos, habrá otros dos jardines.",
+          "Hindi": "और उन दोनों के अलावा दो और बाग़ होंगे।"
+        }
+      },
+      {
+        "no": 63,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں को جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 64,
+        "arabic": "مُدْهَامَّتَانِ",
+        "transliteration": "Mudhammatan",
+        "translations": {
+          "English": "Deep green.",
+          "Urdu": "گہرے سبز۔",
+          "French": "D’un vert sombre.",
+          "Spanish": "De un verde oscuro.",
+          "Hindi": "गहरे हरे।"
+        }
+      },
+      {
+        "no": 65,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब की کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 66,
+        "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+        "transliteration": "Feehima 'aynani naddakhatan",
+        "translations": {
+          "English": "In them are two gushing springs.",
+          "Urdu": "ان میں دو فوارے چھलक رہے ہوں گے۔",
+          "French": "Il y aura là deux sources jaillissantes.",
+          "Spanish": "En ellos habrá dos manantiales brotando.",
+          "Hindi": "उनमें दो फव्वारे फूट रहे होंगे।"
+        }
+      },
+      {
+        "no": 67,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 68,
+        "arabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+        "transliteration": "Feehima fakihatun wa nakhlun wa rumman",
+        "translations": {
+          "English": "In them are fruits, and date-palms, and pomegranates.",
+          "Urdu": "ان میں میوے ہوں گے، کھجوریں اور انار۔",
+          "French": "Il y aura là des fruits, des palmiers, et des grenadiers.",
+          "Spanish": "En ellos habrá frutas, palmeras y granadas.",
+          "Hindi": "उनमें फल होंगे, खजूरें और अनार।"
+        }
+      },
+      {
+        "no": 69,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 70,
+        "arabic": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+        "transliteration": "Feehinna khayratun hisan",
+        "translations": {
+          "English": "In them are good and beautiful ones.",
+          "Urdu": "ان میں نیک اور خوبصورت حوریں ہوں گی۔",
+          "French": "Il y aura là des vertueuses et des belles.",
+          "Spanish": "En ellas estarán las buenas y hermosas.",
+          "Hindi": "उनमें अच्छी और सुंदर हूरें होंगी।"
+        }
+      },
+      {
+        "no": 71,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 72,
+        "arabic": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+        "transliteration": "Hoorun maqsooratun fee al-khiyam",
+        "translations": {
+          "English": "Companions, secluded in the tents.",
+          "Urdu": "خیموں میں محفوظ حوریں۔",
+          "French": "Des houris cloîtrées dans les tentes,",
+          "Spanish": "Huríes recluidas en pabellones,",
+          "Hindi": "ख़ेमों में बंद हूरें।"
+        }
+      },
+      {
+        "no": 73,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब की کون کون سی نعمتوں کو جھटलاؤ گे?",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 74,
+        "arabic": "لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+        "transliteration": "Lam yatmishunna insun qablahum wa la jann",
+        "translations": {
+          "English": "Whom no human has touched before, nor jinn.",
+          "Urdu": "جنہیں نہ کسی انسان نے پہلے چھوا ہو گا اور نہ کسی جن نے۔",
+          "French": "qu’avant eux aucun homme ou djinn n’aura déflorées.",
+          "Spanish": "A las que no habrán tocado antes hombre ni yinn.",
+          "Hindi": "जिन्हें न किसी इंसान ने पहले छुआ होगा और न किसी जिन्न ने।"
+        }
+      },
+      {
+        "no": 75,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹलاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 76,
+        "arabic": "مُتَّكِئِينَ عَلَى رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+        "transliteration": "Muttaki-eena 'ala rafrafin khudrin wa 'abqariyyin hisan",
+        "translations": {
+          "English": "Reclining on green cushions, and exquisite carpets.",
+          "Urdu": "سبز گدّوں اور نفیس فرشوں پر تکیے لگائے ہوں گے۔",
+          "French": "Ils seront accoudés sur des coussins verts et des tapis magnifiques.",
+          "Spanish": "Reclinados sobre cojines verdes y alfombras hermosas.",
+          "Hindi": "हरे गद्दों और बढ़िया दरियों पर टेक लगाए होंगे।"
+        }
+      },
+      {
+        "no": 77,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "transliteration": "Fabia-ayi ala-i rabbikuma tukaththiban",
+        "translations": {
+          "English": "So which of your Lord’s marvels will you deny?",
+          "Urdu": "پس تم अपने रब کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?",
+          "Spanish": "¿Cuál, pues, de las bendiciones de vuestro Señor negaréis?",
+          "Hindi": "फिर तुम दोनों अपने रब की किस-किस नेमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 78,
+        "arabic": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+        "transliteration": "Tabaraka ismu rabbika dhi al-jalali wal-ikram",
+        "translations": {
+          "English": "Blessed be the name of your Lord, Full of Majesty and Splendor.",
+          "Urdu": "تیرے رب کا نام بڑی بزرگی اور کرامت والا ہے۔",
+          "French": "Béni soit le nom de ton Seigneur, plein de Majesté et de Munificence.",
+          "Spanish": "¡Bendito sea el nombre de tu Señor, Dueño de la Majestad y la Generosidad!",
+          "Hindi": "बड़ा बरकत वाला है तेरे रब का नाम, जो प्रताप और इज़्ज़त वाला है।"
+        }
+      }
+    ]
+  }

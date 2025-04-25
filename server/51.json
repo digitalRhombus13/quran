@@ -1,0 +1,198 @@
+{
+    "no": 51,
+    "name": "Adh-Dhariyat",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالذَّارِيَاتِ ذَرْوًا",
+        "transliteration": "Wa adh-dhariyati dhrowa",
+        "translations": {
+          "English": "By the spreaders spreading.",
+          "Urdu": "قسم ہے ہوا کے چلانے والی کی جو تیز چلتی ہے۔",
+          "French": "Par les disperseurs qui dispersent,",
+          "Spanish": "Por los vientos que esparcen,",
+          "Hindi": "शपथ है उन हवाओं की जो तेज़ चलती हैं,"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "فَالْحَامِلَاتِ وِقْرًا",
+        "transliteration": "Fal-hamilati wiqra",
+        "translations": {
+          "English": "And those carrying loads.",
+          "Urdu": "پھر بوجھ اٹھانے والیوں کی۔",
+          "French": "Et par ceux qui portent un fardeau,",
+          "Spanish": "Por las nubes cargadas,",
+          "Hindi": "फिर बोझ उठाने वालियों की,"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "فَالْجَارِيَاتِ يُسْرًا",
+        "transliteration": "Fal-jariyati yusra",
+        "translations": {
+          "English": "And those moving gently.",
+          "Urdu": "پھر آسانی سے چلنے والیوں کی۔",
+          "French": "Et par celles qui voguent avec légèreté,",
+          "Spanish": "Por las que navegan con facilidad,",
+          "Hindi": "फिर आसानी से चलने वालियों की,"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "فَالْمُقَسِّمَاتِ أَمْرًا",
+        "transliteration": "Fal-muqassimati amra",
+        "translations": {
+          "English": "And those distributing as commanded.",
+          "Urdu": "پھر کام تقسیم کرنے والیوں کی۔",
+          "French": "Et par celles qui répartissent les commandements,",
+          "Spanish": "Por las que distribuyen las órdenes,",
+          "Hindi": "फिर काम बाँटने वालियों की,"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+        "transliteration": "Innama too'adoona lasadiq",
+        "translations": {
+          "English": "What you are promised is true.",
+          "Urdu": "بے شک تم سے جو وعدہ کیا جاتا ہے وہ سچ ہے۔",
+          "French": "Ce qui vous est promis est certainement vrai.",
+          "Spanish": "En verdad, lo que se os ha prometido es cierto.",
+          "Hindi": "निश्चय ही जिस चीज़ का तुमसे वादा किया जाता है वह सच है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+        "transliteration": "Wa inna ad-deena lawaqi'",
+        "translations": {
+          "English": "Judgment will take place.",
+          "Urdu": "اور بے شک جزا ضرور ہونے والی ہے۔",
+          "French": "Et le jugement aura certainement lieu.",
+          "Spanish": "Y el Día del Juicio llegará sin falta.",
+          "Hindi": "और निश्चय ही प्रतिफल अवश्य होने वाला है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+        "transliteration": "Wassama-i thati alhobuk",
+        "translations": {
+          "English": "By the sky that is woven.",
+          "Urdu": "قسم ہے راہوں والے آسمان کی۔",
+          "French": "Par le ciel aux voies parfaites,",
+          "Spanish": "Por el cielo surcado de caminos,",
+          "Hindi": "शपथ है रास्तों वाले आकाश की,"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ",
+        "transliteration": "Innakum lafee qawlin mukhtalif",
+        "translations": {
+          "English": "You differ in what you say.",
+          "Urdu": "بے شک تم مختلف باتوں میں پڑے ہوئے ہو۔",
+          "French": "Vous êtes en contradiction dans vos paroles.",
+          "Spanish": "Ciertamente, vosotros estáis en discrepancia.",
+          "Hindi": "निश्चय ही तुम विभिन्न बातों में पड़े हुए हो।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+        "transliteration": "Yu'faku 'anhu man ufik",
+        "translations": {
+          "English": "Averted from it is he who is averted.",
+          "Urdu": "اس سے وہی پھرتا ہے جو پھر جانے والا ہے۔",
+          "French": "S'en détourne celui qui est détourné.",
+          "Spanish": "Se aparta de él quien está destinado a apartarse.",
+          "Hindi": "उससे वही फिरता है जो फिर जाने वाला है।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "قُتِلَ الْخَرَّاصُونَ",
+        "transliteration": "Qutila alkharrasoon",
+        "translations": {
+          "English": "Perish the imposters.",
+          "Urdu": "مرے ہوئے ہیں جھوٹے لوگ۔",
+          "French": "Périssent les menteurs,",
+          "Spanish": "¡Malditos sean los que suponen!",
+          "Hindi": "ध्वस्त हुए झूठे लोग।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ",
+        "transliteration": "Allatheena hum fee ghamratin sahoon",
+        "translations": {
+          "English": "Those who are dazed in ignorance.",
+          "Urdu": "جو غفلت میں پڑے ہوئے بے خبر ہیں۔",
+          "French": "Ceux qui sont plongés dans l'insouciance,",
+          "Spanish": "Aquellos que están sumidos en la ignorancia y el descuido.",
+          "Hindi": "जो गहरी ग़फ़लत में पड़े हुए बेख़बर हैं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ",
+        "transliteration": "Yas'aloona ayyana yawmu addeen",
+        "translations": {
+          "English": "They ask, \"When is the Day of Judgment?\"",
+          "Urdu": "وہ پوچھتے ہیں کہ جزا کا دن کب آئے گا؟",
+          "French": "Ils demandent : \"Quand viendra le Jour du Jugement ?\"",
+          "Spanish": "Preguntan: \"¿Cuándo será el Día del Juicio?\"",
+          "Hindi": "वे पूछते हैं, \"प्रतिफल का दिन कब आएगा?\""
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+        "transliteration": "Yawma hum 'ala annari yuftanoon",
+        "translations": {
+          "English": "The Day they are presented to the Fire.",
+          "Urdu": "جس دن وہ آگ پر آزمائے جائیں گے۔",
+          "French": "Le jour où ils seront éprouvés par le Feu.",
+          "Spanish": "El día en que sean atormentados en el Fuego.",
+          "Hindi": "जिस दिन वे आग पर आज़माए जाएँगे।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "ذُوقُوا فِتْنَتَكُمْ هَذَا الَّذِي كُنْتُمْ بِهِ تَسْتَعْجِلُونَ",
+        "transliteration": "Thooqoo fitnatakum hatha allathee kuntum bihi tasta'jiloon",
+        "translations": {
+          "English": "\"Taste your ordeal. This is what you used to challenge.\"",
+          "Urdu": "چکھو اپنی آزمائش، یہی وہ ہے جس کے لیے تم جلدی مچاتے تھے۔",
+          "French": "\"Goûtez à votre épreuve. Voilà ce que vous cherchiez à hâter.\"",
+          "Spanish": "\"Saboread vuestra prueba. Esto es lo que pretendíais acelerar.\"",
+          "Hindi": "\"अपनी आज़माइश चखो, यही वह है जिसके लिए तुम जल्दी मचाते थे।\""
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+        "transliteration": "Inna almuttaqeena fee jannatin wa'uyoon",
+        "translations": {
+          "English": "But the pious are amidst gardens and springs.",
+          "Urdu": "بے شک پرہیزگار باغوں اور چشموں میں ہوں گے۔",
+          "French": "Les pieux seront dans des Jardins et des sources,",
+          "Spanish": "En verdad, los piadosos estarán en jardines y manantiales,",
+          "Hindi": "निश्चय ही डरवाले बाग़ों और चश्मों में होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُحْسِنِينَ",
+        "transliteration": "Akhitheena ma atahum rabbuhum innahum kanoo qabla thalika muhsineen",
+        "translations": {
+          "English": "Receiving what their Lord has given them. They were virtuous before that.",
+          "Urdu": "وہ لے رہے ہوں گے جو انہیں ان کا رب دے گا، بے شک وہ اس سے پہلے نیکوکار تھے۔",
+          "French": "recevant ce que leur Seigneur leur aura donné. Car ils étaient auparavant bienfaisants.",
+          "Spanish": "recibiendo lo que su Señor les conceda. En verdad, antes de esto hacían el bien.",
+          "Hindi": "ले रहे होंगे जो कुछ उन्हें उनका रब देगा। निश्चय ही वे इससे पहले नेकी करने वाले थे।"
+        }
+      }
+    ]
+  }

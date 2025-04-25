@@ -1,0 +1,558 @@
+{
+    "no": 79,
+    "name": "An-Nazi'at",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالنَّازِعَاتِ غَرْقًا",
+        "transliteration": "Wan-nāziʿāti gharqā",
+        "translations": {
+          "English": "By those who snatch violently.",
+          "Urdu": "قسم ہے ان (فرشتوں) کی جو (کافروں کی روحیں) زور سے کھینچتے ہیں۔",
+          "French": "Par ceux qui arrachent violemment!",
+          "Spanish": "¡Por los que arrancan con violencia!",
+          "Hindi": "उन (फरिश्तों) की कसम जो ज़ोर से (काफिरों की रूहें) खींचते हैं।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَالنَّاشِطَاتِ نَشْطًا",
+        "transliteration": "Wan-nāshiṭāti nashtā",
+        "translations": {
+          "English": "And those who remove gently.",
+          "Urdu": "اور جو نرمی سے (مؤمنوں کی روحیں) نکالتے ہیں।",
+          "French": "Par ceux qui extraient doucement!",
+          "Spanish": "¡Por los que extraen con suavidad!",
+          "Hindi": "और जो नरमी से (मोमिनों की रूहें) निकालते हैं।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَالسَّابِحَاتِ سَبْحًا",
+        "transliteration": "Was-sābiḥāti sabḥā",
+        "translations": {
+          "English": "And those who glide smoothly.",
+          "Urdu": "اور جو تیزی سے (اللہ کے حکم کی طرف) دوڑتے ہیں।",
+          "French": "Par ceux qui voguent rapidement!",
+          "Spanish": "¡Por los que navegan con rapidez!",
+          "Hindi": "और जो तेज़ी से (अल्लाह के हुक्म की तरफ) दौड़ते हैं।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "فَالسَّابِقَاتِ سَبْقًا",
+        "transliteration": "Fas-sābiqāti sabqā",
+        "translations": {
+          "English": "And those who race swiftly.",
+          "Urdu": "پھر (دوسروں سے) آگے بڑھ جانے والوں کی۔",
+          "French": "Par ceux qui devancent rapidement!",
+          "Spanish": "¡Por los que toman la delantera!",
+          "Hindi": "फिर (दूसरों से) आगे बढ़ जाने वालों की।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَالْمُدَبِّرَاتِ أَمْرًا",
+        "transliteration": "Fal-mudabbirāti amrā",
+        "translations": {
+          "English": "And those who regulate events.",
+          "Urdu": "پھر (اللہ کے) کام کی تدبیر کرنے والوں کی۔",
+          "French": "Par ceux qui dirigent les affaires!",
+          "Spanish": "¡Por los que gobiernan los asuntos!",
+          "Hindi": "फिर (अल्लाह के) काम की तदबीर करने वालों की।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
+        "transliteration": "Yawma tarjufu r-rājifah",
+        "translations": {
+          "English": "On the Day when the Quake quakes.",
+          "Urdu": "جس دن کانپ اٹھے گی کانپنے والی (قیامت کی پہلی صور)।",
+          "French": "Le jour où le premier souffle secouera!",
+          "Spanish": "El día en que la conmoción conmocione,",
+          "Hindi": "जिस दिन काँप उठेगी काँपने वाली (क़यामत की पहली सूर)।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "تَتْبَعُهَا الرَّادِفَةُ",
+        "transliteration": "Tattabiʿuhā r-rādifah",
+        "translations": {
+          "English": "And is followed by the Successor.",
+          "Urdu": "اس کے پیچھے لگ جائے گی دوسری (صور)।",
+          "French": "Suivi par le second souffle!",
+          "Spanish": "Seguida por el segundo,",
+          "Hindi": "उसके पीछे लग जाएगी दूसरी (सूर)।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+        "transliteration": "Qulūbun yawma'idhin wājifah",
+        "translations": {
+          "English": "Hearts on that Day will be pounding.",
+          "Urdu": "اس دن بہت سے دل دھڑک رہے ہوں گے۔",
+          "French": "Les cœurs, ce jour-là, seront palpitants,",
+          "Spanish": "Los corazones, ese día, estarán agitados,",
+          "Hindi": "उस दिन बहुत से दिल धड़क रहे होंगे।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "أَبْصَارُهَا خَاشِعَةٌ",
+        "transliteration": "Abṣāruhā khāshiʿah",
+        "translations": {
+          "English": "Their sights downcast.",
+          "Urdu": "ان کی نگاہیں جھکی ہوں گی۔",
+          "French": "Les regards seront baissés.",
+          "Spanish": "Las miradas estarán humilladas.",
+          "Hindi": "उनकी निगाहें झुकी होंगी।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ",
+        "transliteration": "Yaqūlūna a'innā lamardūdūna fil-ḥāfirah",
+        "translations": {
+          "English": "They say, “Are we to be restored to the original condition?",
+          "Urdu": "وہ کہتے ہیں: کیا ہم واقعی اپنی پہلی حالت میں لوٹا دیے جائیں گے؟",
+          "French": "Ils disent: «Serons-nous vraiment ramenés à notre état premier?",
+          "Spanish": "Dicen: «¿Acaso seremos devueltos a nuestro estado original?",
+          "Hindi": "वे कहते हैं: क्या हम वास्तव में अपनी पहली हालत में लौटा दिए जाएँगे?"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "أَإِذَا كُنَّا عِظَامًا نَخِرَةً",
+        "transliteration": "A'idhā kunnā ʿiẓāman nakhirah",
+        "translations": {
+          "English": "When we have become hollow bones?”",
+          "Urdu": "کیا جبکہ ہم بوسیدہ ہڈیاں بن چکے ہوں گے؟”",
+          "French": "Quand nous serons ossements pourris?»",
+          "Spanish": "¿Cuando seamos huesos putrefactos?»",
+          "Hindi": "क्या जबकि हम बिखरी हुई हड्डियाँ बन चुके होंगे?”"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+        "transliteration": "Qālū tilka idhan karratun khāsirah",
+        "translations": {
+          "English": "They say, “This is a losing proposition.”",
+          "Urdu": "وہ کہتے ہیں: “پھر تو یہ ایک خسارے والی واپسی ہے۔”",
+          "French": "Ils disent: «Ce serait alors un retour ruineux!»",
+          "Spanish": "Dicen: «¡Eso sería un retorno perdedor!»",
+          "Hindi": "वे कहते हैं: “फिर तो यह एक घाटे वाली वापसी है।”"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ",
+        "transliteration": "Fa'innamā hiya zajratun wāḥidah",
+        "translations": {
+          "English": "But it will be only a single nudge.",
+          "Urdu": "حالانکہ وہ تو بس ایک ہی زور کی آواز ہوگی۔",
+          "French": "Mais ce ne sera qu’un seul Cri,",
+          "Spanish": "Pero no será más que un solo Grito,",
+          "Hindi": "हालाँकि वह तो बस एक ही ज़ोर की आवाज़ होगी।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "فَإِذَا هُمْ بِالسَّاهِرَةِ",
+        "transliteration": "Fa'idhā hum bis-sāhirah",
+        "translations": {
+          "English": "And they will be awake.",
+          "Urdu": "پھر وہ اچانک (قبروں سے نکل کر) کھلے میدان میں ہوں گے۔",
+          "French": "Et les voilà debout sur la terre.",
+          "Spanish": "Y he aquí que estarán sobre la superficie.",
+          "Hindi": "फिर वे अचानक (क़ब्रों से निकलकर) खुले मैदान में होंगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "هَلْ أَتَاكَ حَدِيثُ مُوسَى",
+        "transliteration": "Hal atāka ḥadīthu Mūsā",
+        "translations": {
+          "English": "Has the story of Moses reached you?",
+          "Urdu": "کیا تمہارے پاس موسیٰ کا واقعہ پہنچا ہے؟",
+          "French": "Le récit de Moïse t’est-il parvenu?",
+          "Spanish": "¿Te ha llegado la historia de Moisés?",
+          "Hindi": "क्या तुम्हारे पास मूसा का वाक़िया पहुँचा है?"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+        "transliteration": "Idh nādāhu rabbuhu bil-wādi l-muqaddasi Ṭuwā",
+        "translations": {
+          "English": "When His Lord called out to him in the sacred valley of Tuwa.",
+          "Urdu": "جب اس کے رب نے اسے مقدس وادی طویٰ میں پکارا۔",
+          "French": "Quand son Seigneur l’appela dans la vallée sacrée de Ṭuwā:",
+          "Spanish": "Cuando su Señor lo llamó en el valle sagrado de Tuwa:",
+          "Hindi": "जब उसके रब ने उसे पवित्र वादी तुवा में पुकारा।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ طَغَى",
+        "transliteration": "Idhhab ilā Firʿawna innahu ṭaghā",
+        "translations": {
+          "English": "“Go to Pharaoh—he has transgressed.”",
+          "Urdu": "“فرعون کے پاس جاؤ، بےشک وہ سرکش ہو چکا ہے۔”",
+          "French": "«Va vers Pharaon: il s’est rebellé.",
+          "Spanish": "«Ve al Faraón; en verdad, se ha rebelado.",
+          "Hindi": "“फ़िरऔन के पास जाओ, निस्संदेह वह सरकश हो चुका है।”"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "فَقُلْ هَلْ لَكَ إِلَى أَنْ تَزَكَّى",
+        "transliteration": "Faqul hal laka ilā an tazakkā",
+        "translations": {
+          "English": "And say, “Do you care to be cleansed?",
+          "Urdu": "اور کہو: کیا تمہیں پاک ہونے کی خواہش ہے؟",
+          "French": "Et dis: «Serais-tu disposé à te purifier?",
+          "Spanish": "Y dile: ‘¿Quieres purificarte?",
+          "Hindi": "और कहो: क्या तुम्हें पवित्र होने की इच्छा है?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَأَهْدِيَكَ إِلَى رَبِّكَ فَتَخْشَى",
+        "transliteration": "Wa ahdiyaka ilā rabbika fatakhshā",
+        "translations": {
+          "English": "And I will guide you to your Lord, and you will turn reverent.”",
+          "Urdu": "اور میں تمہیں تمہارے رب کی طرف رہنمائی کروں تاکہ تم ڈرو۔”",
+          "French": "Je te guiderai vers ton Seigneur, afin que tu Le craignes.»",
+          "Spanish": "Te guiaré a tu Señor para que Le temas’».",
+          "Hindi": "और मैं तुम्हें तुम्हारे रब की तरफ़ मार्गदर्शन दूँ ताकि तुम डरो।”"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "فَأَرَاهُ الْآيَةَ الْكُبْرَى",
+        "transliteration": "Fa arāhu l-āyata l-kubrā",
+        "translations": {
+          "English": "He showed him the Greatest Miracle.",
+          "Urdu": "پھر موسیٰ نے اسے بڑا نشان دکھایا۔",
+          "French": "Il lui montra alors le plus grand signe.",
+          "Spanish": "Entonces le mostró el gran signo.",
+          "Hindi": "फिर मूसा ने उसे बड़ा निशान दिखाया।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "فَكَذَّبَ وَعَصَى",
+        "transliteration": "Fakadhdhaba wa ʿaṣā",
+        "translations": {
+          "English": "But he denied and defied.",
+          "Urdu": "مگر اس نے झुठलाया اور نافرمانی کی۔",
+          "French": "Mais il le traita de menteur et désobéit.",
+          "Spanish": "Pero lo desmintió y desobedeció.",
+          "Hindi": "मगर उसने झुठलाया और नाफ़रमानी की।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "ثُمَّ أَدْبَرَ يَسْعَى",
+        "transliteration": "Thumma adbara yasʿā",
+        "translations": {
+          "English": "Then turned his back, and tried.",
+          "Urdu": "پھر پیٹھ پھیر کر چل دیا اور کوشش کرنے لگا۔",
+          "French": "Puis il tourna le dos et s’enfuit en toute hâte.",
+          "Spanish": "Luego volvió la espalda y se apresuró.",
+          "Hindi": "फिर पीठ फेरकर चल दिया और कोशिश करने लगा।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "فَحَشَرَ فَنَادَى",
+        "transliteration": "Faḥashara fanādā",
+        "translations": {
+          "English": "And gathered and proclaimed.",
+          "Urdu": "پھر (اپنی قوم کو) جمع کیا اور اعلان کیا۔",
+          "French": "Il rassembla (son peuple) et proclama:",
+          "Spanish": "Reunió (a su pueblo) y proclamó:",
+          "Hindi": "फिर (अपनी क़ौम को) जमा किया और ऐलान किया।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَى",
+        "transliteration": "Faqāla ana rabbukumu l-aʿlā",
+        "translations": {
+          "English": "He said, “I am your Lord, the most high.”",
+          "Urdu": "اور کہا: “میں ہی تمہارا سب سے بڑا رب ہوں۔”",
+          "French": "«Je suis votre Seigneur, le très Haut!»",
+          "Spanish": "«¡Yo soy vuestro señor supremo!»",
+          "Hindi": "और कहा: “मैं ही तुम्हारा सबसे बड़ा रब हूँ।”"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَى",
+        "transliteration": "Fa akhadhahu Llāhu nakāla l-ākhirati wa l-ūlā",
+        "translations": {
+          "English": "So God seized him with an exemplary punishment, in the last and in the first.",
+          "Urdu": "تو اللہ نے اسے آخرت اور دنیا کی سزا میں پکڑ لیا۔",
+          "French": "Alors Allah le saisit du châtiment exemplaire de l’au-delà et de la vie présente.",
+          "Spanish": "Entonces Allah lo castigó con el escarmiento de la otra vida y de esta.",
+          "Hindi": "तो अल्लाह ने उसे आख़िरत और दुनिया की सज़ा में पकड़ लिया।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى",
+        "transliteration": "Inna fī dhālika laʿibratan liman yakhshā",
+        "translations": {
+          "English": "In this is a lesson for whoever fears.",
+          "Urdu": "بےشک اس میں ڈرنے والوں کے لیے عبرت ہے۔",
+          "French": "Il y a en cela une leçon pour qui craint (Allah).",
+          "Spanish": "En verdad, hay en ello una lección para quien teme (a Allah).",
+          "Hindi": "निस्संदेह इसमें डरने वालों के लिए इबरत है।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا",
+        "transliteration": "A antum ashaddu khalqan ami s-samā'u banāhā",
+        "translations": {
+          "English": "Are you more difficult to create, or the heaven? He constructed it.",
+          "Urdu": "کیا تمہاری تخلیق زیادہ مشکل ہے یا آسمان کی؟ اسے اس نے بنایا۔",
+          "French": "Êtes-vous plus durs à créer que le ciel qu’Il a pourtant construit?",
+          "Spanish": "¿Sois vosotros más difíciles de crear o el cielo que Él ha edificado?",
+          "Hindi": "क्या तुम्हारी पैदाइश ज़्यादा मुश्किल है या आसमान की? उसने उसे बनाया।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "رَفَعَ سَمْكَهَا فَسَوَّاهَا",
+        "transliteration": "Rafaʿa samkahā fasawwāhā",
+        "translations": {
+          "English": "He raised its masses, and proportioned it.",
+          "Urdu": "اس نے اس کی بلندی کو بلند کیا پھر اسے درست کیا۔",
+          "French": "Il a élevé bien haut sa voûte, puis l’a parfaitement ordonné;",
+          "Spanish": "Elevó su altura y la perfeccionó,",
+          "Hindi": "उसने उसकी ऊँचाई को ऊँचा किया फिर उसे दुरुस्त किया।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا",
+        "transliteration": "Wa aghṭasha laylahā wa akhraja ḍuḥāhā",
+        "translations": {
+          "English": "And He dimmed its night, and brought out its daylight.",
+          "Urdu": "اور اس نے اس کی رات کو تاریک بنایا اور اس کے دن کو نکالا۔",
+          "French": "Il assombrit sa nuit et fit luire son jour.",
+          "Spanish": "Oscureció su noche e hizo surgir su luz diurna.",
+          "Hindi": "और उसने उसकी रात को अँधेरा बनाया और उसके दिन को निकाला।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "وَالْأَرْضَ بَعْدَ ذَلِكَ دَحَاهَا",
+        "transliteration": "Wal-arḍa baʿda dhālika daḥāhā",
+        "translations": {
+          "English": "And the earth after that He spread.",
+          "Urdu": "اور زمین کو اس کے بعد پھیلایا۔",
+          "French": "Et quant à la terre, Il l’étendit ensuite.",
+          "Spanish": "Y después de eso extendió la tierra,",
+          "Hindi": "और ज़मीन को उसके बाद फैलाया।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+        "transliteration": "Akhraja minhā mā'ahā wa marʿāhā",
+        "translations": {
+          "English": "And from it, He produced its water and its pasture.",
+          "Urdu": "اس میں سے اس کا پانی اور چارہ نکالا۔",
+          "French": "Il en a fait sortir son eau et son pâturage,",
+          "Spanish": "Hizo surgir de ella su agua y sus pastos,",
+          "Hindi": "उसमें से उसका पानी और चारा निकाला।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "وَالْجِبَالَ أَرْسَاهَا",
+        "transliteration": "Wal-jibāla arsāhā",
+        "translations": {
+          "English": "And the mountains, He anchored.",
+          "Urdu": "اور پہاڑوں کو اس نے مضبوطی سے جما دیا۔",
+          "French": "Et les montagnes, Il les a ancrées,",
+          "Spanish": "Y las montañas, las afirmó,",
+          "Hindi": "और पहाड़ों को उसने मज़बूती से जमा दिया।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+        "transliteration": "Matāʿan lakum wa li-anʿāmikum",
+        "translations": {
+          "English": "A source of enjoyment for you and for your animals.",
+          "Urdu": "تمہارے اور تمہارے مویشیوں کے فائدے کے لیے۔",
+          "French": "Pour votre jouissance, vous et vos bestiaux.",
+          "Spanish": "Como disfrute para vosotros y vuestros rebaños.",
+          "Hindi": "तुम्हारे और तुम्हारे चौपायों के फ़ायदे के लिए।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَى",
+        "transliteration": "Fa'idhā jā'ati ṭ-ṭāmmatu l-kubrā",
+        "translations": {
+          "English": "But when the Great Cataclysm arrives.",
+          "Urdu": "پھر جب بڑی مصیبت آئے گی۔",
+          "French": "Puis, quand surviendra le Grand Cataclysme,",
+          "Spanish": "Pero cuando llegue el Gran Cataclismo,",
+          "Hindi": "फिर जब बड़ी मुसीबत आएगी।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَى",
+        "transliteration": "Yawma yatadhakkaru l-insānu mā saʿā",
+        "translations": {
+          "English": "A Day when man will remember what he has endeavored.",
+          "Urdu": "جس دن انسان اپنی کوشش کو یاد کرے گا۔",
+          "French": "le jour où l’homme se rappellera ce qu’il a accompli,",
+          "Spanish": "el día en que el hombre recordará lo que hizo,",
+          "Hindi": "जिस दिन इंसान अपनी कोशिश को याद करेगा।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَى",
+        "transliteration": "Wa burrizati l-jaḥīmu liman yarā",
+        "translations": {
+          "English": "And Hell will be displayed to whoever sees.",
+          "Urdu": "اور جہنم ہر دیکھنے والے کے سامنے ظاہر کر دی جائے گی۔",
+          "French": "et que l’Enfer sera exhibé à quiconque verra;",
+          "Spanish": "y el Infierno sea expuesto para quien pueda ver;",
+          "Hindi": "और जहन्नम हर देखने वाले के सामने ज़ाहिर कर दी जाएगी।"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "فَأَمَّا مَنْ طَغَى",
+        "transliteration": "Fa'ammā man ṭaghā",
+        "translations": {
+          "English": "As for him who was defiant.",
+          "Urdu": "پس جو شخص سرکش ہوا۔",
+          "French": "Alors, quiconque aura transgressé",
+          "Spanish": "Entonces, quien haya sido rebelde",
+          "Hindi": "फिर जो शख़्स सरकश हुआ।"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "وَآثَرَ الْحَيَاةَ الدُّنْيَا",
+        "transliteration": "Wa āthara l-ḥayāta d-dunyā",
+        "translations": {
+          "English": "And preferred the life of this world.",
+          "Urdu": "اور دنیا کی زندگی کو ترجیح دی۔",
+          "French": "et aura préféré la vie présente,",
+          "Spanish": "y haya preferido la vida mundanal,",
+          "Hindi": "और दुनिया की ज़िंदगी को तरजीह दी।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَى",
+        "transliteration": "Fa'inna l-jaḥīma hiya l-ma'wā",
+        "translations": {
+          "English": "Then Hell is the shelter.",
+          "Urdu": "تو بےشک جہنم ہی ٹھکانا ہے۔",
+          "French": "aura l’Enfer pour refuge.",
+          "Spanish": "tendrá el Infierno por morada.",
+          "Hindi": "तो निस्संदेह जहन्नम ही ठिकाना है।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى",
+        "transliteration": "Wa ammā man khāfa maqāma rabbihi wa nahā n-nafsa ʿani l-hawā",
+        "translations": {
+          "English": "But as for him who feared the Standing of his Lord, and restrained the self from desires.",
+          "Urdu": "اور جو شخص اپنے رب کے سامنے کھڑے ہونے سے ڈرا اور نفس کو خواہشوں سے روکا۔",
+          "French": "Et quiconque aura craint de comparaître devant son Seigneur et préservé son âme de la passion,",
+          "Spanish": "Y quien haya temido comparecer ante su Señor y haya refrenado su alma de las pasiones,",
+          "Hindi": "और जो शख़्स अपने रब के सामने खड़े होने से डरा और नफ़्स को ख़्वाहिशों से रोका।"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى",
+        "transliteration": "Fa'inna l-jannata hiya l-ma'wā",
+        "translations": {
+          "English": "Then Paradise is the shelter.",
+          "Urdu": "تو بےشک جنت ہی ٹھکانا ہے۔",
+          "French": "aura le Paradis pour refuge.",
+          "Spanish": "tendrá el Jardín por morada.",
+          "Hindi": "तो निस्संदेह जन्नत ही ठिकाना है।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا",
+        "transliteration": "Yas'alūnaka ʿani s-sāʿati ayyāna mursāhā",
+        "translations": {
+          "English": "They ask you about the Hour, “When will it take place?”",
+          "Urdu": "وہ تم سے قیامت کے بارے میں پوچھتے ہیں کہ اس کا وقوع کب ہوگا؟",
+          "French": "Ils t’interrogent sur l’Heure: «Quand arrivera-t-elle?»",
+          "Spanish": "Te preguntan acerca de la Hora: «¿Cuándo ocurrirá?»",
+          "Hindi": "वे तुमसे क़यामत के बारे में पूछते हैं कि उसका वक़ूओ कब होगा?"
+        }
+      },
+      {
+        "no": 43,
+        "arabic": "فِيمَ أَنْتَ مِنْ ذِكْرَاهَا",
+        "transliteration": "Fīma anta min dhikrāhā",
+        "translations": {
+          "English": "You have no knowledge of it.",
+          "Urdu": "تمہیں اس کا ذکر کرنے سے کیا تعلق؟",
+          "French": "En quoi sa mention te concerne-t-elle?",
+          "Spanish": "¿Qué tienes tú que ver con su mención?",
+          "Hindi": "तुम्हें इसका ज़िक्र करने से क्या लेना-देना?"
+        }
+      },
+      {
+        "no": 44,
+        "arabic": "إِلَى رَبِّكَ مُنْتَهَاهَا",
+        "transliteration": "Ilā rabbika muntahāhā",
+        "translations": {
+          "English": "To your Lord is its finality.",
+          "Urdu": "اس کا علم تو تمہارے رب ہی کے پاس ہے۔",
+          "French": "C’est vers ton Seigneur qu’elle aboutira.",
+          "Spanish": "A tu Señor pertenece su conocimiento.",
+          "Hindi": "उसका इल्म तो तुम्हारे रब ही के पास है।"
+        }
+      },
+      {
+        "no": 45,
+        "arabic": "إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا",
+        "transliteration": "Innamā anta mundhiru man yakhshāhā",
+        "translations": {
+          "English": "You are just a warner for whoever dreads it.",
+          "Urdu": "تم تو بس انہیں ڈرانے والے ہو جو اس سے ڈریں۔",
+          "French": "Tu n’es qu’un avertisseur pour celui qui la redoute.",
+          "Spanish": "Tú sólo eres un amonestador para quien la tema.",
+          "Hindi": "तुम तो बस उन्हें डराने वाले हो जो इससे डरें।"
+        }
+      },
+      {
+        "no": 46,
+        "arabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+        "transliteration": "Ka'annahum yawma yarawnahā lam yalbathū illā ʿashiyyatan aw ḍuḥāhā",
+        "translations": {
+          "English": "On the Day when they witness it—as though they only stayed an evening, or its morning.",
+          "Urdu": "جس دن وہ اسے دیکھیں گے، گویا وہ بس ایک شام یا اس کا ایک صبح ٹھہرے ہیں۔",
+          "French": "Le jour où ils la verront, il leur semblera n’avoir demeuré qu’un soir ou son matin.",
+          "Spanish": "El día que la vean, les parecerá que no habrán permanecido más que una tarde o su mañana.",
+          "Hindi": "जिस दिन वे उसे देखेंगे, गोया वे बस एक शाम या उसका एक सुबह ठहरे हैं।"
+        }
+      }
+    ]
+  }

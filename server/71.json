@@ -1,0 +1,342 @@
+{
+    "no": 71,
+    "name": "Nuh",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِنَّا أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+        "transliteration": "Innā arsalnā nūḥan ilā qawmihi an andhir qawmaka min qabli an ya'tiyahum ʿadhābun alīm",
+        "translations": {
+          "English": "We sent Noah to his people: 'Warn your people before there comes upon them a painful punishment.'",
+          "Urdu": "بے شک ہم نے نوح کو ان کی قوم کی طرف بھیجا کہ اپنی قوم کو ڈراؤ اس سے پہلے کہ ان پر دردناک عذاب آئے۔",
+          "French": "Nous avons envoyé Noé vers son peuple: 'Avertis ton peuple avant que ne lui vienne un châtiment douloureux.'",
+          "Spanish": "Enviamos a Noé a su pueblo: 'Advierte a tu pueblo antes de que les llegue un castigo doloroso.'",
+          "Hindi": "निस्संदेह हमने नूह को उनकी क़ौम की ओर भेजा: 'अपनी क़ौम को डराओ इससे पहले कि उन पर दर्दनाक अज़ाब आए।'"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+        "transliteration": "Qāla yā qawmi innī lakum nadhīrun mubīn",
+        "translations": {
+          "English": "He said, 'O my people, I am to you a clear warner.'",
+          "Urdu": "انہوں نے کہا: 'اے میری قوم! بے شک میں تمہارے لیے کھلا ڈرانے والا ہوں۔'",
+          "French": "Il dit: 'Ô mon peuple! Je suis pour vous un avertisseur clair.'",
+          "Spanish": "Dijo: '¡Oh, pueblo mío! Soy para vosotros un advertidor claro.'",
+          "Hindi": "उन्होंने कहा: 'हे मेरी क़ौम! निस्संदेह मैं तुम्हारे लिए खुला डराने वाला हूँ।'"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+        "transliteration": "Ani uʿbudū Allāha wa-ttaqūhu wa-aṭīʿūn",
+        "translations": {
+          "English": "'Worship God and reverence Him, and obey me.'",
+          "Urdu": "'اللہ کی عبادت کرو اور اس سے ڈرو اور میری اطاعت کرو۔'",
+          "French": "'Adorez Allah, craignez-Le et obéissez-moi.'",
+          "Spanish": "'Adorad a Allah, temedle y obedecedme.'",
+          "Hindi": "'अल्लाह की इबादत करो और उससे डरो और मेरी आज्ञा मानो।'"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَى أَجَلٍ مُسَمًّى إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ لَوْ كُنْتُمْ تَعْلَمُونَ",
+        "transliteration": "Yaghfir lakum min dhunūbikum wa-yu'akhkhirkum ilā ajalin musammā inna ajala Allāhi idhā jā'a lā yu'akhkharu law kuntum taʿlamūn",
+        "translations": {
+          "English": "'And He will forgive you of your sins, and reprieve you until a stated term. God's term cannot be deferred once it has arrived, if you only knew.'",
+          "Urdu": "'وہ تمہارے گناہ بخش دے گا اور تمہیں ایک مقررہ وقت تک مہلت دے گا۔ بے شک اللہ کا مقررہ وقت جب آ جائے تو ٹالا نہیں جاتا، اگر تم جانتے ہو۔'",
+          "French": "'Il vous pardonnera vos péchés et vous accordera un délai jusqu'à un terme fixé. Le terme d'Allah, lorsqu'il arrive, ne peut être retardé, si seulement vous saviez.'",
+          "Spanish": "'Él os perdonará vuestros pecados y os concederá una prórroga hasta un plazo fijado. El plazo de Allah, cuando llega, no puede retrasarse, si supierais.'",
+          "Hindi": "'वह तुम्हारे गुनाह माफ़ कर देगा और तुम्हें एक निर्धारित वक्त तक मोहलत देगा। निस्संदेह अल्लाह का निर्धारित वक्त जब आ जाए तो टाला नहीं जाता, अगर तुम जानते हो।'"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+        "transliteration": "Qāla rabbi innī daʿawtu qawmī laylan wa-nahārā",
+        "translations": {
+          "English": "He said, 'My Lord, I have called my people night and day.'",
+          "Urdu": "انہوں نے کہا: 'اے میرے رب! میں نے اپنی قوم کو رات دن پکارا۔'",
+          "French": "Il dit: 'Seigneur! J'ai appelé mon peuple nuit et jour.'",
+          "Spanish": "Dijo: '¡Señor mío! He llamado a mi pueblo noche y día.'",
+          "Hindi": "उन्होंने कहा: 'हे मेरे रब! मैंने अपनी क़ौम को रात-दिन पुकारा।'"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+        "transliteration": "Fal-m yazidhum duʿā'ī illā firārā",
+        "translations": {
+          "English": "'But my call added only to their flight.'",
+          "Urdu": "'لیکن میری دعوت نے ان کے فرار کے سوا کچھ نہیں بڑھایا۔'",
+          "French": "'Mais mon appel n'a fait qu'accroître leur fuite.'",
+          "Spanish": "'Pero mi llamada no hizo sino aumentar su huida.'",
+          "Hindi": "'लेकिन मेरी दावत ने उनके भागने के अलावा कुछ नहीं बढ़ाया।'"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+        "transliteration": "Wa-innī kullamā daʿawtuhum li-taghfira lahum jaʿalū aṣābiʿahum fī ādhānihim wa-staghshaw thiyābahum wa-aṣarrū wa-stakbarū istikbārā",
+        "translations": {
+          "English": "'Whenever I called them to Your forgiveness, they thrust their fingers into their ears, and wrapped themselves in their garments, and insisted, and became more and more arrogant.'",
+          "Urdu": "'اور جب بھی میں نے انہیں تیری بخشش کی طرف بلایا، انہوں نے اپنی انگلیاں اپنے کانوں میں ٹھونس لیں اور اپنے کپڑوں سے ڈھک لیے اور اڑ گئے اور بڑی تکبر سے کام لیا۔'",
+          "French": "'Chaque fois que je les ai appelés à Ton pardon, ils ont mis leurs doigts dans leurs oreilles, se sont enveloppés de leurs vêtements, se sont entêtés et ont fait preuve d'une grande arrogance.'",
+          "Spanish": "'Cada vez que los llamé a Tu perdón, se metieron los dedos en los oídos, se envolvieron en sus ropas, persistieron y se mostraron sumamente arrogantes.'",
+          "Hindi": "'और जब भी मैंने उन्हें तेरी माफ़ी की ओर बुलाया, उन्होंने अपनी उँगलियाँ अपने कानों में ठूँस लीं और अपने कपड़ों से ढक लिया और ज़िद करने लगे और बड़ी घमंड से काम लिया।'"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+        "transliteration": "Thumma innī daʿawtuhum jihārā",
+        "translations": {
+          "English": "'Then I called them openly.'",
+          "Urdu": "'پھر میں نے انہیں کھلم کھلا پکارا۔'",
+          "French": "'Puis je les ai appelés ouvertement.'",
+          "Spanish": "'Luego los llamé abiertamente.'",
+          "Hindi": "'फिर मैंने उन्हें खुल्लमखुल्ला पुकारा।'"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+        "transliteration": "Thumma innī aʿlantu lahum wa-asrartu lahum isrārā",
+        "translations": {
+          "English": "'Then I appealed to them publicly, and I spoke to them privately.'",
+          "Urdu": "'پھر میں نے ان سے علانیہ بھی کہا اور چپکے سے بھی کہا۔'",
+          "French": "'Ensuite, je leur ai fait des proclamations publiques, et je leur ai adressé des discours en privé.'",
+          "Spanish": "'Luego les hice proclamas públicas y les hablé en privado.'",
+          "Hindi": "'फिर मैंने उनसे खुलेआम भी कहा और चुपके से भी कहा।'"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+        "transliteration": "Fa-qultu is-taghfirū rabbakum innahu kāna ghaffārā",
+        "translations": {
+          "English": "'I said, 'Ask your Lord for forgiveness; He is Forgiving.'",
+          "Urdu": "'میں نے کہا: 'اپنے رب سے بخشش مانگو، بے شک وہ بڑا بخشنے والا ہے۔'",
+          "French": "'J'ai dit: 'Implorez le pardon de votre Seigneur, car Il est Pardonneur.'",
+          "Spanish": "'Dije: 'Pedid perdón a vuestro Señor, pues Él es Indulgentísimo.'",
+          "Hindi": "'मैंने कहा: 'अपने रब से माफ़ी माँगो, निस्संदेह वह बड़ा माफ़ करने वाला है।''"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+        "transliteration": "Yursili s-samā'a ʿalaykum midrārā",
+        "translations": {
+          "English": "'He will let loose the sky upon you in torrents.'",
+          "Urdu": "'وہ تم پر آسمان سے موسلا دھار بارش برسائے گا۔'",
+          "French": "'Il enverra sur vous du ciel des pluies abondantes.'",
+          "Spanish": "'Hará que el cielo os envíe lluvias copiosas.'",
+          "Hindi": "'वह तुम पर आसमान से मूसलाधार बारिश बरसाएगा।'"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+        "transliteration": "Wa-yumdidkum bi-amwālin wa-banīna wa-yajʿal lakum jannātin wa-yajʿal lakum anhārā",
+        "translations": {
+          "English": "'And provide you with wealth and children, and allot for you gardens, and allot for you rivers.'",
+          "Urdu": "'اور تمہیں مال اور اولاد سے نوازے گا اور تمہارے لیے باغات بنائے گا اور تمہارے لیے نہریں جاری کرے गा।'",
+          "French": "'Il vous accordera des biens et des enfants, et vous donnera des jardins et des rivières.'",
+          "Spanish": "'Os proveerá de bienes e hijos, y os concederá jardines y ríos.'",
+          "Hindi": "'और तुम्हें धन और संतान से नवाज़ेगा और तुम्हारे लिए बाग़ बनाएगा और तुम्हारे लिए नदियाँ बहाएगा।'"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+        "transliteration": "Mā lakum lā tarjūna lillahi waqārā",
+        "translations": {
+          "English": "'What is the matter with you, that you do not appreciate God's Greatness?'",
+          "Urdu": "'تمہیں کیا ہو گیا ہے کہ تم اللہ کی عظمت کا اندازہ نہیں کرتے؟'",
+          "French": "'Qu'avez-vous à ne pas vénérer Allah comme il se doit?'",
+          "Spanish": "'¿Qué os pasa que no reconocéis la grandeza de Allah?'",
+          "Hindi": "'तुम्हें क्या हो गया है कि तुम अल्लाह की बड़ाई का अंदाज़ा नहीं करते?'"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+        "transliteration": "Wa-qad khalaqakum aṭwārā",
+        "translations": {
+          "English": "'Although He created you in stages.'",
+          "Urdu": "'حالانکہ اس نے تمہیں مختلف مراحل میں پیدا کیا۔'",
+          "French": "'Alors qu'Il vous a créés par phases successives?'",
+          "Spanish": "'Siendo que Él os creó en etapas?'",
+          "Hindi": "'हालाँकि उसने तुम्हें अलग-अलग मरहलों में पैदा किया।'"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+        "transliteration": "A-lam taraw kayfa khalaqa Allāhu sabʿa samāwātin ṭibāqā",
+        "translations": {
+          "English": "'Do you not realize that God created seven heavens in layers?'",
+          "Urdu": "'کیا تم نہیں دیکھتے کہ اللہ نے سات آسمان تہہ بہ تہہ کیسے بنائے؟'",
+          "French": "'Ne voyez-vous pas comment Allah a créé sept cieux superposés?'",
+          "Spanish": "'¿No veis cómo Allah ha creado siete cielos superpuestos?'",
+          "Hindi": "'क्या तुम नहीं देखते कि अल्लाह ने सात आसमान तह-दर-तह कैसे बनाए?'"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+        "transliteration": "Wa-jaʿala l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājā",
+        "translations": {
+          "English": "'And He set the moon in their midst for light, and He made the sun a lamp.'",
+          "Urdu": "'اور اس نے چاند کو ان میں روشنی بنایا اور سورج کو چراغ بنایا۔'",
+          "French": "'Il y a placé la lune comme lumière, et fait du soleil une lampe?'",
+          "Spanish": "'Y ha puesto en ellos la luna como luz y ha hecho del sol una lámpara?'",
+          "Hindi": "'और उसने चाँद को उनमें रोशनी बनाया और सूरज को चिराग़ बनाया।'"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+        "transliteration": "Wa-llāhu anbatakum min al-arḍi nabātā",
+        "translations": {
+          "English": "'And God germinated you from the earth like plants.'",
+          "Urdu": "'اور اللہ نے تمہیں زمین سے اگایا جیسے پودے اگتے ہیں۔'",
+          "French": "'Et Allah vous a fait croître de la terre comme une végétation.'",
+          "Spanish": "'Y Allah os hizo crecer de la tierra como plantas.'",
+          "Hindi": "'और अल्लाह ने तुम्हें ज़मीन से उगाया जैसे पौधे उगते हैं।'"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+        "transliteration": "Thumma yuʿīdukum fīhā wa-yukhrijukum ikhrājā",
+        "translations": {
+          "English": "'Then He will return you into it, and will bring you out again.'",
+          "Urdu": "'پھر وہ تمہیں اس میں لوٹائے گا اور پھر نکالے گا۔'",
+          "French": "'Puis Il vous y fera retourner et vous en fera sortir.'",
+          "Spanish": "'Luego os hará retornar a ella y os hará salir.'",
+          "Hindi": "'फिर वह तुम्हें उसमें लौटाएगा और फिर निकालेगा।'"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+        "transliteration": "Wa-llāhu jaʿala lakumu l-arḍa bisāṭā",
+        "translations": {
+          "English": "'And God made the earth a spread for you.'",
+          "Urdu": "'اور اللہ نے تمہارے لیے زمین کو بچھونا بنایا۔'",
+          "French": "'Et Allah vous a fait de la terre un tapis.'",
+          "Spanish": "'Y Allah os ha hecho de la tierra una alfombra.'",
+          "Hindi": "'और अल्लाह ने तुम्हारे लिए ज़मीन को बिछौना बनाया।'"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+        "transliteration": "Li-taslukū minhā subulan fijājā",
+        "translations": {
+          "English": "'That you may travel its diverse roads.'\"",
+          "Urdu": "'تاکہ تم اس کے کشادہ راستوں پر چلو۔'\"",
+          "French": "'Pour que vous y circuliez par des routes spacieuses.'\"",
+          "Spanish": "'Para que transitéis por sus amplios caminos.'\"",
+          "Hindi": "'ताकि तुम उसके चौड़े रास्तों पर चलो।'\""
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+        "transliteration": "Qāla nūḥun rabbi innahum ʿaṣawnī wa-ttabaʿū man lam yazidhu māluhu wa-waladuhu illā khasārā",
+        "translations": {
+          "English": "Noah said, \"My Lord, they have defied me, and followed him whose wealth and children increase him only in perdition.\"",
+          "Urdu": "نوح نے کہا: \"اے میرے رب! انہوں نے میری نافرمانی کی اور اس کی پیروی کی جس کے مال اور اولاد نے اسے نقصان کے سوا کچھ نہیں دیا۔\"",
+          "French": "Noé dit: \"Seigneur! Ils m'ont désobéi et ont suivi ceux dont les richesses et les enfants n'ont fait qu'accroître la perte.\"",
+          "Spanish": "Noé dijo: \"¡Señor mío! Me han desobedecido y han seguido a aquel a quien sus riquezas e hijos no le han aumentado sino en pérdida.\"",
+          "Hindi": "नूह ने कहा: \"हे मेरे रब! उन्होंने मेरी नाफ़रमानी की और उसकी पैरवी की जिसके माल और औलाद ने उसे नुक़सान के सिवा कुछ नहीं दिया।\""
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+        "transliteration": "Wa-makarū makran kubbārā",
+        "translations": {
+          "English": "\"And they schemed outrageous schemes.\"",
+          "Urdu": "\"اور انہوں نے بڑی بڑی چالیں چلیں۔\"",
+          "French": "\"Ils ont ourdi de grands complots.\"",
+          "Spanish": "\"Y han tramado grandes maquinaciones.\"",
+          "Hindi": "\"और उन्होंने बड़ी-बड़ी चालें चलीं।\""
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+        "transliteration": "Wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha wa-yaʿūqa wa-nasrā",
+        "translations": {
+          "English": "\"And they said, 'Do not give up your gods; do not give up Wadd, nor Souwa, nor Yaghoos, and Yaooq, and Nassr.'\"",
+          "Urdu": "\"اور انہوں نے کہا: 'اپنے معبودوں کو مت چھوڑو، نہ ود کو چھوڑو، نہ سواع کو، نہ یغوث کو، نہ یعوق کو اور نہ نسر کو۔'\"",
+          "French": "\"Et ils ont dit: 'N'abandonnez jamais vos divinités; n'abandonnez ni Wadd, ni Souwa', ni Yaghouth, Ya'ouq ni Nasr.'\"",
+          "Spanish": "\"Y dijeron: 'No abandonéis a vuestros dioses; no abandonéis a Wadd, ni a Suwā', ni a Yagūz, Ya'ūq ni Nasr.'\"",
+          "Hindi": "\"और उन्होंने कहा: 'अपने माबूदों को मत छोड़ो, न वद्द को छोड़ो, न सुवा को, न यग़ूस को, न यऊक़ को और न नस्र को।'\""
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+        "transliteration": "Wa-qad aḍallū kathīran wa-lā tazidi ẓ-ẓālimīna illā ḍalālā",
+        "translations": {
+          "English": "\"They have misled many, so do not increase the wrongdoers except in confusion.\"",
+          "Urdu": "\"انہوں نے بہت سوں کو گمراہ کیا ہے، تو ظالموں کو گمراہی کے سوا کچھ نہ بڑھا۔\"",
+          "French": "\"Ils en ont égaré beaucoup. Ne fais croître les injustes qu'en égarement.\"",
+          "Spanish": "\"Han extraviado a muchos. No hagas aumentar a los injustos sino en extravío.\"",
+          "Hindi": "\"उन्होंने बहुतों को गुमराह किया है, तो ज़ालिमों को गुमराही के सिवा कुछ न बढ़ा।\""
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+        "transliteration": "Mimmā khaṭī'ātihim ughriqū fa-udkhilū nāran fa-lam yajidū lahum min dūni Allāhi anṣārā",
+        "translations": {
+          "English": "\"Because of their wrongs, they were drowned, and were hurled into a Fire. They did not find apart from God any helpers.\"",
+          "Urdu": "\"ان کے گناہوں کی وجہ سے انہیں غرق کر دیا گیا، پھر آگ میں ڈال دیا گیا، تو انہیں اللہ کے سوا کوئی مددگار نہ ملا۔\"",
+          "French": "\"A cause de leurs péchés, ils ont été noyés, puis jetés au Feu, et ils n'ont trouvé aucun secoureur en dehors d'Allah.\"",
+          "Spanish": "\"Debido a sus pecados, fueron ahogados y arrojados al Fuego, y no encontraron fuera de Allah quien les auxiliase.\"",
+          "Hindi": "\"उनके गुनाहों की वजह से उन्हें डुबो दिया गया, फिर आग में डाल दिया गया, तो उन्हें अल्लाह के सिवा कोई मददगार न मिला।\""
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+        "transliteration": "Wa-qāla nūḥun rabbi lā tadhar ʿala l-arḍi mina l-kāfirīna dayyārā",
+        "translations": {
+          "English": "Noah said, \"My Lord, do not leave of the unbelievers a single dweller on earth.\"",
+          "Urdu": "نوح نے کہا: \"اے میرے رب! زمین پر کافروں میں سے کسی کو بھی باقی نہ چھوڑ۔\"",
+          "French": "Noé dit: \"Seigneur! Ne laisse sur terre aucun infidèle.\"",
+          "Spanish": "Noé dijo: \"¡Señor mío! No dejes en la tierra a ninguno de los incrédulos.\"",
+          "Hindi": "नूह ने कहा: \"हे मेरे रब! ज़मीन पर काफ़िरों में से किसी को भी बाक़ी न छोड़।\""
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+        "transliteration": "Innaka in tadharhum yuḍillū ʿibādaka wa-lā yalidū illā fājiran kaffārā",
+        "translations": {
+          "English": "\"If You leave them, they will mislead your servants, and will breed only wicked unbelievers.\"",
+          "Urdu": "\"اگر تو انہیں چھوڑ دے گا تو وہ تیرے بندوں کو گمراہ کریں گے اور نافرمان کافر ہی پیدا کریں گے۔\"",
+          "French": "\"Si Tu les laisses, ils égareront Tes serviteurs et n'engendreront que des pécheurs infidèles.\"",
+          "Spanish": "\"Si los dejas, extraviarán a Tus siervos y no engendrarán sino pecadores incrédulos.\"",
+          "Hindi": "\"अगर तू उन्हें छोड़ देगा तो वह तेरे बंदों को गुमराह करेंगे और नाफ़रमान काफ़िर ही पैदा करेंगे।\""
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "transliteration": "Rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya mu'minan wa-li-l-mu'minīna wa-l-mu'mināti wa-lā tazidi ẓ-ẓālimīna illā tabārā",
+        "translations": {
+          "English": "\"My Lord! Forgive me and my parents, and anyone who enters my home in faith, and all the believing men and believing women; and do not increase the wrongdoers except in perdition.\"",
+          "Urdu": "\"اے میرے رب! مجھے بخش دے اور میرے ماں باپ کو اور ہر اس شخص کو جو میرے گھر میں ایمان کی حالت میں داخل ہو اور تمام مومن مردوں اور مومن عورتوں کو بخش دے اور ظالموں کو تباہی کے سوا کچھ نہ بڑھا۔\"",
+          "French": "\"Seigneur! Pardonne-moi, ainsi qu'à mes parents et à quiconque entre dans ma demeure croyante, ainsi qu'aux croyants et croyantes. Et ne fais croître les injustes qu'en perdition.\"",
+          "Spanish": "\"¡Señor mío! Perdóname a mí, a mis padres, a quien entre en mi casa creyente, y a todos los creyentes y creyentes; y no hagas aumentar a los injustos sino en perdición.\"",
+          "Hindi": "\"हे मेरे रब! मुझे माफ़ कर दे और मेरे माँ-बाप को और हर उस शख़्स को जो मेरे घर में ईमान की हालत में दाख़िल हो और सारे मोमिन मर्दों और मोमिन औरतों को माफ़ कर दे और ज़ालिमों को तबाही के सिवा कुछ न बढ़ा।\""
+        }
+      }
+    ]
+  }

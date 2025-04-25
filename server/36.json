@@ -1,0 +1,969 @@
+{
+    "no": 36,
+    "name": "Ya-Sin",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "يس",
+        "transliteration": "Ya, Seen.",
+        "translations": {
+          "English": "Ya, Seen.",
+          "Urdu": "یٰس۔",
+          "French": "Ya, Sin.",
+          "Spanish": "Ya, Sin.",
+          "Hindi": "यासीन।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَالْقُرْآنِ الْحَكِيمِ",
+        "transliteration": "By the Wise Quran.",
+        "translations": {
+          "English": "By the Wise Quran.",
+          "Urdu": "قسم ہے حکمت والے قرآن کی۔",
+          "French": "Par le Coran plein de sagesse,",
+          "Spanish": "Por el Corán, sabio,",
+          "Hindi": "क़ुरआन-ए-हकीम की क़सम।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+        "transliteration": "You are one of the messengers.",
+        "translations": {
+          "English": "You are one of the messengers.",
+          "Urdu": "بے شک آپ رسولوں میں سے ہیں۔",
+          "French": "Tu es certes du nombre des messagers,",
+          "Spanish": "que tú eres uno de los Mensajeros,",
+          "Hindi": "निस्संदेह आप रसूलों में से हैं।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "عَلَى صِرَاطٍ مُسْتَقِيمٍ",
+        "transliteration": "On a straight path.",
+        "translations": {
+          "English": "On a straight path.",
+          "Urdu": "سیدھے راستے پر۔",
+          "French": "sur un droit chemin.",
+          "Spanish": "sobre un camino recto.",
+          "Hindi": "सीधे मार्ग पर।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ",
+        "transliteration": "The revelation of the Almighty, the Merciful.",
+        "translations": {
+          "English": "The revelation of the Almighty, the Merciful.",
+          "Urdu": "(یہ) زبردست مہربان (اللہ) کا نازل کیا ہوا ہے۔",
+          "French": "C'est une révélation du Tout-Puissant, du Très Miséricordieux,",
+          "Spanish": "Es una revelación del Poderoso, el Misericordioso,",
+          "Hindi": "(यह) प्रभुत्वशाली दयावान (अल्लाह) का अवतरित किया हुआ है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ",
+        "transliteration": "To warn a people whose ancestors were not warned, and so they are unaware.",
+        "translations": {
+          "English": "To warn a people whose ancestors were not warned, and so they are unaware.",
+          "Urdu": "تاکہ آپ اس قوم کو ڈرائیں جس کے باپ دادا کو نہیں ڈرایا گیا تھا، سو وہ غافل ہیں۔",
+          "French": "pour que tu avertisses un peuple dont les ancêtres n'ont pas été avertis: ils sont donc insouciants.",
+          "Spanish": "para que adviertas a un pueblo cuyos antepasados no fueron advertidos, por lo que están desprevenidos.",
+          "Hindi": "ताकि आप उस क़ौम को डराएँ जिसके बाप-दादाओं को नहीं डराया गया था, अतः वह ग़ाफ़िल हैं।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "لَقَدْ حَقَّ الْقَوْلُ عَلَى أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+        "transliteration": "The Word was realized against most of them, for they do not believe.",
+        "translations": {
+          "English": "The Word was realized against most of them, for they do not believe.",
+          "Urdu": "ان میں سے اکثر پر بات ثابت ہو چکی ہے سو وہ ایمان نہیں لائیں گے۔",
+          "French": "En effet, la parole contre la plupart d'entre eux s'est réalisée: ils ne croiront donc pas.",
+          "Spanish": "Ya se ha cumplido la sentencia contra la mayoría de ellos, pues no creerán.",
+          "Hindi": "उनमें से अधिकांश पर बात साबित हो चुकी है अतः वह ईमान नहीं लाएँगे।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ",
+        "transliteration": "We placed shackles around their necks, up to their chins, so they are stiff-necked.",
+        "translations": {
+          "English": "We placed shackles around their necks, up to their chins, so they are stiff-necked.",
+          "Urdu": "بے شک ہم نے ان کی گردنوں میں طوق ڈال دیے ہیں جو ان کی ٹھوڑیوں تک ہیں سو وہ سر اٹھائے ہوئے ہیں۔",
+          "French": "Nous avons mis des carcans à leurs cous, jusqu'au menton, et ils sont la tête forcée haute.",
+          "Spanish": "He puesto grilletes en sus cuellos, que les llegan hasta la barbilla, por lo que tienen la cabeza levantada.",
+          "Hindi": "निस्संदेह हमने उनकी गर्दनों में बेड़ियाँ डाल दी हैं जो उनकी ठुड्डियों तक हैं अतः वह सिर उठाए हुए हैं।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ",
+        "transliteration": "And We placed a barrier in front of them, and a barrier behind them, and We have enshrouded them, so they cannot see.",
+        "translations": {
+          "English": "And We placed a barrier in front of them, and a barrier behind them, and We have enshrouded them, so they cannot see.",
+          "Urdu": "اور ہم نے ان کے آگے ایک دیوار اور ان کے پیچھے ایک دیوار بنا دی اور ان پر پردہ ڈال دیا سو وہ دیکھ نہیں سکتے۔",
+          "French": "Nous avons placé une barrière devant eux et une barrière derrière eux; Nous les avons enveloppés, et ils ne voient donc pas.",
+          "Spanish": "Y he puesto una barrera delante de ellos y otra detrás, y los he cubierto, por lo que no pueden ver.",
+          "Hindi": "और हमने उनके आगे एक दीवार और उनके पीछे एक दीवार बना दी और उन पर पर्दा डाल दिया अतः वह देख नहीं सकते।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+        "transliteration": "It is the same for them, whether you warn them, or do not warn them—they will not believe.",
+        "translations": {
+          "English": "It is the same for them, whether you warn them, or do not warn them—they will not believe.",
+          "Urdu": "اور ان پر برابر ہے خواہ آپ انہیں ڈرائیں یا نہ ڈرائیں، وہ ایمان نہیں لائیں گے۔",
+          "French": "Et cela leur est égal, que tu les avertisses ou que tu ne les avertisses pas: ils ne croiront jamais.",
+          "Spanish": "Les da lo mismo que los adviertas o no, no creerán.",
+          "Hindi": "और उन पर बराबर है चाहे आप उन्हें डराएँ या न डराएँ, वह ईमान नहीं लाएँगे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَنَ بِالْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+        "transliteration": "You warn only him who follows the Message, and fears the Most Gracious inwardly. So give him good news of forgiveness, and a generous reward.",
+        "translations": {
+          "English": "You warn only him who follows the Message, and fears the Most Gracious inwardly. So give him good news of forgiveness, and a generous reward.",
+          "Urdu": "آپ تو صرف اسے ڈرا سکتے ہیں جو نصیحت کی پیروی کرے اور رحمن سے بے دیکھے ڈرے، پس آپ اسے بخشش اور عزت والے اجر کی خوشخبری دیجئے۔",
+          "French": "Tu n'avertiras que celui qui suit le Rappel (le Coran) et craint le Tout Miséricordieux, malgré qu'il ne Le voit pas. Annonce-lui un pardon et une récompense généreuse.",
+          "Spanish": "Tú solo puedes advertir a quien sigue el Mensaje y teme al Compasivo en lo oculto. Anúnciales el perdón y una recompensa generosa.",
+          "Hindi": "आप तो केवल उसे ही डरा सकते हैं जो नसीहत की पैरवी करे और रहमान से बिना देखे डरे, अतः आप उसे माफ़ी और इज़्ज़त वाले अज्र की ख़ुशख़बरी दीजिए।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَى وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ",
+        "transliteration": "It is We who revive the dead; and We write down what they have forwarded, and their traces. We have tallied all things in a Clear Record.",
+        "translations": {
+          "English": "It is We who revive the dead; and We write down what they have forwarded, and their traces. We have tallied all things in a Clear Record.",
+          "Urdu": "بے شک ہم ہی مردوں کو زندہ کرنے والے ہیں اور جو کچھ وہ آگے بھیجیں گے اور ان کے نقش قدم (سب) لکھ رہے ہیں اور ہم نے ہر چیز کو ایک کھلی کتاب میں شمار کر رکھا ہے۔",
+          "French": "En vérité, c'est Nous qui ressuscitons les morts et Nous inscrivons ce qu'ils ont fait [pour l'au-delà] ainsi que leurs traces. Et Nous avons dénombré toute chose dans un registre explicite.",
+          "Spanish": "En verdad, somos Nosotros quienes damos vida a los muertos, registramos lo que han hecho y las huellas que han dejado. Todo lo tenemos registrado en un libro claro.",
+          "Hindi": "निस्संदेह हम ही मुर्दों को जिलाने वाले हैं और जो कुछ वह आगे भेजेंगे और उनके नक़्श-ए-क़दम (सब) लिख रहे हैं और हमने हर चीज़ को एक खुली किताब में शुमार कर रखा है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَاضْرِبْ لَهُمْ مَثَلًا أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ",
+        "transliteration": "And cite for them the parable of the landlords of the town—when the messengers came to it.",
+        "translations": {
+          "English": "And cite for them the parable of the landlords of the town—when the messengers came to it.",
+          "Urdu": "اور آپ ان کے لیے بستی والوں کی مثال بیان کیجئے جب ان کے پاس رسول آئے۔",
+          "French": "Et propose-leur l'exemple des habitants de la cité, quand leur vinrent les messagers.",
+          "Spanish": "Y preséntales el ejemplo de los habitantes de la ciudad, cuando les llegaron los Mensajeros.",
+          "Hindi": "और आप उनके लिए बस्ती वालों की मिसाल बयान कीजिए जब उनके पास रसूल आए।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوا إِنَّا إِلَيْكُمْ مُرْسَلُونَ",
+        "transliteration": "We sent them two messengers, but they denied them both, so We reinforced them with a third. They said, 'We are messengers to you.'",
+        "translations": {
+          "English": "We sent them two messengers, but they denied them both, so We reinforced them with a third. They said, 'We are messengers to you.'",
+          "Urdu": "جب ہم نے ان کی طرف دو رسول بھیجے تو انہوں نے ان دونوں کو جھٹلا دیا پھر ہم نے تیسرے کی مدد سے ان کو قوت دی تو انہوں نے کہا کہ ہم تمہاری طرف بھیجے گئے ہیں۔",
+          "French": "Quand Nous leur envoyâmes deux messagers, ils les traitèrent de menteurs. Nous les renforçâmes alors par un troisième. Ils dirent: 'Vraiment, nous sommes envoyés vers vous.'",
+          "Spanish": "Cuando les envié a dos Mensajeros y los desmintieron, les reforcé con un tercero, y dijeron: 'En verdad, hemos sido enviados a vosotros'.",
+          "Hindi": "जब हमने उनकी तरफ़ दो रसूल भेजे तो उन्होंने उन दोनों को झुठला दिया फिर हमने तीसरे की मदद से उन्हें क़ुव्वत दी तो उन्होंने कहा कि हम तुम्हारी तरफ़ भेजे गए हैं।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "قَالُوا مَا أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا وَمَا أَنْزَلَ الرَّحْمَنُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا تَكْذِبُونَ",
+        "transliteration": "They said, 'You are nothing but humans like us, and the Gracious did not send down anything; you are only lying.'",
+        "translations": {
+          "English": "They said, 'You are nothing but humans like us, and the Gracious did not send down anything; you are only lying.'",
+          "Urdu": "انہوں نے کہا کہ تم ہماری طرح کے بشر ہو اور رحمن نے کوئی چیز نازل نہیں کی، تم تو محض جھوٹ بولتے ہو۔",
+          "French": "Ils dirent: 'Vous n'êtes que des humains comme nous, et le Tout Miséricordieux n'a rien fait descendre: vous ne faites que mentir.'",
+          "Spanish": "Dijeron: 'No sois más que seres humanos como nosotros, y el Compasivo no ha revelado nada. Solo mentís'.",
+          "Hindi": "उन्होंने कहा कि तुम हमारी तरह के बशर हो और रहमान ने कोई चीज़ नाज़िल नहीं की, तुम तो महज़ झूठ बोलते हो।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "قَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ",
+        "transliteration": "They said, 'Our Lord knows that we are messengers to you.",
+        "translations": {
+          "English": "They said, 'Our Lord knows that we are messengers to you.",
+          "Urdu": "انہوں نے کہا کہ ہمارا رب جانتا ہے کہ ہم تمہاری طرف بھیجے گئے ہیں۔",
+          "French": "Ils dirent: 'Notre Seigneur sait que nous sommes vraiment envoyés à vous.",
+          "Spanish": "Dijeron: 'Nuestro Señor sabe que en verdad hemos sido enviados a vosotros.",
+          "Hindi": "उन्होंने कहा कि हमारा रब जानता है कि हम तुम्हारी तरफ़ भेजे गए हैं।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَمَا عَلَيْنَا إِلَّا الْبَلَاغُ الْمُبِينُ",
+        "transliteration": "And our only duty is clear communication.'",
+        "translations": {
+          "English": "And our only duty is clear communication.'",
+          "Urdu": "اور ہمارے ذمہ تو صرف کھلا پہنچا دینا ہے۔'",
+          "French": "Et notre devoir n'est que de vous transmettre le message clair.'",
+          "Spanish": "Y solo tenemos la obligación de transmitiros el mensaje claro.'",
+          "Hindi": "और हमारे ज़िम्मे तो केवल खुला पहुँचा देना है।'"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "قَالُوا إِنَّا تَطَيَّرْنَا بِكُمْ لَئِنْ لَمْ تَنْتَهُوا لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُمْ مِنَّا عَذَابٌ أَلِيمٌ",
+        "transliteration": "They said, 'We see an evil omen in you; if you do not give up, we will stone you, and a painful punishment from us will befall you.'",
+        "translations": {
+          "English": "They said, 'We see an evil omen in you; if you do not give up, we will stone you, and a painful punishment from us will befall you.'",
+          "Urdu": "انہوں نے کہا کہ ہم نے تمہارے بارے میں بدشگونی لی ہے، اگر تم باز نہ آئے تو ہم تمہیں ضرور سنگسار کر دیں گے اور تمہیں ہماری طرف سے دردناک عذاب پہنچے گا۔",
+          "French": "Ils dirent: 'Nous voyons en vous un mauvais présage. Si vous ne cessez pas, nous vous lapiderons et un douloureux châtiment de notre part vous touchera.'",
+          "Spanish": "Dijeron: 'Vemos en vosotros un mal augurio. Si no desistís, os lapidaremos y os afligirá un castigo doloroso de nuestra parte.'",
+          "Hindi": "उन्होंने कहा कि हमने तुम्हारे बारे में बदशगुन ली है, अगर तुम बाज़ न आए तो हम तुम्हें ज़रूर संगसार कर देंगे और तुम्हें हमारी तरफ़ से दर्दनाक अज़ाब पहुँचेगा।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "قَالُوا طَائِرُكُمْ مَعَكُمْ أَئِنْ ذُكِّرْتُمْ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+        "transliteration": "They said, 'Your evil omen is upon you. Is it because you were reminded? But you are an extravagant people.'",
+        "translations": {
+          "English": "They said, 'Your evil omen is upon you. Is it because you were reminded? But you are an extravagant people.'",
+          "Urdu": "انہوں نے کہا کہ تمہارا بدشگون تمہارے ساتھ ہے، کیا اگر تمہیں نصیحت کی جائے (تو یہ بدشگونی ہے) بلکہ تم حد سے گزرنے والی قوم ہو۔",
+          "French": "Ils dirent: 'Votre mauvais présage est avec vous. Si on vous rappelle (le message d'Allah)...? Mais vous êtes des gens outranciers!'",
+          "Spanish": "Dijeron: 'Vuestro mal augurio está con vosotros. ¿Acaso porque se os recuerda [el mensaje]? ¡No! Sois un pueblo que se excede!'",
+          "Hindi": "उन्होंने कहा कि तुम्हारा बदशगुन तुम्हारे साथ है, क्या अगर तुम्हें नसीहत की जाए (तो यह बदशगुन है) बल्कि तुम हद से गुज़रने वाली क़ौम हो।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَى قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ",
+        "transliteration": "Then a man came running from the remotest part of the city. He said, 'O my people, follow the messengers.",
+        "translations": {
+          "English": "Then a man came running from the remotest part of the city. He said, 'O my people, follow the messengers.",
+          "Urdu": "اور شہر کے دور دراز حصے سے ایک شخص دوڑتا ہوا آیا، اس نے کہا کہ اے میری قوم! رسولوں کی پیروی کرو۔",
+          "French": "Et vint du fin fond de la ville un homme qui courut. Il dit: 'Ô mon peuple, suivez les messagers.",
+          "Spanish": "Y vino corriendo desde el extremo de la ciudad un hombre, diciendo: '¡Oh, pueblo mío! Seguid a los Mensajeros.",
+          "Hindi": "और शहर के दूरदराज़ हिस्से से एक शख़्स दौड़ता हुआ आया, उसने कहा कि ऐ मेरी क़ौम! रसूलों की पैरवी करो।"
+        }
+      }
+   ,
+
+
+      {
+        "no": 21,
+        "arabic": "اتَّبِعُوا مَنْ لَا يَسْأَلُكُمْ أَجْرًا وَهُمْ مُهْتَدُونَ",
+        "translations": {
+          "English": "Follow those who ask you of no wage, and are themselves guided.",
+          "Urdu": "تم ان کی پیروی کرو جو تم سے کسی اجرت کے طالب نہیں اور وہ خود ہدایت یافتہ ہیں۔",
+          "French": "Suivez ceux qui ne vous demandent aucun salaire et qui sont sur le droit chemin.",
+          "Spanish": "Sigan a quienes no les piden recompensa alguna y están bien guiados.",
+          "Hindi": "तुम उनका अनुसरण करो जो तुमसे कोई प्रतिदान नहीं माँगते और वे स्वयं सीधे मार्ग पर हैं।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ",
+        "translations": {
+          "English": "And why should I not worship Him Who created me, and to Whom you will be returned?",
+          "Urdu": "اور میں کیوں نہ عبادت کروں اس کی جس نے مجھے پیدا کیا اور اسی کی طرف تم سب کو لوٹنا ہے۔",
+          "French": "Et pourquoi n'adorerais-je pas Celui qui m'a créé et vers Qui vous serez ramenés?",
+          "Spanish": "¿Y por qué no habría de adorar a Quien me creó y a Quien serán retornados?",
+          "Hindi": "और मैं क्यों न उसकी इबादत करूँ जिसने मुझे पैदा किया और उसी की तरफ तुम सबको लौटना है?"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً إِنْ يُرِدْنِ الرَّحْمَنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ",
+        "translations": {
+          "English": "Shall I take other gods instead of Him? If the Merciful desires harm for me, their intercession will not avail me at all, nor will they save me.",
+          "Urdu": "کیا میں اس کے سوا دوسرے معبود بنا لوں؟ اگر رحمان مجھے کوئی نقصان پہنچانا چاہے تو نہ تو ان کی سفارش مجھے کچھ فائدہ دے گی اور نہ وہ مجھے بچا سکیں گے۔",
+          "French": "Prendrai-je des divinités en dehors de Lui? Si le Tout Miséricordieux me veut du mal, leur intercession ne me servira à rien, et ils ne me sauveront pas.",
+          "Spanish": "¿Acaso tomaré dioses en lugar de Él? Si el Misericordioso quisiera perjudicarme, su intercesión no me serviría de nada ni podrían salvarme.",
+          "Hindi": "क्या मैं उसके सिवा दूसरे माबूद बना लूँ? अगर रहमान मुझे कोई नुकसान पहुँचाना चाहे तो न तो उनकी सिफ़ारिश मुझे कुछ फ़ायदा देगी और न वह मुझे बचा सकेंगे।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ",
+        "translations": {
+          "English": "In that case, I would be completely lost.",
+          "Urdu": "اس صورت میں میں کھلی گمراہی میں ہوں گا۔",
+          "French": "Je serais alors dans un égarement évident.",
+          "Spanish": "En ese caso estaría en un error manifiesto.",
+          "Hindi": "उस सूरत में मैं खुली गुमराही में हूँगा।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ",
+        "translations": {
+          "English": "I have believed in your Lord, so listen to me.",
+          "Urdu": "میں تمہارے رب پر ایمان لایا ہوں، سو میری بات سنو۔",
+          "French": "J'ai cru en votre Seigneur. Ecoutez-moi donc.",
+          "Spanish": "He creído en su Señor, así que escúchenme.",
+          "Hindi": "मैं तुम्हारे रब पर ईमान लाया हूँ, सो मेरी बात सुनो।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "قِيلَ ادْخُلِ الْجَنَّةَ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ",
+        "translations": {
+          "English": "It was said, 'Enter Paradise.' He said, 'If only my people knew.",
+          "Urdu": "اس سے کہا گیا: 'جنت میں داخل ہو جا' اس نے کہا: 'کاش میرے لوگ جان لیں۔",
+          "French": "On lui dit: 'Entre au Paradis.' Il dit: 'Ah! Si seulement mon peuple savait.",
+          "Spanish": "Se le dijo: 'Ingresa al Paraíso'. Dijo: '¡Ojalá mi pueblo supiera!",
+          "Hindi": "उससे कहा गया: 'जन्नत में दाख़िल हो जा' उसने कहा: 'काश मेरे लोग जान लें।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ",
+        "translations": {
+          "English": "How my Lord has forgiven me, and made me one of the honored.",
+          "Urdu": "کہ میرے رب نے مجھے بخش دیا اور مجھے عزت والوں میں شامل کر لیا۔",
+          "French": "Que mon Seigneur m'a pardonné et m'a placé parmi les honorés.'",
+          "Spanish": "Que mi Señor me ha perdonado y me ha contado entre los honrados.'",
+          "Hindi": "कि मेरे रब ने मुझे माफ़ कर दिया और मुझे इज़्ज़त वालों में शामिल कर लिया।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "وَمَا أَنْزَلْنَا عَلَى قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ",
+        "translations": {
+          "English": "After him, We sent down no hosts from heaven to his people; nor would We ever send any down.",
+          "Urdu": "اس کے بعد ہم نے اس کی قوم پر آسمان سے کوئی لشکر نہیں اتارا اور نہ ہم اتارنے والے تھے۔",
+          "French": "Après lui, Nous n'avons pas fait descendre du ciel une armée contre son peuple; et Nous ne sommes pas descendus.",
+          "Spanish": "Después de él no enviamos contra su pueblo ningún ejército del cielo, ni lo haríamos.",
+          "Hindi": "उसके बाद हमने उसकी क़ौम पर आसमान से कोई लश्कर नहीं उतारा और न हम उतारने वाले थे।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ",
+        "translations": {
+          "English": "It was just one Cry, and they were stilled.",
+          "Urdu": "وہ تو بس ایک ہی دھماکہ تھا، پھر وہ سب خاموش ہو گئے۔",
+          "French": "Ce ne fut qu'un seul Cri et les voilà éteints.",
+          "Spanish": "Solo fue un solo Grito y quedaron extinguidos.",
+          "Hindi": "वह तो बस एक ही धमाका था, फिर वह सब ख़ामोश हो गए।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "يَا حَسْرَةً عَلَى الْعِبَادِ مَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+        "translations": {
+          "English": "Alas for the servants. No messenger ever came to them, but they ridiculed him.",
+          "Urdu": "افسوس ہے بندوں پر، ان کے پاس کوئی رسول نہیں آیا مگر یہ کہ وہ اس کا مذاق اڑاتے تھے۔",
+          "French": "Hélas pour les serviteurs! Il ne leur vient pas de messager sans qu'ils ne s'en moquent.",
+          "Spanish": "¡Qué pena dan los siervos! No les llegó ningún Mensajero sin que se burlaran de él.",
+          "Hindi": "अफ़सोस है बन्दों पर, उनके पास कोई रसूल नहीं आया मगर यह कि वह उसका मज़ाक़ उड़ाते थे।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ الْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+        "translations": {
+          "English": "Have they not considered how many generations We destroyed before them; and that unto them they will not return?",
+          "Urdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی قوموں کو ہلاک کر دیا کہ وہ ان کی طرف لوٹ کر نہیں آئیں گی۔",
+          "French": "N'ont-ils pas vu combien de générations, avant eux, Nous avons détruites, et qu'elles ne reviendront plus à eux?",
+          "Spanish": "¿Acaso no ven cuántas generaciones anteriores a ellos destruí y que no regresarán?",
+          "Hindi": "क्या उन्होंने नहीं देखा कि हमने उनसे पहले कितनी क़ौमों को हलाक कर दिया कि वह उनकी तरफ़ लौटकर नहीं आएँगी।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "وَإِنْ كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+        "translations": {
+          "English": "All of them, every single one of them, will be arraigned before Us.",
+          "Urdu": "اور سب کے سب ایک ساتھ ہمارے سامنے حاضر کیے جائیں گے۔",
+          "French": "Et tous, sans exception, seront amenés devant Nous.",
+          "Spanish": "Y todos, sin excepción, comparecerán ante Nosotros.",
+          "Hindi": "और सबके सब एक साथ हमारे सामने हाज़िर किए जाएँगे।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+        "translations": {
+          "English": "And there is a sign for them in the dead land: We give it life, and produce from it grains from which they eat.",
+          "Urdu": "اور ان کے لیے ایک نشانی مردہ زمین ہے، ہم نے اسے زندہ کیا اور اس سے دانے نکالے جنہیں وہ کھاتے ہیں۔",
+          "French": "Un signe pour eux est la terre morte: Nous lui redonnons la vie, et Nous en faisons sortir des grains dont ils mangent.",
+          "Spanish": "Un signo para ellos es la tierra muerta: le devolvemos la vida y hacemos que de ella broten granos de los que se alimentan.",
+          "Hindi": "और उनके लिए एक निशानी मुरदा ज़मीन है, हमने उसे ज़िंदा किया और उससे दाने निकाले जिन्हें वह खाते हैं।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "وَجَعَلْنَا فِيهَا جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ",
+        "translations": {
+          "English": "And We place in it gardens of palm-trees and vines, and cause springs to gush out of it.",
+          "Urdu": "اور ہم نے اس میں کھجوروں اور انگوروں کے باغات بنائے اور اس میں چشمے جاری کیے۔",
+          "French": "Nous y avons placé des jardins de palmiers et de vignes, et Nous y avons fait jaillir des sources,",
+          "Spanish": "Hemos puesto en ella jardines de palmeras y vides, y hemos hecho brotar manantiales,",
+          "Hindi": "और हमने उसमें खजूरों और अंगूरों के बाग़ात बनाए और उसमें चश्मे जारी किए।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+        "translations": {
+          "English": "That they may eat from its fruits, although their hands did not make it. Will they not be appreciative?",
+          "Urdu": "تاکہ وہ اس کے پھل کھائیں حالانکہ ان کے ہاتھوں نے اسے نہیں بنایا۔ کیا وہ شکر ادا نہیں کریں گے؟",
+          "French": "pour qu'ils mangent de Ses fruits. Leurs mains ne les ont pas fabriqués. Ne seront-ils pas reconnaissants?",
+          "Spanish": "para que coman de sus frutos, aunque no fueron sus manos las que los produjeron. ¿No serán agradecidos?",
+          "Hindi": "ताकि वह उसके फल खाएँ हालाँकि उनके हाथों ने उसे नहीं बनाया। क्या वह शुक्र अदा नहीं करेंगे?"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+        "translations": {
+          "English": "Glory be to Him who created all the pairs; of what the earth produces, and of their own selves, and of what they do not know.",
+          "Urdu": "پاک ہے وہ ذات جس نے ہر قسم کے جوڑے پیدا کیے، جو کچھ زمین اگاتی ہے اور ان کی اپنی جنس سے اور ان چیزوں سے جنہیں وہ نہیں جانتے۔",
+          "French": "Gloire à Celui qui a créé tout ce que la terre fait pousser, eux-mêmes, et ce qu'ils ne connaissent pas.",
+          "Spanish": "Gloria a Quien creó todas las parejas: de lo que la tierra produce, de ellos mismos y de lo que no conocen.",
+          "Hindi": "पाक है वह जिसने हर तरह के जोड़े पैदा किए, जो कुछ ज़मीन उगाती है और उनकी अपनी जिन्स से और उन चीज़ों से जिन्हें वह नहीं जानते।"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ",
+        "translations": {
+          "English": "Another sign for them is the night: We strip the day out of it—and they are in darkness.",
+          "Urdu": "اور ان کے لیے ایک نشانی رات ہے، ہم اس سے دن کو کھینچ نکالتے ہیں تو وہ یکایک اندھیرے میں ہو جاتے ہیں۔",
+          "French": "Un autre signe pour eux est la nuit: Nous en retirons le jour, et les voilà dans les ténèbres.",
+          "Spanish": "Otro signo para ellos es la noche: les quitamos el día y quedan en tinieblas.",
+          "Hindi": "और उनके लिए एक निशानी रात है, हम उससे दिन को खींच निकालते हैं तो वह अचानक अँधेरे में हो जाते हैं।"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+        "translations": {
+          "English": "And the sun runs towards its destination. Such is the design of the Almighty, the All-Knowing.",
+          "Urdu": "اور سورج اپنے ٹھکانے کی طرف چل رہا ہے، یہ زبردست اور دانا کا مقرر کردہ ہے۔",
+          "French": "Et le soleil court vers un gîte qui lui est assigné; telle est la détermination du Tout-Puissant, de l'Omniscient.",
+          "Spanish": "Y el sol corre hacia su lugar de descanso. Esa es la determinación del Poderoso, el Sabio.",
+          "Hindi": "और सूरज अपने ठिकाने की तरफ़ चल रहा है, यह ज़बरदस्त और दाना का मुक़र्रर किया हुआ है।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ الْقَدِيمِ",
+        "translations": {
+          "English": "And the moon: We have disposed it in phases, until it returns like the old twig.",
+          "Urdu": "اور چاند کے لیے ہم نے منزلیں مقرر کی ہیں یہاں تک کہ وہ پرانے کھجور کے تنکے کی طرح ہو جاتا ہے۔",
+          "French": "Et la lune, Nous lui avons déterminé des phases jusqu'à ce qu'elle devienne comme la palme vieillie.",
+          "Spanish": "Y a la luna le hemos fijado fases hasta que vuelve como una rama seca de palmera.",
+          "Hindi": "और चाँद के लिए हमने मंज़िलें मुक़र्रर की हैं यहाँ तक कि वह पुराने खजूर के तने की तरह हो जाता है।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+        "translations": {
+          "English": "The sun is not to overtake the moon, nor is the night to outpace the day. Each floats in an orbit.",
+          "Urdu": "نہ تو سورج کی یہ مجال کہ چاند کو جا پکڑے اور نہ رات دن سے آگے نکل سکتی ہے اور سب ایک مدار میں تیر رہے ہیں۔",
+          "French": "Il ne convient pas au soleil de rattraper la lune, ni à la nuit de devancer le jour; chacun vogue dans une orbite.",
+          "Spanish": "Ni el sol puede alcanzar a la luna, ni la noche puede adelantarse al día. Cada uno navega en una órbita.",
+          "Hindi": "न तो सूरज की यह गुंजाइश कि चाँद को जा पकड़े और न रात दिन से आगे निकल सकती है और सब एक मदार में तैर रहे हैं।"
+        }
+      },
+
+
+          {
+            "no": 41,
+            "arabic": "وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
+            "transliteration": "Another sign for them is that We carried their offspring in the laden Ark.",
+            "translations": {
+              "English": "Another sign for them is that We carried their offspring in the laden Ark.",
+              "Urdu": "اور ان کے لیے ایک نشانی یہ ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کرایا۔",
+              "French": "Et un signe pour eux est que Nous avons transporté leur descendance dans l'arche chargée.",
+              "Spanish": "Y un signo para ellos es que transportamos a su descendencia en el arca llena.",
+              "Hindi": "और उनके लिए एक निशानी यह है कि हमने उनकी औलाद को भरी हुई किश्ती में सवार कराया।"
+            }
+          },
+          {
+            "no": 42,
+            "arabic": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+            "transliteration": "And We created for them the like of it, in which they ride.",
+            "translations": {
+              "English": "And We created for them the like of it, in which they ride.",
+              "Urdu": "اور ہم نے ان کے لیے اس جیسی اور چیزیں پیدا کیں جن پر وہ سوار ہوتے ہیں۔",
+              "French": "Et Nous avons créé pour eux des vaisseaux semblables sur lesquels ils embarquent.",
+              "Spanish": "Y hemos creado para ellos embarcaciones similares en las que se embarcan.",
+              "Hindi": "और हमने उनके लिए उस जैसी और चीज़ें पैदा कीं जिन पर वह सवार होते हैं।"
+            }
+          },
+          {
+            "no": 43,
+            "arabic": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+            "transliteration": "If We will, We can drown them—with no screaming to be heard from them, nor will they be saved.",
+            "translations": {
+              "English": "If We will, We can drown them—with no screaming to be heard from them, nor will they be saved.",
+              "Urdu": "اور اگر ہم چاہیں تو انہیں غرق کر دیں پھر نہ تو ان کے لیے کوئی فریاد رس ہو اور نہ وہ بچائے جائیں۔",
+              "French": "Et si Nous voulions, Nous les aurions noyés, sans qu'ils aient un cri d'appel au secours, et sans qu'ils puissent être sauvés.",
+              "Spanish": "Y si quisiéramos, los ahogaríamos, sin que tuvieran un grito de auxilio, ni podrían ser salvados.",
+              "Hindi": "और अगर हम चाहें तो उन्हें डुबो दें फिर न तो उनके लिए कोई फ़रियाद रस हो और न वह बचाए जाएँ।"
+            }
+          },
+          {
+            "no": 44,
+            "arabic": "إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَى حِينٍ",
+            "transliteration": "Except by a mercy from Us, and enjoyment for a while.",
+            "translations": {
+              "English": "Except by a mercy from Us, and enjoyment for a while.",
+              "Urdu": "مگر ہماری رحمت ہو اور کچھ دنوں کے فائدے کے لیے (زندہ رکھا جائے)۔",
+              "French": "Sauf par miséricorde de Notre part et jouissance pour un certain temps.",
+              "Spanish": "Excepto por misericordia de Nuestra parte y disfrute por un tiempo.",
+              "Hindi": "मगर हमारी रहमत हो और कुछ दिनों के फ़ायदे के लिए (ज़िंदा रखा जाए)।"
+            }
+          },
+          {
+            "no": 45,
+            "arabic": "وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+            "transliteration": "Yet when it is said to them, 'Beware of what lies before you, and what lies behind you, that you may receive mercy.'",
+            "translations": {
+              "English": "Yet when it is said to them, 'Beware of what lies before you, and what lies behind you, that you may receive mercy.'",
+              "Urdu": "اور جب ان سے کہا جاتا ہے کہ جو کچھ تمہارے سامنے ہے اور جو کچھ تمہارے پیچھے ہے اس سے ڈرو تاکہ تم پر رحم کیا جائے۔",
+              "French": "Et quand on leur dit: 'Craignez ce qui est devant vous et ce qui est derrière vous, afin que miséricorde vous soit faite'...",
+              "Spanish": "Y cuando se les dice: 'Temed lo que está ante vosotros y lo que está detrás de vosotros, para que se os tenga misericordia'...",
+              "Hindi": "और जब उनसे कहा जाता है कि जो कुछ तुम्हारे सामने है और जो कुछ तुम्हारे पीछे है उससे डरो ताकि तुम पर रहम किया जाए।"
+            }
+          },
+          {
+            "no": 46,
+            "arabic": "وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+            "transliteration": "Yet never came to them a sign of their Lord's signs, but they turned away from it.",
+            "translations": {
+              "English": "Yet never came to them a sign of their Lord's signs, but they turned away from it.",
+              "Urdu": "اور ان کے پاس ان کے رب کی کوئی نشانی آتی ہے تو وہ اس سے منہ موڑ لیتے ہیں۔",
+              "French": "Jamais ne leur vient un signe parmi les signes de leur Seigneur, sans qu'ils ne s'en détournent.",
+              "Spanish": "No les llega ningún signo de los signos de su Señor sin que se aparten de él.",
+              "Hindi": "और उनके पास उनके रब की कोई निशानी आती है तो वह उससे मुँह मोड़ लेते हैं।"
+            }
+          },
+          {
+            "no": 47,
+            "arabic": "وَإِذَا قِيلَ لَهُمْ أَنْفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ مُبِينٍ",
+            "transliteration": "And when it is said to them, 'Spend of what God has provided for you,' those who disbelieve say to those who believe, 'Shall we feed someone whom God could feed, if He so willed? You must be deeply misguided.'",
+            "translations": {
+              "English": "And when it is said to them, 'Spend of what God has provided for you,' those who disbelieve say to those who believe, 'Shall we feed someone whom God could feed, if He so willed? You must be deeply misguided.'",
+              "Urdu": "اور جب ان سے کہا جاتا ہے کہ جو کچھ اللہ نے تمہیں دیا ہے اس میں سے خرچ کرو تو کافر ایمان والوں سے کہتے ہیں کہ کیا ہم اسے کھلائیں جسے اللہ چاہتا تو کھلا دیتا؟ تم تو صریح گمراہی میں ہو۔",
+              "French": "Et quand on leur dit: 'Dépensez de ce qu'Allah vous a attribué', les mécréants disent à ceux qui croient: 'Nourrirons-nous celui qu'Allah aurait nourri si Il avait voulu? Vous n'êtes que dans un égarement évident.'",
+              "Spanish": "Y cuando se les dice: 'Gastad de lo que Allah os ha proveído', los incrédulos dicen a los creyentes: '¿Acaso alimentaremos a quien Allah podría alimentar si quisiera? No estáis sino en un extravío evidente.'",
+              "Hindi": "और जब उनसे कहा जाता है कि जो कुछ अल्लाह ने तुम्हें दिया है उसमें से ख़र्च करो तो काफ़िर ईमान वालों से कहते हैं कि क्या हम उसे खिलाएँ जिसे अल्लाह चाहता तो खिला देता? तुम तो साफ़ गुमराही में हो।"
+            }
+          },
+          {
+            "no": 48,
+            "arabic": "وَيَقُولُونَ مَتَى هَذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+            "transliteration": "And they say, 'When will this promise be, if you are truthful?'",
+            "translations": {
+              "English": "And they say, 'When will this promise be, if you are truthful?'",
+              "Urdu": "اور وہ کہتے ہیں کہ اگر تم سچے ہو تو یہ وعدہ کب پورا ہوگا؟",
+              "French": "Et ils disent: 'Quand donc s'accomplira cette promesse, si vous êtes véridiques?'",
+              "Spanish": "Y dicen: '¿Cuándo se cumplirá esta promesa, si sois veraces?'",
+              "Hindi": "और वह कहते हैं कि अगर तुम सच्चे हो तो यह वादा कब पूरा होगा?"
+            }
+          },
+          {
+            "no": 49,
+            "arabic": "مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+            "transliteration": "All they can expect is a single blast, which will seize them while they feud.",
+            "translations": {
+              "English": "All they can expect is a single blast, which will seize them while they feud.",
+              "Urdu": "وہ تو بس ایک ہی چنگھاڑ کے منتظر ہیں جو انہیں آ پکڑے گی اور وہ آپس میں جھگڑ رہے ہوں گے۔",
+              "French": "Ils n'attendent qu'un seul Cri qui les saisira tandis qu'ils seront en train de disputer.",
+              "Spanish": "No esperan sino un solo Grito que les sorprenderá mientras discuten.",
+              "Hindi": "वह तो बस एक ही चीख़ के मुंतज़िर हैं जो उन्हें आ पकड़ेगी और वह आपस में झगड़ रहे होंगे।"
+            }
+          },
+          {
+            "no": 50,
+            "arabic": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَى أَهْلِهِمْ يَرْجِعُونَ",
+            "transliteration": "They will not be able to make a will, nor will they return to their families.",
+            "translations": {
+              "English": "They will not be able to make a will, nor will they return to their families.",
+              "Urdu": "پھر نہ تو وہ کوئی وصیت کر سکیں گے اور نہ اپنے گھر والوں کی طرف لوٹ سکیں گے۔",
+              "French": "Ils ne pourront ni faire de testament, ni retourner à leurs familles.",
+              "Spanish": "Entonces no podrán hacer testamento ni regresar con sus familias.",
+              "Hindi": "फिर न तो वह कोई वसीयत कर सकेंगे और न अपने घर वालों की तरफ़ लौट सकेंगे।"
+            }
+          },
+          {
+            "no": 51,
+            "arabic": "وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ يَنْسِلُونَ",
+            "transliteration": "The Trumpet will be blown, then behold, they will rush from the tombs to their Lord.",
+            "translations": {
+              "English": "The Trumpet will be blown, then behold, they will rush from the tombs to their Lord.",
+              "Urdu": "اور صور پھونک دیا جائے گا تو یکایک وہ اپنی قبروں سے اپنے رب کی طرف دوڑے چلے آئیں گے۔",
+              "French": "Et on soufflera dans la Trompe, et les voilà sortant des tombes, courant vers leur Seigneur.",
+              "Spanish": "Y se soplará la Trompeta, y he aquí que saldrán de las tumbas corriendo hacia su Señor.",
+              "Hindi": "और सूर फूँक दिया जाएगा तो अचानक वह अपनी क़ब्रों से अपने रब की तरफ़ दौड़े चले आएँगे।"
+            }
+          },
+          {
+            "no": 52,
+            "arabic": "قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا هَذَا مَا وَعَدَ الرَّحْمَنُ وَصَدَقَ الْمُرْسَلُونَ",
+            "transliteration": "They will say, 'Woe to us! Who resurrected us from our resting-place?' This is what the Most Gracious had promised, and the messengers have spoken the truth.'",
+            "translations": {
+              "English": "They will say, 'Woe to us! Who resurrected us from our resting-place?' This is what the Most Gracious had promised, and the messengers have spoken the truth.'",
+              "Urdu": "وہ کہیں گے کہ ہائے ہماری خرابی! ہمیں ہماری خواب گاہ سے کس نے اٹھا کھڑا کیا؟ یہی تو وہ (چیز) ہے جس کا رحمن نے وعدہ دیا تھا اور رسولوں نے سچ کہا تھا۔",
+              "French": "Ils diront: 'Malheur à nous! Qui nous a ressuscités de notre lieu de repos?' Voilà ce que le Tout Miséricordieux avait promis; et les messagers avaient dit vrai.",
+              "Spanish": "Dirán: '¡Ay de nosotros! ¿Quién nos ha resucitado de nuestro lugar de reposo?' Esto es lo que el Compasivo había prometido, y los Mensajeros decían la verdad.",
+              "Hindi": "वह कहेंगे कि हाय हमारी बर्बादी! हमें हमारी ख़्वाबगाह से किसने उठा खड़ा किया? यही तो वह (चीज़) है जिसका रहमान ने वादा दिया था और रसूलों ने सच कहा था।"
+            }
+          },
+          {
+            "no": 53,
+            "arabic": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+            "transliteration": "It will be but a single scream; and behold, they will all be brought before Us.",
+            "translations": {
+              "English": "It will be but a single scream; and behold, they will all be brought before Us.",
+              "Urdu": "یہ تو بس ایک ہی چنگھاڑ ہوگی پھر یکایک وہ سب کے سب ہمارے سامنے حاضر کر دیے جائیں گے۔",
+              "French": "Il n'y aura qu'un seul Cri, et les voilà tous amenés devant Nous.",
+              "Spanish": "No será sino un solo Grito, y he aquí que todos comparecerán ante Nosotros.",
+              "Hindi": "यह तो बस एक ही चीख़ होगी फिर अचानक वह सब के सब हमारे सामने हाज़िर कर दिए जाएँगे।"
+            }
+          },
+          {
+            "no": 54,
+            "arabic": "فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+            "transliteration": "On that Day, no soul will be wronged in the least, and you will be recompensed only for what you used to do.",
+            "translations": {
+              "English": "On that Day, no soul will be wronged in the least, and you will be recompensed only for what you used to do.",
+              "Urdu": "پس آج کسی شخص پر ذرہ برابر بھی ظلم نہیں کیا جائے گا اور تمہیں تمہارے اعمال ہی کا بدلہ دیا جائے گا۔",
+              "French": "Aujourd'hui donc, aucune âme ne sera lésée en rien, et vous ne serez rétribués que selon ce que vous œuvriez.",
+              "Spanish": "Hoy ninguna alma será tratada injustamente en lo más mínimo, y no seréis retribuidos sino conforme a lo que hacíais.",
+              "Hindi": "अतः आज किसी शख़्स पर ज़र्रा भर भी ज़ुल्म नहीं किया जाएगा और तुम्हें तुम्हारे अमलों ही का बदला दिया जाएगा।"
+            }
+          },
+          {
+            "no": 55,
+            "arabic": "إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ",
+            "transliteration": "The inhabitants of Paradise, on that Day, will be happily busy.",
+            "translations": {
+              "English": "The inhabitants of Paradise, on that Day, will be happily busy.",
+              "Urdu": "بے شک جنتی لوگ آج خوشیاں مناتے ہوئے مشغول ہوں گے۔",
+              "French": "Les gens du Paradis, ce jour-là, seront occupés à se réjouir.",
+              "Spanish": "En verdad, los habitantes del Paraíso estarán hoy ocupados disfrutando.",
+              "Hindi": "बेशक जन्नती लोग आज ख़ुशियाँ मनाते हुए मशग़ूल होंगे।"
+            }
+          },
+          {
+            "no": 56,
+            "arabic": "هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ",
+            "transliteration": "They and their spouses, in shades, reclining on couches.",
+            "translations": {
+              "English": "They and their spouses, in shades, reclining on couches.",
+              "Urdu": "وہ اور ان کی بیویاں سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے۔",
+              "French": "Eux et leurs épouses, sous une ombre, accoudés sur des divans.",
+              "Spanish": "Ellos y sus esposas estarán a la sombra, reclinados en sofás.",
+              "Hindi": "वह और उनकी बीवियाँ सायों में तख़्तों पर तकिये लगाए बैठे होंगे।"
+            }
+          },
+          {
+            "no": 57,
+            "arabic": "لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُمْ مَا يَدَّعُونَ",
+            "transliteration": "They will have therein fruits. They will have whatever they call for.",
+            "translations": {
+              "English": "They will have therein fruits. They will have whatever they call for.",
+              "Urdu": "ان کے لیے وہاں ہر قسم کے پھل ہوں گے اور جو کچھ وہ چاہیں گے (وہ بھی موجود ہوگا)۔",
+              "French": "Ils auront là des fruits, et ils auront ce qu'ils réclameront.",
+              "Spanish": "Tendrán allí frutas y tendrán lo que pidan.",
+              "Hindi": "उनके लिए वहाँ हर क़िस्म के फल होंगे और जो कुछ वह चाहेंगे (वह भी मौजूद होगा)।"
+            }
+          },
+          {
+            "no": 58,
+            "arabic": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+            "transliteration": "Peace—a saying from a Most Merciful Lord.",
+            "translations": {
+              "English": "Peace—a saying from a Most Merciful Lord.",
+              "Urdu": "(ان سے کہا جائے گا) سلامتی ہو، یہ کلام ہے ایک مہربان رب کی طرف سے۔",
+              "French": "Paix!' telle sera la parole d'un Seigneur Très Miséricordieux.",
+              "Spanish": "'¡Paz!' Será la palabra de un Señor Misericordioso.",
+              "Hindi": "(उनसे कहा जाएगा) सलामती हो, यह कलाम है एक मेहरबान रब की तरफ़ से।"
+            }
+          },
+          {
+            "no": 59,
+            "arabic": "وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ",
+            "transliteration": "But step aside today, you criminals.",
+            "translations": {
+              "English": "But step aside today, you criminals.",
+              "Urdu": "اور (کہا جائے گا) اے مجرمو! آج تم الگ ہو جاؤ۔",
+              "French": "Et on dira: 'Ô vous, les criminels! Mettez-vous à part aujourd'hui.",
+              "Spanish": "Y se dirá: '¡Oh, criminales! Apartaos hoy.",
+              "Hindi": "और (कहा जाएगा) ऐ मुजरिमो! आज तुम अलग हो जाओ।"
+            }
+          },
+          {
+            "no": 60,
+            "arabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا الشَّيْطَانَ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+            "transliteration": "Did I not covenant with you, O Children of Adam, that you shall not serve the devil? That he is your sworn enemy?",
+            "translations": {
+              "English": "Did I not covenant with you, O Children of Adam, that you shall not serve the devil? That he is your sworn enemy?",
+              "Urdu": "اے اولاد آدم! کیا میں نے تم سے عہد نہیں لیا تھا کہ تم شیطان کی عبادت نہ کرنا، بے شک وہ تمہارا کھلا دشمن ہے۔",
+              "French": "Ne vous avais-Je pas engagés, ô enfants d'Adam, à ne pas adorer le Diable? Car il est vraiment pour vous un ennemi déclaré.",
+              "Spanish": "¿Acaso no os hice un pacto, oh hijos de Adán, de que no adoraseis al demonio? En verdad, él es para vosotros un enemigo declarado.",
+              "Hindi": "ऐ औलाद-ए-आदम! क्या मैंने तुमसे अहद नहीं लिया था कि तुम शैतान की इबादत न करना, बेशक वह तुम्हारा खुला दुश्मन है।"
+            }
+          },
+
+
+    
+              {
+                "no": 61,
+                "arabic": "وَأَنِ اعْبُدُونِي هَذَا صِرَاطٌ مُسْتَقِيمٌ",
+                "translations": {
+                  "English": "And that you shall serve Me? This is a straight path.",
+                  "French": "Et que vous M'adoriez? Voilà un chemin droit.",
+                  "Urdu": "اور یہ کہ تم صرف میری عبادت کرو، یہی سیدھا راستہ ہے۔",
+                  "Spanish": "¿Y que Me adoréis? Este es un camino recto.",
+                  "Hindi": "और यह कि तुम केवल मेरी इबादत करो, यही सीधा मार्ग है।"
+                }
+              },
+              {
+                "no": 62,
+                "arabic": "وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا أَفَلَمْ تَكُونُوا تَعْقِلُونَ",
+                "translations": {
+                  "English": "He has misled a great multitude of you. Did you not understand?",
+                  "French": "Il a certes égaré un grand nombre d'entre vous. Ne raisonniez-vous donc pas?",
+                  "Urdu": "اور اس نے تم میں سے بہت سے گروہوں کو گمراہ کر دیا، کیا تم عقل نہیں رکھتے تھے?",
+                  "Spanish": "Ciertamente, ha extraviado a muchos de vosotros. ¿Es que no razonabais?",
+                  "Hindi": "और उसने तुममें से बहुत-से समूहों को गुमराह कर दिया, क्या तुम समझ नहीं रखते थे?"
+                }
+              },
+              {
+                "no": 63,
+                "arabic": "هَذِهِ جَهَنَّمُ الَّتِي كُنْتُمْ تُوعَدُونَ",
+                "translations": {
+                  "English": "This is Hellfire, which you were promised.",
+                  "French": "Voici l'Enfer qui vous était promis.",
+                  "Urdu": "یہی جہنم ہے جس کا تم سے وعدہ کیا جاتا تھا۔",
+                  "Spanish": "Este es el Infierno que se os había prometido.",
+                  "Hindi": "यही जहन्नम है जिसका तुमसे वादा किया जाता था।"
+                }
+              },
+              {
+                "no": 64,
+                "arabic": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+                "translations": {
+                  "English": "Roast in it today, because you persistently disbelieved.",
+                  "French": "Brûlez-y aujourd'hui, pour avoir mécru.",
+                  "Urdu": "آج اس میں داخل ہو جاؤ اس وجہ سے کہ تم کفر کرتے تھے।",
+                  "Spanish": "Quemad en él hoy por haber negado la verdad.",
+                  "Hindi": "आज इसमें प्रवेश करो, क्योंकि तुम कुफ्र करते थे।"
+                }
+              },
+              {
+                "no": 65,
+                "arabic": "الْيَوْمَ نَخْتِمُ عَلَى أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+                "translations": {
+                  "English": "On this Day, We will seal their mouths, and their hands will speak to Us, and their feet will testify to everything they had done.",
+                  "French": "Aujourd'hui, Nous scellerons leurs bouches, tandis que leurs mains Nous parleront et que leurs pieds témoigneront de ce qu'ils avaient l'habitude d'acquérir.",
+                  "Urdu": "آج ہم ان کے منہ پر مہر لگا دیں گے اور ان کے ہاتھ ہم سے بات کریں گے اور ان کے پاؤں گواہی دیں گے اس بات کی جو وہ کرتے تھے।",
+                  "Spanish": "Hoy sellaremos sus bocas, pero sus manos nos hablarán y sus pies atestiguarán lo que solían hacer.",
+                  "Hindi": "आज हम उनके मुँह पर मुहर लगा देंगे और उनके हाथ हमसे बात करेंगे और उनके पैर गवाही देंगे उस बात की जो वे करते थे।"
+                }
+              },
+              {
+                "no": 66,
+                "arabic": "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَى أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّى يُبْصِرُونَ",
+                "translations": {
+                  "English": "If We will, We can blind their eyes as they rush towards the path—but how will they see?",
+                  "French": "Si Nous voulions, Nous aurions effacé leurs yeux; et ils se précipiteraient sur le chemin. Mais comment verraient-ils?",
+                  "Urdu": "اور اگر ہم چاہیں تو ان کی آنکھیں مٹا دیں جبکہ وہ راستے کی طرف دوڑ رہے ہوں، پھر وہ کیسے دیکھیں گے?",
+                  "Spanish": "Si quisiéramos, les cegaríamos los ojos y se precipitarían hacia el camino, pero ¿cómo verían?",
+                  "Hindi": "और यदि हम चाहें तो उनकी आँखें मिटा दें जबकि वे रास्ते की ओर दौड़ रहे हों, फिर वे कैसे देखेंगे?"
+                }
+              },
+              {
+                "no": 67,
+                "arabic": "وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ",
+                "translations": {
+                  "English": "And if We will, We can cripple them in their place; so they can neither move forward, nor go back.",
+                  "French": "Et si Nous voulions, Nous les aurions transformés sur place; et ils ne pourraient ni avancer ni reculer.",
+                  "Urdu": "اور اگر ہم چاہیں تو انہیں ان ہی کی جگہ پر مسخ کر دیں تو نہ آگے بڑھ سکیں اور نہ پیچھے لوٹ سکیں۔",
+                  "Spanish": "Y si quisiéramos, les transformaríamos en su lugar, y no podrían avanzar ni retroceder.",
+                  "Hindi": "और यदि हम चाहें तो उन्हें उन्हीं के स्थान पर रूपांतरित कर दें तो न आगे बढ़ सकें और न पीछे लौट सकें।"
+                }
+              },
+              {
+                "no": 68,
+                "arabic": "وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ",
+                "translations": {
+                  "English": "Whomever We grant old age, We reverse his development. Do they not understand?",
+                  "French": "Celui à qui Nous accordons une longue vie, Nous inversons son développement. Ne comprennent-ils donc pas?",
+                  "Urdu": "اور جس کو ہم لمبی عمر دیتے ہیں، ہم اس کی ساخت کو الٹ دیتے ہیں، کیا یہ لوگ عقل نہیں رکھتے?",
+                  "Spanish": "A quien concedemos una larga vida, le hacemos retroceder en su desarrollo. ¿Es que no razonan?",
+                  "Hindi": "और जिसे हम दीर्घायु प्रदान करते हैं, हम उसकी रचना को उलट देते हैं, क्या ये लोग समझ नहीं रखते?"
+                }
+              },
+              {
+                "no": 69,
+                "arabic": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُبِينٌ",
+                "translations": {
+                  "English": "We did not teach him poetry, nor is it proper for him. It is only a reminder, and a Clear Quran.",
+                  "French": "Nous ne lui avons pas enseigné la poésie, et cela ne lui convient pas. Ceci n'est qu'un rappel et une Lecture claire.",
+                  "Urdu": "اور ہم نے اس (پیغمبر) کو شعر نہیں سکھایا اور نہ یہ اس کے لائق ہے، یہ تو صرف نصیحت اور روشن قرآن ہے۔",
+                  "Spanish": "No le hemos enseñado poesía, ni le conviene. Esto no es sino una amonestación y un Corán claro.",
+                  "Hindi": "और हमने उसे (पैग़म्बर को) कविता नहीं सिखाई और न यह उसके योग्य है, यह तो केवल एक सीख और स्पष्ट क़ुरआन है।"
+                }
+              },
+              {
+                "no": 70,
+                "arabic": "لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ",
+                "translations": {
+                  "English": "That he may warn whoever is alive, and prove the Word against the faithless.",
+                  "French": "pour qu'il avertisse quiconque est vivant, et que la Parole se réalise contre les mécréants.",
+                  "Urdu": "تاکہ وہ ہر زندہ کو ڈر سنائے اور کافروں پر بات ثابت ہو جائے۔",
+                  "Spanish": "Para que advierta a quien esté vivo y se cumpla la sentencia contra los incrédulos.",
+                  "Hindi": "ताकि वह हर जीवित को डर सुनाए और काफ़िरों पर बात सिद्ध हो जाए।"
+                }
+              },
+              {
+                "no": 71,
+                "arabic": "أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُمْ مِمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ",
+                "translations": {
+                  "English": "Have they not seen that We created for them, of Our Handiwork, livestock that they own?",
+                  "French": "Ne voient-ils pas que, parmi ce que Nos mains ont fabriqué, Nous avons créé pour eux des bestiaux dont ils sont propriétaires?",
+                  "Urdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان کے لیے اپنے ہاتھوں کی بنائی ہوئی چوپایوں کو پیدا کیا اور وہ ان کے مالک ہیں?",
+                  "Spanish": "¿No ven que hemos creado para ellos, de lo que han hecho Nuestras manos, rebaños de los que son dueños?",
+                  "Hindi": "क्या उन्होंने नहीं देखा कि हमने उनके लिए अपने हाथों की बनाई हुई चौपायों को पैदा किया और वे उनके मालिक हैं?"
+                }
+              },
+              {
+                "no": 72,
+                "arabic": "وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+                "translations": {
+                  "English": "And We subdued them for them. Some they ride, and some they eat.",
+                  "French": "Nous les leur avons soumis: certains leur servent de monture et d'autres de nourriture.",
+                  "Urdu": "اور ہم نے انہیں ان کے لیے مسخر کر دیا، ان میں سے بعض پر وہ سوار ہوتے ہیں اور بعض کو کھاتے ہیں۔",
+                  "Spanish": "Y se los hemos sometido: algunos les sirven de montura y otros de alimento.",
+                  "Hindi": "और हमने उन्हें उनके लिए वशीभूत कर दिया, उनमें से कुछ पर वे सवारी करते हैं और कुछ को खाते हैं।"
+                }
+              },
+              {
+                "no": 73,
+                "arabic": "وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ أَفَلَا يَشْكُرُونَ",
+                "translations": {
+                  "English": "And they have in them other benefits, and drinks. Will they not give thanks?",
+                  "French": "Et pour eux, il y a en eux d'autres utilités et des boissons. Ne seront-ils donc pas reconnaissants?",
+                  "Urdu": "اور ان کے لیے ان میں اور بھی فائدے ہیں اور مشروبات، کیا یہ لوگ شکر ادا نہیں کریں گے?",
+                  "Spanish": "Y tienen en ellos otros beneficios y bebidas. ¿No van a agradecer?",
+                  "Hindi": "और उनके लिए उनमें और भी लाभ हैं और पेय, क्या ये लोग कृतज्ञता नहीं दिखाएँगे?"
+                }
+              },
+              {
+                "no": 74,
+                "arabic": "وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنْصَرُونَ",
+                "translations": {
+                  "English": "Yet they have taken to themselves gods other than God, that perhaps they may be helped.",
+                  "French": "Ils ont adopté en dehors d'Allah des divinités, peut-être seront-ils secourus!",
+                  "Urdu": "اور انہوں نے اللہ کے سوا اور معبود بنا لیے ہیں، شاید کہ وہ ان کی مدد کریں۔",
+                  "Spanish": "Y han tomado dioses en lugar de Allah, quizás así sean auxiliados.",
+                  "Hindi": "और उन्होंने अल्लाह के सिवा दूसरे माबूद बना लिए हैं, शायद कि वे उनकी मदद करें।"
+                }
+              },
+              {
+                "no": 75,
+                "arabic": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُنْدٌ مُحْضَرُونَ",
+                "translations": {
+                  "English": "They cannot help them, although they are arrayed as troops for them.",
+                  "French": "Ils ne pourront pas les secourir, alors qu'eux-mêmes seront pour eux des troupes rassemblées.",
+                  "Urdu": "وہ ان کی مدد نہیں کر سکتے، حالانکہ وہ ان کے لیے حاضر کیے گئے لشکر ہیں۔",
+                  "Spanish": "No pueden auxiliarles, aunque ellos son un ejército movilizado para ellos.",
+                  "Hindi": "वे उनकी मदद नहीं कर सकते, हालाँकि वे उनके लिए तैयार किए गए सेना हैं।"
+                }
+              },
+              {
+                "no": 76,
+                "arabic": "فَلَا يَحْزُنْكَ قَوْلُهُمْ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+                "translations": {
+                  "English": "So let their words not sadden you. We know what they conceal, and what they reveal.",
+                  "French": "Que leurs paroles ne t'affligent donc pas. Nous savons ce qu'ils cachent et ce qu'ils divulguent.",
+                  "Urdu": "پس ان کی باتوں سے تمہیں رنج نہ ہو، بے شک ہم جانتے ہیں جو وہ چھپاتے ہیں اور جو ظاہر کرتے ہیں۔",
+                  "Spanish": "Que no te entristezcan sus palabras. En verdad, sabemos lo que ocultan y lo que manifiestan.",
+                  "Hindi": "अतः उनकी बातों से तुम्हें दुःख न हो, निस्संदेह हम जानते हैं जो वे छिपाते हैं और जो प्रकट करते हैं।"
+                }
+              },
+              {
+                "no": 77,
+                "arabic": "أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+                "translations": {
+                  "English": "Does the human being not consider that We created him from a seed? Yet he becomes a fierce adversary.",
+                  "French": "L'homme n'a-t-il pas vu que Nous l'avons créé d'une goutte de sperme? Et le voilà [devenu] un adversaire déclaré!",
+                  "Urdu": "کیا انسان نے نہیں دیکھا کہ ہم نے اسے نطفے سے پیدا کیا، پھر وہ کھلا دشمن بن کر کھڑا ہو گیا۔",
+                  "Spanish": "¿No ve el hombre que lo hemos creado de una gota de esperma? ¡Y he aquí que es un contradictor declarado!",
+                  "Hindi": "क्या मनुष्य ने नहीं देखा कि हमने उसे वीर्य की बूँद से पैदा किया, फिर वह खुला विरोधी बनकर खड़ा हो गया।"
+                }
+              },
+              {
+                "no": 78,
+                "arabic": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ",
+                "translations": {
+                  "English": "And he produces arguments against Us, and he forgets his own creation. He says, 'Who will revive the bones when they have decayed?'",
+                  "French": "Il cite pour Nous un exemple, tandis qu'il oublie sa propre création; il dit: 'Qui va redonner la vie à des ossements une fois réduits en poussière?'",
+                  "Urdu": "اور وہ ہمارے بارے میں مثالیں بیان کرتا ہے اور اپنی پیدائش بھول جاتا ہے، کہتا ہے کہ 'کون ہڈیوں کو زندہ کرے گا جبکہ وہ بوسیدہ ہو چکی ہوں?'",
+                  "Spanish": "Y nos pone ejemplos, olvidando su propia creación. Dice: '¿Quién dará vida a los huesos cuando estén podridos?'",
+                  "Hindi": "और वह हमारे बारे में उदाहरण देता है और अपनी उत्पत्ति भूल जाता है, कहता है कि 'कौन हड्डियों को जिलाएगा जबकि वे सड़-गल चुकी हों?'"
+                }
+              },
+              {
+                "no": 79,
+                "arabic": "قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+                "translations": {
+                  "English": "Say, 'He who initiated them in the first instance will revive them. He has knowledge of every creation.'",
+                  "French": "Dis: 'Celui qui les a créés une première fois leur redonnera la vie. Il Se connaît parfaitement à toute création.'",
+                  "Urdu": "کہہ دو کہ 'انہیں وہی زندہ کرے گا جس نے انہیں پہلی بار پیدا کیا، اور وہ ہر مخلوق کو خوب جاننے والا ہے۔'",
+                  "Spanish": "Di: 'Les dará vida Quien los creó la primera vez, y Él conoce perfectamente toda la creación.'",
+                  "Hindi": "कह दो कि 'उन्हें वही जिलाएगा जिसने उन्हें पहली बार पैदा किया, और वह हर मख़्लूक़ को अच्छी तरह जानने वाला है।'"
+                }
+              },
+              {
+                "no": 80,
+                "arabic": "الَّذِي جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ",
+                "translations": {
+                  "English": "He who produced fuel for you from the green trees, with which you kindle a fire.",
+                  "French": "Celui qui vous a produit du feu vert des arbres, et voilà que vous allumez de cela.",
+                  "Urdu": "وہی جس نے تمہارے لیے ہرے بھرے درخت سے آگ پیدا کی، پھر تم اس سے آگ روشن کرتے ہو۔",
+                  "Spanish": "Él es Quien os ha dado fuego del árbol verde, con el que encendéis.",
+                  "Hindi": "वही जिसने तुम्हारे लिए हरे-भरे पेड़ से आग पैदा की, फिर तुम उससे आग जलाते हो।"
+                }
+              },
+              {
+                "no": 81,
+                "arabic": "أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَى أَنْ يَخْلُقَ مِثْلَهُمْ بَلَى وَهُوَ الْخَلَّاقُ الْعَلِيمُ",
+                "translations": {
+                  "English": "Is not He who created the heavens and the earth able to create the like of them? Certainly. He is the Supreme All-Knowing Creator.",
+                  "French": "Celui qui a créé les cieux et la terre ne sera-t-Il pas capable de créer leur pareil? Oh que si! Et Il est le grand Créateur, l'Omniscient.",
+                  "Urdu": "کیا وہ جس نے آسمانوں اور زمین کو پیدا کیا، ان جیسوں کو پیدا کرنے پر قادر نہیں؟ کیوں نہیں، اور وہی بڑا پیدا کرنے والا، سب کچھ جاننے والا ہے۔",
+                  "Spanish": "¿Acaso Quien creó los cielos y la tierra no es capaz de crear otros como ellos? ¡Claro que sí! Él es el Creador, el Omnisciente.",
+                  "Hindi": "क्या वह जिसने आकाशों और धरती को पैदा किया, उन जैसों को पैदा करने पर क़ादिर नहीं? क्यों नहीं, और वही बड़ा पैदा करने वाला, सब कुछ जानने वाला है।"
+                }
+              },
+              {
+                "no": 82,
+                "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+                "translations": {
+                  "English": "His command, when He wills a thing, is to say to it, 'Be,' and it comes to be.",
+                  "French": "Quand Il veut une chose, Son commandement consiste à dire: 'Sois', et c'est.",
+                  "Urdu": "اس کا کام تو یہ ہے کہ جب وہ کسی چیز کا ارادہ کرتا ہے تو اسے صرف یہ کہہ دیتا ہے کہ 'ہو جا'، تو وہ ہو جاتی ہے۔",
+                  "Spanish": "Su orden, cuando quiere algo, es decirle: '¡Sé!', y es.",
+                  "Hindi": "उसका काम तो यह है कि जब वह किसी चीज़ का इरादा करता है तो उसे केवल यह कह देता है कि 'हो जा,' तो वह हो जाती है।"
+                }
+              },
+              {
+                "no": 83,
+                "arabic": "فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+                "translations": {
+                  "English": "So glory be to Him in whose hand is the dominion of everything, and to Him you will be returned.",
+                  "French": "Gloire donc à Celui qui détient en Sa main la royauté de toute chose, et vers Lui vous serez ramenés!",
+                  "Urdu": "پس پاک ہے وہ ذات جس کے ہاتھ میں ہر چیز کی بادشاہی ہے اور اسی کی طرف تم لوٹائے جاؤ گے۔",
+                  "Spanish": "¡Gloria a Aquel en cuya mano está el dominio de todas las cosas y a Quien seréis devueltos!",
+                  "Hindi": "फिर पवित्र है वह जिसके हाथ में हर चीज़ की बादशाही है और उसी की ओर तुम लौटाए जाओगे।"
+                }
+              }
+         
+      
+    ]
+  }

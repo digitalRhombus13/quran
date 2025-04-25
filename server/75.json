@@ -1,0 +1,486 @@
+{
+    "no": 75,
+    "name": "Al-Qiyamah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+        "transliteration": "Lā uqsimu bi-yawmi l-qiyāmah",
+        "translations": {
+          "English": "I swear by the Day of Resurrection.",
+          "Urdu": "میں قیامت کے دن کی قسم کھاتا ہوں۔",
+          "French": "Non! Je jure par le Jour de la Résurrection.",
+          "Spanish": "¡No! Juro por el Día de la Resurrección.",
+          "Hindi": "मैं क़यामत के दिन की क़सम खाता हूँ।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+        "transliteration": "Wa lā uqsimu bi-n-nafsi l-lawwāmah",
+        "translations": {
+          "English": "And I swear by the blaming soul.",
+          "Urdu": "اور ملامت کرنے والی جان کی قسم۔",
+          "French": "Et par l’âme qui ne cesse de se blâmer.",
+          "Spanish": "Y por el alma que constantemente se reprocha.",
+          "Hindi": "और लानत भेजने वाली रूह की क़सम।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ",
+        "transliteration": "A yaḥsabu l-insānu allan najmaʿa ʿiẓāmah",
+        "translations": {
+          "English": "Does man think that We will not reassemble his bones?",
+          "Urdu": "کیا انسان یہ سمجھتا ہے کہ ہم اس کی ہڈیاں جمع نہیں کریں گے؟",
+          "French": "L’homme pense-t-il que Nous ne réunirons pas ses os?",
+          "Spanish": "¿Acaso piensa el hombre que no reuniremos sus huesos?",
+          "Hindi": "क्या इंसान समझता है कि हम उसकी हड्डियाँ इकट्ठी नहीं करेंगे?"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "بَلَى قَادِرِينَ عَلَى أَنْ نُسَوِّيَ بَنَانَهُ",
+        "transliteration": "Balā qādirīna ʿalā an nusawwiya banānah",
+        "translations": {
+          "English": "Yes indeed; We are Able to reconstruct his fingertips.",
+          "Urdu": "کیوں نہیں، ہم اس کی انگلیوں کے پوروں کو درست کرنے پر قادر ہیں۔",
+          "French": "Mais si! Nous sommes Capable de remettre à leur place les extrémités de ses doigts.",
+          "Spanish": "¡Sí! Somos Capaces de recomponer hasta las yemas de sus dedos.",
+          "Hindi": "क्यों नहीं, हम उसकी उँगलियों के पोरों को ठीक करने में सक्षम हैं।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+        "transliteration": "Bal yurīdu l-insānu li-yafjura amāmah",
+        "translations": {
+          "English": "But man wants to deny what is ahead of him.",
+          "Urdu": "بلکہ انسان چاہتا ہے کہ آگے بھی گناہ کرتا رہے۔",
+          "French": "Mais l’homme voudrait continuer à commettre des péchés.",
+          "Spanish": "Pero el hombre quiere persistir en su pecado.",
+          "Hindi": "बल्कि इंसान चाहता है कि आगे भी गुनाह करता रहे।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+        "transliteration": "Yas'alu ayyāna yawmu l-qiyāmah",
+        "translations": {
+          "English": "He asks, 'When is the Day of Resurrection?'",
+          "Urdu": "وہ پوچھتا ہے: 'قیامت کا دن کب ہوگا؟'",
+          "French": "Il demande: «Quand arrivera le Jour de la Résurrection?»",
+          "Spanish": "Pregunta: '¿Cuándo será el Día de la Resurrección?'",
+          "Hindi": "वह पूछता है: 'क़यामत का दिन कब होगा?'"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "فَإِذَا بَرِقَ الْبَصَرُ",
+        "transliteration": "Fa-idhā bariqa l-baṣar",
+        "translations": {
+          "English": "When vision is dazzled.",
+          "Urdu": "جب نظر خیرہ ہو جائے گی۔",
+          "French": "Quand les regards seront éblouis,",
+          "Spanish": "Cuando las miradas se deslumbren,",
+          "Hindi": "जब नज़र चकाचौंध हो जाएगी।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَخَسَفَ الْقَمَرُ",
+        "transliteration": "Wa khasafa l-qamar",
+        "translations": {
+          "English": "And the moon is eclipsed.",
+          "Urdu": "اور چاند گرہن لگ جائے گا۔",
+          "French": "Et que la lune s’éclipsera,",
+          "Spanish": "Y la luna se eclipse,",
+          "Hindi": "और चंद्रमा ग्रहण लग जाएगा।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+        "transliteration": "Wa jumiʿa sh-shamsu wa l-qamar",
+        "translations": {
+          "English": "And the sun and moon are joined together.",
+          "Urdu": "اور سورج اور چاند جمع کر دیے جائیں گے۔",
+          "French": "Et que le soleil et la lune seront réunis,",
+          "Spanish": "Y el sol y la luna se junten,",
+          "Hindi": "और सूरज और चाँद को जोड़ दिया जाएगा।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+        "transliteration": "Yaqūlu l-insānu yawma'idhin ayna l-mafar",
+        "translations": {
+          "English": "On that Day, man will say, 'Where is the escape?'",
+          "Urdu": "اس دن انسان کہے گا: 'بھاگنے کی جگہ کہاں ہے؟'",
+          "French": "L’homme dira ce jour-là: «Où fuir?»",
+          "Spanish": "Ese día el hombre dirá: '¿Dónde está la salida?'",
+          "Hindi": "उस दिन इंसान कहेगा: 'भागने की जगह कहाँ है?'"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "كَلَّا لَا وَزَرَ",
+        "transliteration": "Kallā lā wazar",
+        "translations": {
+          "English": "No indeed! There is no refuge.",
+          "Urdu": "ہرگز نہیں، کوئی پناہ گاہ نہیں۔",
+          "French": "Mais non! Point de refuge!",
+          "Spanish": "¡No! ¡No hay refugio!",
+          "Hindi": "हर्गिज़ नहीं, कोई पनाहगाह नहीं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+        "transliteration": "Ilā rabbika yawma'idhin al-mustaqarr",
+        "translations": {
+          "English": "To your Lord on that Day is the settlement.",
+          "Urdu": "اس دن تیرے رب ہی کی طرف ٹھکانا ہے۔",
+          "French": "Ce jour-là, le refuge sera vers ton Seigneur.",
+          "Spanish": "Ese día, el retorno será hacia tu Señor.",
+          "Hindi": "उस दिन तेरे रब ही की तरफ ठिकाना है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+        "transliteration": "Yunabba'u l-insānu yawma'idhin bimā qaddama wa akhkhar",
+        "translations": {
+          "English": "On that Day man will be informed of everything he put forward, and everything he left behind.",
+          "Urdu": "اس دن انسان کو جو کچھ اس نے آگے بھیجا اور پیچھے چھوڑا سب بتا دیا جائے گا۔",
+          "French": "L’homme sera informé ce jour-là de ce qu’il aura avancé et de ce qu’il aura remis à plus tard.",
+          "Spanish": "Ese día el hombre será informado de lo que hizo y lo que dejó.",
+          "Hindi": "उस दिन इंसान को जो कुछ उसने आगे भेजा और पीछे छोड़ा सब बता दिया जाएगा।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ",
+        "transliteration": "Bali l-insānu ʿalā nafsihi baṣīrah",
+        "translations": {
+          "English": "And man will be evidence against himself.",
+          "Urdu": "بلکہ انسان خود اپنے اوپر گواہ ہوگا۔",
+          "French": "Bien plus, l’homme sera un témoin clairvoyant contre lui-même,",
+          "Spanish": "Más aún, el hombre será un testimonio contra sí mismo,",
+          "Hindi": "बल्कि इंसान ख़ुद अपने ऊपर गवाह होगा।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "وَلَوْ أَلْقَى مَعَاذِيرَهُ",
+        "transliteration": "Wa law alqā maʿādhirah",
+        "translations": {
+          "English": "Even as he presents his excuses.",
+          "Urdu": "اگرچہ وہ اپنے بہانے پیش کرے۔",
+          "French": "Même s’il présente ses excuses.",
+          "Spanish": "Aunque presente sus excusas.",
+          "Hindi": "हालाँकि वह अपने बहाने पेश करे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+        "transliteration": "Lā tuḥarrik bihi lisānaka li-taʿjala bih",
+        "translations": {
+          "English": "Do not wag your tongue with it, to hurry on with it.",
+          "Urdu": "آپ اسے جلدی یاد کرنے کے لیے اپنی زبان کو حرکت نہ دیں۔",
+          "French": "Ne remue pas ta langue pour hâter sa récitation.",
+          "Spanish": "No muevas tu lengua para apresurar su recitación.",
+          "Hindi": "आप इसे जल्दी याद करने के लिए अपनी ज़बान को हिलाएँ नहीं।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+        "transliteration": "Inna ʿalaynā jamʿahu wa qur'ānah",
+        "translations": {
+          "English": "Upon Us is its collection and its recitation.",
+          "Urdu": "بے شک اسے جمع کرنا اور پڑھوانا ہمارے ذمہ ہے۔",
+          "French": "Il Nous appartient de le rassembler et de le réciter.",
+          "Spanish": "Ciertamente, Nosotros lo reuniremos y lo haremos recitar.",
+          "Hindi": "बेशक इसे इकट्ठा करना और पढ़वाना हमारे ज़िम्मे है।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+        "transliteration": "Fa-idhā qara'nāhu fattabiʿ qur'ānah",
+        "translations": {
+          "English": "Then, when We have recited it, follow its recitation.",
+          "Urdu": "پھر جب ہم اسے پڑھ چکیں تو آپ اس کی تلاوت کی پیروی کریں۔",
+          "French": "Quand donc Nous le récitons, suis sa récitation.",
+          "Spanish": "Cuando lo hayamos recitado, sigue su recitación.",
+          "Hindi": "फिर जब हम इसे पढ़ चुकें तो आप इसकी तिलावत की पैरवी करें।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+        "transliteration": "Thumma inna ʿalaynā bayānah",
+        "translations": {
+          "English": "Then upon Us is its explanation.",
+          "Urdu": "پھر اس کی وضاحت کرنا ہمارے ذمہ ہے۔",
+          "French": "Ensuite, il Nous appartiendra de l’expliquer.",
+          "Spanish": "Luego, Nosotros nos encargaremos de explicarlo.",
+          "Hindi": "फिर इसकी व्याख्या करना हमारे ज़िम्मे है।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+        "transliteration": "Kallā bal tuḥibbūna l-ʿājilah",
+        "translations": {
+          "English": "Alas, you love the fleeting life.",
+          "Urdu": "ہرگز نہیں، بلکہ تم فانی دنیا کو چاہتے ہو۔",
+          "French": "Mais vous préférez plutôt la vie présente,",
+          "Spanish": "¡No! Preferís la vida mundanal",
+          "Hindi": "हर्गिज़ नहीं, बल्कि तुम नश्वर दुनिया को चाहते हो।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "وَتَذَرُونَ الْآخِرَةَ",
+        "transliteration": "Wa tadharūna l-ākhirah",
+        "translations": {
+          "English": "And you disregard the Hereafter.",
+          "Urdu": "اور آخرت کو چھوڑ دیتے ہو।",
+          "French": "Tandis que vous délaissez l’au-delà.",
+          "Spanish": "Y descuidáis la otra vida.",
+          "Hindi": "और आख़िरत को छोड़ देते हो।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ",
+        "transliteration": "Wujūhun yawma'idhin nāḍirah",
+        "translations": {
+          "English": "Faces on that Day will be radiant.",
+          "Urdu": "کچھ چہرے اس دن تروتازہ ہوں گے۔",
+          "French": "Ce jour-là, il y aura des visages resplendissants,",
+          "Spanish": "Ese día habrá rostros radiantes,",
+          "Hindi": "कुछ चेहरे उस दिन तरोताज़ा होंगे।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "إِلَى رَبِّهَا نَاظِرَةٌ",
+        "transliteration": "Ilā rabbihā nāẓirah",
+        "translations": {
+          "English": "Looking towards their Lord.",
+          "Urdu": "اپنے رب کی طرف دیکھ رہے ہوں گے۔",
+          "French": "Tournés vers leur Seigneur.",
+          "Spanish": "Contemplando a su Señor.",
+          "Hindi": "अपने रब की तरफ देख रहे होंगे।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+        "transliteration": "Wa wujūhun yawma'idhin bāsirah",
+        "translations": {
+          "English": "And faces on that Day will be gloomy.",
+          "Urdu": "اور کچھ چہرے اس دن افسردہ ہوں گے۔",
+          "French": "Et il y aura des visages assombris,",
+          "Spanish": "Y habrá rostros ensombrecidos,",
+          "Hindi": "और कुछ चेहरे उस दिन उदास होंगे।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+        "transliteration": "Taẓunnu an yufʿala bihā fāqirah",
+        "translations": {
+          "English": "Realizing that a back-breaker has befallen them.",
+          "Urdu": "سمجھ رہے ہوں گے کہ ان پر کوئی مصیبت آنے والی ہے۔",
+          "French": "Craignant qu’un malheur ne s’abatte sur eux.",
+          "Spanish": "Temiendo que les sobrevenga una calamidad.",
+          "Hindi": "समझ रहे होंगे कि उन पर कोई मुसीबत आने वाली है।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+        "transliteration": "Kallā idhā balaghati t-tarāqī",
+        "translations": {
+          "English": "Indeed, when it has reached the breast-bones.",
+          "Urdu": "ہرگز نہیں، جب جان حلق تک پہنچ جائے گی۔",
+          "French": "Mais non! Quand [l’âme] remontera aux clavicules,",
+          "Spanish": "¡No! Cuando [el alma] llegue a las clavículas,",
+          "Hindi": "हर्गिज़ नहीं, जब जान हँसली तक पहुँच जाएगी।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "وَقِيلَ مَنْ رَاقٍ",
+        "transliteration": "Wa qīla man rāq",
+        "translations": {
+          "English": "And it is said, 'Who is the healer?'",
+          "Urdu": "اور کہا جائے گا: 'کون ہے جھاڑ پھونک کرنے والا؟'",
+          "French": "Et qu’on dira: «Qui est exorciseur?»",
+          "Spanish": "Y se diga: '¿Quién puede curar?'",
+          "Hindi": "और कहा जाएगा: 'कौन है झाड़-फूँक करने वाला?'"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+        "transliteration": "Wa ẓanna annahu l-firāq",
+        "translations": {
+          "English": "And He realizes that it is the parting.",
+          "Urdu": "اور وہ جان لے گا کہ یہ جدائی کا وقت ہے۔",
+          "French": "Et qu’[le mourant] pensera que c’est la séparation,",
+          "Spanish": "Y [el moribundo] sepa que es la separación,",
+          "Hindi": "और वह जान लेगा कि यह जुदाई का वक़्त है।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+        "transliteration": "Wa l-taffati s-sāqu bi-s-sāq",
+        "translations": {
+          "English": "And leg is entwined with leg.",
+          "Urdu": "اور پنڈلی پنڈلی سے الجھ جائے گی۔",
+          "French": "Et que les jambes s’entremêleront,",
+          "Spanish": "Y las piernas se enreden,",
+          "Hindi": "और पिंडली पिंडली से उलझ जाएगी।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "إِلَى رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+        "transliteration": "Ilā rabbika yawma'idhin al-masāq",
+        "translations": {
+          "English": "To your Lord on that Day is the drive.",
+          "Urdu": "اس دن تیرے رب ہی کی طرف جانا ہے۔",
+          "French": "Ce jour-là, le retour se fera vers ton Seigneur.",
+          "Spanish": "Ese día, el destino será hacia tu Señor.",
+          "Hindi": "उस दिन तेरे रब ही की तरफ जाना है।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "فَلَا صَدَّقَ وَلَا صَلَّى",
+        "transliteration": "Fa-lā ṣaddaqa wa lā ṣallā",
+        "translations": {
+          "English": "He neither believed nor prayed.",
+          "Urdu": "اس نے نہ سچ مانا اور نہ نماز پڑھی۔",
+          "French": "Il n’a ni cru, ni prié,",
+          "Spanish": "No creyó ni oró,",
+          "Hindi": "उसने न सच माना और न नमाज़ पढ़ी।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "وَلَكِنْ كَذَّبَ وَتَوَلَّى",
+        "transliteration": "Wa lākin kadhdhaba wa tawallā",
+        "translations": {
+          "English": "But he denied and turned away.",
+          "Urdu": "بلکہ جھٹلایا اور منہ موڑ لیا۔",
+          "French": "Mais il a démenti et tourné le dos,",
+          "Spanish": "Sino que desmintió y se apartó,",
+          "Hindi": "बल्कि झुठलाया और मुँह मोड़ लिया।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "ثُمَّ ذَهَبَ إِلَى أَهْلِهِ يَتَمَطَّى",
+        "transliteration": "Thumma dhahaba ilā ahlihi yatamaṭṭā",
+        "translations": {
+          "English": "Then he went to his family, full of pride.",
+          "Urdu": "پھر اپنے گھر والوں کے پاس اکڑتا ہوا چلا گیا۔",
+          "French": "Puis il est parti vers les siens, se pavanant.",
+          "Spanish": "Luego fue hacia su familia, pavoneándose.",
+          "Hindi": "फिर अपने घर वालों के पास अकड़ता हुआ चला गया।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "أَوْلَى لَكَ فَأَوْلَى",
+        "transliteration": "Aulā laka fa-aulā",
+        "translations": {
+          "English": "Woe to you; and woe.",
+          "Urdu": "تیرے لیے تباہی ہے، اور پھر تباہی۔",
+          "French": "Malheur à toi! puis malheur à toi!",
+          "Spanish": "¡Ay de ti! ¡Y otra vez ay!",
+          "Hindi": "तेरे लिए विनाश है, और फिर विनाश।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "ثُمَّ أَوْلَى لَكَ فَأَوْلَى",
+        "transliteration": "Thumma aulā laka fa-aulā",
+        "translations": {
+          "English": "Then again: Woe to you; and woe.",
+          "Urdu": "پھر تیرے لیے تباہی ہے، اور پھر تباہی۔",
+          "French": "Encore malheur à toi! puis malheur à toi!",
+          "Spanish": "¡Y otra vez ay de ti! ¡Y otra vez ay!",
+          "Hindi": "फिर तेरे लिए विनाश है, और फिर विनाश।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+        "transliteration": "A yaḥsabu l-insānu an yutraka sudā",
+        "translations": {
+          "English": "Does man think that he will be left without purpose?",
+          "Urdu": "کیا انسان یہ سمجھتا ہے کہ اسے یوں ہی چھوڑ دیا جائے گا؟",
+          "French": "L’homme pense-t-il qu’on le laissera sans obligation à observer?",
+          "Spanish": "¿Acaso piensa el hombre que se le dejará sin propósito?",
+          "Hindi": "क्या इंसान यह समझता है कि उसे यूँ ही छोड़ दिया जाएगा?"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَى",
+        "transliteration": "A lam yaku nuṭfatan min maniyyin yumnā",
+        "translations": {
+          "English": "Was he not a drop of ejaculated semen?",
+          "Urdu": "کیا وہ ایک حقیر پانی کا قطرہ نہیں تھا جو ٹپکایا جاتا ہے؟",
+          "French": "N’était-il pas une goutte de sperme éjaculé?",
+          "Spanish": "¿No fue una gota de esperma eyaculada?",
+          "Hindi": "क्या वह एक तुच्छ पानी की बूँद नहीं था जो टपकाई जाती है?"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّى",
+        "transliteration": "Thumma kāna ʿalaqatan fa-khalaqa fa-sawwā",
+        "translations": {
+          "English": "Then he became a clot. And He created and proportioned?",
+          "Urdu": "پھر وہ لوتھڑا بنا، پھر اللہ نے اسے بنایا اور درست کیا۔",
+          "French": "Puis une adhérence; puis [Allah] l’a créée et formée harmonieusement;",
+          "Spanish": "Luego un coágulo, luego [Allah] lo creó y le dio forma armoniosa;",
+          "Hindi": "फिर वह लोथड़ा बना, फिर अल्लाह ने उसे बनाया और ठीक किया।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَى",
+        "transliteration": "Fa-jaʿala minhu az-zawjayni dh-dhakara wa l-unthā",
+        "translations": {
+          "English": "And made of him the two sexes, the male and the female?",
+          "Urdu": "پھر اس سے دو قسمیں بنائیں: نر اور مادہ؟",
+          "French": "Puis en a fait alors les deux éléments de couple: le mâle et la femelle?",
+          "Spanish": "Y de él hizo las dos parejas: varón y hembra?",
+          "Hindi": "फिर उससे दो क़िस्में बनाईं: नर और मादा?"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "أَلَيْسَ ذَلِكَ بِقَادِرٍ عَلَى أَنْ يُحْيِيَ الْمَوْتَى",
+        "transliteration": "A laysa dhālika bi-qādirin ʿalā an yuḥyiya l-mawtā",
+        "translations": {
+          "English": "Is He not Able to revive the dead?",
+          "Urdu": "کیا وہ اس پر قادر نہیں کہ مردوں کو زندہ کرے؟",
+          "French": "Celui-là n’est-Il pas capable de faire revivre les morts?",
+          "Spanish": "¿Acaso no es capaz de resucitar a los muertos?",
+          "Hindi": "क्या वह इस पर क़ादिर नहीं कि मुर्दों को जिलाए?"
+        }
+      }
+    ]
+  }

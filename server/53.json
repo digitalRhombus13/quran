@@ -1,0 +1,750 @@
+{
+    "no": 53,
+    "name": "An-Najm",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالنَّجْمِ إِذَا هَوَى",
+        "transliteration": "Wan-najmi idhā hawā",
+        "translations": {
+          "English": "By the star as it goes down.",
+          "Urdu": "قسم ہے ستارے کی جب وہ گرتا ہے۔",
+          "French": "Par l’étoile à son déclin!",
+          "Spanish": "¡Por la estrella cuando desaparece!",
+          "Hindi": "तारे की कसम जब वह डूबता है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى",
+        "transliteration": "Mā ḍalla ṣāḥibukum wa mā ghawā",
+        "translations": {
+          "English": "Your companion has not gone astray, nor has he erred.",
+          "Urdu": "تمہارا ساتھی نہ تو گمراہ ہوا ہے اور نہ ہی بہکا ہے۔",
+          "French": "Votre compagnon ne s’est pas égaré et n’a pas été induit en erreur.",
+          "Spanish": "Vuestro compañero no se ha extraviado ni se ha equivocado.",
+          "Hindi": "तुम्हारा साथी न तो भटका है और न ही भ्रम में पड़ा है।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَمَا يَنْطِقُ عَنِ الْهَوَى",
+        "transliteration": "Wa mā yanṭiqu ‘anil-hawā",
+        "translations": {
+          "English": "Nor does he speak out of desire.",
+          "Urdu": "اور نہ وہ اپنی خواہش سے بولتا ہے।",
+          "French": "Et il ne parle pas sous l’effet de la passion.",
+          "Spanish": "Ni habla por capricho.",
+          "Hindi": "वह अपनी इच्छा से नहीं बोलता।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى",
+        "transliteration": "In huwa illā waḥyun yūḥā",
+        "translations": {
+          "English": "It is but a revelation revealed.",
+          "Urdu": "یہ تو صرف وحی ہے جو نازل کی جاتی ہے۔",
+          "French": "Ce n’est rien d’autre qu’une révélation inspirée.",
+          "Spanish": "No es sino una revelación que se le ha hecho.",
+          "Hindi": "वह तो बस वही (इलहाम) है जो उतारा जाता है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "عَلَّمَهُ شَدِيدُ الْقُوَى",
+        "transliteration": "‘Allamahū shadīdul-quwā",
+        "translations": {
+          "English": "Taught to him by the Extremely Powerful.",
+          "Urdu": "اسے سکھایا ہے بڑی قوت والے نے۔",
+          "French": "Que lui a enseigné [l’Ange Gabriel] à la force puissante,",
+          "Spanish": "Se lo ha enseñado el de fuerza intensa,",
+          "Hindi": "उसे सिखाया है अत्यंत शक्तिशाली (फरिश्ते) ने।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "ذُو مِرَّةٍ فَاسْتَوَى",
+        "transliteration": "Dhū mirratin fastawā",
+        "translations": {
+          "English": "The one of vigor. He settled.",
+          "Urdu": "جو صاحبِ قوت ہے، پھر وہ سیدھا کھڑا ہوا۔",
+          "French": "Doué de sagacité; c’est alors qu’il se montra sous sa forme réelle,",
+          "Spanish": "Dotado de inteligencia, y se mostró en su forma verdadera,",
+          "Hindi": "जो बड़ी शक्ति वाला है, फिर वह सीधा खड़ा हुआ।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَهُوَ بِالْأُفُقِ الْأَعْلَى",
+        "transliteration": "Wa huwa bil-ufuqil-a‘lā",
+        "translations": {
+          "English": "While he was at the highest horizon.",
+          "Urdu": "اور وہ بلند ترین افق پر تھا۔",
+          "French": "Alors qu’il était à l’horizon supérieur.",
+          "Spanish": "Estando en el horizonte más elevado.",
+          "Hindi": "और वह सबसे ऊँचे क्षितिज पर था।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "ثُمَّ دَنَا فَتَدَلَّى",
+        "transliteration": "Thumma danā fa tadallā",
+        "translations": {
+          "English": "Then he came near, and hovered around.",
+          "Urdu": "پھر وہ قریب آیا اور झुक गया।",
+          "French": "Puis il se rapprocha et descendit encore plus bas,",
+          "Spanish": "Luego se acercó y suspendió su vuelo,",
+          "Hindi": "फिर वह निकट आया और झुक गया।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى",
+        "transliteration": "Fa kāna qāba qawsayni aw adnā",
+        "translations": {
+          "English": "He was within two bows’ length, or closer.",
+          "Urdu": "پھر वہ دو کمانوں کے فاصلے پر رہ گیا یا اس سے بھی کم۔",
+          "French": "Il était à deux portées d’arc, ou plus près encore.",
+          "Spanish": "Estaba a dos arcos de distancia o más cerca.",
+          "Hindi": "फिर वह दो धनुषों के बराबर या और निकट हो गया।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحَى",
+        "transliteration": "Fa awḥā ilā ‘abdihi mā awḥā",
+        "translations": {
+          "English": "Then He revealed to His servant what He revealed.",
+          "Urdu": "پھر اس نے اپنے بندے پر وحی نازل کی جو نازل کرنا تھی۔",
+          "French": "Et Il a révélé à Son serviteur ce qu’Il a révélé.",
+          "Spanish": "Y reveló a Su siervo lo que Él reveló.",
+          "Hindi": "फिर उसने अपने बन्दे को वही (इलहाम) किया जो करना था।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "مَا كَذَبَ الْفُؤَادُ مَا رَأَى",
+        "transliteration": "Mā kadhabal-fu’ādu mā ra’ā",
+        "translations": {
+          "English": "The heart did not lie about what it saw.",
+          "Urdu": "دل نے جو کچھ دیکھا، اسے جھٹلایا نہیں۔",
+          "French": "Le cœur n’a pas menti en ce qu’il a vu.",
+          "Spanish": "El corazón no mintió en lo que vio.",
+          "Hindi": "दिल ने जो कुछ देखा, उसे झुठलाया नहीं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "أَفَتُمَارُونَهُ عَلَى مَا يَرَى",
+        "transliteration": "Afa tumārūnahu ‘alā mā yarā",
+        "translations": {
+          "English": "Will you dispute with him concerning what he saw?",
+          "Urdu": "کیا تم اس سے اس چیز پر جھگڑتے ہو جو اس نے دیکھی؟",
+          "French": "Allez-vous donc le contredire sur ce qu’il a vu?",
+          "Spanish": "¿Discutiréis, pues, con él acerca de lo que vio?",
+          "Hindi": "क्या तुम उससे उस चीज़ पर बहस करते हो जो उसने देखी?"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى",
+        "transliteration": "Wa laqad ra’āhu nazlatan ukh’rā",
+        "translations": {
+          "English": "He saw him on another descent.",
+          "Urdu": "اور بلاشبہ اس نے اسے ایک اور مرتبہ دیکھا تھا۔",
+          "French": "Et certes, il l’a vu, lors d’une autre descente,",
+          "Spanish": "Y ya lo había visto en otro descenso,",
+          "Hindi": "और निश्चय ही उसने उसे दूसरी बार उतरते देखा था।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "عِنْدَ سِدْرَةِ الْمُنْتَهَى",
+        "transliteration": "‘Inda sid’ratil-muntahā",
+        "translations": {
+          "English": "At the Lotus Tree of the Extremity.",
+          "Urdu": "سدرۃ المنتہی کے پاس۔",
+          "French": "Près de la Sidrat-ul-Muntahā",
+          "Spanish": "Junto al azufaifo del límite,",
+          "Hindi": "सिद्रतुल मुन्तहा के पास।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "عِنْدَهَا جَنَّةُ الْمَأْوَى",
+        "transliteration": "‘Indahā jannatul-ma’wā",
+        "translations": {
+          "English": "Near which is the Garden of Repose.",
+          "Urdu": "جس کے پاس جنت المأوی ہے۔",
+          "French": "Près d’elle se trouve le Jardin de Ma’wā.",
+          "Spanish": "Cerca del cual está el Jardín de la Morada,",
+          "Hindi": "उसके पास जन्नतुल मअवा है।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى",
+        "transliteration": "Idh yagshas-sid’rata mā yagshā",
+        "translations": {
+          "English": "As there covered the Lotus Tree what covered it.",
+          "Urdu": "جب اس درخت کو چھپا لیا گیا جو چھپانے والا تھا۔",
+          "French": "Au moment où le lotus était couvert de ce qui le couvrait.",
+          "Spanish": "Cuando cubría el azufaifo lo que lo cubría.",
+          "Hindi": "जब उस बेर के पेड़ को ढक लिया गया जो ढकने वाला था।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "مَا زَاغَ الْبَصَرُ وَمَا طَغَى",
+        "transliteration": "Mā zāghal-baṣaru wa mā ṭaghā",
+        "translations": {
+          "English": "The sight did not waver, nor did it exceed.",
+          "Urdu": "نظر نہ تو بہکی اور نہ ہی حد سے گزری۔",
+          "French": "La vue n’a nullement dévié ni outrepassé la mesure.",
+          "Spanish": "La mirada no se desvió ni se extralimitó.",
+          "Hindi": "नज़र न तो भटकी और न ही सीमा से आगे बढ़ी।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى",
+        "transliteration": "Laqad ra’ā min āyāti rabbihil-kubrā",
+        "translations": {
+          "English": "He saw some of the Great Signs of his Lord.",
+          "Urdu": "اس نے اپنے رب کی بڑی بڑی نشانیاں دیکھ لیں۔",
+          "French": "Il a bien vu certaines des plus grands signes de son Seigneur.",
+          "Spanish": "Ciertamente, vio algunos de los mayores signos de su Señor.",
+          "Hindi": "उसने अपने रब की बड़ी-बड़ी निशानियों में से कुछ देख लीं।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى",
+        "transliteration": "Afa ra’aytumul-lāta wal-‘uzzā",
+        "translations": {
+          "English": "Have you considered al-Lat and al-Uzza?",
+          "Urdu": "کیا تم نے लात और उज़्ज़ा को देखا ہے؟",
+          "French": "Voyez-vous donc Al-Lāt et Al-‘Uzzā",
+          "Spanish": "¿Habéis visto a Al-Lat y a Al-‘Uzza,",
+          "Hindi": "क्या तुमने लात और उज़्ज़ा को देखा है?"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى",
+        "transliteration": "Wa manātath-thālithatal-ukhrā",
+        "translations": {
+          "English": "And Manat, the third one, the other?",
+          "Urdu": "اور تیسرے منات کو؟",
+          "French": "Ainsi que Manāt, cette troisième autre?",
+          "Spanish": "Y a Manat, la tercera, la otra?",
+          "Hindi": "और तीसरी मनात को?"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَى",
+        "transliteration": "A lakumudh-dhakaru wa lahul-unthā",
+        "translations": {
+          "English": "Are you to have the males, and He the females?",
+          "Urdu": "کیا تمہارے لیے تو نر ہوں اور اللہ کے لیے مادائیں؟",
+          "French": "Auriez-vous les mâles et Lui les femelles?",
+          "Spanish": "¿Para vosotros los varones y para Él las hembras?",
+          "Hindi": "क्या तुम्हारे लिए तो नर हों और अल्लाह के लिए मादाएँ?"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَى",
+        "transliteration": "Tilka idhan qismatun ḍīzā",
+        "translations": {
+          "English": "What a bizarre distribution.",
+          "Urdu": "یہ تو ناانصافی کی تقسیم ہے۔",
+          "French": "Que voilà donc un partage injuste!",
+          "Spanish": "¡Qué distribución más injusta!",
+          "Hindi": "यह तो बेइंसाफी वाली बाँट है।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ وَلَقَدْ جَاءَهُمْ مِنْ رَبِّهِمُ الْهُدَى",
+        "transliteration": "In hiya illā asmā’un sammaytumūhā antum wa ābā’ukum mā anzalal-lāhu bihā min sulṭānin in yattabi‘ūna illāẓ-ẓanna wa mā tahwal-anfusu wa laqad jā’ahum mir rabbihimul-hudā",
+        "translations": {
+          "English": "These are nothing but names, which you have devised, you and your ancestors, for which God sent down no authority. They follow nothing but assumptions, and what the ego desires, even though guidance has come to them from their Lord.",
+          "Urdu": "یہ تو صرف نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں، اللہ نے ان کے لیے کوئی سند نازل نہیں کی۔ وہ صرف گمان اور اپنی خواہشات کی پیروی کرتے ہیں، حالانکہ ان کے پاس ان کے رب کی طرف سے ہدایت آ چکی ہے۔",
+          "French": "Ce ne sont que des noms que vous avez inventés, vous et vos ancêtres. Allah n’a fait descendre aucune preuve à leur sujet. Ils ne suivent que la conjecture et les passions de leurs âmes, alors que la guidée leur est venue de leur Seigneur.",
+          "Spanish": "No son sino nombres que vosotros y vuestros padres habéis inventado, y por los que Allah no ha hecho descender autoridad alguna. No siguen sino conjeturas y los deseos de sus almas, cuando ya les ha llegado la guía de su Señor.",
+          "Hindi": "ये तो बस नाम हैं जो तुमने और तुम्हारे बाप-दादाओं ने रख लिए हैं, अल्लाह ने उनके लिए कोई सत्ता नहीं उतारी। वे तो बस अंदाज़ों और अपनी नफ्स की ख़्वाहिशों का पालन करते हैं, हालाँकि उनके पास उनके रब की तरफ से हिदायत आ चुकी है।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "أَمْ لِلْإِنْسَانِ مَا تَمَنَّى",
+        "transliteration": "Am lil-insāni mā tamannā",
+        "translations": {
+          "English": "Or is the human being to have whatever he desires?",
+          "Urdu": "کیا انسان کو وہی ملتا ہے جو وہ چاہتا ہے؟",
+          "French": "Ou bien l’homme aura-t-il tout ce qu’il désire?",
+          "Spanish": "¿O es que el hombre obtendrá todo lo que desee?",
+          "Hindi": "क्या इंसान को वही मिलता है जो वह चाहता है?"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "فَلِلَّهِ الْآخِرَةُ وَالْأُولَى",
+        "transliteration": "Fa lillāhil-ākhiratu wal-ūlā",
+        "translations": {
+          "English": "To God belong the Last and the First.",
+          "Urdu": "حال اور آخرت دونوں اللہ ہی کے لیے ہیں۔",
+          "French": "C’est à Allah qu’appartiennent la vie dernière et la vie présente.",
+          "Spanish": "Pues a Allah pertenecen la otra vida y la presente.",
+          "Hindi": "बल्कि आख़िरत और दुनिया दोनों अल्लाह ही के लिए हैं।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "وَكَمْ مِنْ مَلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَى",
+        "transliteration": "Wa kam mim malakin fis-samāwāti lā tughnī shafā‘atuhum shay’an illā mim ba‘di an ya’dhanal-lāhu liman yashā’u wa yarḍā",
+        "translations": {
+          "English": "How many an angel is there in the heavens whose intercession avails nothing, except after God gives permission to whomever He wills, and approves?",
+          "Urdu": "آسمانوں میں کتنے ہی فرشتے ہیں جن کی سفارش کچھ بھی فائدہ نہیں دیتی، سوائے اس کے کہ اللہ جسے چاہے اور جس سے راضی ہو اجازت دے دے۔",
+          "French": "Et combien d’anges dans les cieux dont l’intercession ne sert à rien, sinon qu’après qu’Allah l’aura permis, en faveur de qui Il veut et agrée.",
+          "Spanish": "Y cuántos ángeles hay en los cielos cuya intercesión no sirve de nada, salvo que Allah lo permita a quien Él quiere y Le complace.",
+          "Hindi": "आकाशों में कितने ही फरिश्ते हैं जिनकी सिफ़ारिश कुछ भी फ़ायदा नहीं देती, सिवाय इसके कि अल्लाह जिसे चाहे और जिससे राज़ी हो उसे इजाज़त दे दे।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنْثَى",
+        "transliteration": "Innal-ladhīna lā yu’minūna bil-ākhirati la yusammūnal-malā’ikata tasmiyatal-unthā",
+        "translations": {
+          "English": "Those who do not believe in the Hereafter give the angels the names of females.",
+          "Urdu": "جو لوگ آخرت پر ایمان نہیں رखتے، وہ فرشتों کو مادائیں نام دیتے ہیں۔",
+          "French": "Ceux qui ne croient pas en l’au-delà donnent aux anges des noms de femmes.",
+          "Spanish": "En verdad, quienes no creen en la otra vida ponen a los ángeles nombres femeninos.",
+          "Hindi": "जो लोग आख़िरत पर ईमान नहीं रखते, वे फरिश्तों को मादा नाम देते हैं।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "وَمَا لَهُمْ بِهِ مِنْ عِلْمٍ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا",
+        "transliteration": "Wa mā lahum bihī min ‘ilmin in yattabi‘ūna illāẓ-ẓanna wa innaẓ-ẓanna lā yughnī minal-ḥaqqi shay’ā",
+        "translations": {
+          "English": "They have no knowledge of that. They only follow assumptions, and assumptions are no substitute for the truth.",
+          "Urdu": "انہیں اس کا کوئی علم نہیں، وہ صرف گمان کی پیروی کرتے ہیں، اور گمان حق کے مقابلے میں کچھ بھی کام نہیں آتا۔",
+          "French": "Or ils n’en ont aucune science. Ils ne suivent que la conjecture, alors que la conjecture ne sert à rien contre la vérité.",
+          "Spanish": "Pero no tienen conocimiento de ello. No siguen sino conjeturas, y las conjeturas no sirven de nada frente a la verdad.",
+          "Hindi": "उन्हें इसका कोई इल्म नहीं, वे तो बस अंदाज़ों का पालन करते हैं, और अंदाज़ा हक़ के मुक़ाबले में कुछ भी काम नहीं आता।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "فَأَعْرِضْ عَنْ مَنْ تَوَلَّى عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا",
+        "transliteration": "Fa a‘riḍ ‘amman tawallā ‘an dhikrinā wa lam yurid illal-ḥayātad-dunyā",
+        "translations": {
+          "English": "So avoid him who has turned away from Our remembrance, and desires nothing but the present life.",
+          "Urdu": "سو تم اُس شخص سے منہ موڑ لو جو ہماری یاد سے منہ پھیرتا ہے اور صرف دنیاوی زندگی چاہتا ہے۔",
+          "French": "Éloigne-toi donc de celui qui tourne le dos à Notre Rappel et qui ne désire que la vie présente.",
+          "Spanish": "Apártate, pues, de quien se aparta de Nuestro recuerdo y no desea sino la vida mundanal.",
+          "Hindi": "तो तुम उससे मुँह मोड़ लो जो हमारी याद से मुँह फेरता है और सिर्फ़ दुनियावी ज़िंदगी चाहता है।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "ذَلِكَ مَبْلَغُهُمْ مِنَ الْعِلْمِ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَى",
+        "transliteration": "Dhālika mablaghuhum minal-‘ilmi inna rabbaka huwa a‘lamu biman ḍalla ‘an sabīlihī wa huwa a‘lamu bimanih-tadā",
+        "translations": {
+          "English": "That is the extent of their knowledge. Your Lord knows best who has strayed from His path, and He knows best who has accepted guidance.",
+          "Urdu": "یہی ان کے علم کی انتہا ہے۔ بے شک تمہارا رب ہی بہتر جانتا ہے کہ کون اس کی راہ سے بھٹکا ہے اور وہی بہتر جانتا ہے کہ کون ہدایت پا گیا ہے۔",
+          "French": "Voilà toute l’étendue de leur science. Ton Seigneur connaît parfaitement celui qui s’égare de Son chemin, et Il connaît parfaitement celui qui est bien guidé.",
+          "Spanish": "Esa es la medida de su conocimiento. En verdad, tu Señor conoce mejor a quien se extravía de Su camino y conoce mejor a quien sigue la guía.",
+          "Hindi": "यही उनके इल्म की हद है। निश्चय ही तुम्हारा रब ही बेहतर जानता है कि कौन उसके रास्ते से भटका है और वही बेहतर जानता है कि कौन हिदायत पा गया है।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى",
+        "transliteration": "Wa lillāhi mā fis-samāwāti wa mā fil-arḍi liyajziyal-ladhīna asā’ū bimā ‘amilū wa yajziyal-ladhīna aḥsanū bil-ḥusnā",
+        "translations": {
+          "English": "To God belongs whatever is in the heavens and whatever is on earth. He will repay those who do evil according to their deeds, and recompense those who do good with the best.",
+          "Urdu": "آسمانوں اور زمین میں جو کچھ ہے، سب اللہ ہی کا ہے، تاکہ وہ برے کام کرنے والوں کو ان کے اعمال کی سزا دے اور اچھے کام کرنے والوں کو بہترین بدلہ دے۔",
+          "French": "A Allah seul appartient tout ce qui est dans les cieux et sur la terre afin qu’Il rétribue ceux qui font le mal selon ce qu’ils œuvrent, et récompense ceux qui font le bien par la meilleure [récompense].",
+          "Spanish": "A Allah pertenece cuanto hay en los cielos y en la tierra, para retribuir a quienes obran mal según sus obras y retribuir a quienes obran bien con lo mejor.",
+          "Hindi": "आकाशों और धरती में जो कुछ है, वह अल्लाह ही का है, ताकि वह बुरे काम करने वालों को उनके कर्मों की सज़ा दे और अच्छे काम करने वालों को बेहतरीन बदला दे।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنْشَأَكُمْ مِنَ الْأَرْضِ وَإِذْ أَنْتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ فَلَا تُزَكُّوا أَنْفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ اتَّقَى",
+        "transliteration": "Al-ladhīna yajtanibūna kabā’iral-ithmi wal-fawāḥisha illal-lamama inna rabbaka wāsi‘ul-maghfirati huwa a‘lamu bikum idh ansha’akum minal-arḍi wa idh antum ajinnatun fī buṭūni ummahātikum fa lā tuzakkū anfusakum huwa a‘lamu bimanit-taqā",
+        "translations": {
+          "English": "Those who avoid gross sins and indecencies—except for minor lapses—your Lord is of Vast Forgiveness. He knows you well, ever since He created you from the earth, and ever since you were embryos in your mothers’ wombs. So do not acclaim your own virtue; He is fully aware of the righteous.",
+          "Urdu": "جو لوگ بڑے بڑے گناہوں اور بےحیائی کے کاموں سے بچتے ہیں، سوائے چھوٹی لغزشوں کے، بے شک تمہارا رب بڑی مغفرت والا ہے۔ وہ تمہیں خوب جانتا ہے، جب اس نے تمہیں زمین سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹ میں بچے تھے۔ سو تم اپنے آپ کو پاک صاف نہ ٹھہراؤ، وہی بہتر جانتا ہے کہ کون پرہیزگار ہے۔",
+          "French": "Ceux qui évitent les grands péchés ainsi que les turpitudes, à l’exception des fautes légères, [car] Ton Seigneur est certes Détenteur d’un vaste pardon. Il vous connaissait parfaitement quand Il vous a créés de terre, et aussi quand vous étiez des embryons dans le ventre de vos mères. Ne vantez pas vous-mêmes votre pureté; c’est Lui qui connaît mieux ceux qui [Le] craignent.",
+          "Spanish": "Quienes evitan los pecados graves y las obscenidades, salvo las faltas leves, en verdad, tu Señor es de vasto perdón. Él os conoce bien desde que os creó de la tierra y cuando erais embriones en los vientres de vuestras madres. No os alabéis a vosotros mismos; Él conoce mejor a los que Le temen.",
+          "Hindi": "जो लोग बड़े-बड़े गुनाहों और बेशर्मी के कामों से बचते हैं, सिवाय छोटी-मोटी ख़ता के, निश्चय ही तुम्हारा रब बड़ी माफ़ी वाला है। वह तुम्हें अच्छी तरह जानता है, जब उसने तुम्हें धरती से पैदा किया और जब तुम अपनी माताओं के पेट में बच्चे थे। तो तुम अपने आप को पाक-साफ़ न ठहराओ, वही बेहतर जानता है कि कौन परहेज़गार है।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "أَفَرَأَيْتَ الَّذِي تَوَلَّى",
+        "transliteration": "Afa ra’aytal-ladhī tawallā",
+        "translations": {
+          "English": "Have you considered him who turned away?",
+          "Urdu": "کیا تم نے اس شخص کو دیکھا جو منہ پھیر لیتا ہے؟",
+          "French": "Vois-tu celui qui s’est détourné?",
+          "Spanish": "¿Has visto a quien se aparta?",
+          "Hindi": "क्या तुमने उसे देखा जो मुँह फेर लेता है?"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "وَأَعْطَى قَلِيلًا وَأَكْدَى",
+        "transliteration": "Wa a‘ṭā qalīlan wa akdā",
+        "translations": {
+          "English": "And gave a little, and held back?",
+          "Urdu": "اور تھوڑا سا دیتا ہے پھر روک لیتا ہے؟",
+          "French": "Donne peu et [ensuite] cesse de donner.",
+          "Spanish": "Da poco y luego se niega a dar.",
+          "Hindi": "और थोड़ा सा देता है फिर रोक लेता है?"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَى",
+        "transliteration": "A ‘indahu ‘ilmul-ghaybi fa huwa yarā",
+        "translations": {
+          "English": "Does he possess knowledge of the unseen, and can therefore foresee?",
+          "Urdu": "کیا اس کے پاس غیب کا علم ہے کہ وہ دیکھ رہا ہے؟",
+          "French": "Détient-il la science de l’Inconnaissable en sorte qu’il voit?",
+          "Spanish": "¿Acaso posee el conocimiento de lo oculto y puede ver?",
+          "Hindi": "क्या उसके पास ग़ैब का इल्म है कि वह देख रहा है?"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَى",
+        "transliteration": "Am lam yunabba’ bimā fī ṣuḥufi mūsā",
+        "translations": {
+          "English": "Or was he not informed of what is in the Scrolls of Moses?",
+          "Urdu": "یا اسے موسیٰ کی کتابوں میں جو کچھ ہے، اس کی خبر نہیں دی گئی؟",
+          "French": "Ne lui a-t-on pas annoncé ce qu’il y avait dans les feuilles de Moïse",
+          "Spanish": "¿O no se le ha informado de lo que hay en las páginas de Moisés",
+          "Hindi": "या उसे मूसा की किताबों में जो कुछ है, उसकी ख़बर नहीं दी गई?"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "وَإِبْرَاهِيمَ الَّذِي وَفَّى",
+        "transliteration": "Wa ibrāhīmal-ladhī waffā",
+        "translations": {
+          "English": "And of Abraham, who fulfilled?",
+          "Urdu": "اور ابراہیم کی جو پورا کرنے والا تھا؟",
+          "French": "Et celles d’Abraham qui a tenu parfaitement [ses engagements]?",
+          "Spanish": "Y las de Abraham, que cumplió fielmente?",
+          "Hindi": "और इब्राहीम की जो पूरा करने वाला था?"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى",
+        "transliteration": "Allā taziru wāziratun wizra ukh’rā",
+        "translations": {
+          "English": "That no soul bears the burdens of another soul.",
+          "Urdu": "کہ کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا۔",
+          "French": "Qu’aucune âme ne portera le fardeau d’une autre,",
+          "Spanish": "Que nadie cargará con la culpa ajena,",
+          "Hindi": "कि कोई बोझ उठाने वाला दूसरे का बोझ नहीं उठाएगा।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَى",
+        "transliteration": "Wa al laysa lil-insāni illā mā sa‘ā",
+        "translations": {
+          "English": "And that the human being attains only what he strives for.",
+          "Urdu": "اور یہ کہ انسان کو صرف وہی ملے گا جس کی اس نے کوشش کی۔",
+          "French": "Et qu’en vérité, l’homme n’obtient que [le fruit] de ses efforts;",
+          "Spanish": "Y que el hombre no obtendrá sino el fruto de su esfuerzo;",
+          "Hindi": "और यह कि इंसान को सिर्फ़ वही मिलेगा जिसकी उसने कोशिश की।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "وَأَنَّ سَعْيَهُ سَوْفَ يُرَى",
+        "transliteration": "Wa anna sa‘yahū sawfa yurā",
+        "translations": {
+          "English": "And that his efforts will be witnessed.",
+          "Urdu": "اور یہ کہ اس کی کوشش جلد ہی دیکھ لی جائے گی۔",
+          "French": "Et que son effort, en vérité, lui sera présenté (pour être jugé).",
+          "Spanish": "Y que su esfuerzo pronto será visto,",
+          "Hindi": "और यह कि उसकी कोशिश जल्द ही देख ली जाएगी।"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَى",
+        "transliteration": "Thumma yujzāhul-jazā’al-awfā",
+        "translations": {
+          "English": "Then he will be rewarded for it the fullest reward.",
+          "Urdu": "پھر اسے پورا پورا بدلہ دیا جائے گا۔",
+          "French": "Ensuite il en sera rétribué pleinement.",
+          "Spanish": "Y luego será retribuido con la más plena recompensa.",
+          "Hindi": "फिर उसे पूरा-पूरा बदला दिया जाएगा।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "وَأَنَّ إِلَى رَبِّكَ الْمُنْتَهَى",
+        "transliteration": "Wa anna ilā rabbikal-muntahā",
+        "translations": {
+          "English": "And that to your Lord is the finality.",
+          "Urdu": "اور یہ کہ تمہارے رب ہی کی طرف لوٹنا ہے।",
+          "French": "Et que tout aboutit, en vérité, à ton Seigneur,",
+          "Spanish": "Y que hacia tu Señor es el destino final,",
+          "Hindi": "और यह कि तुम्हारे रब ही की तरफ़ लौटना है।"
+        }
+      },
+      {
+        "no": 43,
+        "arabic": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَى",
+        "transliteration": "Wa annahū huwa aḍḥaka wa abkā",
+        "translations": {
+          "English": "And that it is He who causes laughter and weeping.",
+          "Urdu": "اور یہ کہ وہی ہنساتا اور رلاتا ہے۔",
+          "French": "Et que c’est Lui qui a fait rire et qui a fait pleurer,",
+          "Spanish": "Y que es Él quien hace reír y llorar,",
+          "Hindi": "और यह कि वही हँसाता और रुलाता है।"
+        }
+      },
+      {
+        "no": 44,
+        "arabic": "وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا",
+        "transliteration": "Wa annahū huwa amāta wa aḥyā",
+        "translations": {
+          "English": "And that it is He who gives death and life.",
+          "Urdu": "اور یہ کہ وہی مارتا اور جلاتا ہے۔",
+          "French": "Et que c’est Lui qui donne la mort et qui donne la vie;",
+          "Spanish": "Y que es Él quien da la muerte y da la vida,",
+          "Hindi": "और यह कि वही मारता और जिलाता है।"
+        }
+      },
+      {
+        "no": 45,
+        "arabic": "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَى",
+        "transliteration": "Wa annahū khalaqaz-zawjayni dh-dhakara wal-unthā",
+        "translations": {
+          "English": "And that it is He who created the two kinds—the male and the female.",
+          "Urdu": "اور یہ کہ وہی نے نر اور مادہ کے دو جوڑے پیدا کیے۔",
+          "French": "Et que c’est Lui qui a créé les deux éléments de couple, le mâle et la femelle,",
+          "Spanish": "Y que es Él quien creó los dos géneros, el macho y la hembra,",
+          "Hindi": "और यह कि उसी ने नर और मादा के दो जोड़े पैदा किए।"
+        }
+      },
+      {
+        "no": 46,
+        "arabic": "مِنْ نُطْفَةٍ إِذَا تُمْنَى",
+        "transliteration": "Min nuṭfatin idhā tum’nā",
+        "translations": {
+          "English": "From a sperm drop, when emitted.",
+          "Urdu": "نطفے سے جب وہ ٹپکایا جاتا ہے۔",
+          "French": "D’une goutte de sperme quand elle est éjaculée;",
+          "Spanish": "De una gota de esperma cuando es eyaculada;",
+          "Hindi": "एक बूँद वीर्य से जब वह टपकाया जाता है।"
+        }
+      },
+      {
+        "no": 47,
+        "arabic": "وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَى",
+        "transliteration": "Wa anna ‘alayhin-nash’atal-ukhrā",
+        "translations": {
+          "English": "And that upon Him is the next existence.",
+          "Urdu": "اور یہ کہ دوبارہ پیدا کرنا اسی کے ذمے ہے۔",
+          "French": "Et que c’est à Lui que revient la seconde création;",
+          "Spanish": "Y que a Él corresponde la otra creación;",
+          "Hindi": "और यह कि दूसरी पैदाइश उसी के ज़िम्मे है।"
+        }
+      },
+      {
+        "no": 48,
+        "arabic": "وَأَنَّهُ هُوَ أَغْنَى وَأَقْنَى",
+        "transliteration": "Wa annahū huwa aghnā wa aqnā",
+        "translations": {
+          "English": "And that it is He who enriches and impoverishes.",
+          "Urdu": "اور یہ کہ وہی مالدار بناتا اور بے نیاز کرتا ہے۔",
+          "French": "Et que c’est Lui qui a enrichi et qui a fait acquérir;",
+          "Spanish": "Y que es Él quien enriquece y da satisfacción;",
+          "Hindi": "और यह कि वही मालदार बनाता और बेपरवाह करता है।"
+        }
+      },
+      {
+        "no": 49,
+        "arabic": "وَأَنَّهُ هُوَ رَبُّ الشِّعْرَى",
+        "transliteration": "Wa annahū huwa rabbush-shi‘rā",
+        "translations": {
+          "English": "And that it is He who is the Lord of Sirius.",
+          "Urdu": "اور یہ کہ وہی شِعْریٰ (ستارے) کا رب ہے۔",
+          "French": "Et que c’est Lui qui est le Seigneur de Sirius,",
+          "Spanish": "Y que es Él el Señor de Sirio,",
+          "Hindi": "और यह कि वही शिअरा (तारे) का रब है।"
+        }
+      },
+      {
+        "no": 50,
+        "arabic": "وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَى",
+        "transliteration": "Wa annahū ahlaka ‘ādanil-ūlā",
+        "translations": {
+          "English": "And that it is He who destroyed the first Aad.",
+          "Urdu": "اور یہ کہ اسی نے پہلی عاد کو ہلاک کیا۔",
+          "French": "Et que c’est Lui qui a fait périr les anciens ‘Aad",
+          "Spanish": "Y que es Él quien destruyó al primer ‘Ad,",
+          "Hindi": "और यह कि उसी ने पहली आद को हलाक किया।"
+        }
+      },
+      {
+        "no": 51,
+        "arabic": "وَثَمُودَ فَمَا أَبْقَى",
+        "transliteration": "Wa thamūda fa mā abqā",
+        "translations": {
+          "English": "And Thamood, sparing no one.",
+          "Urdu": "اور ثمود کو، تو اس نے کسی کو نہیں چھوड़ا۔",
+          "French": "Ainsi que les Thamūd, et qu’Il n’a laissé [aucun survivant],",
+          "Spanish": "Y a Zamud, sin dejar a nadie con vida,",
+          "Hindi": "और थमूद को, तो उसने किसी को नहीं छोड़ा।"
+        }
+      },
+      {
+        "no": 52,
+        "arabic": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَى",
+        "transliteration": "Wa qawma nūḥim min qablu innahum kānū hum aẓlamu wa aṭghā",
+        "translations": {
+          "English": "And the people of Noah before that; for they were most unjust and most oppressive.",
+          "Urdu": "اور اس سے پہلے نوح کی قوم کو، بے شک وہ سب سے زیادہ ظالم اور سرکش تھے۔",
+          "French": "Et le peuple de Noé avant eux, car ils étaient encore plus injustes et plus violents.",
+          "Spanish": "Y al pueblo de Noé antes; en verdad, ellos fueron los más injustos y transgresores.",
+          "Hindi": "और उससे पहले नूह की क़ौम को, निश्चय ही वे सबसे ज़्यादा ज़ालिम और सरकश थे।"
+        }
+      },
+      {
+        "no": 53,
+        "arabic": "وَالْمُؤْتَفِكَةَ أَهْوَى",
+        "transliteration": "Wal-mu’tafikata ahwā",
+        "translations": {
+          "English": "And He toppled the ruined cities.",
+          "Urdu": "اور الٹ دیں تباہ شدہ بستیوں کو۔",
+          "French": "Et les villes renversées, Il les a renversées.",
+          "Spanish": "Y a las ciudades destruidas las derribó,",
+          "Hindi": "और उलट दिया बर्बाद बस्तियों को।"
+        }
+      },
+      {
+        "no": 54,
+        "arabic": "فَغَشَّاهَا مَا غَشَّى",
+        "transliteration": "Fa ghashshāhā mā ghashshā",
+        "translations": {
+          "English": "And covered them with whatever covered them.",
+          "Urdu": "پس ڈھانک لیا انہیں جو ڈھانپنے والا تھا۔",
+          "French": "Puis les a recouvertes de ce dont Il les a recouvertes.",
+          "Spanish": "Luego las cubrió con lo que las cubrió.",
+          "Hindi": "फिर ढँक लिया उन्हें जो ढँकने वाला था।"
+        }
+      },
+      {
+        "no": 55,
+        "arabic": "فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَى",
+        "transliteration": "Fa bi-ayyi ālā’i rabbika tatamārā",
+        "translations": {
+          "English": "So which of your Lord's marvels can you deny?",
+          "Urdu": "پس تم اپنے رب کی کس کس نعمت کو جھٹلاؤ گے؟",
+          "French": "Lequel donc des bienfaits de ton Seigneur mets-tu en doute?",
+          "Spanish": "¿Cuál, pues, de las gracias de tu Señor pondrás en duda?",
+          "Hindi": "तो तुम अपने रब की किस-किस नेअमत को झुठलाओगे?"
+        }
+      },
+      {
+        "no": 56,
+        "arabic": "هَذَا نَذِيرٌ مِنَ النُّذُرِ الْأُولَى",
+        "transliteration": "Hādhā nadhīrum minan-nudhuri l-ūlā",
+        "translations": {
+          "English": "This is a warning, just like the first warnings.",
+          "Urdu": "یہ ایک ڈر سنانے والا ہے، پہلے ڈر سنانے والوں کی طرح۔",
+          "French": "Ceci est un avertissement comme les premiers avertissements.",
+          "Spanish": "Este es un advertidor como los advertidores anteriores.",
+          "Hindi": "यह एक डराने वाला है, पहले के डराने वालों की तरह।"
+        }
+      },
+      {
+        "no": 57,
+        "arabic": "أَزِفَتِ الْآزِفَةُ",
+        "transliteration": "Azifatil-āzifah",
+        "translations": {
+          "English": "The inevitable is imminent.",
+          "Urdu": "قریب آنے والی (قیامت) قریب آ پہنچی۔",
+          "French": "L’Imminente (l’Heure) s’approche.",
+          "Spanish": "Lo que se acerca está próximo,",
+          "Hindi": "नज़दीक आने वाला (क़यामत) नज़दीक आ पहुँचा।"
+        }
+      },
+      {
+        "no": 58,
+        "arabic": "لَيْسَ لَهَا مِنْ دُونِ اللَّهِ كَاشِفَةٌ",
+        "transliteration": "Laysa lahā min dūnillāhi kāshifah",
+        "translations": {
+          "English": "None besides God can unveil it.",
+          "Urdu": "اللہ کے سوا کوئی اسے ظاہر کرنے والا نہیں۔",
+          "French": "Nul autre qu’Allah ne peut la dévoiler.",
+          "Spanish": "Nadie, fuera de Allah, puede desvelarla.",
+          "Hindi": "अल्लाह के सिवा कोई उसे ज़ाहिर करने वाला नहीं।"
+        }
+      },
+      {
+        "no": 59,
+        "arabic": "أَفَمِنْ هَذَا الْحَدِيثِ تَعْجَبُونَ",
+        "transliteration": "Afa min hādhal-ḥadīthi ta‘jabūn",
+        "translations": {
+          "English": "Do you marvel at this discourse?",
+          "Urdu": "کیا تم اس بات پر تعجب کرتے ہو؟",
+          "French": "Vous étonnez-vous de ce discours?",
+          "Spanish": "¿Os asombráis de este mensaje?",
+          "Hindi": "क्या तुम इस बात पर तअज्जुब करते हो?"
+        }
+      },
+      {
+        "no": 60,
+        "arabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+        "transliteration": "Wa taḍḥakūna wa lā tabkūn",
+        "translations": {
+          "English": "And laugh, and do not weep?",
+          "Urdu": "اور ہنستے ہو اور روتے نہیں؟",
+          "French": "Et vous riez et ne pleurez point,",
+          "Spanish": "¿Y reís en vez de llorar?",
+          "Hindi": "और हँसते हो और रोते नहीं?"
+        }
+      },
+      {
+        "no": 61,
+        "arabic": "وَأَنْتُمْ سَامِدُونَ",
+        "transliteration": "Wa antum sāmidūn",
+        "translations": {
+          "English": "Lost in your frivolity?",
+          "Urdu": "اور تم غفلت میں پڑے ہو؟",
+          "French": "Livrés à votre insouciance?",
+          "Spanish": "¿Estáis distraídos?",
+          "Hindi": "और तुम ग़फ़लत में पड़े हो?"
+        }
+      },
+      {
+        "no": 62,
+        "arabic": "فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا",
+        "transliteration": "Fasjudū lillāhi wa‘budū",
+        "translations": {
+          "English": "So bow down to God, and worship!",
+          "Urdu": "سو اللہ کو سجدہ کرو اور عبادت کرو۔",
+          "French": "Prosternez-vous donc devant Allah et adorez-Le.",
+          "Spanish": "¡Prosternaos, pues, ante Allah y adoradLe!",
+          "Hindi": "तो अल्लाह को सज्दा करो और इबादत करो।"
+        }
+      }
+    ]
+  }

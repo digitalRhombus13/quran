@@ -1,0 +1,246 @@
+{
+    "no": 73,
+    "name": "Al-Muzzammil",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "يَا أَيُّهَا الْمُزَّمِّلُ",
+        "transliteration": "O you Enwrapped one.",
+        "translations": {
+          "English": "O you Enwrapped one.",
+          "Urdu": "اے کپڑے میں لپٹنے والے!",
+          "French": "Ô toi, l'enveloppé [dans tes vêtements] !",
+          "Spanish": "¡Oh, tú que te envuelves [en tu manto]!",
+          "Hindi": "ऐ चादर ओढ़ने वाले!"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+        "transliteration": "Stay up during the night, except a little.",
+        "translations": {
+          "English": "Stay up during the night, except a little.",
+          "Urdu": "رات کو قیام کرو مگر تھوڑا سا۔",
+          "French": "Lève-toi pour prier une grande partie de la nuit,",
+          "Spanish": "Levántate por la noche, excepto un poco.",
+          "Hindi": "रात को क़ियाम करो मगर थोड़ा सा।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+        "transliteration": "For half of it, or reduce it a little.",
+        "translations": {
+          "English": "For half of it, or reduce it a little.",
+          "Urdu": "آدھی رات یا اس سے کچھ کم۔",
+          "French": "la moitié, ou un peu moins,",
+          "Spanish": "La mitad, o un poco menos,",
+          "Hindi": "आधी रात या उससे कुछ कम।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "transliteration": "Or add to it; and chant the Quran rhythmically.",
+        "translations": {
+          "English": "Or add to it; and chant the Quran rhythmically.",
+          "Urdu": "یا اس سے کچھ زیادہ اور قرآن کو ٹھہر ٹھہر کر پڑھو۔",
+          "French": "ou un peu plus. Et récite le Coran, lentement et clairement.",
+          "Spanish": "O añade algo, y recita el Corán con recitación medida.",
+          "Hindi": "या उससे कुछ ज़्यादा और क़ुरान को ठहर-ठहर कर पढ़ो।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+        "transliteration": "We are about to give you a heavy message.",
+        "translations": {
+          "English": "We are about to give you a heavy message.",
+          "Urdu": "بیشک ہم تم پر ایک بھاری بات نازل کرنے والے ہیں۔",
+          "French": "Nous allons te révéler des paroles lourdes (importantes).",
+          "Spanish": "En verdad, te revelaremos una palabra de gran peso.",
+          "Hindi": "बेशक हम तुम पर एक भारी बात नाज़िल करने वाले हैं।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+        "transliteration": "The vigil of night is more effective, and better suited for recitation.",
+        "translations": {
+          "English": "The vigil of night is more effective, and better suited for recitation.",
+          "Urdu": "بیشک رات کا اٹھنا (عبادت کے لیے) زیادہ موثر اور بات کے لحاظ سے زیادہ درست ہے۔",
+          "French": "La prière durant la nuit est plus efficace et plus propice pour la récitation.",
+          "Spanish": "En verdad, la vigilia nocturna es más eficaz y más adecuada para la recitación.",
+          "Hindi": "बेशक रात का उठना (इबादत के लिए) ज़्यादा मौजूँ और बात के लिहाज़ से ज़्यादा दुरुस्त है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+        "transliteration": "In the daytime, you have lengthy work to do.",
+        "translations": {
+          "English": "In the daytime, you have lengthy work to do.",
+          "Urdu": "بیشک دن میں تمہارے لیے لمبا چلنا پھرنا ہے۔",
+          "French": "Tu as, dans la journée, à vaquer à de longues occupations.",
+          "Spanish": "En verdad, durante el día tienes largas ocupaciones.",
+          "Hindi": "बेशक दिन में तुम्हारे लिए लम्बा चलना-फिरना है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+        "transliteration": "So remember the Name of your Lord, and devote yourself to Him wholeheartedly.",
+        "translations": {
+          "English": "So remember the Name of your Lord, and devote yourself to Him wholeheartedly.",
+          "Urdu": "اور اپنے رب کا نام یاد کرو اور اسی کی طرف یکسو ہو کر لگ جاؤ۔",
+          "French": "Et invoque le nom de ton Seigneur et consacre-toi à Lui totalement.",
+          "Spanish": "E invoca el nombre de tu Señor y conságrate a Él con devoción.",
+          "Hindi": "और अपने रब का नाम याद करो और उसी की तरफ एकसू हो कर लग जाओ।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+        "transliteration": "Lord of the East and the West. There is no god but He, so take Him as a Trustee.",
+        "translations": {
+          "English": "Lord of the East and the West. There is no god but He, so take Him as a Trustee.",
+          "Urdu": "ربِّ مشرق و مغرب، کوئی معبود نہیں مگر وہی، پس اسی کو اپنا کارساز بنا لو۔",
+          "French": "Le Seigneur de l'Orient et de l'Occident. Point de divinité à part Lui. Prends-Le donc comme protecteur.",
+          "Spanish": "Señor del Oriente y del Occidente. No hay más dios que Él. Tómalo, pues, como protector.",
+          "Hindi": "रब्बे मशरिक़ व मग़रिब, कोई माबूद नहीं मगर वही, फिर उसी को अपना कारसाज़ बना लो।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَاصْبِرْ عَلَى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+        "transliteration": "And endure patiently what they say, and withdraw from them politely.",
+        "translations": {
+          "English": "And endure patiently what they say, and withdraw from them politely.",
+          "Urdu": "اور جو کچھ وہ کہتے ہیں اس پر صبر کرو اور ان سے اچھے طریقے سے کنارہ کش ہو جاؤ۔",
+          "French": "Et endure ce qu'ils disent ; et écarte-toi d'eux d'une façon convenable.",
+          "Spanish": "Y ten paciencia con lo que dicen, y apártate de ellos de manera decorosa.",
+          "Hindi": "और जो कुछ वह कहते हैं उस पर सब्र करो और उनसे अच्छे तरीक़े से किनारा कर लो।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+        "transliteration": "And leave Me to those who deny the truth, those of luxury, and give them a brief respite.",
+        "translations": {
+          "English": "And leave Me to those who deny the truth, those of luxury, and give them a brief respite.",
+          "Urdu": "اور جھٹلانے والوں کو، جو نعمتوں میں ہیں، میرے حوالے کر دو اور انہیں تھوڑی مہلت دے دو۔",
+          "French": "Et laisse-Moi avec ceux qui crient au mensonge, ceux qui jouissent des commodités de la vie ; et donne-leur un court répit.",
+          "Spanish": "Y déjame con los desmentidores, los que disfrutan de comodidades, y concédeles un breve plazo.",
+          "Hindi": "और झुठलाने वालों को, जो नेमतों में हैं, मेरे हवाले कर दो और उन्हें थोड़ी मोहलत दे दो।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+        "transliteration": "With Us are shackles, and a Fierce Fire.",
+        "translations": {
+          "English": "With Us are shackles, and a Fierce Fire.",
+          "Urdu": "بیشک ہمارے پاس بیڑیاں اور دوزخ ہیں۔",
+          "French": "Nous détenons des carcans et un Brasier ardent,",
+          "Spanish": "En verdad, junto a Nosotros hay cadenas y un Fuego abrasador,",
+          "Hindi": "बेशक हमारे पास बेड़ियाँ और दोज़ख़ हैं।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+        "transliteration": "And food that chokes, and a painful punishment.",
+        "translations": {
+          "English": "And food that chokes, and a painful punishment.",
+          "Urdu": "اور گھٹن والا کھانا اور دردناک عذاب۔",
+          "French": "ainsi qu'une nourriture qui étouffe et un châtiment douloureux,",
+          "Spanish": "y una comida que ahoga y un castigo doloroso,",
+          "Hindi": "और घुटन वाला खाना और दर्दनाक अज़ाब।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+        "transliteration": "On the Day when the earth and the mountains tremble, and the mountains become heaps of sand.",
+        "translations": {
+          "English": "On the Day when the earth and the mountains tremble, and the mountains become heaps of sand.",
+          "Urdu": "جس دن زمین اور پہاڑ لرز اٹھیں گے اور پہاڑ ریت کے ٹیلوں کی طرح ہو جائیں گے۔",
+          "French": "le jour où la terre et les montagnes trembleront et où les montagnes deviendront une dune éboulée.",
+          "Spanish": "El día en que la tierra y las montañas tiemblen, y las montañas se conviertan en dunas desmoronadas.",
+          "Hindi": "जिस दिन ज़मीन और पहाड़ काँप उठेंगे और पहाड़ रेत के टीलों की तरह हो जाएँगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَى فِرْعَوْنَ رَسُولًا",
+        "transliteration": "We have sent to you a messenger, a witness over you, as We sent to Pharaoh a messenger.",
+        "translations": {
+          "English": "We have sent to you a messenger, a witness over you, as We sent to Pharaoh a messenger.",
+          "Urdu": "بیشک ہم نے تمہاری طرف ایک رسول بھیجا ہے جو تم پر گواہ ہے جیسا کہ ہم نے فرعون کی طرف ایک رسول بھیجا تھا۔",
+          "French": "Nous vous avons envoyé un Messager pour être témoin contre vous, de même que Nous avions envoyé un Messager à Pharaon.",
+          "Spanish": "En verdad, os hemos enviado un Mensajero como testigo contra vosotros, igual que enviamos un Mensajero al Faraón.",
+          "Hindi": "बेशक हमने तुम्हारी तरफ़ एक रसूल भेजा है जो तुम पर गवाह है जैसा कि हमने फ़िरऔन की तरफ़ एक रसूल भेजा था।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "فَعَصَى فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+        "transliteration": "But Pharaoh defied the Messenger, so We seized him with a terrible seizing.",
+        "translations": {
+          "English": "But Pharaoh defied the Messenger, so We seized him with a terrible seizing.",
+          "Urdu": "پس فرعون نے رسول کی نافرمانی کی تو ہم نے اسے سخت پکڑ سے پکڑ لیا۔",
+          "French": "Mais Pharaon désobéit au Messager. Nous le saisîmes donc rudement.",
+          "Spanish": "Pero el Faraón desobedeció al Mensajero, así que lo agarramos con un castigo severo.",
+          "Hindi": "फिर फ़िरऔन ने रसूल की नाफ़रमानी की तो हमने उसे सख़्त पकड़ से पकड़ लिया।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+        "transliteration": "So how will you, if you persist in unbelief, save yourself from a Day which will turn the children gray-haired?",
+        "translations": {
+          "English": "So how will you, if you persist in unbelief, save yourself from a Day which will turn the children gray-haired?",
+          "Urdu": "پس اگر تم کفر کرو گے تو اس دن سے کیسے بچو گے جو بچوں کو بوڑھا کر دے گا؟",
+          "French": "Comment donc vous préserverez-vous, si vous mécroyez, d'un jour qui rendra les enfants cheveux blancs ?",
+          "Spanish": "¿Cómo, pues, os preservaréis, si no creéis, de un día que tornará canosos a los niños?",
+          "Hindi": "फिर अगर तुम कुफ़्र करोगे तो उस दिन से कैसे बचोगे जो बच्चों को बूढ़ा कर देगा?"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "السَّمَاءُ مُنْفَطِرٌ بِهِ كَانَ وَعْدُهُ مَفْعُولًا",
+        "transliteration": "The heaven will shatter thereby. His promise is always fulfilled.",
+        "translations": {
+          "English": "The heaven will shatter thereby. His promise is always fulfilled.",
+          "Urdu": "آسمان اس دن پھٹ جائے گا، اللہ کا وعدہ پورا ہو کر رہے گا۔",
+          "French": "Le ciel se fendra alors. Sa promesse sera accomplie.",
+          "Spanish": "El cielo se hendirá ese día. La promesa de Allah se cumplirá.",
+          "Hindi": "आसमान उस दिन फट जाएगा, अल्लाह का वादा पूरा हो कर रहेगा।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا",
+        "transliteration": "This is a reminder. So whoever wills, let him take a path to his Lord.",
+        "translations": {
+          "English": "This is a reminder. So whoever wills, let him take a path to his Lord.",
+          "Urdu": "بیشک یہ ایک نصیحت ہے، پس جو چاہے اپنے رب کی طرف راستہ اختیار کر لے۔",
+          "French": "Ceci est un rappel. Que celui qui veut prenne donc un chemin vers son Seigneur !",
+          "Spanish": "En verdad, esto es un recordatorio. Quien quiera, que tome un camino hacia su Señor.",
+          "Hindi": "बेशक यह एक नसीहत है, फिर जो चाहे अपने रब की तरफ़ रास्ता इख़्तियार कर ले।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَى وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "transliteration": "Your Lord knows that you stay up nearly two-thirds of the night, or half of it, or one-third of it, along with a group of those with you. God designed the night and the day. He knows that you are unable to sustain it, so He has pardoned you. So read of the Quran what is possible for you. He knows that some of you may be ill; and others travelling through the land, seeking God’s bounty; and others fighting in God’s cause. So read of it what is possible for you, and observe the prayers, and give regular charity, and lend God a generous loan. Whatever good you advance for yourselves, you will find it with God, better and generously rewarded. And seek God’s forgiveness, for God is Forgiving and Merciful.",
+        "translations": {
+          "English": "Your Lord knows that you stay up nearly two-thirds of the night, or half of it, or one-third of it, along with a group of those with you. God designed the night and the day. He knows that you are unable to sustain it, so He has pardoned you. So read of the Quran what is possible for you. He knows that some of you may be ill; and others travelling through the land, seeking God’s bounty; and others fighting in God’s cause. So read of it what is possible for you, and observe the prayers, and give regular charity, and lend God a generous loan. Whatever good you advance for yourselves, you will find it with God, better and generously rewarded. And seek God’s forgiveness, for God is Forgiving and Merciful.",
+          "Urdu": "بیشک تمہارا رب جانتا ہے کہ تم اور تمہارے ساتھیوں کا ایک گروہ رات کے دو تہائی سے کم یا آدھی یا ایک تہائی حصے میں قیام کرتے ہو، اور اللہ ہی رات اور دن کو اندازے سے مقرر کرتا ہے۔ وہ جانتا ہے کہ تم اس کا پورا حساب نہیں رکھ سکتے، پس اس نے تمہاری طرف رجوع فرمایا، پس قرآن سے جتنا آسانی سے پڑھ سکو پڑھو۔ وہ جانتا ہے کہ تم میں سے بعض بیمار ہوں گے اور بعض اللہ کے فضل کی تلاش میں زمین میں سفر کر رہے ہوں گے اور بعض اللہ کی راہ میں جہاد کر رہے ہوں گے، پس اس میں سے جتنا آسانی سے پڑھ سکو پڑھو، اور نماز قائم کرو اور زکوٰۃ دو اور اللہ کو اچھا قرض دو۔ اور جو نیکی تم اپنے لیے آگے بھیجو گے اسے اللہ کے ہاں بہتر اور زیادہ اجر کی صورت میں پاؤ گے۔ اور اللہ سے بخشش مانگو، بے شک اللہ بخشنے والا مہربان ہے۔",
+          "French": "Ton Seigneur sait que tu passes en prière près des deux tiers de la nuit, ou sa moitié, ou son tiers, ainsi qu'une partie de ceux qui sont avec toi. Allah a fixé la mesure de la nuit et du jour. Il sait que vous ne pourrez pas [toujours] la respecter et Il vous a accordé Son pardon. Récitez donc du Coran ce qui vous est possible. Il sait qu'il y aura parmi vous des malades, d'autres qui voyageront sur terre en quête de la grâce d'Allah, et d'autres qui combattront dans le sentier d'Allah. Récitez-en donc ce qui vous est possible. Accomplissez la prière, acquittez la zakât et faites à Allah un prêt sincère. Tout bien que vous vous préparez, vous le retrouverez auprès d'Allah, meilleur et plus grand en récompense. Et implorez le pardon d'Allah. Allah est Pardonneur et Miséricordieux.",
+          "Spanish": "Tu Señor sabe que tú y un grupo de los que están contigo permanecen despiertos cerca de dos tercios de la noche, o la mitad, o un tercio. Allah ha determinado la noche y el día. Sabe que no podréis calcularlo con exactitud, por eso os ha perdonado. Recitad, pues, del Corán lo que os sea fácil. Sabe que habrá entre vosotros enfermos, otros que viajarán por la tierra buscando el favor de Allah, y otros que combatirán por la causa de Allah. Recitad, pues, de él lo que os sea fácil. Y estableced la oración, dad el azaque y conceded a Allah un préstamo generoso. Todo el bien que hagáis por adelantado para vosotros mismos, lo encontraréis junto a Allah, mejor y con mayor recompensa. Y pedid perdón a Allah. En verdad, Allah es Perdonador, Misericordioso.",
+          "Hindi": "बेशक तुम्हारा रब जानता है कि तुम और तुम्हारे साथियों का एक गिरोह रात के दो तिहाई से कम या आधी या एक तिहाई हिस्से में क़ियाम करते हो, और अल्लाह ही रात और दिन को अंदाज़े से मुक़र्रर करता है। वह जानता है कि तुम उसका पूरा हिसाब नहीं रख सकते, फिर उसने तुम्हारी तरफ़ रुजू फरमाया, फिर क़ुरान से जितना आसानी से पढ़ सको पढ़ो। वह जानता है कि तुम में से कुछ बीमार होंगे और कुछ अल्लाह के फ़ज़्ल की तलाश में ज़मीन में सफ़र कर रहे होंगे और कुछ अल्लाह की राह में जिहाद कर रहे होंगे, फिर उसमें से जितना आसानी से पढ़ सको पढ़ो, और नमाज़ क़ायम करो और ज़कात दो और अल्लाह को अच्छा क़र्ज़ दो। और जो नेकी तुम अपने लिए आगे भेजोगे उसे अल्लाह के हाँ बेहतर और ज़्यादा अज्र की सूरत में पाओगे। और अल्लाह से बख़्शिश माँगो, बेशक अल्लाह बख़्शने वाला मेहरबान है।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,282 @@
+{
+    "no": 30,
+    "name": "Ar-Rum",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "الم",
+        "transliteration": "Alif, Lam, Meem.",
+        "translations": {
+          "English": "Alif, Lam, Meem.",
+          "Urdu": "الم",
+          "French": "Alif, Lam, Mim.",
+          "Spanish": "Alif, Lam, Mim.",
+          "Hindi": "अलिफ़ लाम मीम"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "غُلِبَتِ الرُّومُ",
+        "transliteration": "Ghulibati arroomu",
+        "translations": {
+          "English": "The Romans have been defeated.",
+          "Urdu": "روم مغلوب ہو گئے۔",
+          "French": "Les Romains ont été vaincus.",
+          "Spanish": "Los bizantinos han sido derrotados.",
+          "Hindi": "रोम वाले पराजित हो गए।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "فِي أَدْنَى الْأَرْضِ وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+        "transliteration": "Fee adna al-ardi wahum min baAAdi ghalabihim sayaghliboona",
+        "translations": {
+          "English": "In a nearby territory. But following their defeat, they will be victorious.",
+          "Urdu": "ملک کے قریب ترین حصہ میں اور وہ اپنی شکست کے بعد عنقریب غالب آجائیں گے۔",
+          "French": "Dans le pays voisin. Mais après leur défaite, ils seront vainqueurs.",
+          "Spanish": "En la tierra más baja. Pero, después de su derrota, vencerán.",
+          "Hindi": "निकटतम भूमि में और वे अपनी पराजय के बाद शीघ्र ही विजयी हो जाएँगे।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "فِي بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ",
+        "transliteration": "Fee biAAdi sineena lillahi al-amru min qablu wamin baAAdu wayawma-ithin yafrahu almu/minoona",
+        "translations": {
+          "English": "In a few years. The matter is up to God, in the past, and in the future. On that day, the believers will rejoice.",
+          "Urdu": "کچھ سالوں میں۔ پہلے بھی اللہ ہی کا حکم تھا اور بعد میں بھی۔ اور اس دن مومن خوش ہوں گے۔",
+          "French": "Dans quelques années. A Dieu appartient le commandement, avant et après. Et ce jour-là, les croyants se réjouiront.",
+          "Spanish": "Dentro de algunos años. El asunto pertenece a Dios, antes y después. Y ese día los creyentes se regocijarán.",
+          "Hindi": "कुछ ही वर्षों में। पहले भी अल्लाह ही का आदेश है और बाद में भी। और उस दिन ईमान वाले प्रसन्न होंगे।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "بِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ",
+        "transliteration": "Binasri Allahi yansuru man yashao wahuwa alAAazeezu alrraheemu",
+        "translations": {
+          "English": "In God’s support. He supports whomever He wills. He is the Almighty, the Merciful.",
+          "Urdu": "اللہ کی مدد سے۔ وہ جس کی چاہتا ہے مدد کرتا ہے۔ اور وہ غالب رحم کرنے والا ہے۔",
+          "French": "Avec le secours d’Allah. Il secourt qui Il veut. Et c’est Lui le Tout Puissant, le Très Miséricordieux.",
+          "Spanish": "Con el auxilio de Dios. Auxilia a quien Él quiere. Él es el Poderoso, el Misericordioso.",
+          "Hindi": "अल्लाह की सहायता से। वह जिसकी चाहता है सहायता करता है। वह प्रभुत्वशाली, दयावान है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَعْدَ اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+        "transliteration": "WaAAda Allahi la yukhlifu Allahu waAAdahu walakinna akthara annasi la yaAAlamoona",
+        "translations": {
+          "English": "The promise of God—God never breaks His promise, but most people do not know.",
+          "Urdu": "اللہ کا وعدہ ہے۔ اللہ اپنے وعدے کے خلاف نہیں کرتا لیکن اکثر لوگ نہیں جانتے۔",
+          "French": "C’est là la promesse d’Allah. Allah ne manque jamais à Sa promesse mais la plupart des gens ne savent pas.",
+          "Spanish": "Promesa de Dios. Dios no falta a Su promesa, pero la mayoría de la gente no sabe.",
+          "Hindi": "अल्लाह का वादा है। अल्लाह अपने वादे के विपरीत नहीं करता, किन्तु अधिकांश लोग नहीं जानते।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ",
+        "transliteration": "YaAAlamoona thahiran mina alhayati alddunya wahum AAani al-akhirati hum ghafiloona",
+        "translations": {
+          "English": "They know an outer aspect of the worldly life, but they are heedless of the Hereafter.",
+          "Urdu": "وہ دنیوی زندگی کی ظاہری شکل کو جانتے ہیں اور وہ آخرت سے غافل ہیں۔",
+          "French": "Ils connaissent un aspect apparent de la vie présente, alors qu’ils sont inattentifs à l’au-delà.",
+          "Spanish": "Conocen lo aparente de la vida mundanal, pero están despreocupados de la otra vida.",
+          "Hindi": "वे सांसारिक जीवन की बाह्य दशा को जानते हैं और वे परलोक से बेख़बर हैं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ مَا خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُسَمًّى وَإِنَّ كَثِيرًا مِنَ النَّاسِ بِلِقَاءِ رَبِّهِمْ لَكَافِرُونَ",
+        "transliteration": "Awalam yatafakkaroo fee anfusihim ma khalaqa Allahu alssamawati waal-arda wama baynahuma illa bialhaqqi waajalin musamman wa-inna katheeran mina alnnasi biliqa-i rabbihim lakafiroona",
+        "translations": {
+          "English": "Do they not reflect within themselves? God did not create the heavens and the earth, and what is between them, except with reason, and for a specific duration. But most people, regarding meeting their Lord, are disbelievers.",
+          "Urdu": "کیا انہوں نے اپنے آپ میں غور نہیں کیا کہ اللہ نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان ہے حق کے ساتھ اور ایک مقررہ مدت کے لیے پیدا کیا ہے؟ اور بہت سے لوگ اپنے رب سے ملنے کے بارے میں کافر ہیں۔",
+          "French": "N’ont-ils pas médité en eux-mêmes ? Allah n’a créé les cieux et la terre et ce qui est entre eux, qu’à juste raison et pour un terme fixé. Beaucoup de gens cependant ne croient pas en la rencontre de leur Seigneur.",
+          "Spanish": "¿Es que no reflexionan en sí mismos? Dios no creó los cielos y la tierra y lo que hay entre ellos sino con un fin justo y por un plazo determinado. Pero muchos hombres, en verdad, no creen que habrán de encontrarse con su Señor.",
+          "Hindi": "क्या उन्होंने अपने आप में विचार नहीं किया? अल्लाह ने आकाशों और धरती तथा जो कुछ उन दोनों के बीच है, सत्य के साथ ही और एक निर्धारित अवधि के लिए पैदा किया है। किन्तु बहुत-से लोग अपने रब से मिलने के विषय में काफ़िर हैं।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+        "transliteration": "Awalam yaseeroo fee al-ardi fayanthuroo kayfa kana AAaqibatu allatheena min qablihim kanoo ashadda minhum quwwatan waatharoo al-arda waAAamarooha akthara mimma AAamarooha wajaat-hum rusuluhum bialbayyinati fama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona",
+        "translations": {
+          "English": "Have they not travelled the earth and seen how those before them ended up? They were more powerful than them, and they cultivated the land and developed it more than they developed it, and their messengers came to them with clear signs. God would never wrong them, but they used to wrong themselves.",
+          "Urdu": "کیا انہوں نے زمین میں سفر نہیں کیا تاکہ دیکھتے کہ ان سے پہلے لوگوں کا کیا انجام ہوا؟ وہ ان سے زیادہ طاقتور تھے اور انہوں نے زمین کو کھودا اور اسے ان سے زیادہ آباد کیا۔ اور ان کے پاس ان کے رسول واضح نشانیوں کے ساتھ آئے تو اللہ ان پر ظلم کرنے والا نہیں تھا بلکہ وہ خود اپنے آپ پر ظلم کرتے تھے۔",
+          "French": "N’ont-ils pas parcouru la terre pour voir ce qu’il est advenu de ceux qui vivaient avant eux ? Ils étaient plus puissants qu’eux ; ils cultivaient et peuplaient la terre bien plus qu’ils ne l’ont fait eux-mêmes. Leurs messagers leur vinrent avec des preuves évidentes. Ce n’est pas Allah qui leur fit du tort, mais ils se firent du tort à eux-mêmes.",
+          "Spanish": "¿Es que no han viajado por la tierra y visto cómo terminaron quienes les precedieron? Eran más poderosos que ellos, cultivaron la tierra y la poblaron más de lo que ellos la han poblado. Sus Mensajeros les llegaron con las pruebas claras. Dios no fue injusto con ellos, sino que ellos se hicieron injusticia a sí mismos.",
+          "Hindi": "क्या उन्होंने धरती में चल-फिरकर नहीं देख लिया कि उनसे पहलेवालों का क्या परिणाम हुआ? वे इनसे अधिक शक्तिशाली थे और उन्होंने धरती को खोद डाला था और उसे इनसे अधिक आबाद किया था। उनके पास उनके रसूल स्पष्ट प्रमाण लेकर आ चुके थे। तो अल्लाह उनपर अत्याचार करनेवाला न था, बल्कि वे स्वयं अपने आप पर अत्याचार करते थे।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَى أَنْ كَذَّبُوا بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ",
+        "transliteration": "Thumma kana AAaqibata allatheena asaoo alssoo-a an kaththaboo bi-ayati Allahi wakanoo biha yastahzi-oona",
+        "translations": {
+          "English": "Then, evil was the end of those who committed evil. That is because they rejected God’s revelations, and used to ridicule them.",
+          "Urdu": "پھر جن لوگوں نے برے کام کیے ان کا انجام بہت برا ہوا کیونکہ انہوں نے اللہ کی آیات کو جھٹلایا اور ان کا مذاق اڑاتے تھے۔",
+          "French": "Puis, mauvaise fut la fin de ceux qui firent le mal, parce qu’ils traitaient de mensonges les versets d’Allah et qu’ils s’en moquaient.",
+          "Spanish": "Luego, quienes obraron mal tuvieron el peor final por haber desmentido los signos de Dios y haberse burlado de ellos.",
+          "Hindi": "फिर जिन लोगों ने बुरे कर्म किए, उनका परिणाम बुरा हुआ, क्योंकि उन्होंने अल्लाह की आयतों को झुठलाया और उनका उपहास उड़ाते थे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+        "transliteration": "Allahu yabdao alkhalqa thumma yuAAeeduhu thumma ilayhi turjaAAoona",
+        "translations": {
+          "English": "God originates creation, and then repeats it. Then to Him you will be returned.",
+          "Urdu": "اللہ ہی مخلوق کو پہلی بار پیدا کرتا ہے پھر وہی اسے دوبارہ پیدا کرے گا پھر تم اسی کی طرف لوٹائے جاؤ گے۔",
+          "French": "Allah commence la création, puis Il la refait. Puis c’est vers Lui que vous serez ramenés.",
+          "Spanish": "Dios origina la creación y luego la reproduce. Luego, seréis devueltos a Él.",
+          "Hindi": "अल्लाह ही सृष्टि को आरम्भ में पैदा करता है, फिर वही उसे दोबारा पैदा करेगा, फिर तुम उसी की ओर लौटाए जाओगे।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ",
+        "transliteration": "Wayawma taqoomu alssaAAatu yublisu almujrimoona",
+        "translations": {
+          "English": "On the Day when the Hour takes place, the guilty will despair.",
+          "Urdu": "اور جس دن قیامت قائم ہوگی مجرم ناامید ہو جائیں گے۔",
+          "French": "Et le jour où l’Heure arrivera, les criminels seront muets de désespoir.",
+          "Spanish": "El día que llegue la Hora, los criminales quedarán mudos de desesperación.",
+          "Hindi": "और जिस दिन क़ियामत आ खड़ी होगी, अपराधी निराश हो जाएँगे।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَلَمْ يَكُنْ لَهُمْ مِنْ شُرَكَائِهِمْ شُفَعَاءُ وَكَانُوا بِشُرَكَائِهِمْ كَافِرِينَ",
+        "transliteration": "Walam yakun lahum min shuraka-ihim shufaAAao wakanoo bishuraka-ihim kafireena",
+        "translations": {
+          "English": "They will have no intercessors from among their idols, and they will disown their partners.",
+          "Urdu": "اور ان کے شریکوں میں سے کوئی سفارشی نہ ہوگا اور وہ اپنے شریکوں کے منکر ہو جائیں گے۔",
+          "French": "Ils n’auront pas d’intercesseurs parmi leurs associés qu’ils vouaient au culte d’Allah, et ils renieront leurs associés.",
+          "Spanish": "No tendrán intercesores entre sus socios [que idolatraban] y renegarán de ellos.",
+          "Hindi": "और उनके साझीदारों में से कोई सिफ़ारिश करनेवाला न होगा और वे अपने साझीदारों के इन्कार करनेवाले होंगे।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ",
+        "transliteration": "Wayawma taqoomu alssaAAatu yawma-ithin yatafarraqoona",
+        "translations": {
+          "English": "On the Day when the Hour takes place—on that Day they will separate.",
+          "Urdu": "اور جس دن قیامت قائم ہوگی اس دن سب جدا جدا ہو جائیں گے۔",
+          "French": "Et le jour où l’Heure arrivera, ce jour-là ils se sépareront [les uns des autres].",
+          "Spanish": "El día que llegue la Hora, ese día se separarán [los creyentes de los incrédulos].",
+          "Hindi": "और जिस दिन क़ियामत आ खड़ी होगी, उस दिन वे अलग-अलग हो जाएँगे।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي رَوْضَةٍ يُحْبَرُونَ",
+        "transliteration": "Fa-amma allatheena amanoo waAAamiloo alssalihati fahum fee rawdatin yuhbaroona",
+        "translations": {
+          "English": "As for those who believed and did good deeds—they will be delighted in meadows.",
+          "Urdu": "پھر جو لوگ ایمان لائے اور انہوں نے نیک عمل کیے تو وہ باغوں میں خوش ہوں گے۔",
+          "French": "Quant à ceux qui auront cru et fait de bonnes œuvres, ils seront dans un jardin, tout heureux.",
+          "Spanish": "En cuanto a quienes hayan creído y obrado rectamente, estarán en un jardín deleitándose.",
+          "Hindi": "फिर जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए, तो वे बाग़ों में प्रसन्न होंगे।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا وَلِقَاءِ الْآخِرَةِ فَأُولَئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
+        "transliteration": "Wa-amma allatheena kafaroo wakaththaboo bi-ayatina waliqa-i al-akhirati faola-ika fee alAAathabi muhdaroona",
+        "translations": {
+          "English": "But as for those who disbelieved, and rejected Our signs and the encounter of the Hereafter—those will be hauled into the torment.",
+          "Urdu": "اور جن لوگوں نے کفر کیا اور ہماری آیات کو اور آخرت کے ملنے کو جھٹلایا تو وہی عذاب میں حاضر کیے جائیں گے۔",
+          "French": "Et quant à ceux qui auront mécru et traité de mensonges Nos versets ainsi que la rencontre de l’au-delà, ceux-là seront emmenés dans le supplice.",
+          "Spanish": "En cuanto a quienes no hayan creído, hayan desmentido Nuestros signos y el encuentro de la otra vida, esos serán llevados al castigo.",
+          "Hindi": "और जिन लोगों ने इन्कार किया और हमारी आयतों को तथा आख़िरत के मिलन को झुठलाया, तो वे यातना में पेश किए जाएँगे।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+        "transliteration": "Fasubhana Allahi heena tumsoona waheena tusbihoona",
+        "translations": {
+          "English": "So glorify God when you retire at night, and when you rise in the morning.",
+          "Urdu": "پس تم شام کو اور صبح کو اللہ کی تسبیح کرو۔",
+          "French": "Glorifiez Allah donc, soir et matin.",
+          "Spanish": "¡Glorifica a Dios al anochecer y al amanecer!",
+          "Hindi": "अतः तुम साँझ और सुबह अल्लाह की पवित्रता का वर्णन करो।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+        "transliteration": "Walahu alhamdu fee alssamawati waal-ardi waAAashiyyan waheena tuthhiroona",
+        "translations": {
+          "English": "His is the praise in the heavens and on earth, and in the evening, and when you reach midday.",
+          "Urdu": "اور آسمانوں اور زمین میں اس کی ہی حمد ہے اور شام کو اور جب تم دوپہر کو نکلتے ہو۔",
+          "French": "A Lui la louange dans les cieux et la terre, dans l’après-midi et au milieu de la journée.",
+          "Spanish": "Suyas son las alabanzas en los cielos y en la tierra, por la tarde y al mediodía.",
+          "Hindi": "और आकाशों और धरती में उसी की प्रशंसा है और सन्ध्या के समय भी और जब तुम दोपहर को निकलते हो।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا وَكَذَلِكَ تُخْرَجُونَ",
+        "transliteration": "Yukhriju alhayya mina almayyiti wayukhriju almayyita mina alhayyi wayuhyee al-arda baAAda mawtiha wakathalika tukhrajoona",
+        "translations": {
+          "English": "He brings the living out of the dead, and He brings the dead out of the living, and He revives the land after it had died. Likewise you will be resurrected.",
+          "Urdu": "وہ زندہ کو مردہ سے نکالتا ہے اور مردہ کو زندہ سے نکالتا ہے اور وہ زمین کو اس کے مر جانے کے بعد زندہ کرتا ہے اور اسی طرح تم (قبروں سے) نکالے جاؤ گے۔",
+          "French": "Il fait sortir le vivant du mort, et fait sortir le mort du vivant. Et Il redonne la vie à la terre après sa mort. Et c’est ainsi que vous serez ressuscités.",
+          "Spanish": "Él hace salir lo vivo de lo muerto y lo muerto de lo vivo. Y da vida a la tierra después de muerta. Así seréis resucitados.",
+          "Hindi": "वह जीवित को मुर्दे से निकालता है और मुर्दे को जीवित से निकालता है और वह धरती को उसके मर जाने के बाद जीवित कर देता है। और इसी प्रकार तुम (क़ब्रों से) निकाले जाओगे।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ إِذَا أَنْتُمْ بَشَرٌ تَنْتَشِرُونَ",
+        "transliteration": "Wamin ayatihi an khalaqakum min turabin thumma itha antum basharun tantashiroona",
+        "translations": {
+          "English": "And of His signs is that He created you from dust; and behold, you become humans spreading out.",
+          "Urdu": "اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تم کو مٹی سے پیدا کیا پھر تم انسان ہو کر پھیل رہے ہو۔",
+          "French": "Et parmi Ses signes : Il vous a créés de terre, - puis, vous voilà des hommes qui se dispersent [dans le monde].",
+          "Spanish": "Entre Sus signos está el haberos creado de tierra. Luego, os convertisteis en seres humanos que se reproducen.",
+          "Hindi": "और उसकी निशानियों में से यह है कि उसने तुम्हें मिट्टी से पैदा किया, फिर अब तुम मनुष्य होकर फैल रहे हो।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+        "transliteration": "Wamin ayatihi an khalaqa lakum min anfusikum azwajan litaskunoo ilayha wajaAAala baynakum mawaddatan warahmatan inna fee thalika laayatin liqawmin yatafakkaroona",
+        "translations": {
+          "English": "And of His signs is that He created for you mates from among yourselves, so that you may find tranquility in them; and He planted love and compassion between you. In this are signs for people who reflect.",
+          "Urdu": "اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تمہارے لیے تمہاری ہی جنس سے بیویاں پیدا کیں تاکہ تم ان کے پاس سکون حاصل کرو اور اس نے تمہارے درمیان محبت اور رحمت پیدا کر دی۔ اس میں غور و فکر کرنے والوں کے لیے نشانیاں ہیں۔",
+          "French": "Et parmi Ses signes Il a créé de vous, pour vous, des épouses pour que vous viviez en tranquillité avec elles et Il a mis entre vous de l’affection et de la bonté. Il y a en cela des preuves pour des gens qui réfléchissent.",
+          "Spanish": "Entre Sus signos está el haberos creado esposas de vuestra misma especie, para que encontréis en ellas sosiego, y el haber suscitado entre vosotros el afecto y la bondad. En eso hay signos para gente que reflexiona.",
+          "Hindi": "और उसकी निशानियों में से यह है कि उसने तुम्हारे लिए तुम्हीं में से जोड़े पैदा किए, ताकि तुम उनके पास सुख पाओ और उसने तुम्हारे बीच प्रेम और दया पैदा कर दी। निश्चय ही इसमें विचारवान लोगों के लिए निशानियाँ हैं।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْعَالِمِينَ",
+        "transliteration": "Wamin ayatihi khalqu alssamawati waal-ardi waikhtilafu alsinatikum waalwanikum inna fee thalika laayatin lilAAalameena",
+        "translations": {
+          "English": "And of His signs is the creation of the heavens and the earth, and the diversity of your languages and colors. In this are signs for those who know.",
+          "Urdu": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی پیدائش اور تمہاری زبانوں اور رنگتوں کا اختلاف ہے۔ اس میں علم رکھنے والوں کے لیے نشانیاں ہیں।",
+          "French": "Et parmi Ses signes la création des cieux et de la terre et la variété de vos idiomes et de vos couleurs. Il y a en cela des preuves pour les savants.",
+          "Spanish": "Entre Sus signos están la creación de los cielos y de la tierra, y la diversidad de vuestras lenguas y colores. En eso hay signos para los dotados de conocimiento.",
+          "Hindi": "और उसकी निशानियों में से आकाशों और धरती की रचना तथा तुम्हारी भाषाओं और रंगों का भिन्न-भिन्न होना है। निश्चय ही इसमें ज्ञानवानों के लिए निशानियाँ हैं।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
+        "transliteration": "Wamin ayatihi manamukum biallayli waalnnahari waibtighaokum min fadlihi inna fee thalika laayatin liqawmin yasmaAAoona",
+        "translations": {
+          "English": "And of His signs are your sleep by night and day, and your pursuit of His bounty. In this are signs for people who listen.",
+          "Urdu": "اور اس کی نشانیوں میں سے تمہارا رات اور دن میں سونا اور اس کے فضل (روزی) کی تلاش کرنا ہے۔ اس میں سننے والوں کے لیے نشانیاں ہیں۔",
+          "French": "Et parmi Ses signes votre sommeil la nuit et le jour, et aussi votre quête de Sa grâce. Il y a en cela des preuves pour des gens qui entendent.",
+          "Spanish": "Entre Sus signos están vuestro sueño nocturno y diurno, y vuestra búsqueda de Su favor. En eso hay signos para gente que oye.",
+          "Hindi": "और उसकी निशानियों में से तुम्हारा रात और दिन में सोना तथा उसके अनुग्रह (अर्थात जीविका) की खोज करना है। निश्चय ही इसमें सुननेवालों के लिए निशानियाँ हैं।"
+        }
+      }
+    ]
+}

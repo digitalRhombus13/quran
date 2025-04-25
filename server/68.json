@@ -1,0 +1,630 @@
+{
+    "no": 68,
+    "name": "Al-Qalam",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "ن وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+        "transliteration": "Noon waalqalami wama yasturoona",
+        "translations": {
+          "English": "Noon. By the pen, and by what they inscribe.",
+          "Urdu": "ن۔ قلم کی قسم اور جو کچھ وہ لکھتے ہیں۔",
+          "French": "Noun. Par le calame et ce qu’ils écrivent.",
+          "Spanish": "Nun. Por el cálamo y lo que escriben.",
+          "Hindi": "नून। क़लम की क़सम और जो कुछ वे लिखते हैं।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+        "transliteration": "Ma anta biniAAmati rabbika bimajnoonin",
+        "translations": {
+          "English": "By the grace of your Lord, you are not insane.",
+          "Urdu": "آپ اپنے رب کے فضل سے دیوانے نہیں ہیں۔",
+          "French": "Par la grâce de ton Seigneur, tu n’es pas un fou.",
+          "Spanish": "Por la gracia de tu Señor, no estás loco.",
+          "Hindi": "आप अपने रब के अनुग्रह से पागल नहीं हैं।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+        "transliteration": "Wa-inna laka laajran ghayra mamnoonin",
+        "translations": {
+          "English": "In fact, you will have a reward that will never end.",
+          "Urdu": "اور بے شک آپ کے لیے بے حساب اجر ہے۔",
+          "French": "Et tu auras une récompense jamais interrompue.",
+          "Spanish": "Y tendrás una recompensa interminable.",
+          "Hindi": "और निश्चय ही आपके लिए अनंत प्रतिदान है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ",
+        "transliteration": "Wa-innaka laAAala khuluqin AAatheemin",
+        "translations": {
+          "English": "And you are of a great moral character.",
+          "Urdu": "اور بے شک آپ بہترین اخلاق پر ہیں۔",
+          "French": "Et tu es d’un caractère exceptionnel.",
+          "Spanish": "Y posees un carácter grandioso.",
+          "Hindi": "और निश्चय ही आप महान चरित्र वाले हैं।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+        "transliteration": "Fasatubsiru wayubsiroona",
+        "translations": {
+          "English": "You will see, and they will see.",
+          "Urdu": "تم بھی دیکھو گے اور وہ بھی دیکھیں گے۔",
+          "French": "Tu verras et ils verront.",
+          "Spanish": "Tú verás y ellos verán.",
+          "Hindi": "तुम भी देखोगे और वे भी देखेंगे।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "بِأَيْيِكُمُ الْمَفْتُونُ",
+        "transliteration": "Bi-ayyikumu almaftoonu",
+        "translations": {
+          "English": "Which of you is the afflicted.",
+          "Urdu": "تم میں سے کون دیوانہ ہے۔",
+          "French": "Lequel d’entre vous est le possédé.",
+          "Spanish": "Quién de ustedes está loco.",
+          "Hindi": "तुम में से कौन पागल है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+        "transliteration": "Inna rabbaka huwa aAAlamu biman dalla AAan sabeelihi wahuwa aAAlamu bialmuhtadeena",
+        "translations": {
+          "English": "Your Lord knows best who has strayed from His path, and He knows best the well-guided.",
+          "Urdu": "بے شک تمہارا رب ہی بہتر جانتا ہے کہ کون اس کی راہ سے بھٹکا ہے اور وہی ہدایت یافتہ لوگوں کو بھی خوب جانتا ہے۔",
+          "French": "Ton Seigneur sait mieux qui s’égare de Son chemin et Il connaît mieux ceux qui sont bien guidés.",
+          "Spanish": "Tu Señor sabe mejor quién se extravía de Su camino y conoce mejor a los guiados.",
+          "Hindi": "निश्चय ही तुम्हारा रब ही बेहतर जानता है कि कौन उसके मार्ग से भटका है और वही मार्गदर्शन पाने वालों को भी जानता है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "فَلَا تُطِعِ الْمُكَذِّبِينَ",
+        "transliteration": "Fala tutiAAi almukaththibeena",
+        "translations": {
+          "English": "So do not obey the deniers.",
+          "Urdu": "پس جھٹلانے والوں کی بات نہ مانو۔",
+          "French": "N’obéis donc pas aux démenteurs.",
+          "Spanish": "No obedezcas a los que desmienten.",
+          "Hindi": "तो झुठलाने वालों का कहना न मानो।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+        "transliteration": "Waddoo law tudhinu fayudhinoona",
+        "translations": {
+          "English": "They would like you to compromise, so they would compromise.",
+          "Urdu": "وہ چاہتے ہیں کہ تم نرمی کرو تو وہ بھی نرمی کریں۔",
+          "French": "Ils aimeraient que tu transiges pour qu’ils transigent.",
+          "Spanish": "Quisieran que transijas para transigir ellos también.",
+          "Hindi": "वे चाहते हैं कि तुम नरमी दिखाओ तो वे भी नरमी दिखाएँ।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ",
+        "transliteration": "Wala tutiAA kulla hallafin maheenin",
+        "translations": {
+          "English": "And do not obey any vile swearer.",
+          "Urdu": "اور کسی ذلیل قسم کھانے والے کی بات نہ مانو۔",
+          "French": "N’obéis à aucun jurateur méprisable.",
+          "Spanish": "No obedezcas a ningún jurador despreciable.",
+          "Hindi": "और किसी नीच कसम खाने वाले की बात न मानो।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ",
+        "transliteration": "Hammazin mashsha-in binameemin",
+        "translations": {
+          "English": "Backbiter, spreader of slander.",
+          "Urdu": "عیب جو، چغل خور۔",
+          "French": "Diffamateur, colporteur de médisance.",
+          "Spanish": "Difamador, que va esparciendo calumnias.",
+          "Hindi": "निंदक, चुगली फैलाने वाला।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+        "transliteration": "MannaAAin lilkhayri muAAtadin atheemin",
+        "translations": {
+          "English": "Preventer of good, transgressor, sinner.",
+          "Urdu": "بھلائی سے روکنے والا، حد سے گزرنے والا، گناہ گار۔",
+          "French": "Empêcheur du bien, transgresseur, pécheur.",
+          "Spanish": "Obstructor del bien, transgresor, pecador.",
+          "Hindi": "भलाई से रोकने वाला, अतिक्रमण करने वाला, पापी।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "عُتُلٍّ بَعْدَ ذَلِكَ زَنِيمٍ",
+        "transliteration": "AAutullin baAAda thalika zaneemin",
+        "translations": {
+          "English": "Rude and fake besides.",
+          "Urdu": "درشت خو اور اس کے علاوہ بدنام۔",
+          "French": "Gros et dur, et en plus bâtard.",
+          "Spanish": "Tosco, y además ilegítimo.",
+          "Hindi": "कठोर स्वभाव वाला और उसके अलावा नीच।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "أَنْ كَانَ ذَا مَالٍ وَبَنِينَ",
+        "transliteration": "An kana tha malin wabaneena",
+        "translations": {
+          "English": "Just because he has money and children.",
+          "Urdu": "صرف اس لیے کہ وہ مال اور اولاد والا ہے۔",
+          "French": "Simplement parce qu’il a richesse et enfants.",
+          "Spanish": "Solo porque tiene riqueza e hijos.",
+          "Hindi": "सिर्फ़ इसलिए कि उसके पास धन और संतान है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "إِذَا تُتْلَى عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+        "transliteration": "Itha tutla AAalayhi ayatuna qala asateeru al-awwaleena",
+        "translations": {
+          "English": "When Our Verses are recited to him, he says, \"Myths of the ancients!\"",
+          "Urdu": "جب اس کے سامنے ہماری آیتیں پڑھی جاتی ہیں تو کہتا ہے: \"پہلوں کے افسانے!\"",
+          "French": "Quand Nos versets lui sont récités, il dit : \"Des légendes des anciens !\"",
+          "Spanish": "Cuando se le recitan Nuestros versículos, dice: \"¡Fábulas de los antiguos!\"",
+          "Hindi": "जब उसके सामने हमारी आयतें पढ़ी जाती हैं तो कहता है: \"पहले लोगों की कहानियाँ!\""
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "سَنَسِمُهُ عَلَى الْخُرْطُومِ",
+        "transliteration": "Sanasimuhu AAala alkhurtoomi",
+        "translations": {
+          "English": "We will brand him on the muzzle.",
+          "Urdu": "ہم اس کی ناک پر داغ لگا دیں گے۔",
+          "French": "Nous le marquerons sur le museau.",
+          "Spanish": "Le marcaremos en el hocico.",
+          "Hindi": "हम उसकी थूथन पर दाग़ लगा देंगे।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+        "transliteration": "Inna balawnahum kama balawna as-haba aljannati ith aqsamoo layasrimunnaha musbiheena",
+        "translations": {
+          "English": "We tested them, as We tested the owners of the garden, when they vowed to harvest it in the morning.",
+          "Urdu": "بے شک ہم نے انہیں آزمایا جیسا کہ باغ والوں کو آزمایا تھا، جب انہوں نے قسم کھائی کہ صبح سویرے ضرور توڑ لیں گے۔",
+          "French": "Nous les avons éprouvés comme Nous avons éprouvé les propriétaires du jardin qui avaient juré d’en cueillir les fruits au matin.",
+          "Spanish": "Los hemos puesto a prueba como probamos a los dueños del jardín cuando juraron que lo cosecharían por la mañana.",
+          "Hindi": "निश्चय ही हमने उन्हें परखा, जैसे बाग़ वालों को परखा था, जब उन्होंने कसम खाई कि सुबह होते ही वे उसे तोड़ लेंगे।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "وَلَا يَسْتَثْنُونَ",
+        "transliteration": "Wala yastathnoona",
+        "translations": {
+          "English": "Without any reservation.",
+          "Urdu": "بلا استثنا۔",
+          "French": "Sans aucune réserve.",
+          "Spanish": "Sin hacer excepción.",
+          "Hindi": "बिना किसी अपवाद के।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ",
+        "transliteration": "Fatafa AAalayha ta-ifun min rabbika wahum na-imoorna",
+        "translations": {
+          "English": "But a calamity from your Lord went around it while they slept.",
+          "Urdu": "پس ایک آفت تمہارے رب کی طرف سے اس باغ کو گھیر لے گی اور وہ سو رہے ہوں گے۔",
+          "French": "Mais une calamité de ton Seigneur en fit le tour pendant qu’ils dormaient.",
+          "Spanish": "Pero una calamidad de tu Señor la rodeó mientras dormían.",
+          "Hindi": "तो तुम्हारे रब की ओर से एक आपदा ने उसे घेर लिया, और वे सो रहे थे।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "فَأَصْبَحَتْ كَالصَّرِيمِ",
+        "transliteration": "Faasbahat kaalssareemi",
+        "translations": {
+          "English": "And in the morning it was as if picked.",
+          "Urdu": "پھر صبح ہوئی تو وہ کٹا ہوا سا لگ رہا تھا۔",
+          "French": "Et au matin, ce fut comme un jardin rasé.",
+          "Spanish": "Y por la mañana estaba como si hubiera sido cosechado.",
+          "Hindi": "फिर सुबह होते ही वह ऐसा लगा जैसे कट चुका हो।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "فَتَنَادَوْا مُصْبِحِينَ",
+        "transliteration": "Fatanadaw musbiheena",
+        "translations": {
+          "English": "In the morning, they called to one another.",
+          "Urdu": "تو صبح سویرے وہ ایک دوسرے کو پکارنے لگے۔",
+          "French": "Ils s’appelèrent alors mutuellement au matin.",
+          "Spanish": "Entonces se llamaron unos a otros por la mañana.",
+          "Hindi": "तो वे सुबह होते ही एक-दूसरे को पुकारने लगे।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "أَنِ اغْدُوا عَلَى حَرْثِكُمْ إِنْ كُنْتُمْ صَارِمِينَ",
+        "transliteration": "Ani ighdoo AAala harthikum in kuntum sareemeena",
+        "translations": {
+          "English": "\"Go early to your plantation, if you are going to harvest.\"",
+          "Urdu": "\"اگر تم نے پھل توڑنا ہے تو صبح سویرے اپنے باغ چلے جاؤ۔\"",
+          "French": "\"Allez tôt à votre champ si vous voulez le récolter.\"",
+          "Spanish": "\"Vayan temprano a su cultivo si quieren cosechar.\"",
+          "Hindi": "\"अगर तुम फल तोड़ने वाले हो तो सुबह ही अपने खेत चले जाओ।\""
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ",
+        "transliteration": "Faintalaqoo wahum yatakhafatoona",
+        "translations": {
+          "English": "So off they went, murmuring to one another.",
+          "Urdu": "تو وہ چل پڑے اور آپس میں سرگوشیاں کر رہے تھے۔",
+          "French": "Ils partirent donc, se parlant à voix basse.",
+          "Spanish": "Partieron, hablando entre ellos en voz baja.",
+          "Hindi": "तो वे चल पड़े, और आपस में फुसफुसा रहे थे।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "أَنْ لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْكِينٌ",
+        "transliteration": "An la yadkhulannaha alyawma AAalaykum miskeenun",
+        "translations": {
+          "English": "\"No poor person is to enter it upon you today.\"",
+          "Urdu": "\"آج کوئی مسکین تم پر اس میں داخل نہ ہو۔\"",
+          "French": "\"Aujourd’hui, aucun pauvre n’entrera chez vous.\"",
+          "Spanish": "\"Hoy no dejarán entrar a ningún pobre.\"",
+          "Hindi": "\"आज कोई गरीब तुम पर इस बाग़ में दाखिल न हो।\""
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "وَغَدَوْا عَلَى حَرْدٍ قَادِرِينَ",
+        "transliteration": "Waghadoo AAala hardin qadireena",
+        "translations": {
+          "English": "And early they went, resolved in intent.",
+          "Urdu": "اور وہ صبح سویرے اس ارادے سے نکلے کہ وہ (پھل توڑنے پر) قادر ہیں۔",
+          "French": "Ils partirent de bon matin, bien décidés.",
+          "Spanish": "Partieron temprano, decididos.",
+          "Hindi": "और वे सुबह ही इस इरादे से निकले कि वे (फल तोड़ने में) सक्षम हैं।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ",
+        "transliteration": "Falamma raawha qaloo inna ladalloona",
+        "translations": {
+          "English": "But when they saw it, they said, \"We were wrong.",
+          "Urdu": "پھر جب انہوں نے اسے دیکھا تو کہنے لگے: \"ہم تو بھٹک گئے۔\"",
+          "French": "Mais quand ils le virent, ils dirent : \"Nous avons perdu notre chemin.\"",
+          "Spanish": "Pero cuando lo vieron, dijeron: \"Nos hemos equivocado.\"",
+          "Hindi": "फिर जब उन्होंने उसे देखा तो कहने लगे: \"हम तो भटक गए।\""
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+        "transliteration": "Bal nahnu mahroomoona",
+        "translations": {
+          "English": "We are now deprived.\"",
+          "Urdu": "بلکہ ہم تو محروم ہو گئے۔\"",
+          "French": "Non, plutôt nous sommes frustrés.\"",
+          "Spanish": "Más bien, estamos privados.\"",
+          "Hindi": "बल्कि हम तो वंचित हो गए।\""
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ",
+        "transliteration": "Qala awsatuhum alam aqul lakum lawla tusabbihoona",
+        "translations": {
+          "English": "The most reasonable of them said, \"Did I not say to you, 'if only you would glorify?'\"",
+          "Urdu": "ان میں سب سے معقول آدمی نے کہا: \"کیا میں نے تم سے نہیں کہا تھا کہ تم تسبیح کیوں نہیں کرتے؟\"",
+          "French": "Le plus raisonnable d’entre eux dit : \"Ne vous avais-je pas dit de glorifier Dieu ?\"",
+          "Spanish": "El más sensato de ellos dijo: \"¿No les dije que debían glorificar a Dios?\"",
+          "Hindi": "उनमें सबसे संतुलित व्यक्ति ने कहा: \"क्या मैंने तुमसे नहीं कहा था कि तुम पवित्रता का वर्णन क्यों नहीं करते?\""
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ",
+        "transliteration": "Qaloo subhana rabbina inna kunna thalimeena",
+        "translations": {
+          "English": "They said, \"Glory to our Lord—We were indeed in the wrong.\"",
+          "Urdu": "انہوں نے کہا: \"ہمارا رب پاک ہے، بے شک ہم ظالم تھے۔\"",
+          "French": "Ils dirent : \"Gloire à notre Seigneur ! Nous avons été injustes.\"",
+          "Spanish": "Dijeron: \"¡Gloria a nuestro Señor! Ciertamente fuimos injustos.\"",
+          "Hindi": "उन्होंने कहा: \"हमारा रब पवित्र है, निश्चय ही हम अत्याचारी थे।\""
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَى بَعْضٍ يَتَلَاوَمُونَ",
+        "transliteration": "Faaqbala baAAduhum AAala baAAdin yatalawamoona",
+        "translations": {
+          "English": "Then they turned to one another, blaming one another.",
+          "Urdu": "پھر وہ ایک دوسرے کی طرف متوجہ ہوئے اور آپس میں ملامت کرنے لگے۔",
+          "French": "Ils se mirent alors à se faire des reproches mutuels.",
+          "Spanish": "Entonces se volvieron unos a otros, reprochándose mutuamente.",
+          "Hindi": "फिर वे एक-दूसरे की ओर मुड़े और आपस में दोषारोपण करने लगे।"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ",
+        "transliteration": "Qaloo ya waylana inna kunna tagheena",
+        "translations": {
+          "English": "They said, \"Woe to us—we were indeed domineering.",
+          "Urdu": "انہوں نے کہا: \"ہائے ہم پر، ہم تو سرکش تھے۔\"",
+          "French": "Ils dirent : \"Malheur à nous ! Nous avons été rebelles.\"",
+          "Spanish": "Dijeron: \"¡Ay de nosotros! Fuimos transgresores.\"",
+          "Hindi": "उन्होंने कहा: \"हाय हम पर, हम तो अत्याचारी थे।\""
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "عَسَى رَبُّنَا أَنْ يُبْدِلَنَا خَيْرًا مِنْهَا إِنَّا إِلَى رَبِّنَا رَاغِبُونَ",
+        "transliteration": "AAasa rabbuna an yubdilana khayran minha inna ila rabbina ragheboona",
+        "translations": {
+          "English": "Perhaps our Lord will give us a better substitute for it. We are turning to our Lord.\"",
+          "Urdu": "شاید ہمارا رب ہمیں اس سے بہتر بدلہ دے، ہم اپنے رب کی طرف رجوع کرنے والے ہیں۔\"",
+          "French": "Peut-être que notre Seigneur nous donnera quelque chose de meilleur en échange. C’est vers notre Seigneur que nous aspirons.\"",
+          "Spanish": "Quizás nuestro Señor nos dé algo mejor a cambio. A nuestro Señor volvemos nuestras esperanzas.\"",
+          "Hindi": "शायद हमारा रब हमें इससे बेहतर प्रतिस्थापन दे दे। हम अपने रब की ओर रुख करने वाले हैं।\""
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "كَذَلِكَ الْعَذَابُ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ",
+        "transliteration": "Kathalika alAAathabu walaAAathabu al-akhirati akbaru law kanoo yaAAlamoona",
+        "translations": {
+          "English": "Such is the punishment; but the punishment of the Hereafter is greater, if they only knew.",
+          "Urdu": "یہ دنیا کا عذاب ہے، اور آخرت کا عذاب تو بہت بڑا ہے، کاش وہ جانتے ہوتے۔",
+          "French": "Tel est le châtiment [d’ici-bas]. Et le châtiment de l’au-delà est plus grand, s’ils savaient.",
+          "Spanish": "Así es el castigo [en esta vida]. Pero el castigo de la otra vida es mayor, si supieran.",
+          "Hindi": "यह दुनिया की सज़ा है, और आख़िरत की सज़ा तो बहुत बड़ी है, काश वे जानते।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "إِنَّ لِلْمُتَّقِينَ عِنْدَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ",
+        "transliteration": "Inna lilmuttaqeena AAinda rabbihim jannati alnnaAAeemi",
+        "translations": {
+          "English": "For the righteous are Gardens of Delight with their Lord.",
+          "Urdu": "بے شک پرہیزگاروں کے لیے ان کے رب کے پاس نعمتوں والی جنتیں ہیں۔",
+          "French": "Les pieux auront auprès de leur Seigneur les Jardins des délices.",
+          "Spanish": "En verdad, los piadosos tendrán los Jardines de las Delicias junto a su Señor.",
+          "Hindi": "निश्चय ही डर रखने वालों के लिए उनके रब के पास नेमतों वाली जन्नतें हैं।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ",
+        "transliteration": "AfanajAAalu almuslimeena kalmujrimeena",
+        "translations": {
+          "English": "Shall We treat the Muslims like the villains?",
+          "Urdu": "کیا ہم مسلمانوں کو مجرموں جیسا سلوک کریں گے؟",
+          "French": "Traiterons-Nous les soumis comme les criminels ?",
+          "Spanish": "¿Acaso trataremos a los sometidos como a los criminales?",
+          "Hindi": "क्या हम मुसलमानों को अपराधियों जैसा बना देंगे?"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+        "transliteration": "Ma lakum kayfa tahkumoona",
+        "translations": {
+          "English": "What is the matter with you? How do you judge?",
+          "Urdu": "تمہیں کیا ہو گیا ہے؟ تم کیسا فیصلہ کرتے ہو؟",
+          "French": "Qu’avez-vous donc ? Comment jugez-vous ?",
+          "Spanish": "¿Qué les pasa? ¿Cómo juzgan?",
+          "Hindi": "तुम्हें क्या हो गया है? तुम कैसा निर्णय करते हो?"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ",
+        "transliteration": "Am lakum kitabun feehi tadrusoona",
+        "translations": {
+          "English": "Or do you have a scripture in which you study.",
+          "Urdu": "یا تمہارے پاس کوئی کتاب ہے جسے تم پڑھتے ہو؟",
+          "French": "Ou bien avez-vous un livre dans lequel vous étudiez,",
+          "Spanish": "¿O tienen un libro en el que estudian",
+          "Hindi": "या तुम्हारे पास कोई किताब है जिसमें तुम पढ़ते हो?"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+        "transliteration": "Inna lakum feehi lama takhayyaroona",
+        "translations": {
+          "English": "Wherein there is whatever you choose?",
+          "Urdu": "کہ اس میں جو چاہو وہ تمہارے لیے ہے؟",
+          "French": "et où vous trouvez tout ce que vous choisissez ?",
+          "Spanish": "y donde encuentran lo que elijan?",
+          "Hindi": "कि उसमें जो चाहो वह तुम्हारे लिए है?"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَى يَوْمِ الْقِيَامَةِ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+        "transliteration": "Am lakum aymanun AAalayna balighatun ila yawmi alqiyamati inna lakum lama tahkumoona",
+        "translations": {
+          "English": "Or do you have oaths from Us, binding until the Day of Resurrection, that you will have whatever you demand?",
+          "Urdu": "یا تمہارے پاس قیامت تک ہماری طرف سے پختہ قسمیں ہیں کہ جو تم حکم کرو گے وہ تمہارا ہوگا؟",
+          "French": "Ou bien avez-vous de Notre part des serments irrévocables jusqu’au Jour de la Résurrection, vous assurant que vous obtiendrez tout ce que vous déciderez ?",
+          "Spanish": "¿O tienen juramentos Nuestros que se extienden hasta el Día de la Resurrección, asegurándoles que obtendrán lo que decidan?",
+          "Hindi": "या तुम्हारे पास क़यामत तक हमारी तरफ़ से पक्की क़समें हैं कि जो तुम फ़ैसला करोगे वह तुम्हारा होगा?"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "سَلْهُمْ أَيُّهُمْ بِذَلِكَ زَعِيمٌ",
+        "transliteration": "Salhum ayyuhum bithalika zaAAeemun",
+        "translations": {
+          "English": "Ask them, which of them will guarantee that.",
+          "Urdu": "ان سے پوچھو کہ ان میں سے کون اس بات کا ضامن ہے۔",
+          "French": "Demande-leur qui d’entre eux en est garant.",
+          "Spanish": "Pregúntales quién de ellos garantiza eso.",
+          "Hindi": "उनसे पूछो कि उनमें से कौन इस बात का ज़िम्मेदार है।"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ",
+        "transliteration": "Am lahum shurakao falyatoo bishurakaihim in kanoo sadiqeena",
+        "translations": {
+          "English": "Or do they have partners? Then let them produce their partners, if they are truthful.",
+          "Urdu": "یا ان کے کچھ شریک ہیں؟ اگر وہ سچے ہیں تو اپنے شریکوں کو لے آئیں۔",
+          "French": "Ou bien ont-ils des associés ? Qu’ils fassent donc venir leurs associés, s’ils sont véridiques.",
+          "Spanish": "¿O tienen socios? Que hagan venir a sus socios, si es que dicen la verdad.",
+          "Hindi": "या उनके कुछ साझीदार हैं? अगर वे सच्चे हैं तो अपने साझीदारों को ले आएँ।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ",
+        "transliteration": "Yawma yukshafu AAan saqin wayudAAawna ila alssujoodi fala yastateeAAoona",
+        "translations": {
+          "English": "On the Day when the Shin will be exposed, and they will be called to bow down, but they will be unable.",
+          "Urdu": "جس دن پنڈلی کھول دی جائے گی اور انہیں سجدے کے لیے بلایا جائے گا تو وہ سجدہ نہ کر سکیں گے۔",
+          "French": "Le jour où le mollet sera dévoilé et où ils seront appelés à se prosterner, mais ils ne pourront pas.",
+          "Spanish": "El día en que se descubra la pierna y sean llamados a postrarse, pero no podrán.",
+          "Hindi": "जिस दिन पिंडली खोल दी जाएगी और उन्हें सजदे के लिए बुलाया जाएगा तो वे सजदा नहीं कर पाएँगे।"
+        }
+      },
+      {
+        "no": 43,
+        "arabic": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ",
+        "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun waqad kanoo yudAAawna ila alssujoodi wahum salimoona",
+        "translations": {
+          "English": "Their eyes subdued, shame will cover them. They were invited to bow down when they were sound.",
+          "Urdu": "ان کی نگاہیں جھکی ہوں گی، ذلت ان پر چھا جائے گی، حالانکہ وہ تندرست تھے جب انہیں سجدے کے لیے بلایا گیا تھا۔",
+          "French": "Les regards baissés, couverts d’humiliation. Alors qu’on les appelait à la prosternation, alors qu’ils étaient bien portants.",
+          "Spanish": "Con las miradas bajas, cubiertos de humillación. Y se les llamaba a postrarse cuando estaban sanos.",
+          "Hindi": "उनकी निगाहें झुकी होंगी, उन पर ज़िल्लत छा जाएगी, जबकि वे स्वस्थ थे जब उन्हें सजदे के लिए बुलाया गया था।"
+        }
+      },
+      {
+        "no": 44,
+        "arabic": "فَذَرْنِي وَمَنْ يُكَذِّبُ بِهَذَا الْحَدِيثِ سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ",
+        "transliteration": "Fatharnee waman yukaththibu bihatha alhadeethi sanastadrijuhum min haythu la yaAAlamoona",
+        "translations": {
+          "English": "So leave Me to those who reject this discourse; We will proceed against them gradually, from where they do not know.",
+          "Urdu": "پس مجھے چھوڑ دے ان لوگوں کے ساتھ جو اس کلام کو جھٹلاتے ہیں، ہم انہیں بتدریج اس طرف لے جائیں گے جہاں سے انہیں خبر نہیں۔",
+          "French": "Laisse-Moi donc avec ceux qui traitent ce discours de mensonge. Nous les mènerons graduellement par où ils ne savent pas.",
+          "Spanish": "Déjame con quienes desmienten este Mensaje. Los llevaremos gradualmente por donde no saben.",
+          "Hindi": "तो मुझे उन लोगों के साथ छोड़ दो जो इस कलाम को झुठलाते हैं, हम उन्हें धीरे-धीरे उस ओर ले जाएँगे जहाँ से उन्हें ख़बर नहीं।"
+        }
+      },
+      {
+        "no": 45,
+        "arabic": "وَأُمْلِي لَهُمْ إِنَّ كَيْدِي مَتِينٌ",
+        "transliteration": "Waomlee lahum inna kaydiy mateenun",
+        "translations": {
+          "English": "And I will give them respite. My plan is firm.",
+          "Urdu": "اور میں انہیں مہلت دوں گا، میری چال مضبوط ہے۔",
+          "French": "Et Je leur accorderai un délai, car Mon stratagème est solide.",
+          "Spanish": "Y les daré un plazo, pues Mi plan es firme.",
+          "Hindi": "और मैं उन्हें मोहलत दूँगा, मेरी चाल मज़बूत है।"
+        }
+      },
+      {
+        "no": 46,
+        "arabic": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ",
+        "transliteration": "Am tas-aluhum ajran fahum min maghramin muthqaloona",
+        "translations": {
+          "English": "Or do you ask them for a fee, so they are burdened with debt?",
+          "Urdu": "کیا تم ان سے کوئی اجرت مانگتے ہو کہ وہ قرض کے بوجھ تلے دبے ہوئے ہیں؟",
+          "French": "Ou leur demandes-tu un salaire, les accablant ainsi d’une lourde dette ?",
+          "Spanish": "¿O les pides un pago que los agobie con deudas?",
+          "Hindi": "क्या तुम उनसे कोई मज़दूरी माँगते हो कि वे कर्ज़ के बोझ से दबे हुए हैं?"
+        }
+      },
+      {
+        "no": 47,
+        "arabic": "أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+        "transliteration": "Am AAindahumu alghaybu fahum yaktuboona",
+        "translations": {
+          "English": "Or do they know the future, and so they write it down?",
+          "Urdu": "یا ان کے پاس غیب کا علم ہے کہ وہ لکھ لیتے ہیں؟",
+          "French": "Ou bien détiennent-ils l’Inconnaissable et l’écrivent-ils ?",
+          "Spanish": "¿O tienen conocimiento de lo oculto y lo registran?",
+          "Hindi": "या उनके पास ग़ैब का इल्म है कि वे लिख लेते हैं?"
+        }
+      },
+      {
+        "no": 48,
+        "arabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِ إِذْ نَادَى وَهُوَ مَكْظُومٌ",
+        "transliteration": "Fasbir lihukmi rabbika wala takun kasaheebi alhooti ith nada wahuwa makthoomun",
+        "translations": {
+          "English": "So wait patiently for the Decision of your Lord, and do not be like the Fellow of the Fish who cried out in despair.",
+          "Urdu": "پس اپنے رب کے فیصلے کا صبر سے انتظار کرو، اور مچھلی والے (یونس) کی طرح نہ ہو جب اس نے گھبرا کر پکارا تھا۔",
+          "French": "Endure donc avec patience la décision de ton Seigneur, et ne sois pas comme l’Homme au Poisson qui appela (son Seigneur) dans sa grande angoisse.",
+          "Spanish": "Ten paciencia con la decisión de tu Señor, y no seas como el Compañero del Pez que invocó (a su Señor) en su angustia.",
+          "Hindi": "तो अपने रब के फ़ैसले का सब्र से इंतज़ार करो, और मछली वाले (यूनुस) की तरह न हो जब उसने घबरा कर पुकारा था।"
+        }
+      },
+      {
+        "no": 49,
+        "arabic": "لَوْلَا أَنْ تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ",
+        "transliteration": "Lawla an tadarakahu niAAmatun min rabbihi lanubitha bialAAara-i wahuwa mathmoomun",
+        "translations": {
+          "English": "Were it not for his Lord’s favor that reached him, he would have been thrown into the wilderness, fully despised.",
+          "Urdu": "اگر اس کے رب کی مہربانی اسے نہ پکڑ لیتی تو وہ رسوا ہو کر بیابان میں پھینک دیا جاتا۔",
+          "French": "Si une grâce de son Seigneur ne l’avait pas atteint, il aurait été rejeté honteusement sur une terre déserte.",
+          "Spanish": "Si no hubiera sido por un favor de su Señor que lo alcanzó, habría sido arrojado al desierto en desgracia.",
+          "Hindi": "अगर उसके रब की मेहरबानी ने उसे न पकड़ा होता तो वह बेइज़्ज़त हो कर बंजर ज़मीन पर फेंक दिया जाता।"
+        }
+      },
+      {
+        "no": 50,
+        "arabic": "فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ",
+        "transliteration": "Fajtabahu rabbuhu fajaAAalahu mina alssaliheena",
+        "translations": {
+          "English": "But his Lord chose him, and made him one of the righteous.",
+          "Urdu": "پھر اس کے رب نے اسے چن لیا اور اسے صالحین میں سے بنا دیا۔",
+          "French": "Mais son Seigneur l’élut et le plaça parmi les justes.",
+          "Spanish": "Pero su Señor lo eligió y lo contó entre los justos.",
+          "Hindi": "फिर उसके रब ने उसे चुन लिया और उसे नेक लोगों में शामिल कर लिया।"
+        }
+      },
+      {
+        "no": 51,
+        "arabic": "وَإِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ",
+        "transliteration": "Wa-in yakadu allatheena kafaroo layuzliqoonaka bi-absarihim lamma samiAAoo alththikra wayaqooloona innahu lamajnoonun",
+        "translations": {
+          "English": "Those who disbelieve almost stab you with their glances when they hear the message, and say, “He is crazy!”",
+          "Urdu": "اور کافر تو قریب ہے کہ جب قرآن سنتے ہیں اپنی نظروں سے تمہیں گرا دیں، اور کہتے ہیں: \"یہ تو دیوانہ ہے!\"",
+          "French": "Et ceux qui ont mécru faillirent, lorsqu’ils entendaient le Coran, te transpercer de leurs regards. Et ils disent : \"C’est un fou !\"",
+          "Spanish": "Los que se niegan a creer casi te derriban con sus miradas cuando escuchan el Mensaje, y dicen: \"¡Está loco!\"",
+          "Hindi": "और क़रीब है कि काफ़िर जब क़ुरान सुनते हैं तो अपनी नज़रों से तुम्हें गिरा दें, और कहते हैं: \"यह तो पागल है!\""
+        }
+      },
+      {
+        "no": 52,
+        "arabic": "وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+        "transliteration": "Wama huwa illa thikrun lilAAalameena",
+        "translations": {
+          "English": "But it is no less than a reminder to all the Worlds.",
+          "Urdu": "حالانکہ یہ تو تمام جہان والوں کے لیے ایک نصیحت ہے۔",
+          "French": "Alors que ce n’est qu’un Rappel à l’univers.",
+          "Spanish": "Pero no es más que un recordatorio para todos los mundos.",
+          "Hindi": "हालाँकि यह तो सारे संसार वालों के लिए एक नसीहत है।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,138 @@
+{
+    "no": 63,
+    "name": "Al-Munafiqun",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ",
+        "transliteration": "Idhā jāʾaka al-munāfiqūna qālū nashhadu innaka la-rasūlu Allāhi wa-Allāhu yaʿlamu innaka la-rasūluhu wa-Allāhu yashhadu inna al-munāfiqīna la-kādhibūn",
+        "translations": {
+          "English": "When the hypocrites come to you, they say, 'We bear witness that you are God’s Messenger.' God knows that you are His Messenger, and God bears witness that the hypocrites are liars.",
+          "Urdu": "جب منافق آپ کے پاس آتے ہیں تو کہتے ہیں کہ ہم گواہی دیتے ہیں کہ آپ یقیناً اللہ کے رسول ہیں۔ اللہ جانتا ہے کہ آپ یقیناً اس کے رسول ہیں، اور اللہ گواہی دیتا ہے کہ منافق یقیناً جھوٹے ہیں۔",
+          "French": "Quand les hypocrites viennent à toi, ils disent : « Nous attestons que tu es certes le Messager d’Allah. » Allah sait que tu es Son Messager, et Allah atteste que les hypocrites sont certes des menteurs.",
+          "Spanish": "Cuando los hipócritas vienen a ti, dicen: 'Atestiguamos que eres el Mensajero de Allah'. Allah sabe que eres Su Mensajero, y Allah atestigua que los hipócritas son mentirosos.",
+          "Hindi": "जब आपके पास मुनाफिक (दोगले) आते हैं तो कहते हैं, 'हम गवाही देते हैं कि आप अल्लाह के रसूल हैं।' अल्लाह जानता है कि आप उसके रसूल हैं, और अल्लाह गवाही देता है कि मुनाफिक निश्चय ही झूठे हैं।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+        "transliteration": "Ittakhadhū aymānahum junnatan fa-ṣaddū ʿan sabīli Allāhi innahum sāʾa mā kānū yaʿmalūn",
+        "translations": {
+          "English": "They treat their oaths as a cover, and so they repel others from God’s path. Evil is what they do.",
+          "Urdu": "انہوں نے اپنی قسموں کو ڈھال بنا لیا ہے، پس وہ اللہ کے راستے سے روکتے ہیں۔ یقیناً وہ بہت برا کام کر رہے ہیں۔",
+          "French": "Ils ont fait de leurs serments un bouclier et ont ainsi détourné les autres du chemin d’Allah. Comme est mauvais ce qu’ils faisaient !",
+          "Spanish": "Han tomado sus juramentos como escudo y así apartan a otros del camino de Allah. ¡Qué malo es lo que hacen!",
+          "Hindi": "उन्होंने अपनी कसमों को ढाल बना लिया है और इस तरह लोगों को अल्लाह के मार्ग से रोकते हैं। निश्चय ही वे बहुत बुरा कर्म कर रहे हैं।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "ذَلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+        "transliteration": "Dhālika bi-annahum āmanū thumma kafarū fa-ṭubiʿa ʿalā qulūbihim fa-hum lā yafqahūn",
+        "translations": {
+          "English": "That is because they believed, and then disbelieved; so their hearts were sealed, and they cannot understand.",
+          "Urdu": "یہ اس لیے کہ انہوں نے ایمان لانے کے بعد کفر کیا، پس ان کے دلوں پر مہر لگا دی گئی ہے، اب وہ سمجھتے نہیں۔",
+          "French": "C’est parce qu’ils ont cru, puis ont mécru. Ainsi leurs cœurs ont-ils été scellés, de sorte qu’ils ne comprennent pas.",
+          "Spanish": "Eso es porque creyeron y luego rechazaron la fe. Por eso sus corazones fueron sellados y no pueden comprender.",
+          "Hindi": "यह इसलिए कि उन्होंने ईमान लाने के बाद कुफ्र किया, तो उनके दिलों पर मुहर लगा दी गई है, अब वे समझते नहीं।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ أَنَّى يُؤْفَكُونَ",
+        "transliteration": "Wa-idhā raʾaytahum tuʿjibuka ajsāmuhum wa-in yaqūlū tasmaʿ li-qawlihim ka-annahum khushubun musannadah yaḥsabūna kulla ṣayḥatin ʿalayhim humu al-ʿaduwwu fa-ḥdhārhum qātalahumu Allāhu annā yuʾfakūn",
+        "translations": {
+          "English": "When you see them, their appearance impresses you. And when they speak, you listen to what they say. They are like propped-up timber. They think every shout is aimed at them. They are the enemy, so beware of them. God condemns them; how deluded they are!",
+          "Urdu": "جب تم انہیں دیکھو تو ان کے جسم تمہیں متاثر کرتے ہیں، اور اگر وہ بولتے ہیں تو تم ان کی بات سنتے ہو۔ وہ اس طرح ہیں جیسے دیوار سے لگائے ہوئے لکڑی کے تختے۔ وہ ہر چلّاہٹ کو اپنی طرف سمجھتے ہیں۔ وہ دشمن ہیں، پس ان سے بچو۔ اللہ انہیں ہلاک کرے، وہ کس طرح بہکائے جا رہے ہیں!",
+          "French": "Quand tu les vois, leurs corps t’impressionnent. Et s’ils parlent, tu écoutes leurs paroles. Ils sont comme des poutres appuyées contre un mur. Ils pensent que chaque cri est dirigé contre eux. Ils sont les ennemis, alors prends garde à eux. Qu’Allah les extermine ! Comme ils sont détournés !",
+          "Spanish": "Cuando los ves, sus cuerpos te impresionan. Y si hablan, escuchas sus palabras. Son como maderos apoyados en una pared. Creen que cada grito es contra ellos. Son los enemigos, así que cuídate de ellos. ¡Que Allah los maldiga! ¡Cómo están desviados!",
+          "Hindi": "जब तुम उन्हें देखोगे तो उनके शरीर तुम्हें प्रभावित करेंगे, और यदि वे बोलें तो तुम उनकी बात सुनोगे। वे ऐसे हैं जैसे दीवार से टिकाए गए लकड़ी के तख्ते। वे हर चीख को अपनी ओर समझते हैं। वे दुश्मन हैं, इसलिए उनसे सावधान रहो। अल्लाह उन्हें नष्ट करे, वे कितने भटके हुए हैं!"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
+        "transliteration": "Wa-idhā qīla lahum taʿālaw yastaghfir lakum rasūlu Allāhi lawwaw ruʾūsahum wa-raʾaytahum yaṣuddūna wa-hum mustakbirūn",
+        "translations": {
+          "English": "And when it is said to them, 'Come, the Messenger of God will ask forgiveness for you,' they bend their heads, and you see them turning away arrogantly.",
+          "Urdu": "اور جب ان سے کہا جاتا ہے کہ 'آؤ، اللہ کا رسول تمہارے لیے مغفرت کی دعا کرے'، تو وہ اپنے سروں کو ٹیڑھا کر لیتے ہیں، اور تم انہیں تکبر سے منہ موڑتے دیکھتے ہو۔",
+          "French": "Et quand on leur dit : « Venez, le Messager d’Allah implorera le pardon pour vous », ils détournent la tête avec arrogance.",
+          "Spanish": "Y cuando se les dice: 'Venid, el Mensajero de Allah pedirá perdón por vosotros', giran sus cabezas con arrogancia.",
+          "Hindi": "और जब उनसे कहा जाता है, 'आओ, अल्लाह का रसूल तुम्हारे लिए माफी माँगेगा', तो वे अपने सिर झुका लेते हैं और तुम उन्हें अकड़कर मुड़ते देखते हो।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+        "transliteration": "Sawāʾun ʿalayhim astaghfarta lahum am lam tastaghfir lahum lan yaghfira Allāhu lahum inna Allāha lā yahdī al-qawma al-fāsiqīn",
+        "translations": {
+          "English": "It is the same for them, whether you ask forgiveness for them, or do not ask forgiveness for them; God will not forgive them. God does not guide the sinful people.",
+          "Urdu": "ان کے لیے برابر ہے، خواہ تم ان کے لیے مغفرت مانگو یا نہ مانگو، اللہ انہیں ہرگز معاف نہیں کرے گا۔ بے شک اللہ نافرمان لوگوں کو ہدایت نہیں دیتا۔",
+          "French": "Que tu demandes pardon pour eux ou non, c’est égal. Allah ne leur pardonnera pas. En vérité, Allah ne guide pas les gens pervers.",
+          "Spanish": "Da igual si pides perdón por ellos o no, Allah no les perdonará. En verdad, Allah no guía a la gente perversa.",
+          "Hindi": "तुम उनके लिए माफी माँगो या न माँगो, उनके लिए बराबर है। अल्लाह उन्हें कभी माफ नहीं करेगा। निश्चय ही अल्लाह नाफरमान लोगों को मार्ग नहीं दिखाता।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَى مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّى يَنْفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+        "transliteration": "Humu alladhīna yaqūlūna lā tunfiqū ʿalā man ʿinda rasūli Allāhi ḥattā yanfaḍḍū wa-li-Allāhi khazāʾinu al-samāwāti wa-al-arḍi wa-lakinna al-munāfiqīna lā yafqahūn",
+        "translations": {
+          "English": "It is they who say: 'Do not spend anything on those who side with God’s Messenger, unless they have dispersed.' To God belong the treasures of the heavens and the earth, but the hypocrites do not understand.",
+          "Urdu": "یہ وہ لوگ ہیں جو کہتے ہیں: 'اللہ کے رسول کے ساتھیوں پر کچھ خرچ نہ کرو یہاں تک کہ وہ منتشر ہو جائیں۔' حالانکہ آسمانوں اور زمین کے خزانے اللہ ہی کے ہیں، لیکن منافق سمجھتے نہیں۔",
+          "French": "Ce sont eux qui disent : « Ne dépensez rien pour ceux qui sont avec le Messager d’Allah, afin qu’ils se dispersent. » Or, c’est à Allah qu’appartiennent les trésors des cieux et de la terre, mais les hypocrites ne comprennent pas.",
+          "Spanish": "Ellos son quienes dicen: 'No gastéis en quienes están con el Mensajero de Allah hasta que se dispersen'. Pero a Allah pertenecen los tesoros de los cielos y la tierra, aunque los hipócritas no comprenden.",
+          "Hindi": "ये वे लोग हैं जो कहते हैं: 'अल्लाह के रसूल के साथियों पर कुछ खर्च न करो जब तक कि वे बिखर न जाएँ।' जबकि आसमानों और ज़मीन के खज़ाने अल्लाह के ही हैं, लेकिन मुनाफिक समझते नहीं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ",
+        "transliteration": "Yaqūlūna la-in rajaʿnā ilā al-madīnati la-yukhrijanna al-aʿazzu minhā al-adhalla wa-li-Allāhi al-ʿizzatu wa-li-rasūlihi wa-li-l-muʾminīna wa-lakinna al-munāfiqīna lā yaʿlamūn",
+        "translations": {
+          "English": "They say, 'If we return to the City, the more powerful therein will evict the weak.' But power belongs to God, and His Messenger, and the believers; but the hypocrites do not know.",
+          "Urdu": "وہ کہتے ہیں: 'اگر ہم مدینہ واپس گئے تو ضرور وہاں کا طاقتور کمزور کو نکال دے گا۔' حالانکہ عزت تو اللہ، اس کے رسول اور مومنوں ہی کے لیے ہے، لیکن منافق جانتے نہیں۔",
+          "French": "Ils disent : « Si nous retournons à Médine, le plus fort en chassera le plus faible. » Mais la puissance appartient à Allah, à Son Messager et aux croyants. Cependant, les hypocrites ne savent pas.",
+          "Spanish": "Dicen: 'Si regresamos a Medina, los más poderosos expulsarán a los débiles'. Pero el poder pertenece a Allah, a Su Mensajero y a los creyentes, aunque los hipócritas no lo saben.",
+          "Hindi": "वे कहते हैं: 'अगर हम मदीना लौटे तो वहाँ का ताकतवर कमज़ोर को निकाल देगा।' जबकि इज़्ज़त तो अल्लाह, उसके रसूल और मोमिनों के लिए है, लेकिन मुनाफिक जानते नहीं।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَلِكَ فَأُولَئِكَ هُمُ الْخَاسِرُونَ",
+        "transliteration": "Yā ayyuhā alladhīna āmanū lā tulhikum amwālukum wa-lā awlādukum ʿan dhikri Allāhi wa-man yafʿal dhālika fa-ulāʾika humu al-khāsirūn",
+        "translations": {
+          "English": "O you who believe! Let neither your possessions nor your children distract you from the remembrance of God. Whoever does that—these are the losers.",
+          "Urdu": "اے ایمان والو! تمہارے مال اور تمہاری اولاد تمہیں اللہ کے ذکر سے غافل نہ کر دیں۔ جو ایسا کرے گا، وہی لوگ نقصان اٹھانے والے ہیں۔",
+          "French": "Ô vous qui avez cru ! Que ni vos biens ni vos enfants ne vous distraient du rappel d’Allah. Et quiconque fait cela... alors ceux-là seront les perdants.",
+          "Spanish": "¡Oh creyentes! Que vuestros bienes e hijos no os distraigan del recuerdo de Allah. Quienes hagan eso serán los perdedores.",
+          "Hindi": "ऐ ईमान वालो! तुम्हारे धन और तुम्हारी संतानें तुम्हें अल्लाह के ज़िक्र से ग़ाफ़िल न कर दें। जो ऐसा करेगा, वही घाटा उठाने वाले हैं।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَى أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينَ",
+        "transliteration": "Wa-anfiqū mimmā razaqnākum min qabli an yaʾtiya aḥadakumu al-mawtu fa-yaqūla rabbi lawlā akhkhartanī ilā ajalin qarībin fa-aṣṣaddaqa wa-akun mina al-ṣāliḥīn",
+        "translations": {
+          "English": "And give from what We have provided for you, before death approaches one of you, and he says, 'My Lord, if only You would delay me for a short while, so that I may be charitable, and be one of the righteous.'",
+          "Urdu": "اور جو کچھ ہم نے تمہیں دیا ہے، اس میں سے خرچ کرو، قبل اس کے کہ تم میں سے کسی کی موت آ جائے اور وہ کہے: 'اے میرے رب، تو نے مجھے تھوڑی سی مہلت کیوں نہ دی کہ میں صدقہ کرتا اور نیکوکاروں میں شامل ہوتا۔'",
+          "French": "Et dépensez de ce que Nous vous avons accordé avant que la mort ne vienne à l’un de vous et qu’il dise alors : « Seigneur, si seulement Tu m’accordais un court délai, je ferais l’aumône et serais parmi les vertueux. »",
+          "Spanish": "Y gastad de lo que os hemos provisto antes de que la muerte llegue a alguno de vosotros y diga: 'Señor, ¿por qué no me concediste un poco más de tiempo para dar caridad y ser de los justos?'",
+          "Hindi": "और जो कुछ हमने तुम्हें दिया है, उसमें से खर्च करो, इससे पहले कि तुम में से किसी की मौत आ जाए और वह कहे: 'हे मेरे रब, तूने मुझे थोड़ी सी मोहलत क्यों नहीं दी कि मैं दान करता और नेक लोगों में शामिल होता।'"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+        "transliteration": "Wa-lan yuʾakhkhira Allāhu nafsan idhā jāʾa ajaluhā wa-Allāhu khabīrun bimā taʿmalūn",
+        "translations": {
+          "English": "But God will not delay a soul when its time has come. God is Informed of what you do.",
+          "Urdu": "اور اللہ کسی جان کو اس کی مہلت پوری ہو جانے کے بعد ہرگز نہیں ٹالتا۔ اور اللہ تمہارے اعمال سے باخبر ہے।",
+          "French": "Mais Allah n’accorde jamais de délai à une âme dont le terme est arrivé. Et Allah est Parfaitement Connaisseur de ce que vous faites.",
+          "Spanish": "Pero Allah no retrasará a un alma cuando llegue su plazo. Y Allah está bien informado de lo que hacéis.",
+          "Hindi": "और अल्लाह किसी प्राण को उसकी मोहलत पूरी हो जाने के बाद कभी नहीं टालता। और अल्लाह तुम्हारे कर्मों से भली-भाँति अवगत है।"
+        }
+      }
+    ]
+  }

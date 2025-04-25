@@ -1,0 +1,204 @@
+{
+    "no": 49,
+    "name": "Al-Hujurat",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+        "translations": {
+          "English": "O you who believe! Do not place your opinions above that of God and His Messenger, and fear God. God is Hearing and Knowing.",
+          "Urdu": "اے ایمان والو! اللہ اور اس کے رسول سے آگے نہ بڑھو اور اللہ سے ڈرو، بے شک اللہ سننے والا جاننے والا ہے۔",
+          "French": "Ô vous qui croyez! Ne placez pas vos opinions au-dessus de celles d'Allah et de Son Messager, et craignez Allah. Allah est Audient et Omniscient.",
+          "Spanish": "¡Oh creyentes! No pongan sus opiniones por encima de las de Alá y Su Mensajero, y teman a Alá. Alá es Oyente y Omnisciente.",
+          "Hindi": "ऐ ईमान वालो! अल्लाह और उसके रसूल से आगे न बढ़ो और अल्लाह से डरो, निस्संदेह अल्लाह सुनने वाला जानने वाला है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ",
+        "translations": {
+          "English": "O you who believe! Do not raise your voices above the voice of the Prophet, and do not speak loudly to him, as you speak loudly to one another, lest your works be in vain without you realizing.",
+          "Urdu": "اے ایمان والو! اپنی آوازوں کو نبی کی آواز سے بلند نہ کرو اور نہ ان سے ایسی بلند آواز میں بات کرو جیسے آپس میں ایک دوسرے سے بلند آواز میں بات کرتے ہو، ایسا نہ ہو کہ تمہارے اعمال ضائع ہو جائیں اور تمہیں احساس بھی نہ ہو۔",
+          "French": "Ô vous qui croyez! N'élevez pas vos voix au-dessus de la voix du Prophète, et ne lui parlez pas à haute voix comme vous le faites entre vous, sinon vos œuvres deviendront vaines sans que vous vous en rendiez compte.",
+          "Spanish": "¡Oh creyentes! No eleven sus voces por encima de la voz del Profeta, ni le hablen en voz alta como lo hacen entre ustedes, no sea que sus obras se vuelvan vanas sin que se den cuenta.",
+          "Hindi": "ऐ ईमान वालो! नबी की आवाज से अपनी आवाज ऊँची न करो और न ही उनसे ऊँची आवाज में बात करो जैसे तुम आपस में एक-दूसरे से ऊँची आवाज में बात करते हो, ऐसा न हो कि तुम्हारे अमल बेकार हो जाएँ और तुम्हें पता भी न चले।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+        "translations": {
+          "English": "Those who lower their voices before God's Messenger—those are they whose hearts God has tested for piety. They will have forgiveness and a great reward.",
+          "Urdu": "بے شک جو لوگ اللہ کے رسول کے سامنے اپنی آوازیں پست رکھتے ہیں، یہی وہ لوگ ہیں جن کے دلوں کو اللہ نے تقویٰ کے لیے آزمایا ہے، ان کے لیے بخشش اور بڑا اجر ہے۔",
+          "French": "Ceux qui baissent leurs voix en présence du Messager d'Allah, ce sont eux dont Allah a éprouvé les cœurs pour la piété. À eux le pardon et une grande récompense.",
+          "Spanish": "En verdad, quienes moderan sus voces en presencia del Mensajero de Alá son aquellos cuyos corazones Alá ha probado para la piedad. Tendrán perdón y una gran recompensa.",
+          "Hindi": "निस्संदेह जो लोग अल्लाह के रसूल के सामने अपनी आवाज़ें धीमी रखते हैं, यही वे लोग हैं जिनके दिलों को अल्लाह ने तक़वा के लिए जाँचा है, उनके लिए माफी और बड़ा इनाम है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+        "translations": {
+          "English": "Those who call you from behind the chambers—most of them do not understand.",
+          "Urdu": "جو لوگ حجروں کے پیچھے سے آپ کو پکارتے ہیں، ان میں سے اکثر عقل نہیں رکھتے۔",
+          "French": "Ceux qui t'appellent de derrière les appartements, la plupart d'entre eux ne comprennent pas.",
+          "Spanish": "Aquellos que te llaman desde detrás de las habitaciones, la mayoría de ellos no comprenden.",
+          "Hindi": "जो लोग कमरों के पीछे से तुम्हें पुकारते हैं, उनमें से अधिकांश समझ नहीं रखते।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+        "translations": {
+          "English": "Had they remained patient until you came out to them, it would have been better for them. But God is Forgiving and Merciful.",
+          "Urdu": "اگر وہ صبر کرتے یہاں تک کہ آپ ان کے پاس باہر آتے تو یہ ان کے لیے بہتر ہوتا، اور اللہ بخشنے والا مہربان ہے۔",
+          "French": "S'ils avaient patienté jusqu'à ce que tu sortes vers eux, cela aurait été mieux pour eux. Mais Allah est Pardonneur et Miséricordieux.",
+          "Spanish": "Si hubieran tenido paciencia hasta que salieras a ellos, habría sido mejor para ellos. Pero Alá es Indulgente y Misericordioso.",
+          "Hindi": "अगर वे धैर्य रखते यहाँ तक कि तुम उनके पास बाहर आते तो यह उनके लिए बेहतर होता, और अल्लाह क्षमाशील दयावान है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَى مَا فَعَلْتُمْ نَادِمِينَ",
+        "translations": {
+          "English": "O you who believe! If a troublemaker brings you any news, investigate, lest you harm people out of ignorance, and you become regretful for what you have done.",
+          "Urdu": "اے ایمان والو! اگر کوئی فاسق تمہارے پاس کوئی خبر لے کر آئے تو تحقیق کر لیا کرو، ایسا نہ ہو کہ تم کسی قوم کو جہالت کی وجہ سے نقصان پہنچا دو پھر اپنے کیے پر پشیمان ہو جاؤ۔",
+          "French": "Ô vous qui croyez! Si un pervers vous apporte une nouvelle, vérifiez-la, de peur que vous ne portiez atteinte à des gens par ignorance et que vous ne regrettiez ensuite ce que vous avez fait.",
+          "Spanish": "¡Oh creyentes! Si un malhechor les trae una noticia, verifíquenla, no sea que perjudiquen a gente por ignorancia y luego se arrepientan de lo que hicieron.",
+          "Hindi": "ऐ ईमान वालो! अगर कोई फासिक तुम्हारे पास कोई खबर लेकर आए तो पड़ताल कर लिया करो, ऐसा न हो कि तुम किसी कौम को जहालत की वजह से नुकसान पहुँचा दो फिर अपने किए पर पछताओ।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الْأَمْرِ لَعَنِتُّمْ وَلَكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ أُولَئِكَ هُمُ الرَّاشِدُونَ",
+        "translations": {
+          "English": "And know that among you is the Messenger of God. Had he obeyed you in many things, you would have suffered hardship. But God has given you the love of faith, and adorned it in your hearts, and made disbelief, mischief, and rebellion hateful to you. These are the rightly guided.",
+          "Urdu": "اور جان لو کہ تم میں اللہ کا رسول موجود ہے، اگر وہ بہت سے معاملات میں تمہاری بات مان لیں تو تم مشکل میں پڑ جاؤ، لیکن اللہ نے تمہارے دلوں میں ایمان کو پیارا بنا دیا ہے اور اسے زینت بخشی ہے اور کفر و فسق و نافرمانی کو تمہارے لیے ناپسندیدہ بنا دیا ہے، یہی لوگ ہدایت یافتہ ہیں۔",
+          "French": "Et sachez que parmi vous se trouve le Messager d'Allah. S'il vous obéissait dans beaucoup de choses, vous seriez dans la difficulté. Mais Allah vous a fait aimer la foi et l'a embelli dans vos cœurs, et vous a fait détester la mécréance, la perversité et la désobéissance. Ceux-là sont les bien guidés.",
+          "Spanish": "Y sepan que entre ustedes está el Mensajero de Alá. Si les obedeciera en muchos asuntos, estarían en dificultades. Pero Alá les ha hecho amar la fe y la ha embellecido en sus corazones, y les ha hecho detestar la incredulidad, la perversión y la desobediencia. Esos son los rectamente guiados.",
+          "Hindi": "और जान लो कि तुम्हारे बीच अल्लाह का रसूल मौजूद है, अगर वह बहुत से मामलों में तुम्हारी बात मान लें तो तुम मुश्किल में पड़ जाओ, लेकिन अल्लाह ने तुम्हारे दिलों में ईमान को प्यारा बना दिया है और उसे सजा दिया है और कुफ्र व फिस्क व नाफरमानी को तुम्हारे लिए नापसंद बना दिया है, यही लोग हिदायत याफ्ता हैं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "فَضْلًا مِنَ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        "translations": {
+          "English": "A Grace and Favor from God. God is Knowing and Wise.",
+          "Urdu": "یہ اللہ کا فضل اور احسان ہے، اور اللہ جاننے والا حکمت والا ہے۔",
+          "French": "Une grâce et une faveur d'Allah. Allah est Omniscient et Sage.",
+          "Spanish": "Un favor y una gracia de Alá. Alá es Omnisciente y Sabio.",
+          "Hindi": "यह अल्लाह का फज़ल और एहसान है, और अल्लाह जानने वाला हिकमत वाला है।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَى فَقَاتِلُوا الَّتِي تَبْغِي حَتَّى تَفِيءَ إِلَى أَمْرِ اللَّهِ فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+        "translations": {
+          "English": "If two groups of believers fight each other, reconcile between them. But if one group aggresses against the other, fight the aggressing group until it complies with God's command. Once it has complied, reconcile between them with justice, and be equitable. God loves the equitable.",
+          "Urdu": "اور اگر مومنوں کے دو گروہ آپس میں لڑ پڑیں تو ان کے درمیان صلح کراؤ، پھر اگر ان میں سے ایک گروہ دوسرے پر زیادتی کرے تو اس گروہ سے لڑو جو زیادتی کر رہا ہے یہاں تک کہ وہ اللہ کے حکم کی طرف لوٹ آئے، پھر اگر وہ لوٹ آئے تو ان کے درمیان انصاف کے ساتھ صلح کراؤ اور انصاف کرو، بے شک اللہ انصاف کرنے والوں سے محبت کرता ہے۔",
+          "French": "Et si deux groupes de croyants se combattent, réconciliez-les. Mais si l'un d'eux se rebelle contre l'autre, combattez le groupe rebelle jusqu'à ce qu'il se conforme à l'ordre d'Allah. S'il s'y conforme, réconciliez-les avec justice et soyez équitables. Car Allah aime les équitables.",
+          "Spanish": "Si dos grupos de creyentes se combaten, reconcílienlos. Pero si uno de ellos se rebela contra el otro, combatan al grupo rebelde hasta que se someta al mandato de Alá. Si se somete, reconcílienlos con justicia y sean equitativos. En verdad, Alá ama a los equitativos.",
+          "Hindi": "और अगर मोमिनों के दो गिरोह आपस में लड़ पड़ें तो उनके बीच सुलह कराओ, फिर अगर उनमें से एक गिरोह दूसरे पर ज़्यादती करे तो उस गिरोह से लड़ो जो ज़्यादती कर रहा है यहाँ तक कि वह अल्लाह के हुक्म की तरफ लौट आए, फिर अगर वह लौट आए तो उनके बीच इंसाफ के साथ सुलह कराओ और इंसाफ करो, बेशक अल्लाह इंसाफ करने वालों से मुहब्बत करता है।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+        "translations": {
+          "English": "The believers are brothers, so reconcile between your brothers, and remain conscious of God, so that you may receive mercy.",
+          "Urdu": "مومن تو آپس میں بھائی بھائی ہیں، پس اپنے دو بھائیوں کے درمیان صلح کراؤ اور اللہ سے ڈرو تاکہ تم پر رحم کیا جائے۔",
+          "French": "Les croyants sont frères. Établissez la concorde entre vos frères, et craignez Allah, afin qu'on vous fasse miséricorde.",
+          "Spanish": "Los creyentes son hermanos. Así que reconcilien a sus hermanos y teman a Alá, para que se les tenga misericordia.",
+          "Hindi": "मोमिन तो आपस में भाई-भाई हैं, इसलिए अपने दो भाइयों के बीच सुलह कराओ और अल्लाह से डरो ताकि तुम पर रहम किया जाए।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَى أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَى أَنْ يَكُنَّ خَيْرًا مِنْهُنَّ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا تَنَابَزُوا بِالْأَلْقَابِ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْإِيمَانِ وَمَنْ لَمْ يَتُبْ فَأُولَئِكَ هُمُ الظَّالِمُونَ",
+        "translations": {
+          "English": "O you who believe! No people shall ridicule other people, for they may be better than they. Nor shall any women ridicule other women, for they may be better than they. Nor shall you slander one another, nor shall you insult one another with names. Evil is the return to wickedness after having attained faith. Whoever does not repent—these are the wrongdoers.",
+          "Urdu": "اے ایمان والو! کوئی قوم کسی قوم کا مذاق نہ اڑائے، ہو سکتا ہے کہ وہ ان سے بہتر ہوں، اور نہ ہی عورتیں دوسری عورتوں کا مذاق اڑائیں، ہو سکتا ہے کہ وہ ان سے بہتر ہوں، اور نہ ایک دوسرے پر طعنہ زنی کرو اور نہ ہی ایک دوسرے کو برے ناموں سے پکارو، ایمان لانے کے بعد فسق کا نام بہت برا ہے، اور جو توبہ نہ کرے تو وہی ظالم ہیں۔",
+          "French": "Ô vous qui croyez! Qu'un groupe ne se moque pas d'un autre groupe, ceux-ci sont peut-être meilleurs qu'eux. Et que des femmes ne se moquent pas d'autres femmes, celles-ci sont peut-être meilleures qu'elles. Ne vous dénigrez pas et ne vous lancez pas mutuellement des sobriquets. Quel mauvais mot que 'perversité' après avoir eu la foi! Et quiconque ne se repent pas, ceux-là sont les injustes.",
+          "Spanish": "¡Oh creyentes! Que ningún pueblo se burle de otro pueblo, puede que estos sean mejores que ellos. Ni que las mujeres se burlen de otras mujeres, puede que estas sean mejores que ellas. No se difamen ni se insulten con apodos. ¡Qué mal nombre el de 'perversión' después de haber tenido fe! Quien no se arrepienta, esos son los injustos.",
+          "Hindi": "ऐ ईमान वालो! कोई क़ौम किसी क़ौम का मज़ाक न उड़ाए, हो सकता है कि वे उनसे बेहतर हों, और न ही औरतें दूसरी औरतों का मज़ाक उड़ाएँ, हो सकता है कि वे उनसे बेहतर हों, और न एक-दूसरे पर ताना मारो और न ही एक-दूसरे को बुरे नामों से पुकारो, ईमान लाने के बाद फिस्क का नाम बहुत बुरा है, और जो तौबा न करे तो वही ज़ालिम हैं।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ",
+        "translations": {
+          "English": "O you who believe! Avoid most suspicion—some suspicion is sinful. And do not spy on one another, nor backbite one another. Would any of you like to eat the flesh of his dead brother? You would detest it. So remain mindful of God. God is Most Relenting, Most Merciful.",
+          "Urdu": "اے ایمان والو! بہت سے گمانوں سے بچو، بے شک بعض گمان گناہ ہوتے ہیں، اور جاسوسی نہ کرو اور نہ ہی ایک دوسرے کی غیبت کرو، کیا تم میں سے کوئی پسند کرے گا کہ اپنے مردہ بھائی کا گوشت کھائے؟ تم اسے ناپسند کرو گے، پس اللہ سے ڈرو، بے شک اللہ توبہ قبول کرنے والا مہربان ہے۔",
+          "French": "Ô vous qui croyez! Évitez de trop conjecturer, car certaines conjectures sont péchés. Et n'espionnez pas et ne médisez pas les uns des autres. L'un de vous aimerait-il manger la chair de son frère mort? Vous en aurez horreur. Et craignez Allah. Car Allah est Grand Accueillant au repentir, Très Miséricordieux.",
+          "Spanish": "¡Oh creyentes! Eviten muchas sospechas, pues algunas sospechas son pecado. No se espíen ni se hablen mal unos de otros. ¿Acaso a alguno de ustedes le gustaría comer la carne de su hermano muerto? Lo detestarían. Tengan temor de Alá. En verdad, Alá es Indulgente, Misericordioso.",
+          "Hindi": "ऐ ईमान वालो! बहुत से गुमानों से बचो, बेशक कुछ गुमान गुनाह होते हैं, और जासूसी न करो और न ही एक-दूसरे की ग़ीबत करो, क्या तुम में से कोई पसंद करेगा कि अपने मुर्दा भाई का गोश्त खाए? तुम इसे नापसंद करोगे, इसलिए अल्लाह से डरो, बेशक अल्लाह तौबा क़बूल करने वाला मेहरबान है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+        "translations": {
+          "English": "O people! We created you from a male and a female, and made you races and tribes, that you may know one another. The best among you in the sight of God is the most righteous. God is All-Knowing, Well-Experienced.",
+          "Urdu": "اے لوگو! ہم نے تمہیں ایک مرد اور عورت سے پیدا کیا اور تمہیں قومیں اور قبیلے بنایا تاکہ تم ایک دوسرے کو پہچانو، بے شک اللہ کے نزدیک تم میں سب سے زیادہ عزت والا وہ ہے جو سب سے زیادہ پرہیزگار ہے، بے شک اللہ جاننے والا باخبر ہے۔",
+          "French": "Ô hommes! Nous vous avons créés d'un mâle et d'une femelle, et Nous avons fait de vous des nations et des tribus, pour que vous vous entre-connaissiez. Le plus noble d'entre vous, auprès d'Allah, est le plus pieux. Allah est Omniscient et Grand Connaisseur.",
+          "Spanish": "¡Oh humanidad! Los hemos creado a partir de un hombre y una mujer, y los hemos hecho pueblos y tribus para que se conozcan. En verdad, el más honorable de ustedes ante Alá es el más piadoso. Alá es Omnisciente, está bien informado.",
+          "Hindi": "ऐ लोगो! हमने तुम्हें एक नर और मादा से पैदा किया और तुम्हें क़ौमें और क़बीलें बनाया ताकि तुम एक-दूसरे को पहचानो, बेशक अल्लाह के नज़दीक तुम में सबसे ज़्यादा इज़्ज़त वाला वह है जो सबसे ज़्यादा परहेज़गार है, बेशक अल्लाह जानने वाला ख़बरदार है।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "قَالَتِ الْأَعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَلَكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ وَإِنْ تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئًا إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+        "translations": {
+          "English": "The Desert-Arabs say, \"We have believed.\" Say, \"You have not believed; but say, 'We have submitted,' for faith has not yet entered into your hearts. But if you obey God and His Messenger, He will not diminish any of your deeds. God is Forgiving and Merciful.\"",
+          "Urdu": "دیہاتی کہتے ہیں کہ ہم ایمان لے آئے، کہہ دو کہ تم ایمان نہیں لائے ہو بلکہ یہ کہو کہ ہم نے اسلام قبول کر لیا ہے، کیونکہ ایمان ابھی تمہارے دلوں میں داخل نہیں ہوا ہے، اور اگر تم اللہ اور اس کے رسول کی اطاعت کرو گے تو وہ تمہارے اعمال میں سے کچھ بھی کم نہیں کرے گا، بے شک اللہ بخشنے والا مہربان ہے۔",
+          "French": "Les Bédouins disent: \"Nous avons cru.\" Dis: \"Vous n'avez pas encore cru. Dites plutôt: 'Nous nous sommes soumis', car la foi n'a pas encore pénétré dans vos cœurs. Mais si vous obéissez à Allah et à Son Messager, Il ne vous fera rien perdre de vos œuvres. Allah est Pardonneur et Miséricordieux.\"",
+          "Spanish": "Los beduinos dicen: \"Hemos creído\". Di: \"No habéis creído todavía, sino decid: 'Nos hemos sometido', porque la fe aún no ha entrado en vuestros corazones. Pero si obedecéis a Alá y a Su Mensajero, Él no os disminuirá nada de vuestras obras. En verdad, Alá es Indulgente, Misericordioso.\"",
+          "Hindi": "देहाती कहते हैं कि हम ईमान ले आए, कह दो कि तुम ईमान नहीं लाए हो बल्कि यह कहो कि हमने इस्लाम क़बूल कर लिया है, क्योंकि ईमान अभी तुम्हारे दिलों में दाख़िल नहीं हुआ है, और अगर तुम अल्लाह और उसके रसूल की इताअत करोगे तो वह तुम्हारे अमल में से कुछ भी कम नहीं करेगा, बेशक अल्लाह बख़्शने वाला मेहरबान है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ أُولَئِكَ هُمُ الصَّادِقُونَ",
+        "translations": {
+          "English": "The believers are those who believe in God and His Messenger, and then have not doubted, and strive for God's cause with their wealth and their persons. These are the sincere.",
+          "Urdu": "مومن تو وہی ہیں جو اللہ اور اس کے رسول پر ایمان لائے پھر کبھی شک نہیں کیا اور اللہ کی راہ میں اپنے مالوں اور جانوں سے جہاد کیا، یہی لوگ سچے ہیں।",
+          "French": "Les vrais croyants sont ceux qui croient en Allah et en Son Messager, qui ensuite ne doutent point, et qui luttent avec leurs biens et leurs personnes dans le chemin d'Allah. Ceux-là sont les véridiques.",
+          "Spanish": "Los verdaderos creyentes son aquellos que creen en Alá y en Su Mensajero, luego no dudan, y luchan con sus bienes y sus personas por la causa de Alá. Esos son los sinceros.",
+          "Hindi": "मोमिन तो वही हैं जो अल्लाह और उसके रसूल पर ईमान लाए फिर कभी शक नहीं किया और अल्लाह की राह में अपने मालों और जानों से जिहाद किया, यही लोग सच्चे हैं।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        "translations": {
+          "English": "Say, \"Are you going to teach God about your religion, when God knows everything in the heavens and the earth, and God is aware of all things?\"",
+          "Urdu": "کہہ دو کہ کیا تم اللہ کو اپنے دین کے بارے میں بتا رہے ہو، حالانکہ اللہ جو کچھ آسمانوں اور زمین میں ہے سب جانتا ہے، اور اللہ ہر چیز کو جاننے والا ہے۔",
+          "French": "Dis: \"Allez-vous apprendre à Allah votre religion, alors qu'Allah sait tout ce qui est dans les cieux et sur la terre, et qu'Allah est Omniscient?\"",
+          "Spanish": "Di: \"¿Vais a enseñar a Alá acerca de vuestra religión, cuando Alá sabe todo lo que hay en los cielos y en la tierra, y Alá tiene conocimiento de todas las cosas?\"",
+          "Hindi": "कह दो कि क्या तुम अल्लाह को अपने दीन के बारे में बता रहे हो, हालाँकि अल्लाह जो कुछ आसमानों और ज़मीन में है सब जानता है, और अल्लाह हर चीज़ को जानने वाला है।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ",
+        "translations": {
+          "English": "They regarded it a favor to you that they have submitted. Say, \"Do not consider your submission a favor to me; it is God who has done you a favor by guiding you to the faith, if you are sincere.\"",
+          "Urdu": "یہ تمہارے اسلام لانے کو اپنا احسان جتلاتے ہیں، کہہ دو کہ اپنے اسلام لانے کو مجھ پر احسان نہ جتاؤ، بلکہ اللہ تم پر احسان کرتا ہے کہ اس نے تمہیں ایمان کی ہدایت دی، اگر تم سچے ہو۔",
+          "French": "Ils te considèrent comme obligé parce qu'ils se sont soumis. Dis: \"Ne me considérez pas comme obligé par votre soumission. C'est plutôt Allah qui vous a obligés en vous guidant à la foi, si vous êtes sincères.\"",
+          "Spanish": "Te consideran en deuda porque se han sometido. Di: \"No me consideréis en deuda por vuestro sometimiento. Más bien es Alá quien os ha favorecido guiándoos a la fe, si sois sinceros.\"",
+          "Hindi": "यह तुम्हारे इस्लाम लाने को अपना एहसान जताते हैं, कह दो कि अपने इस्लाम लाने को मुझ पर एहसान न जताओ, बल्कि अल्लाह तुम पर एहसान करता है कि उसने तुम्हें ईमान की हिदायत दी, अगर तुम सच्चे हो।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+        "translations": {
+          "English": "God knows the secrets of the heavens and the earth, and God is seeing of everything you do.",
+          "Urdu": "بے شک اللہ آسمانوں اور زمین کے غیب کو جانتا ہے، اور اللہ تمہارے سب اعمال کو دیکھ رہا ہے۔",
+          "French": "Allah connaît les secrets des cieux et de la terre, et Allah observe tout ce que vous faites.",
+          "Spanish": "En verdad, Alá conoce lo oculto de los cielos y de la tierra, y Alá ve todo lo que hacéis.",
+          "Hindi": "बेशक अल्लाह आसमानों और ज़मीन के ग़ैब को जानता है, और अल्लाह तुम्हारे सब अमल को देख रहा है।"
+        }
+      }
+    ]
+  }

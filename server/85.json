@@ -1,0 +1,270 @@
+{
+    "no": 85,
+    "name": "Al-Buruj",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+        "transliteration": "Wa s-samā'i dhāti l-burūj",
+        "translations": {
+          "English": "By the sky with the constellations.",
+          "Urdu": "قسم ہے برجوں والے آسمان کی،",
+          "French": "Par le ciel aux constellations,",
+          "Spanish": "Por el cielo con sus constelaciones,",
+          "Hindi": "कसम है बुर्जों वाले आसमान की।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَالْيَوْمِ الْمَوْعُودِ",
+        "transliteration": "Wa l-yawmi l-maw'ūd",
+        "translations": {
+          "English": "And by the Promised Day.",
+          "Urdu": "اور وعدہ کے دن کی،",
+          "French": "par le Jour promis,",
+          "Spanish": "por el Día prometido,",
+          "Hindi": "और वादा किए हुए दिन की।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
+        "transliteration": "Wa shāhidin wa mashhūd",
+        "translations": {
+          "English": "And by the witness and the witnessed.",
+          "Urdu": "اور گواہی देने والے اور جسے گواہی دی جائے کی،",
+          "French": "par le témoin et ce dont on témoigne,",
+          "Spanish": "por el testigo y lo atestiguado,",
+          "Hindi": "और गवाही देने वाले और जिसे गवाही दी जाए की।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+        "transliteration": "Qutila aṣḥābu l-ukhdūd",
+        "translations": {
+          "English": "Destroyed were the People of the Trench.",
+          "Urdu": "ہلاک ہوئے خندق والے،",
+          "French": "Périssent les gens de la tranchée,",
+          "Spanish": "¡Malditos sean los dueños del foso!",
+          "Hindi": "ध्वस्त हो गए खंदक वाले।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "النَّارِ ذَاتِ الْوَقُودِ",
+        "transliteration": "An-nāri dhāti l-waqūd",
+        "translations": {
+          "English": "The fire supplied with fuel.",
+          "Urdu": "آگ جو ایندھن سے بھری ہوئی تھی،",
+          "French": "du feu plein de combustible,",
+          "Spanish": "del fuego lleno de combustible,",
+          "Hindi": "आग जो ईंधन से भरी हुई थी।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+        "transliteration": "Idh hum 'alayhā qu'ūd",
+        "translations": {
+          "English": "While they sat around it.",
+          "Urdu": "جب وہ اس کے کنارے بیٹھے تھے،",
+          "French": "alors qu’ils y étaient assis,",
+          "Spanish": "mientras estaban sentados alrededor,",
+          "Hindi": "जब वे उसके किनारे बैठे थे।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَهُمْ عَلَى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+        "transliteration": "Wa hum 'alā mā yaf'alūna bi-l-mu'minīna shuhūd",
+        "translations": {
+          "English": "And were witnessing what they did to the believers.",
+          "Urdu": "اور جو کچھ وہ مومنوں کے ساتھ کر رहे تھے، اس پر وہ خود گواہ تھے۔",
+          "French": "et qu’ils assistaient à ce qu’ils faisaient subir aux croyants,",
+          "Spanish": "y fueron testigos de lo que hacían a los creyentes,",
+          "Hindi": "और जो कुछ वे मोमिनों के साथ कर रहे थे, उस पर वे ख़ुद गवाह थे।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+        "transliteration": "Wa mā naqamū minhum illā an yu'minū bi-llāhi l-'azīzi l-ḥamīd",
+        "translations": {
+          "English": "They begrudged them only because they believed in God the Almighty, the Praiseworthy.",
+          "Urdu": "اور انہیں ان مومنوں سے صرف اس بات پر عداوت تھی کہ وہ اللہ عزوجل پر ایمان لاتے تھے،",
+          "French": "Ils ne leur en voulaient que parce qu’ils croyaient en Dieu, le Puissant, le Digne de louange,",
+          "Spanish": "No les reprochaban sino que creyeran en Dios, el Poderoso, el Digno de alabanza,",
+          "Hindi": "और उन्हें इन मोमिनों से सिर्फ़ इस बात पर दुश्मनी थी कि वे अल्लाह पर ईमान लाते थे।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ شَهِيدٌ",
+        "transliteration": "Alladhī lahu mulku s-samāwāti wa l-arḍi wa llāhu 'alā kulli shay'in shahīd",
+        "translations": {
+          "English": "To Whom belongs the sovereignty of the heavens and the earth. God is witness over everything.",
+          "Urdu": "جس کے لیے آسمانوں اور زمین کی بادشاہی ہے، اور اللہ ہر چیز پر گواہ ہے۔",
+          "French": "à qui appartient la royauté des cieux et de la terre. Et Dieu est Témoin de toute chose.",
+          "Spanish": "A quien pertenece el reino de los cielos y la tierra. Y Dios es testigo de todas las cosas.",
+          "Hindi": "जिसके लिए आसमानों और ज़मीन की बादशाही है, और अल्लाह हर चीज़ पर गवाह है।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+        "transliteration": "Inna lladhīna fatanū l-mu'minīna wa l-mu'mināti thumma lam yatūbū fa lahum 'adhābu jahannama wa lahum 'adhābu l-ḥarīq",
+        "translations": {
+          "English": "Those who tempt the believers, men and women, then do not repent; for them is the punishment of Hell; for them is the punishment of Burning.",
+          "Urdu": "بے شک جن لوگوں نے مومن مردوں اور عورتوں کو ستایا پھر توبہ نہیں کی، تو ان کے لیے جہنم کا عذاب ہے اور دہکتی آگ کا عذاب ہے۔",
+          "French": "Ceux qui persécutent les croyants et les croyantes et ne se repentent pas ensuite, auront le châtiment de l’Enfer et le châtiment du Feu.",
+          "Spanish": "En verdad, quienes tientan a los creyentes y a las creyentes y luego no se arrepienten, tendrán el castigo del Infierno y el castigo del Fuego abrasador.",
+          "Hindi": "बेशक जिन लोगों ने मोमिन मर्दों और औरतों को सताया फिर तौबा नहीं की, तो उनके लिए जहन्नम का अज़ाब है और धधकती आग का अज़ाब है।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ذَلِكَ الْفَوْزُ الْكَبِيرُ",
+        "transliteration": "Inna lladhīna āmanū wa 'amilū ṣ-ṣāliḥāti lahum jannātun tajrī min taḥtihā l-anhār dhālika l-fawzu l-kabīr",
+        "translations": {
+          "English": "Those who believe and do righteous deeds will have Gardens beneath which rivers flow. That is the great triumph.",
+          "Urdu": "بے شک جو لوگ ایمان لائے اور نیک اعمال کرتے رہے، ان کے لیے باغات ہیں جن کے نیچے نہریں بہتی ہوں گی، یہی بڑی کامیابی ہے۔",
+          "French": "Ceux qui croient et accomplissent les bonnes œuvres auront des Jardins sous lesquels coulent les ruisseaux. C’est là le grand succès.",
+          "Spanish": "En verdad, quienes creen y obran rectamente tendrán jardines por donde corren ríos. Ese es el gran triunfo.",
+          "Hindi": "बेशक जो लोग ईमान लाए और नेक अमल करते रहे, उनके लिए बाग़ हैं जिनके नीचे नहरें बहती होंगी, यही बड़ी कामयाबी है।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+        "transliteration": "Inna baṭsha rabbika la-shadīd",
+        "translations": {
+          "English": "The onslaught of your Lord is severe.",
+          "Urdu": "بے شک تیرے رب کی پکڑ بہت سخت ہے۔",
+          "French": "La prise de ton Seigneur est, certes, forte.",
+          "Spanish": "En verdad, el castigo de tu Señor es severo.",
+          "Hindi": "बेशक तेरे रब की पकड़ बहुत सख़्त है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+        "transliteration": "Innahu huwa yubdi'u wa yu'īd",
+        "translations": {
+          "English": "It is He who begins and repeats.",
+          "Urdu": "بے شک وہی پہلی بار پیدا کرتا ہے اور دوبارہ پیدا کرے گا۔",
+          "French": "C’est Lui qui commence et qui recommence,",
+          "Spanish": "Él es Quien origina y repite,",
+          "Hindi": "बेशक वही पहली बार पैदा करता है और दोबारा पैदा करेगा।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+        "transliteration": "Wa huwa l-ghafūru l-wadūd",
+        "translations": {
+          "English": "And He is the Forgiving, the Loving.",
+          "Urdu": "اور وہ بہت بخشنے والا، محبت کرنے والا ہے۔",
+          "French": "et c’est Lui le Pardonneur, le Tout-Affectueux,",
+          "Spanish": "y Él es el Perdonador, el Amoroso,",
+          "Hindi": "और वह बड़ा बख़्शने वाला, मुहब्बत करने वाला है।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "ذُو الْعَرْشِ الْمَجِيدُ",
+        "transliteration": "Dhū l-'arshi l-majīd",
+        "translations": {
+          "English": "Possessor of the Glorious Throne.",
+          "Urdu": "عزت والے عرش کا مالک ہے۔",
+          "French": "Maître du Trône glorieux,",
+          "Spanish": "Dueño del Trono glorioso,",
+          "Hindi": "शान वाले अर्श का मालिक है।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "فَعَّالٌ لِمَا يُرِيدُ",
+        "transliteration": "Fa''ālun limā yurīd",
+        "translations": {
+          "English": "Doer of whatever He wills.",
+          "Urdu": "جو چاہتا ہے، کر گزرتا ہے۔",
+          "French": "Celui qui fait absolument tout ce qu’Il veut.",
+          "Spanish": "Hacedor de lo que quiere.",
+          "Hindi": "जो चाहता है, कर गुज़रता है।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+        "transliteration": "Hal atāka ḥadīthu l-junūd",
+        "translations": {
+          "English": "Has there come to you the story of the legions?",
+          "Urdu": "کیا تمہارے پاس لشکروں کی خبر آئی ہے؟",
+          "French": "Ne t’est-il pas parvenu le récit des armées",
+          "Spanish": "¿Te ha llegado la historia de los ejércitos",
+          "Hindi": "क्या तुम्हारे पास सेनाओं का समाचार आया है?"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "فِرْعَوْنَ وَثَمُودَ",
+        "transliteration": "Fir'awna wa thamūd",
+        "translations": {
+          "English": "Of Pharaoh and Thamood?",
+          "Urdu": "فرعون اور ثمود کی؟",
+          "French": "de Pharaon et des Thamûd ?",
+          "Spanish": "del Faraón y de Zamud?",
+          "Hindi": "फ़िरऔन और समूद की?"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+        "transliteration": "Bali lladhīna kafarū fī takdhīb",
+        "translations": {
+          "English": "In fact, those who disbelieve are in denial.",
+          "Urdu": "بلکہ کافر لوگ جھٹلانے میں ہیں،",
+          "French": "Mais ceux qui ont mécru persistent à démentir,",
+          "Spanish": "Pero los que se niegan a creer persisten en el desmentir,",
+          "Hindi": "बल्कि काफ़िर लोग झुठलाने में हैं,"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+        "transliteration": "Wa llāhu min warā'ihim muḥīṭ",
+        "translations": {
+          "English": "And God encloses them from beyond.",
+          "Urdu": "حالانکہ اللہ ان کو گھیرے ہوئے ہے۔",
+          "French": "alors que Dieu les cerne de toutes parts.",
+          "Spanish": "mientras que Dios les rodea por todas partes.",
+          "Hindi": "हालाँकि अल्लाह उन्हें घेरे हुए है।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+        "transliteration": "Bal huwa qur'ānun majīd",
+        "translations": {
+          "English": "In fact, it is a Glorious Quran.",
+          "Urdu": "بلکہ یہ قرآن مجید ہے،",
+          "French": "Bien plus, c’est un Coran glorifié",
+          "Spanish": "¡No! Es un Corán glorioso",
+          "Hindi": "बल्कि यह क़ुरआन मजीद है,"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "فِي لَوْحٍ مَحْفُوظٍ",
+        "transliteration": "Fī lawḥin maḥfūẓ",
+        "translations": {
+          "English": "In a Preserved Tablet.",
+          "Urdu": "لوح محفوظ میں (لکھا ہوا) ہے۔",
+          "French": "préservé sur une Tablette.",
+          "Spanish": "en una Tabla preservada.",
+          "Hindi": "लौहे महफ़ूज़ में (लिखा हुआ) है।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,501 @@
+{
+    "no": 50,
+    "name": "Qaf",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "ق وَالْقُرْآنِ الْمَجِيدِ",
+        "translations": {
+          "English": "Qaf. By the Glorious Quran.",
+          "French": "Qaf. Par le Coran glorieux.",
+          "Urdu": "ق۔ قسم ہے قرآن مجید کی۔",
+          "Spanish": "Qaf. Por el Corán glorioso.",
+          "Hindi": "क़ाफ़। महिमामय क़ुरआन की शपथ।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "بَلْ عَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ فَقَالَ الْكَافِرُونَ هَذَا شَيْءٌ عَجِيبٌ",
+        "translations": {
+          "English": "They marveled that a warner has come to them from among them. The disbelievers say, 'This is something strange.'",
+          "French": "Ils s'étonnent qu'un avertisseur parmi eux leur soit venu, et les infidèles disent : 'Voilà une chose étrange !'",
+          "Urdu": "بلکہ انہیں تعجب ہوا کہ ان کے پاس انہی میں سے ایک ڈر سنانے والا آیا تو کافروں نے کہا یہ تو بڑی عجیب بات ہے۔",
+          "Spanish": "Se asombraron de que viniera a ellos un advertidor de entre ellos mismos. Los incrédulos dicen: 'Esto es algo extraño.'",
+          "Hindi": "बल्कि उन्हें आश्चर्य हुआ कि उनके पास उन्हीं में से एक चेतावनी देने वाला आया तो काफ़िरों ने कहा यह तो बड़ी अजीब बात है।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا ذَلِكَ رَجْعٌ بَعِيدٌ",
+        "translations": {
+          "English": "'When we have died and become dust? This is a farfetched return.'",
+          "French": "'Quand nous serons morts et devenus poussière, cela serait un retour impossible.'",
+          "Urdu": "کیا جب ہم مر کر مٹی ہو جائیں گے (تو پھر زندہ ہوں گے) یہ تو بہت بعید کی بات ہے۔",
+          "Spanish": "'¿Cuando muramos y seamos polvo? Eso es un retorno improbable.'",
+          "Hindi": "क्या जब हम मरकर मिट्टी हो जाएँगे (तो फिर जी उठेंगे)? यह तो बहुत दूर की बात है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "قَدْ عَلِمْنَا مَا تَنْقُصُ الْأَرْضُ مِنْهُمْ وَعِنْدَنَا كِتَابٌ حَفِيظٌ",
+        "translations": {
+          "English": "We know what the earth consumes of them, and with Us is a comprehensive book.",
+          "French": "Nous savons ce que la terre dévore d'eux, et Nous avons un Livre où tout est conservé.",
+          "Urdu": "ہم خوب جانتے ہیں کہ زمین ان میں سے کتنا کچھ گھٹاتی ہے اور ہمارے پاس ایک محفوظ کتاب (لوح محفوظ) ہے۔",
+          "Spanish": "Sabemos lo que la tierra consume de ellos, y junto a Nosotros hay un registro que preserva todo.",
+          "Hindi": "हम भली-भाँति जानते हैं कि धरती उनमें से कितना कुछ घटाती है और हमारे पास एक सुरक्षित किताब (लौहे महफूज़) है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ فَهُمْ فِي أَمْرٍ مَرِيجٍ",
+        "translations": {
+          "English": "But they denied the truth when it has come to them, so they are in a confused state.",
+          "French": "Mais ils ont traité de mensonge la vérité quand elle leur est venue, les voilà donc dans un état de confusion.",
+          "Urdu": "بلکہ انہوں نے حق کو جھٹلا دیا جب وہ ان کے پاس آیا تو اب وہ ایک الجھی ہوئی حالت میں ہیں۔",
+          "Spanish": "Pero negaron la verdad cuando les llegó, y ahora se encuentran en un estado de confusión.",
+          "Hindi": "बल्कि उन्होंने सत्य को झुठला दिया जब वह उनके पास आया तो अब वे एक उलझी हुई अवस्था में हैं।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "أَفَلَمْ يَنْظُرُوا إِلَى السَّمَاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا وَمَا لَهَا مِنْ فُرُوجٍ",
+        "translations": {
+          "English": "Have they not observed the sky above them, how We constructed it, and decorated it, and it has no cracks?",
+          "French": "N'ont-ils donc pas observé le ciel au-dessus d'eux, comment Nous l'avons bâti et orné, et comment il est sans fissure ?",
+          "Urdu": "کیا انہوں نے اپنے اوپر آسمان کی طرف نہیں دیکھا کہ ہم نے اسے کیسے بنایا اور اسے کیسے سجایا اور اس میں کوئی شگاف نہیں۔",
+          "Spanish": "¿Acaso no observan el cielo sobre ellos, cómo lo hemos construido y embellecido, y cómo no tiene fisuras?",
+          "Hindi": "क्या उन्होंने अपने ऊपर आकाश की ओर नहीं देखा कि हमने उसे कैसे बनाया और सजाया और उसमें कोई दरार नहीं?"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+        "translations": {
+          "English": "And the earth, how We spread it out, and set on it mountains, and grew in it all kinds of delightful pairs?",
+          "French": "Et la terre, comment Nous l'avons étendue, et y avons placé des montagnes, et y avons fait pousser toutes sortes de couples magnifiques ?",
+          "Urdu": "اور زمین کو ہم نے کیسے بچھایا اور اس میں پہاڑ گاڑ دیے اور اس میں ہر قسم کی خوشنما چیزیں اگائیں۔",
+          "Spanish": "Y la tierra, cómo la hemos extendido, y puesto en ella montañas, y hecho crecer en ella toda clase de parejas espléndidas.",
+          "Hindi": "और धरती को हमने कैसे बिछाया और उसमें पहाड़ स्थिर किए और उसमें हर प्रकार की सुंदर चीज़ें उगाईं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "تَبْصِرَةً وَذِكْرَى لِكُلِّ عَبْدٍ مُنِيبٍ",
+        "translations": {
+          "English": "A lesson and a reminder for every penitent worshiper.",
+          "French": "En tant que preuve et rappel pour tout serviteur repentant.",
+          "Urdu": "تاکہ ہر رجوع کرنے والے بندے کے لیے عبرت اور نصیحت ہو۔",
+          "Spanish": "Como evidencia y recuerdo para todo siervo que se arrepiente.",
+          "Hindi": "ताकि हर रुजू करने वाले बन्दे के लिए नसीहत और याद दिलाने वाला हो।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ",
+        "translations": {
+          "English": "And We brought down from the sky blessed water, and produced with it gardens and grain to harvest.",
+          "French": "Et Nous avons fait descendre du ciel une eau bénie, et faisons pousser par elle des jardins et le grain qu'on moissonne.",
+          "Urdu": "اور ہم نے آسمان سے برکت والا پانی برسایا پھر اس سے باغات اور فصل کے دانے اگائے۔",
+          "Spanish": "Hemos hecho descender del cielo agua bendita, y hecho brotar con ella jardines y grano para cosechar.",
+          "Hindi": "और हमने आसमान से बरकत वाला पानी उतारा फिर उससे बाग़ और फसल के दाने उगाए।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ",
+        "translations": {
+          "English": "And the soaring palm trees, with clustered dates.",
+          "French": "Et les hauts palmiers aux régimes superposés.",
+          "Urdu": "اور اونچی کھجور کے درخت جن کے گابھے تہ بہ تہ ہیں۔",
+          "Spanish": "Y las altas palmeras de racimos apilados.",
+          "Hindi": "और ऊँचे खजूर के पेड़ जिनके गुच्छे तह पर तह हैं।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "رِزْقًا لِلْعِبَادِ وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا كَذَلِكَ الْخُرُوجُ",
+        "translations": {
+          "English": "As sustenance for the servants. And We revive thereby a dead town. Likewise is the resurrection.",
+          "French": "Comme subsistance pour les serviteurs. Et par elle Nous redonnons la vie à une contrée morte. Ainsi se fera la résurrection.",
+          "Urdu": "بندوں کی روزی کے لیے اور ہم نے اس (پانی) سے مردہ شہر کو زندہ کر دیا اسی طرح (قبروں سے) نکلنا ہوگا۔",
+          "Spanish": "Como sustento para los siervos. Y con él revivimos una tierra muerta. Así será la resurrección.",
+          "Hindi": "बन्दों के रोज़ी के लिए और हमने उस (पानी) से मुर्दा शहर को जिला दिया, इसी तरह (क़ब्रों से) निकलना होगा।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّسِّ وَثَمُودُ",
+        "translations": {
+          "English": "Before them the people of Noah denied the truth, and so did the dwellers of Russ, and Thamood.",
+          "French": "Avant eux, le peuple de Noé avait crié au mensonge, de même que les gens d'Ar-Rass et les Thamoud.",
+          "Urdu": "ان سے پہلے نوح کی قوم اور اہل رس اور ثمود نے بھی جھٹلایا۔",
+          "Spanish": "Antes que ellos, el pueblo de Noé desmintió, y también los habitantes de Ar-Rass y los Zamud.",
+          "Hindi": "इनसे पहले नूह की क़ौम और अहले रस्स और समूद ने भी झुठलाया था।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ",
+        "translations": {
+          "English": "And Aad, and Pharaoh, and the brethren of Lot.",
+          "French": "Et les 'Aad, et Pharaon, et les frères de Lot.",
+          "Urdu": "اور عاد اور فرعون اور لوط کے بھائیوں (قوم) نے۔",
+          "Spanish": "Y los 'Ad, el Faraón y los hermanos de Lot.",
+          "Hindi": "और आद और फ़िरऔन और लूत के भाईयों (क़ौम) ने।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "وَأَصْحَابُ الْأَيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيدِ",
+        "translations": {
+          "English": "And the Dwellers of the Woods, and the people of Tubba. They all rejected the messengers, so My threat came true.",
+          "French": "Et les gens d'Al-Ayka, et le peuple de Tubba'. Tous ont traité les messagers de menteurs. Ma menace s'est donc réalisée.",
+          "Urdu": "اور اہل الايكه اور قوم تُبّع سب نے رسولوں کو جھٹلایا تو میرا وعدہ (عذاب) پورا ہو کر رہا۔",
+          "Spanish": "Y los habitantes de Al-Ayka, y el pueblo de Tubba'. Todos desmintieron a los mensajeros, así que se cumplió Mi amenaza.",
+          "Hindi": "और अहले अय्का और क़ौम तुब्बा, सबने रसूलों को झुठलाया तो मेरा वादा (अज़ाब) पूरा होकर रहा।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ جَدِيدٍ",
+        "translations": {
+          "English": "Were We fatigued by the first creation? But they are in doubt of a new creation.",
+          "French": "Nous serions-Nous fatigués de la première création ? Mais ils sont dans la confusion au sujet d'une nouvelle création.",
+          "Urdu": "کیا ہم پہلی بار پیدا کرنے سے تھک گئے ہیں؟ بلکہ یہ لوگ نئی پیدائش کے بارے میں شک میں ہیں۔",
+          "Spanish": "¿Acaso Nos agotó la primera creación? Pero ellos están en duda acerca de una nueva creación.",
+          "Hindi": "क्या हम पहली बार पैदा करने से थक गए हैं? बल्कि ये लोग नई पैदाइश के बारे में शक में हैं।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+        "translations": {
+          "English": "We created the human being, and We know what his soul whispers to him. We are nearer to him than his jugular vein.",
+          "French": "Nous avons créé l'homme et Nous savons ce que son âme lui suggère. Nous sommes plus près de lui que sa veine jugulaire.",
+          "Urdu": "اور ہم نے انسان کو پیدا کیا اور ہم جانتے ہیں کہ اس کا دل اسے کیا وسوسہ ڈالتا ہے اور ہم اس کی رگ جان سے بھی زیادہ قریب ہیں۔",
+          "Spanish": "Hemos creado al ser humano y sabemos lo que su alma le susurra. Estamos más cerca de él que su vena yugular.",
+          "Hindi": "और हमने इन्सान को पैदा किया और हम जानते हैं कि उसका दिल उसे क्या वसवासा डालता है और हम उसकी रग जान से भी ज़्यादा करीब हैं।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ",
+        "translations": {
+          "English": "As the two receivers receive, seated to the right and to the left.",
+          "French": "Quand les deux recueillants recueillent, assis à sa droite et à sa gauche.",
+          "Urdu": "جب دو لینے والے دائیں اور بائیں بیٹھے ہوئے لیتے ہیں۔",
+          "Spanish": "Cuando los dos ángeles receptores reciben, sentados a su derecha y a su izquierda.",
+          "Hindi": "जब दो लेने वाले दाएँ और बाएँ बैठे हुए लेते हैं।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+        "translations": {
+          "English": "Not a word does he utter, but there is a watcher by him, ready.",
+          "French": "Il ne prononce pas une parole sans avoir auprès de lui un observateur prêt.",
+          "Urdu": "وہ کوئی بات منہ سے نہیں نکالتا مگر اس کے پاس ایک نگہبان تیار (لکھنے کو) موجود ہوتا ہے۔",
+          "Spanish": "No pronuncia palabra alguna sin que a su lado esté presente un ángel observador listo.",
+          "Hindi": "वह कोई बात मुँह से नहीं निकालता मगर उसके पास एक निगहबान तैयार (लिखने को) मौजूद होता है।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ",
+        "translations": {
+          "English": "The daze of death has come in truth: 'This is what you tried to evade.'",
+          "French": "L'agonie de la mort fait apparaître la vérité : 'Voilà ce dont tu t'écartais.'",
+          "Urdu": "اور موت کی بے ہوشی حق کے ساتھ آ پہنچی یہی وہ چیز ہے جس سے تو بھاگتا تھا۔",
+          "Spanish": "La agonía de la muerte trae la verdad: 'Esto es lo que intentabas eludir.'",
+          "Hindi": "और मौत की बेहोशी हक़ के साथ आ पहुँची, यही वह चीज़ है जिससे तू भागता था।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "وَنُفِخَ فِي الصُّورِ ذَلِكَ يَوْمُ الْوَعِيدِ",
+        "translations": {
+          "English": "And the Trumpet is blown: 'This is the Promised Day.'",
+          "French": "Et l'on soufflera dans la Trompe : 'Voilà le Jour promis.'",
+          "Urdu": "اور صور پھونک دیا جائے گا یہی وہ دن ہے جس کا وعدہ دیا جاتا ہے۔",
+          "Spanish": "Y se soplará la Trompeta: 'Este es el Día prometido.'",
+          "Hindi": "और सूर फूँक दिया जाएगा, यही वह दिन है जिसका वादा दिया जाता है।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ",
+        "translations": {
+          "English": "And every soul will come forward, accompanied by a driver and a witness.",
+          "French": "Et chaque âme viendra, accompagnée d'un conducteur et d'un témoin.",
+          "Urdu": "اور ہر شخص آئے گا اس کے ساتھ ایک ہانکنے والا اور ایک گواہ ہوگا۔",
+          "Spanish": "Y cada alma comparecerá acompañada de un conductor y un testigo.",
+          "Hindi": "और हर शख़्स आएगा, उसके साथ एक हाँकने वाला और एक गवाह होगा।"
+        }
+      },
+      {
+        "no": 22,
+        "arabic": "لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
+        "translations": {
+          "English": "'You were in neglect of this, so We lifted your screen from you, and your vision today is keen.'",
+          "French": "'Tu étais inattentif à cela. Nous avons donc levé ton voile, et ta vue est aujourd'hui perçante.'",
+          "Urdu": "(کہا جائے گا) تو اس سے پہلے غفلت میں تھا پس ہم نے آج تیرا پردہ ہٹا دیا تو آج تیری نظر بہت تیز ہے۔",
+          "Spanish": "'Estabas desprevenido ante esto, pero hoy te hemos quitado tu velo y tu vista es aguda.'",
+          "Hindi": "(कहा जाएगा) तू इससे पहले ग़फ़लत में था, फिर आज हमने तेरा पर्दा हटा दिया तो आज तेरी नज़र बहुत तेज़ है।"
+        }
+      },
+      {
+        "no": 23,
+        "arabic": "وَقَالَ قَرِينُهُ هَذَا مَا لَدَيَّ عَتِيدٌ",
+        "translations": {
+          "English": "And His escort will say, 'This is what I have ready with me.'",
+          "French": "Et son compagnon dira : 'Voici ce qui est avec moi, tout prêt.'",
+          "Urdu": "اور اس کا ساتھی (فرشتہ) کہے گا کہ میرے پاس جو کچھ تیار ہے وہ یہی ہے۔",
+          "Spanish": "Y su acompañante dirá: 'Esto es lo que tengo preparado.'",
+          "Hindi": "और उसका साथी (फ़रिश्ता) कहेगा कि मेरे पास जो कुछ तैयार है वह यही है।"
+        }
+      },
+      {
+        "no": 24,
+        "arabic": "أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+        "translations": {
+          "English": "'Throw into Hell every stubborn disbeliever.",
+          "French": "'Jetez en Enfer tout mécréant endurci",
+          "Urdu": "(حکم ہوگا) دونوں (فرشتے) ہر سخت منکر حق کو جہنم میں ڈال دو۔",
+          "Spanish": "'Arrojad al Infierno a todo incrédulo obstinado,",
+          "Hindi": "(हुक्म होगा) दोनों (फ़रिश्ते) हर सख़्त इन्कार करने वाले को जहन्नम में डाल दो।"
+        }
+      },
+      {
+        "no": 25,
+        "arabic": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ مُرِيبٍ",
+        "translations": {
+          "English": "Preventer of good, aggressor, doubter.",
+          "French": "Opposant au bien, transgresseur, douteur,",
+          "Urdu": "بھلائی سے روکنے والے، حد سے گزر جانے والے، شک کرنے والے۔",
+          "Spanish": "Impedidor del bien, agresor, dudoso,",
+          "Hindi": "भलाई से रोकने वाले, हद से गुज़र जाने वाले, शक करने वाले।"
+        }
+      },
+      {
+        "no": 26,
+        "arabic": "الَّذِي جَعَلَ مَعَ اللَّهِ إِلَهًا آخَرَ فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ",
+        "translations": {
+          "English": "Who fabricated another god with God; toss him into the intense agony.'",
+          "French": "qui plaçait avec Allah une autre divinité. Jetez-le donc dans le châtiment terrible.'",
+          "Urdu": "جس نے اللہ کے ساتھ دوسرا معبود بنا لیا تھا، سو دونوں اسے سخت عذاب میں ڈال دو۔",
+          "Spanish": "que ponía junto a Allah a otra divinidad. Arrojadlo, pues, al castigo severo.'",
+          "Hindi": "जिसने अल्लाह के साथ दूसरा माबूद बना लिया था, सो दोनों उसे सख़्त अज़ाब में डाल दो।"
+        }
+      },
+      {
+        "no": 27,
+        "arabic": "قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ",
+        "translations": {
+          "English": "His escort will say, 'Our Lord, I did not make him rebel, but he was far astray.'",
+          "French": "Son compagnon dira : 'Seigneur, je ne l'ai pas poussé à la rébellion mais il était dans un égarement profond.'",
+          "Urdu": "اس کا ساتھی (شیطان) کہے گا کہ اے ہمارے رب! میں نے اسے سرکش نہیں بنایا بلکہ یہ خود ہی دور کی گمراہی میں تھا۔",
+          "Spanish": "Su acompañante dirá: 'Señor nuestro, no lo incité a rebelarse, pero él estaba en un extravío lejano.'",
+          "Hindi": "उसका साथी (शैतान) कहेगा कि ऐ हमारे रब! मैंने उसे सरकश नहीं बनाया बल्कि यह ख़ुद ही दूर की गुमराही में था।"
+        }
+      },
+      {
+        "no": 28,
+        "arabic": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+        "translations": {
+          "English": "He will say, 'Do not feud in My presence—I had warned you in advance.",
+          "French": "Allah dira : 'Ne vous disputez pas devant Moi alors que Je vous ai déjà envoyé la menace.",
+          "Urdu": "(اللہ) فرمائے گا کہ میرے سامنے جھگڑا نہ کرو میں نے تمہیں پہلے ہی ڈرا دیا تھا۔",
+          "Spanish": "Dirá Allah: 'No disputéis en Mi presencia. Ya os había advertido con antelación.",
+          "Hindi": "(अल्लाह) फ़रमाएगा कि मेरे सामने झगड़ा मत करो, मैंने तुम्हें पहले ही डरा दिया था।"
+        }
+      },
+      {
+        "no": 29,
+        "arabic": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدِ",
+        "translations": {
+          "English": "The decree from Me will not be changed, and I am not unjust to the servants.'",
+          "French": "La sentence que J'ai prononcée ne sera pas modifiée, et Je ne suis point injuste envers les serviteurs.'",
+          "Urdu": "میرے ہاں بات بدلی نہیں جاتی اور میں بندوں پر ذرا بھی ظلم کرنے والا نہیں۔",
+          "Spanish": "La sentencia ante Mí no se cambia, y no soy injusto con los siervos.'",
+          "Hindi": "मेरे यहाँ बात बदली नहीं जाती और मैं बन्दों पर ज़रा भी ज़ुल्म करने वाला नहीं।"
+        }
+      },
+      {
+        "no": 30,
+        "arabic": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ",
+        "translations": {
+          "English": "On the Day when We will say to Hell, 'Are you full?' And it will say, 'Are there any more?'",
+          "French": "Le jour où Nous dirons à l'Enfer : 'Es-tu rempli ?' Il dira : 'Y en a-t-il encore ?'",
+          "Urdu": "جس دن ہم جہنم سے کہیں گے کہ تو بھر گئی؟ اور وہ کہے گی کہ اور بھی ہے؟",
+          "Spanish": "El día que digamos al Infierno: '¿Estás lleno?', y él diga: '¿Hay más?'",
+          "Hindi": "जिस दिन हम जहन्नम से कहेंगे कि क्या तू भर गई? और वह कहेगी कि और भी है?"
+        }
+      },
+      {
+        "no": 31,
+        "arabic": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+        "translations": {
+          "English": "And Paradise will be brought closer to the pious, not far away.",
+          "French": "Et le Paradis sera rapproché pour les pieux, il ne sera plus loin.",
+          "Urdu": "اور جنت پرہیزگاروں کے قریب کر دی جائے گی، دور نہ ہوگی۔",
+          "Spanish": "Y el Paraíso será acercado a los piadosos, no estará lejos.",
+          "Hindi": "और जन्नत परहेज़गारों के क़रीब कर दी जाएगी, दूर न होगी।"
+        }
+      },
+      {
+        "no": 32,
+        "arabic": "هَذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+        "translations": {
+          "English": "'This is what you were promised—for every careful penitent.",
+          "French": "'Voici ce qui vous a été promis, à tout homme plein de repentir et respectueux des commandements.",
+          "Urdu": "(کہا جائے گا) یہی وہ چیز ہے جس کا تم سے وعدہ کیا جاتا تھا، ہر رجوع کرنے والے محفوظ رکھنے والے کے لیے۔",
+          "Spanish": "'Esto es lo que se os había prometido, a todo aquel que se arrepiente y preserva.",
+          "Hindi": "(कहा जाएगा) यही वह चीज़ है जिसका तुमसे वादा किया जाता था, हर रुजू करने वाले हिफ़ाज़त करने वाले के लिए।"
+        }
+      },
+      {
+        "no": 33,
+        "arabic": "مَنْ خَشِيَ الرَّحْمَنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ",
+        "translations": {
+          "English": "Who inwardly feared the Most Gracious, and came with a repentant heart.",
+          "French": "Qui redoutait le Tout Miséricordieux sans Le voir, et qui vient avec un cœur contrit.",
+          "Urdu": "جو رحمن سے بے دیکھے ڈرا اور رجوع کرنے والا دل لے کر آیا۔",
+          "Spanish": "Quien temió en secreto al Compasivo y vino con corazón contrito.",
+          "Hindi": "जो रहमान से बिन देखे डरा और रुजू करने वाला दिल लेकर आया।"
+        }
+      },
+      {
+        "no": 34,
+        "arabic": "ادْخُلُوهَا بِسَلَامٍ ذَلِكَ يَوْمُ الْخُلُودِ",
+        "translations": {
+          "English": "'Enter it in peace. This is the Day of Eternity.'",
+          "French": "'Entrez-y en paix. Voilà le jour de l'éternité.'",
+          "Urdu": "(کہا جائے گا کہ) اس میں سلامتی کے ساتھ داخل ہو جاؤ، یہ ہمیشگی کا دن ہے۔",
+          "Spanish": "'Entrad en él en paz. Este es el Día de la Eternidad.'",
+          "Hindi": "(कहा जाएगा कि) इस में सलामती के साथ दाख़िल हो जाओ, यह हमेशगी का दिन है।"
+        }
+      },
+      {
+        "no": 35,
+        "arabic": "لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+        "translations": {
+          "English": "Therein they will have whatever they desire—and We have even more.",
+          "French": "Là, ils auront tout ce qu'ils voudront, et Nous aurons davantage encore.",
+          "Urdu": "ان کے لیے وہاں جو چاہیں گے ہوگا اور ہمارے پاس اس سے بھی زیادہ ہے۔",
+          "Spanish": "Tendrán allí lo que deseen, y junto a Nosotros hay más aún.",
+          "Hindi": "उनके लिए वहाँ जो चाहेंगे होगा और हमारे पास उससे भी ज़्यादा है।"
+        }
+      },
+      {
+        "no": 36,
+        "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ",
+        "translations": {
+          "English": "How many generations before them, who were more powerful than they, did We destroy? They explored the lands—was there any escape?",
+          "French": "Que de générations avant eux, bien plus redoutables, avons-Nous fait périr ! Ils avaient parcouru les pays : y avait-il un refuge ?",
+          "Urdu": "اور ہم نے ان سے پہلے کتنی ہی قومیں ہلاک کر دیں جو ان سے زیادہ زور آور تھیں پس انہوں نے (کفر کی راہیں) تلاش کر ڈالیں، کیا کوئی بچنے کی جگہ ہے؟",
+          "Spanish": "¡Cuántas generaciones anteriores a ellos, mucho más poderosas, destruimos! Recorrieron las tierras, ¿pero hubo escapatoria?",
+          "Hindi": "और हमने इनसे पहले कितनी ही क़ौमें हलाक कर दीं जो इनसे ज़्यादा ज़ोर आवर थीं, फिर उन्होंने (कुफ़्र की राहें) तलाश कर डालीं, क्या कोई बचने की जगह है?"
+        }
+      },
+      {
+        "no": 37,
+        "arabic": "إِنَّ فِي ذَلِكَ لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ",
+        "translations": {
+          "English": "In that is a reminder for whoever possesses a heart, or cares to listen and witness.",
+          "French": "Il y a bien là un rappel pour quiconque a un cœur, prête l'oreille tout en étant témoin.",
+          "Urdu": "بے شک اس میں نصیحت ہے ہر اس شخص کے لیے جس کے پاس دل ہو یا جو کان لگا کر سنے اور حاضر رہے۔",
+          "Spanish": "En ello hay un recordatorio para quien tenga corazón, preste oído y atestigüe.",
+          "Hindi": "बेशक इसमें नसीहत है हर उस शख़्स के लिए जिसके पास दिल हो या जो कान लगाकर सुने और मौजूद रहे।"
+        }
+      },
+      {
+        "no": 38,
+        "arabic": "وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ",
+        "translations": {
+          "English": "We created the heavens and the earth and what is between them in six days, and no fatigue touched Us.",
+          "French": "Nous avons créé les cieux et la terre et ce qui est entre eux en six jours, sans éprouver la moindre lassitude.",
+          "Urdu": "اور ہم نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان ہے چھ دن میں پیدا کیا اور ہمیں کوئی تھکاوٹ نہیں ہوئی۔",
+          "Spanish": "Creamos los cielos, la tierra y todo lo que hay entre ellos en seis días, sin que Nos afectara cansancio alguno.",
+          "Hindi": "और हमने आसमानों और ज़मीन को और जो कुछ उनके दरमियान है छह दिन में पैदा किया और हमें कोई थकावट नहीं हुई।"
+        }
+      },
+      {
+        "no": 39,
+        "arabic": "فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+        "translations": {
+          "English": "So endure what they say, and proclaim the praises of your Lord before the rising of the sun, and before sunset.",
+          "French": "Endure donc ce qu'ils disent. Et célèbre la louange de ton Seigneur avant le lever du soleil et avant son coucher.",
+          "Urdu": "پس آپ ان کی باتوں پر صبر کریں اور اپنے رب کی حمد کے ساتھ تسبیح کریں سورج نکلنے سے پہلے اور ڈوبنے سے پہلے۔",
+          "Spanish": "Ten paciencia con lo que dicen y glorifica con las alabanzas de tu Señor antes del amanecer y antes del ocaso.",
+          "Hindi": "फिर आप उनकी बातों पर सब्र करें और अपने रब की हम्द के साथ तसबीह करें सूरज निकलने से पहले और डूबने से पहले।"
+        }
+      },
+      {
+        "no": 40,
+        "arabic": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ",
+        "translations": {
+          "English": "And glorify Him during the night, and at the end of devotions.",
+          "French": "Et célèbre Sa gloire une partie de la nuit et à la fin des prosternations.",
+          "Urdu": "اور رات کے وقت بھی اس کی تسبیح کریں اور سجدوں کے بعد بھی۔",
+          "Spanish": "Y glorifícalo durante la noche y después de las prosternaciones.",
+          "Hindi": "और रात के वक़्त भी उसकी तसबीह करें और सज्दों के बाद भी।"
+        }
+      },
+      {
+        "no": 41,
+        "arabic": "وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَكَانٍ قَرِيبٍ",
+        "translations": {
+          "English": "And listen for the Day when the caller calls from a nearby place.",
+          "French": "Et sois à l'écoute, le jour où le crieur appellera d'un endroit proche.",
+          "Urdu": "اور کان لگائے رکھو جس دن پکارنے والا قریب ہی کی جگہ سے پکارے گا۔",
+          "Spanish": "Y presta atención el día que el pregonero llame desde un lugar cercano.",
+          "Hindi": "और कान लगाए रखो जिस दिन पुकारने वाला क़रीब ही की जगह से पुकारेगा।"
+        }
+      },
+      {
+        "no": 42,
+        "arabic": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ذَلِكَ يَوْمُ الْخُرُوجِ",
+        "translations": {
+          "English": "The Day when they will hear the Shout in all truth. That is the Day of Emergence.",
+          "French": "Le jour où ils entendront le Cri en toute vérité. Voilà le jour de la sortie.",
+          "Urdu": "جس دن وہ چنگھاڑ کو سچ سنیں گے، یہی نکلنے کا دن ہے۔",
+          "Spanish": "El día que oigan el Grito con toda certeza. Ese es el día de la Resurrección.",
+          "Hindi": "जिस दिन वह चीख़ को सच सुनेंगे, यही निकलने का दिन है।"
+        }
+      },
+      {
+        "no": 43,
+        "arabic": "إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ",
+        "translations": {
+          "English": "It is We who control life and death, and to Us is the destination.",
+          "French": "C'est Nous qui donnons la vie et donnons la mort, et vers Nous est le retour.",
+          "Urdu": "بے شک ہم ہی زندگی دیتے ہیں اور موت دیتے ہیں اور ہماری ہی طرف لوٹنا ہے۔",
+          "Spanish": "Ciertamente, Nosotros damos la vida y la muerte, y a Nosotros es el retorno.",
+          "Hindi": "बेशक हम ही जीवन देते हैं और मृत्यु देते हैं और हमारी ही तरफ़ लौटना है।"
+        }
+      },
+      {
+        "no": 44,
+        "arabic": "يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ذَلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+        "translations": {
+          "English": "The Day when the earth will crack for them at once. That is an easy gathering for Us.",
+          "French": "Le jour où la terre se fendra pour les laisser sortir rapidement. Cela est un rassemblement facile pour Nous.",
+          "Urdu": "جس دن زمین ان پر پھٹ جائے گی اور وہ جلدی نکل آئیں گے، یہ اکٹھا کرنا ہمارے لیے بہت آسان ہے۔",
+          "Spanish": "El día que la tierra se abra para dejarlos salir rápidamente. Eso es un agrupamiento fácil para Nosotros.",
+          "Hindi": "जिस दिन ज़मीन उन पर फट जाएगी और वह जल्दी निकल आएँगे, यह इकट्ठा करना हमारे लिए बहुत आसान है।"
+        }
+      },
+      {
+        "no": 45,
+        "arabic": "نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ فَذَكِّرْ بِالْقُرْآنِ مَنْ يَخَافُ وَعِيدِ",
+        "translations": {
+          "English": "We are fully aware of what they say, and you are not a dictator over them. So remind by the Quran whoever fears My warning.",
+          "French": "Nous savons très bien ce qu'ils disent. Tu n'as pas pour mission d'exercer sur eux une contrainte. Rappelle donc par le Coran celui qui craint Ma menace.",
+          "Urdu": "ہم خوب جانتے ہیں کہ یہ کیا کہتے ہیں اور آپ ان پر جبر کرنے والے نہیں ہیں، سو آپ قرآن کے ذریعہ نصیحت کر دیا کریں اسے جو میری وعید سے ڈرے۔",
+          "Spanish": "Nosotros sabemos mejor lo que dicen. Tú no eres un dictador sobre ellos. Así que advierte con el Corán a quien tema Mi amenaza.",
+          "Hindi": "हम भली-भाँति जानते हैं कि यह क्या कहते हैं और आप उन पर ज़बरदस्ती करने वाले नहीं हैं, सो आप क़ुरआन के ज़रिए नसीहत कर दिया करें उसे जो मेरी धमकी से डरे।"
+        }
+      }
+    ]
+  }
