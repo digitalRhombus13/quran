@@ -1,0 +1,102 @@
+{
+    "no": 94,
+    "name": "Ash-Sharh",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "transliteration": "Alam nashraḥ laka ṣadrak",
+        "translations": {
+          "English": "Did We not soothe your heart?",
+          "Urdu": "کیا ہم نے تمہارے لیے تمہارا سینہ کشادہ نہیں کیا؟",
+          "French": "Ne t'avons-Nous pas ouvert la poitrine?",
+          "Spanish": "¿No te hemos abierto el corazón?",
+          "Hindi": "क्या हमने तुम्हारे लिए तुम्हारा सीना खोल नहीं दिया?"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+        "transliteration": "Wa waḍaʿnā ʿanka wizrak",
+        "translations": {
+          "English": "And lift from you your burden.",
+          "Urdu": "اور تم سے تمہارا بوجھ اتار دیا۔",
+          "French": "Et t'avons débarrassé de ton fardeau",
+          "Spanish": "Y te hemos aliviado de tu carga,",
+          "Hindi": "और तुमसे तुम्हारा बोझ उतार दिया।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+        "transliteration": "Alladhī anqaḍa ẓahrak",
+        "translations": {
+          "English": "Which weighed down your back?",
+          "Urdu": "جو تمہاری پیٹھ کو دبا رہا تھا۔",
+          "French": "Qui accablait ton dos?",
+          "Spanish": "Que agobiaba tu espalda?",
+          "Hindi": "जो तुम्हारी पीठ को दबा रहा था?"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+        "transliteration": "Wa rafaʿnā laka dhikrak",
+        "translations": {
+          "English": "And raised for you your reputation?",
+          "Urdu": "اور تمہارا ذکر بلند کیا۔",
+          "French": "Et élevé ta renommée?",
+          "Spanish": "Y hemos elevado tu reputación?",
+          "Hindi": "और तुम्हारा नाम ऊँचा किया?"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "transliteration": "Fa inna maʿa l-ʿusri yusrā",
+        "translations": {
+          "English": "With hardship comes ease.",
+          "Urdu": "پس بے شک مشکل کے ساتھ آسانی ہے۔",
+          "French": "A côté de la difficulté est, certes, une facilité.",
+          "Spanish": "Porque, ciertamente, con la dificultad viene la facilidad.",
+          "Hindi": "तो निस्संदेह कठिनाई के साथ आसानी है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "transliteration": "Inna maʿa l-ʿusri yusrā",
+        "translations": {
+          "English": "With hardship comes ease.",
+          "Urdu": "بے شک مشکل کے ساتھ آسانی ہے۔",
+          "French": "A côté de la difficulté est, certes, une facilité.",
+          "Spanish": "Ciertamente, con la dificultad viene la facilidad.",
+          "Hindi": "निस्संदेह कठिनाई के साथ आसानी है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+        "transliteration": "Fa idhā faraghta fa nṣab",
+        "translations": {
+          "English": "When your work is done, turn to devotion.",
+          "Urdu": "پس جب فارغ ہو تو محنت کرو۔",
+          "French": "Quand tu es libre, donc, lève-toi,",
+          "Spanish": "Así que cuando hayas terminado, esfuérzate,",
+          "Hindi": "तो जब फुरसत पाओ तो मेहनत करो।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَإِلَى رَبِّكَ فَارْغَبْ",
+        "transliteration": "Wa ilā rabbika farghab",
+        "translations": {
+          "English": "And to your Lord turn for everything.",
+          "Urdu": "اور اپنے رب کی طرف رغبت کرو۔",
+          "French": "Et à ton Seigneur aspire.",
+          "Spanish": "Y anhela a tu Señor.",
+          "Hindi": "और अपने रब की तरफ रुजू करो।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,102 @@
+{
+    "no": 99,
+    "name": "Az-Zalzalah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "transliteration": "Idhā zulzilati l-arḍu zilzālahā",
+        "translations": {
+          "English": "When the earth is shaken with its quake.",
+          "Urdu": "جب زمین اپنے زلزلے سے ہلا دی جائے گی۔",
+          "French": "Quand la terre tremblera d’un violent tremblement,",
+          "Spanish": "Cuando la tierra sea sacudida con su terremoto,",
+          "Hindi": "जब धरती अपने ज़ोरदार झटके से हिला दी जाएगी।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "transliteration": "Wa akhrajati l-arḍu athqālahā",
+        "translations": {
+          "English": "And the earth brings out its loads.",
+          "Urdu": "اور زمین اپنے بوجھ (دفن چیزوں) کو باہر نکال دے گی۔",
+          "French": "et qu’elle rejettera ses fardeaux,",
+          "Spanish": "y la tierra expulse sus cargas,",
+          "Hindi": "और धरती अपने बोझ (दफ़न चीज़ों) को बाहर निकाल देगी।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+        "transliteration": "Wa qāla l-insānu mā lahā",
+        "translations": {
+          "English": "And man says, “What is the matter with it?”",
+          "Urdu": "اور انسان کہے گا کہ اسے کیا ہو گیا ہے؟",
+          "French": "et que l’homme dira : « Qu’a-t-elle ? »",
+          "Spanish": "y el hombre diga: «¿Qué le ocurre?»",
+          "Hindi": "और इंसान कहेगा कि इसको क्या हो गया?"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "transliteration": "Yawma'idhin tuhaddithu akhbārahā",
+        "translations": {
+          "English": "On that Day, it will tell its tales.",
+          "Urdu": "اس دن زمین اپنی خبریں بیان کرے گی۔",
+          "French": "Ce jour-là, elle contera son histoire,",
+          "Spanish": "Ese día, ella relatará su historia,",
+          "Hindi": "उस दिन धरती अपने समाचार सुनाएगी।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "بِأَنَّ رَبَّكَ أَوْحَى لَهَا",
+        "transliteration": "Bi-anna rabbaka awḥā lahā",
+        "translations": {
+          "English": "For your Lord will have inspired it.",
+          "Urdu": "کیونکہ تیرے رب نے اسے حکم دیا ہوگا۔",
+          "French": "car ton Seigneur lui aura inspiré (de le faire).",
+          "Spanish": "porque tu Señor le habrá inspirado.",
+          "Hindi": "क्योंकि तेरे रब ने उसे हुक्म दिया होगा।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+        "transliteration": "Yawma'idhin yaṣduru n-nāsu ashtātan li-yuraw a'mālahum",
+        "translations": {
+          "English": "On that Day, the people will emerge in droves, to be shown their works.",
+          "Urdu": "اس دن لوگ الگ الگ گروہوں میں نکلیں گے تاکہ ان کے اعمال انہیں دکھائے جائیں۔",
+          "French": "Ce jour-là, les gens sortiront séparément pour qu’on leur montre leurs œuvres.",
+          "Spanish": "Ese día, la gente surgirá en multitudes para que se les muestren sus obras.",
+          "Hindi": "उस दिन लोग अलग-अलग गिरोहों में निकलेंगे ताकि उन्हें उनके कर्म दिखाए जाएँ।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "transliteration": "Faman ya'mal mithqāla dharratin khayran yarahu",
+        "translations": {
+          "English": "Whoever has done an atom's weight of good will see it.",
+          "Urdu": "پس جس نے ذرہ برابر نیکی کی ہوگی، وہ اسے دیکھ لے گا۔",
+          "French": "Quiconque aura fait un bien fût-ce du poids d’un atome, le verra,",
+          "Spanish": "Quien haya hecho el peso de un átomo de bien, lo verá,",
+          "Hindi": "फिर जिसने ज़र्रा भर भलाई की होगी, वह उसे देख लेगा।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "transliteration": "Wa man ya'mal mithqāla dharratin sharran yarahu",
+        "translations": {
+          "English": "And whoever has done an atom's weight of evil will see it.",
+          "Urdu": "اور جس نے ذرہ برابر برائی کی ہوگی، وہ اسے دیکھ لے گا۔",
+          "French": "et quiconque aura fait un mal fût-ce du poids d’un atome, le verra.",
+          "Spanish": "y quien haya hecho el peso de un átomo de mal, lo verá.",
+          "Hindi": "और जिसने ज़र्रा भर बुराई की होगी, वह उसे देख लेगा।"
+        }
+      }
+    ]
+  }

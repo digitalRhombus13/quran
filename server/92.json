@@ -1,0 +1,258 @@
+{
+    "no": 92,
+    "name": "Al-Lail",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَاللَّيْلِ إِذَا يَغْشَى",
+        "transliteration": "Wal-layli idhā yaghshā",
+        "translations": {
+          "English": "By the night as it covers.",
+          "Urdu": "رات کی قسم جب وہ چھا جائے۔",
+          "French": "Par la nuit quand elle enveloppe!",
+          "Spanish": "¡Por la noche cuando cubre!",
+          "Hindi": "रात की कसम जब वह छा जाए।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَالنَّهَارِ إِذَا تَجَلَّى",
+        "transliteration": "Wan-nahāri idhā tajallā",
+        "translations": {
+          "English": "And the day as it reveals.",
+          "Urdu": "اور دن کی قسم جب وہ روشن ہو۔",
+          "French": "Et par le jour quand il éclate!",
+          "Spanish": "¡Y por el día cuando resplandece!",
+          "Hindi": "और दिन की कसम जब वह प्रकट हो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَى",
+        "transliteration": "Wa mā khalaqa dh-dhakara wal-unthā",
+        "translations": {
+          "English": "And He who created the male and the female.",
+          "Urdu": "اور اس کی قسم جس نے نر اور مادہ پیدا کیے۔",
+          "French": "Et par Celui qui a créé le mâle et la femelle!",
+          "Spanish": "¡Y por Quien creó al macho y a la hembra!",
+          "Hindi": "और उसकी कसम जिसने नर और मादा पैदा किए।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّى",
+        "transliteration": "Inna saʿyakum lashattā",
+        "translations": {
+          "English": "Your endeavors are indeed diverse.",
+          "Urdu": "بے شک تمہاری کوششیں مختلف ہیں۔",
+          "French": "Vos efforts sont certes divergents.",
+          "Spanish": "Ciertamente, vuestros esfuerzos son diversos.",
+          "Hindi": "निस्संदेह तुम्हारे प्रयास भिन्न-भिन्न हैं।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَأَمَّا مَنْ أَعْطَى وَاتَّقَى",
+        "transliteration": "Fa ammā man aʿṭā wattaqā",
+        "translations": {
+          "English": "As for him who gives and is righteous.",
+          "Urdu": "پس جو شخص دے اور پرہیزگاری کرے۔",
+          "French": "Celui qui donne, craint (Allah),",
+          "Spanish": "En cuanto a quien da y es piadoso,",
+          "Hindi": "तो जो व्यक्ति दान दे और डर रखे।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "وَصَدَّقَ بِالْحُسْنَى",
+        "transliteration": "Wa saddaqa bil-husnā",
+        "translations": {
+          "English": "And confirms goodness.",
+          "Urdu": "اور بھلائی کی تصدیق کرے۔",
+          "French": "Et croit en la meilleure récompense,",
+          "Spanish": "Y cree en la mejor recompensa,",
+          "Hindi": "और भलाई को सच माने।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "فَسَنُيَسِّرُهُ لِلْيُسْرَى",
+        "transliteration": "Fa sanuyassiruhu lil-yusrā",
+        "translations": {
+          "English": "We will ease his way towards ease.",
+          "Urdu": "تو ہم اس کے لیے آسانی کی راہ آسان کر دیں گے۔",
+          "French": "Nous lui faciliterons la voie la plus facile.",
+          "Spanish": "Le facilitaremos el camino hacia la facilidad.",
+          "Hindi": "तो हम उसके लिए आसानी का रास्ता आसान कर देंगे।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى",
+        "transliteration": "Wa ammā man bakhila wastaghnā",
+        "translations": {
+          "English": "But as for him who is stingy and complacent.",
+          "Urdu": "اور جو بخیل ہو اور بے نیاز بنے۔",
+          "French": "Mais celui qui est avare et se complaît dans l'abondance,",
+          "Spanish": "Pero quien es avaro y se cree autosuficiente,",
+          "Hindi": "और जो कंजूस हो और बेपरवाह बने।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَكَذَّبَ بِالْحُسْنَى",
+        "transliteration": "Wa kadhaba bil-husnā",
+        "translations": {
+          "English": "And denies goodness.",
+          "Urdu": "اور بھلائی کو جھٹلائے۔",
+          "French": "Et traite de mensonge la meilleure récompense,",
+          "Spanish": "Y desmiente la mejor recompensa,",
+          "Hindi": "और भलाई को झुठलाए।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "فَسَنُيَسِّرُهُ لِلْعُسْرَى",
+        "transliteration": "Fa sanuyassiruhu lil-'usrā",
+        "translations": {
+          "English": "We will ease his way towards difficulty.",
+          "Urdu": "تو ہم اس کے لیے مشکل کی راہ آسان کر دیں گے۔",
+          "French": "Nous lui faciliterons la voie la plus difficile.",
+          "Spanish": "Le facilitaremos el camino hacia la dificultad.",
+          "Hindi": "तो हम उसके लिए मुश्किल का रास्ता आसान कर देंगे।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى",
+        "transliteration": "Wa mā yughnī 'anhu māluhu idhā taraddā",
+        "translations": {
+          "English": "And his money will not avail him when he plummets.",
+          "Urdu": "اور اس کا مال اس کے کچھ کام نہ آئے گا جب وہ گر پڑے۔",
+          "French": "Et sa richesse ne lui sera d'aucune utilité quand il tombera (dans la ruine).",
+          "Spanish": "Y su riqueza no le servirá de nada cuando caiga.",
+          "Hindi": "और उसका धन उसके कुछ काम न आएगा जब वह गिर पड़े।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "إِنَّ عَلَيْنَا لَلْهُدَى",
+        "transliteration": "Inna 'alaynā lahuḍā",
+        "translations": {
+          "English": "It is upon Us to guide.",
+          "Urdu": "بے شک ہدایت دینا ہمارے ذمہ ہے۔",
+          "French": "C'est à Nous, certes, de guider.",
+          "Spanish": "Ciertamente, Nosotros guiamos.",
+          "Hindi": "निस्संदेह मार्ग दिखाना हमारे जिम्मे है।"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَى",
+        "transliteration": "Wa inna lanā la-l-ākhirata wal-ūlā",
+        "translations": {
+          "English": "And to Us belong the Last and the First.",
+          "Urdu": "اور بے شک آخرت اور دنیا ہمارے ہی ہیں۔",
+          "French": "Et c'est à Nous qu'appartiennent la vie dernière et la vie présente.",
+          "Spanish": "Y a Nosotros pertenecen la otra vida y la primera.",
+          "Hindi": "और निस्संदेह आखिरत और दुनिया हमारी ही हैं।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّى",
+        "transliteration": "Fa andhartukum nāran talaẓẓā",
+        "translations": {
+          "English": "I have warned you of a Fierce Blaze.",
+          "Urdu": "تو میں نے تمہیں بھڑکتی ہوئی آگ سے ڈرایا۔",
+          "French": "Je vous ai donc avertis d'un Feu flamboyant.",
+          "Spanish": "Os he advertido de un Fuego llameante.",
+          "Hindi": "तो मैंने तुम्हें भड़कती आग से डराया।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+        "transliteration": "Lā yaṣlāhā illā l-ashqā",
+        "translations": {
+          "English": "None will burn in it except the very wicked.",
+          "Urdu": "اس میں وہی داخل ہوگا جو بدترین ہو۔",
+          "French": "N'y entrera que le plus malheureux,",
+          "Spanish": "No entrará en él sino el más desventurado,",
+          "Hindi": "उसमें वही प्रवेश करेगा जो सबसे बदनसीब हो।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "الَّذِي كَذَّبَ وَتَوَلَّى",
+        "transliteration": "Alladhī kadhaba wa tawallā",
+        "translations": {
+          "English": "He who denies and turns away.",
+          "Urdu": "جس نے جھٹلایا اور منہ موڑا۔",
+          "French": "Qui a démenti et tourné le dos.",
+          "Spanish": "Quien desmintió y se apartó.",
+          "Hindi": "जिसने झुठलाया और मुंह मोड़ा।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+        "transliteration": "Wa sayujannabuhā l-atqā",
+        "translations": {
+          "English": "But the devout will avoid it.",
+          "Urdu": "اور پرہیزگار اس سے دور رکھا جائے گا۔",
+          "French": "Tandis que l'homme pieux en sera écarté,",
+          "Spanish": "Y el más piadoso será apartado de ella,",
+          "Hindi": "और परहेज़गार उससे दूर रखा जाएगा।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى",
+        "transliteration": "Alladhī yu'tī mālahu yatazakkā",
+        "translations": {
+          "English": "He who gives his money to become pure.",
+          "Urdu": "جو اپنا مال دیتا ہے تاکہ پاک ہو۔",
+          "French": "Celui qui donne de ses biens pour se purifier,",
+          "Spanish": "Quien da de su riqueza para purificarse,",
+          "Hindi": "जो अपना धन देता है ताकि पाक हो।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى",
+        "transliteration": "Wa mā li-aḥadin 'indahu min ni'matin tujzā",
+        "translations": {
+          "English": "Seeking no favor in return.",
+          "Urdu": "اور کسی کا کوئی احسان نہیں جس کا بدلہ چکایا جائے۔",
+          "French": "Sans attendre de retour d'un bienfait,",
+          "Spanish": "Sin esperar recompensa alguna por favor recibido,",
+          "Hindi": "और किसी का कोई एहसान नहीं जिसका बदला चुकाया जाए।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَى",
+        "transliteration": "Illā ib'tighā'a wajhi rabbihi l-a'lā",
+        "translations": {
+          "English": "Only seeking the acceptance of his Lord, the Most High.",
+          "Urdu": "بلکہ صرف اپنے رب اعلیٰ کی رضا چاہتا ہے۔",
+          "French": "Mais seulement pour la Face de son Seigneur le Très-Haut.",
+          "Spanish": "Sino buscando el Rostro de su Señor, el Altísimo.",
+          "Hindi": "बल्कि सिर्फ अपने रब आला की रज़ा चाहता है।"
+        }
+      },
+      {
+        "no": 21,
+        "arabic": "وَلَسَوْفَ يَرْضَى",
+        "transliteration": "Wa lasawfa yarḍā",
+        "translations": {
+          "English": "And he will be satisfied.",
+          "Urdu": "اور وہ ضرور راضی ہو جائے گا۔",
+          "French": "Et certes, il sera satisfait.",
+          "Spanish": "Y ciertamente, quedará satisfecho.",
+          "Hindi": "और वह ज़रूर संतुष्ट हो जाएगा।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,54 @@
+{
+    "no": 106,
+    "name": "Quraysh",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "لِإِيلَافِ قُرَيْشٍ",
+        "transliteration": "Li'īlāfi Quraysh",
+        "translations": {
+          "English": "For the security of Quraish.",
+          "Urdu": "قریش کے لئے (یہ نظامِ امن و امان ہے)",
+          "French": "Pour la sécurité des Quraysh.",
+          "Spanish": "Por la seguridad de los Quraysh.",
+          "Hindi": "कुरैश की सुरक्षा के लिए।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+        "transliteration": "Īlāfihim riḥlata ash-shitā'i waṣ-ṣayf",
+        "translations": {
+          "English": "Their security during winter and summer journeys.",
+          "Urdu": "ان کے سفرِ خزاں و تابستاں کی حفاظت کے لئے۔",
+          "French": "Leur sécurité pendant les voyages d'hiver et d'été.",
+          "Spanish": "Su seguridad durante los viajes de invierno y verano.",
+          "Hindi": "उनकी सर्दी और गर्मी की यात्राओं की सुरक्षा के लिए।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ",
+        "transliteration": "Falya'budū rabba hādhā al-bayt",
+        "translations": {
+          "English": "Let them worship the Lord of this House.",
+          "Urdu": "پس انہیں چاہیے کہ اس گھر کے رب کی عبادت کریں۔",
+          "French": "Qu'ils adorent donc le Seigneur de cette Maison.",
+          "Spanish": "Que adoren al Señor de esta Casa.",
+          "Hindi": "तो उन्हें इस घर के रब की इबादत करनी चाहिए।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+        "transliteration": "Alladhī aṭ'amahum min jū'in wa āmanahum min khawf",
+        "translations": {
+          "English": "Who has fed them against hunger, and has secured them against fear.",
+          "Urdu": "جس نے انہیں بھوک سے کھانا دیا اور خوف سے امن بخشا۔",
+          "French": "Celui qui les a nourris contre la faim et les a sécurisés contre la peur.",
+          "Spanish": "Quien los alimentó contra el hambre y los protegió contra el temor.",
+          "Hindi": "जिसने उन्हें भूख से भोजन दिया और डर से सुरक्षा प्रदान की।"
+        }
+      }
+    ]
+  }

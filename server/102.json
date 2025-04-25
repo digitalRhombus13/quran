@@ -1,0 +1,102 @@
+{
+    "no": 102,
+    "name": "At-Takathur",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "أَلْهَاكُمُ التَّكَاثُرُ",
+        "transliteration": "Alhākumu at-takāthur",
+        "translations": {
+          "English": "Abundance distracts you.",
+          "Urdu": "تمہیں مال و اولاد کی کثرت نے غافل کر دیا۔",
+          "French": "La course aux richesses vous distrait",
+          "Spanish": "La rivalidad por acumular bienes os distrae",
+          "Hindi": "धन-दौलत की होड़ ने तुम्हें मोह लिया"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "حَتَّى زُرْتُمُ الْمَقَابِرَ",
+        "transliteration": "Ḥattā zurtumu al-maqābir",
+        "translations": {
+          "English": "Until you visit the graveyards.",
+          "Urdu": "یہاں تک کہ تم قبرستان جا پہنچے۔",
+          "French": "jusqu'à ce que vous visitiez les tombes.",
+          "Spanish": "hasta que visitáis las tumbas.",
+          "Hindi": "यहाँ तक कि तुम कब्रिस्तान पहुँच गए"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "transliteration": "Kallā sawfa ta'lamūn",
+        "translations": {
+          "English": "Indeed, you will know.",
+          "Urdu": "ہرگز نہیں، تم عنقریب جان لو گے۔",
+          "French": "Mais non! Vous saurez bientôt!",
+          "Spanish": "¡No! Pronto sabréis.",
+          "Hindi": "कदापि नहीं, तुम शीघ्र ही जान लोगे"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "transliteration": "Thumma kallā sawfa ta'lamūn",
+        "translations": {
+          "English": "Certainly, you will know.",
+          "Urdu": "پھر ہرگز نہیں، تم عنقریب جان لو گے۔",
+          "French": "Encore une fois non! Vous saurez bientôt!",
+          "Spanish": "¡Y otra vez no! Pronto sabréis.",
+          "Hindi": "फिर कदापि नहीं, तुम शीघ्र ही जान लोगे"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+        "transliteration": "Kallā law ta'lamūna 'ilma al-yaqīn",
+        "translations": {
+          "English": "If you knew with knowledge of certainty.",
+          "Urdu": "ہرگز نہیں، اگر تم یقینی علم سے جان لو۔",
+          "French": "Si seulement vous saviez de science certaine!",
+          "Spanish": "¡No! Si supierais con conocimiento certero...",
+          "Hindi": "कदापि नहीं, यदि तुम निश्चित ज्ञान से जानते"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "لَتَرَوُنَّ الْجَحِيمَ",
+        "transliteration": "Latarawunna al-jaḥīm",
+        "translations": {
+          "English": "You would see the Inferno.",
+          "Urdu": "تو تم ضرور دوزخ دیکھ لو گے۔",
+          "French": "Vous verrez certes la Fournaise.",
+          "Spanish": "Veríais el Fuego abrasador,",
+          "Hindi": "तो तुम नरक को अवश्य देख लेते"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+        "transliteration": "Thumma latarawunnahā 'ayna al-yaqīn",
+        "translations": {
+          "English": "Then you will see it with the eye of certainty.",
+          "Urdu": "پھر تم اسے یقینی نظر سے دیکھو گے۔",
+          "French": "Ensuite, vous la verrez certes avec l'œil de certitude.",
+          "Spanish": "y luego la veréis con certeza absoluta.",
+          "Hindi": "फिर तुम उसे निश्चित दृष्टि से देखोगे"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+        "transliteration": "Thumma latus'alunna yawma'idhin 'ani an-na'īm",
+        "translations": {
+          "English": "Then, on that Day, you will be questioned about the Bliss.",
+          "Urdu": "پھر اس دن تم ضرور نعمتوں کے بارے میں پوچھے جاؤ گے۔",
+          "French": "Ensuite, ce jour-là, vous serez certes interrogés au sujet des délices.",
+          "Spanish": "Luego, ese día, se os preguntará acerca de los placeres [que disfrutasteis].",
+          "Hindi": "फिर उस दिन तुमसे अवश्य नेमतों के बारे में पूछा जाएगा"
+        }
+      }
+    ]
+  }

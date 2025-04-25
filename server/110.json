@@ -1,0 +1,42 @@
+{
+  "no": 110,
+  "name": "An-Nasr",
+  "verses": [
+    {
+      "no": 1,
+      "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "transliteration": "Idhā jāʾa naṣru llāhi wal-fatḥ",
+      "translations": {
+        "English": "When there comes God’s victory, and conquest.",
+        "Urdu": "جب اللہ کی مدد آئے اور فتح (مکہ) ہو جائے۔",
+        "French": "Quand vient le secours d’Allah ainsi que la victoire.",
+        "Spanish": "Cuando llegue el auxilio de Allah y la victoria.",
+        "Hindi": "जब अल्लाह की मदद आए और विजय (मक्का की) हो जाए।"
+      }
+    },
+    {
+      "no": 2,
+      "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "transliteration": "Wa raʾayta n-nāsa yadkhulūna fī dīni llāhi afwājā",
+      "translations": {
+        "English": "And you see the people entering God’s religion in multitudes.",
+        "Urdu": "اور تم لوگوں کو اللہ کے دین میں جوق در جوق داخل ہوتے دیکھو۔",
+        "French": "Et que tu vois les gens entrer en foule dans la religion d’Allah.",
+        "Spanish": "Y veas a la gente entrar en la religión de Allah en multitudes.",
+        "Hindi": "और तुम लोगों को अल्लाह के दीन में झुंड के झुंड दाखिल होते देखो।"
+      }
+    },
+    {
+      "no": 3,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+      "transliteration": "Fasabbiḥ biḥamdi rabbika wastaghfirhu innahu kāna tawwābā",
+      "translations": {
+        "English": "Then celebrate the praise of your Lord, and seek His forgiveness. He is the Accepter of Repentance.",
+        "Urdu": "تو اپنے رب کی حمد کے ساتھ تسبیح کرو اور اس سے بخشش مانگو، بے شک وہ توبہ قبول کرنے والا ہے۔",
+        "French": "Alors, par la louange, célèbre la gloire de ton Seigneur et implore Son pardon. Car c’est Lui le grand Accueillant au repentir.",
+        "Spanish": "Glorifica con alabanzas a tu Señor y pídele perdón. En verdad, Él es el Aceptador del arrepentimiento.",
+        "Hindi": "तो अपने रब की प्रशंसा के साथ तस्बीह पढ़ो और उससे माफी माँगो, निस्संदेह वह तौबा क़बूल करने वाला है।"
+      }
+    }
+  ]
+}

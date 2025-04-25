@@ -1,0 +1,66 @@
+{
+    "no": 111,
+    "name": "Al-Masad",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+        "transliteration": "Tabbat yadā abī lahabin wa tabb",
+        "translations": {
+          "English": "Condemned are the hands of Abee Lahab, and he is condemned.",
+          "Urdu": "ابولہب کے دونوں ہاتھ ٹوٹ گئے اور وہ ہلاک ہوگیا۔",
+          "French": "Que périssent les deux mains d'Abû Lahab et que lui-même périsse.",
+          "Spanish": "¡Que perezcan las manos de Abu Lahab y que perezca él!",
+          "Hindi": "अबू लहब के दोनों हाथ टूट गए और वह स्वयं नष्ट हो गया।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ",
+        "transliteration": "Mā aghnā 'anhu māluhu wa mā kasab",
+        "translations": {
+          "English": "His wealth did not avail him, nor did what he acquired.",
+          "Urdu": "اس کا مال اور جو کچھ اس نے کمایا، اس کے کچھ کام نہ آیا۔",
+          "French": "Sa fortune ne lui a servi à rien, ni ce qu'il a acquis.",
+          "Spanish": "De nada le sirvieron sus riquezas ni lo que adquirió.",
+          "Hindi": "उसका धन और उसकी कमाई उसके किसी काम न आई।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "سَيَصْلَى نَارًا ذَاتَ لَهَبٍ",
+        "transliteration": "Sayaṣlā nāran dhāta lahab",
+        "translations": {
+          "English": "He will burn in a Flaming Fire.",
+          "Urdu": "وہ عنقریب شعلے والی آگ میں داخل ہوگا۔",
+          "French": "Il brûlera dans un Feu plein de flammes.",
+          "Spanish": "Pronto arderá en el Fuego llameante.",
+          "Hindi": "वह जलने वाली आग में जलने वाला है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+        "transliteration": "Wa imra'atuhu ḥammālata l-ḥaṭab",
+        "translations": {
+          "English": "And his wife—the firewood carrier.",
+          "Urdu": "اور اس کی بیوی، جو ایندھن اٹھانے والی ہے۔",
+          "French": "Et sa femme, la porteuse de bois,",
+          "Spanish": "Y su esposa, la portadora de leña,",
+          "Hindi": "और उसकी पत्नी, जो ईंधन ढोने वाली है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+        "transliteration": "Fī jīdihā ḥablum min masad",
+        "translations": {
+          "English": "Around her neck is a rope of thorns.",
+          "Urdu": "اس کے گلے میں خاردار رسی ہوگی۔",
+          "French": "Autour de son cou, une corde de fibres.",
+          "Spanish": "Llevará alrededor de su cuello una cuerda de fibras.",
+          "Hindi": "उसके गले में रस्सी होगी जो मूंज की बनी होगी।"
+        }
+      }
+    ]
+  }

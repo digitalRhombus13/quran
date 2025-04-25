@@ -1,0 +1,78 @@
+{
+    "no": 109,
+    "name": "Al-Kafirun",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+        "transliteration": "Qul yā ayyuhā l-kāfirūn",
+        "translations": {
+          "English": "Say, “O disbelievers.",
+          "Urdu": "کہہ دو اے کافرو!",
+          "French": "Dis : « Ô vous les infidèles !",
+          "Spanish": "Di: «¡Oh, incrédulos!",
+          "Hindi": "कह दो, 'हे काफिरों!'"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "transliteration": "Lā aʿbudu mā taʿbudūn",
+        "translations": {
+          "English": "I do not worship what you worship.",
+          "Urdu": "میں نہیں پوجتا جس کی تم پوجا کرتے ہو۔",
+          "French": "Je n’adore pas ce que vous adorez.",
+          "Spanish": "No adoro lo que vosotros adoráis.",
+          "Hindi": "मैं उसकी पूजा नहीं करता जिसकी तुम पूजा करते हो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "transliteration": "Wa lā antum ʿābidūna mā aʿbud",
+        "translations": {
+          "English": "Nor do you worship what I worship.",
+          "Urdu": "اور نہ تم پوجتے ہو جس کی میں پوجا کرتا ہوں۔",
+          "French": "Et vous n’adorez pas ce que j’adore.",
+          "Spanish": "Ni vosotros adoráis lo que yo adoro.",
+          "Hindi": "और न तुम उसकी पूजा करते हो जिसकी मैं पूजा करता हूँ।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+        "transliteration": "Wa lā ana ʿābidun mā ʿabadtum",
+        "translations": {
+          "English": "Nor do I serve what you serve.",
+          "Urdu": "اور نہ میں پوجنے والا ہوں جس کی تم نے پوجا کی۔",
+          "French": "Je ne suis pas adorateur de ce que vous adorez.",
+          "Spanish": "Ni yo soy adorador de lo que vosotros adoráis.",
+          "Hindi": "और न मैं उसका पूजक हूँ जिसकी तुमने पूजा की।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "transliteration": "Wa lā antum ʿābidūna mā aʿbud",
+        "translations": {
+          "English": "Nor do you serve what I serve.",
+          "Urdu": "اور نہ تم پوجنے والے ہو جس کی میں پوجا کرتا ہوں۔",
+          "French": "Et vous n’êtes pas adorateurs de ce que j’adore.",
+          "Spanish": "Ni vosotros sois adoradores de lo que yo adoro.",
+          "Hindi": "और न तुम उसके पूजक हो जिसकी मैं पूजा करता हूँ।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "transliteration": "Lakum dīnukum wa liya dīn",
+        "translations": {
+          "English": "You have your way, and I have my way.”",
+          "Urdu": "تمہارے لیے تمہارا دین اور میرے لیے میرا دین۔",
+          "French": "À vous votre religion, et à moi ma religion.»",
+          "Spanish": "Para vosotros vuestra religión y para mí la mía».",
+          "Hindi": "तुम्हारे लिए तुम्हारा धर्म और मेरे लिए मेरा धर्म।"
+        }
+      }
+    ]
+  }

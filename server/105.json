@@ -1,0 +1,66 @@
+{
+    "no": 105,
+    "name": "Al-Fil",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "transliteration": "Alam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl",
+        "translations": {
+          "English": "Have you not considered how your Lord dealt with the People of the Elephant?",
+          "Urdu": "کیا تم نے نہیں دیکھا کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
+          "French": "N’as-tu pas vu comment ton Seigneur a agi envers les gens de l’éléphant ?",
+          "Spanish": "¿No has visto cómo actuó tu Señor con los dueños del elefante?",
+          "Hindi": "क्या तुमने नहीं देखा कि तुम्हारे रब ने हाथी वालों के साथ क्या किया?"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "transliteration": "Alam yajʿal kaydahum fī taḍlīl",
+        "translations": {
+          "English": "Did He not make their plan go wrong?",
+          "Urdu": "کیا ان کی چال کو اس نے برباد نہیں کیا؟",
+          "French": "N’a-t-Il pas rendu leur ruse complètement vaine ?",
+          "Spanish": "¿No desbarató sus planes?",
+          "Hindi": "क्या उसने उनकी चाल को विफल नहीं किया?"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "transliteration": "Wa arsala ʿalayhim ṭayran abābīl",
+        "translations": {
+          "English": "He sent against them swarms of birds.",
+          "Urdu": "اور ان پر پرندوں کے جھنڈ کے جھنڈ بھیج دیے۔",
+          "French": "Et envoyé sur eux des oiseaux par volées",
+          "Spanish": "Y envió contra ellos bandadas de aves",
+          "Hindi": "और उन पर पक्षियों के झुंड भेज दिए।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+        "transliteration": "Tarmīhim bi-ḥijāratin min sijjīl",
+        "translations": {
+          "English": "Throwing at them rocks of baked clay.",
+          "Urdu": "جو ان پر پکی مٹی کے پتھر پھینک رہے تھے۔",
+          "French": "Qui leur lançaient des pierres d’argile cuite ?",
+          "Spanish": "Que les arrojaban piedras de arcilla dura",
+          "Hindi": "जो उन पर पक्की मिट्टी के पत्थर फेंक रहे थे।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+        "transliteration": "Fa jaʿalahum ka-ʿaṣfin maʾkūl",
+        "translations": {
+          "English": "Leaving them like chewed-up leaves.",
+          "Urdu": "پھر انہیں کھائے ہوئے بھوسے کی مانند کر دیا۔",
+          "French": "Et Il les a rendus semblables à une paille mâchée.",
+          "Spanish": "Y los dejó como heno comido",
+          "Hindi": "फिर उन्हें चबाए हुए भूसे की तरह कर दिया।"
+        }
+      }
+    ]
+  }

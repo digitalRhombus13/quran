@@ -1,0 +1,246 @@
+{
+    "no": 90,
+    "name": "Al-Balad",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "لَا أُقْسِمُ بِهَذَا الْبَلَدِ",
+        "transliteration": "Lā uqsimu bihādhā l-balad",
+        "translations": {
+          "English": "I swear by this land.",
+          "Urdu": "میں اس شہر کی قسم کھاتا ہوں۔",
+          "French": "Je jure par cette cité.",
+          "Spanish": "Juro por esta ciudad.",
+          "Hindi": "मैं इस नगर की शपथ लेता हूँ।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَأَنْتَ حِلٌّ بِهَذَا الْبَلَدِ",
+        "transliteration": "Wa-anta ḥillun bihādhā l-balad",
+        "translations": {
+          "English": "And you are a resident of this land.",
+          "Urdu": "اور تم اس شہر کے رہنے والے ہو۔",
+          "French": "Et toi qui résides dans cette cité.",
+          "Spanish": "Y tú que resides en esta ciudad.",
+          "Hindi": "और तुम इस नगर के निवासी हो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+        "transliteration": "Wawālidin wamā walad",
+        "translations": {
+          "English": "And by a father and what he fathered.",
+          "Urdu": "اور باپ اور اس کی اولاد کی قسم۔",
+          "French": "Par le géniteur et ce qu'il a engendré.",
+          "Spanish": "Y por el padre y lo que engendró.",
+          "Hindi": "और पिता और उसकी संतान की शपथ।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+        "transliteration": "Laqad khalaqnā l-insāna fī kabad",
+        "translations": {
+          "English": "We created man in distress.",
+          "Urdu": "ہم نے انسان کو مشقت میں پیدا کیا ہے۔",
+          "French": "Nous avons créé l'homme pour la lutte.",
+          "Spanish": "Hemos creado al hombre para la adversidad.",
+          "Hindi": "हमने मनुष्य को कठिनाई में पैदा किया है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+        "transliteration": "Ayaḥsabu an lan yaqdira ʿalayhi aḥad",
+        "translations": {
+          "English": "Does he think that no one has power over him?",
+          "Urdu": "کیا وہ سمجھتا ہے کہ اس پر کوئی قادر نہیں؟",
+          "French": "Pense-t-il que personne ne pourra rien contre lui?",
+          "Spanish": "¿Acaso piensa que nadie podrá contra él?",
+          "Hindi": "क्या वह सोचता है कि उस पर कोई अधिकार नहीं रखता?"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+        "transliteration": "Yaqūlu ahlaktu mālan lubadā",
+        "translations": {
+          "English": "He says, 'I have used up so much money.'",
+          "Urdu": "وہ کہتا ہے کہ میں نے بہت سا مال خرچ کر ڈالا۔",
+          "French": "Il dit: 'J'ai gaspillé beaucoup de biens.'",
+          "Spanish": "Dice: 'He malgastado mucha riqueza.'",
+          "Hindi": "वह कहता है, 'मैंने बहुत सा धन खर्च कर डाला।'"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+        "transliteration": "Ayaḥsabu an lam yarahu aḥad",
+        "translations": {
+          "English": "Does he think that no one sees him?",
+          "Urdu": "کیا وہ سمجھتا ہے کہ اسے کسی نے نہیں دیکھا؟",
+          "French": "Pense-t-il que personne ne l'a vu?",
+          "Spanish": "¿Acaso piensa que nadie lo ha visto?",
+          "Hindi": "क्या वह सोचता है कि उसे किसी ने नहीं देखा?"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+        "transliteration": "Alam najʿal lahu ʿaynayn",
+        "translations": {
+          "English": "Did We not give him two eyes?",
+          "Urdu": "کیا ہم نے اسے دو آنکھیں نہیں دیں؟",
+          "French": "Ne lui avons-Nous pas donné deux yeux,",
+          "Spanish": "¿No le hemos dado dos ojos,",
+          "Hindi": "क्या हमने उसे दो आँखें नहीं दीं?"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+        "transliteration": "Walisānan washafatayn",
+        "translations": {
+          "English": "And a tongue, and two lips?",
+          "Urdu": "اور ایک زبان اور دو ہونٹ؟",
+          "French": "une langue et deux lèvres?",
+          "Spanish": "una lengua y dos labios?",
+          "Hindi": "और एक जीभ और दो होंठ?"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+        "transliteration": "Wahadaynāhu l-najdayn",
+        "translations": {
+          "English": "And We showed him the two ways?",
+          "Urdu": "اور ہم نے اسے دو راستے دکھا دیے۔",
+          "French": "Et ne lui avons-Nous pas montré les deux voies?",
+          "Spanish": "¿Y no le hemos mostrado los dos caminos?",
+          "Hindi": "और क्या हमने उसे दो मार्ग नहीं दिखाए?"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+        "transliteration": "Falā iq'taḥama l-ʿaqabah",
+        "translations": {
+          "English": "But he did not brave the ascent.",
+          "Urdu": "پھر بھی اس نے دشوار گزار راستہ نہیں اپنایا۔",
+          "French": "Pourtant, il ne s'engage pas dans la voie difficile.",
+          "Spanish": "Pero no se ha esforzado por subir la cuesta.",
+          "Hindi": "फिर भी उसने कठिन चढ़ाई का मार्ग नहीं अपनाया।"
+        }
+      },
+      {
+        "no": 12,
+        "arabic": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+        "transliteration": "Wamā adrāka mā l-ʿaqabah",
+        "translations": {
+          "English": "And what will explain to you what the ascent is?",
+          "Urdu": "اور تمہیں کیا معلوم کہ وہ دشوار گزار راستہ کیا ہے؟",
+          "French": "Et qui te dira ce qu'est la voie difficile?",
+          "Spanish": "¿Y qué te hará comprender qué es la cuesta?",
+          "Hindi": "और तुम्हें क्या मालूम कि वह कठिन चढ़ाई क्या है?"
+        }
+      },
+      {
+        "no": 13,
+        "arabic": "فَكُّ رَقَبَةٍ",
+        "transliteration": "Fakku raqabah",
+        "translations": {
+          "English": "The freeing of a slave.",
+          "Urdu": "کسی غلام کو آزاد کرنا۔",
+          "French": "C'est affranchir un esclave,",
+          "Spanish": "Es liberar a un esclavo,",
+          "Hindi": "एक गुलाम को आज़ाद करना।"
+        }
+      },
+      {
+        "no": 14,
+        "arabic": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+        "transliteration": "Aw iṭʿāmun fī yawmin dhī masghabah",
+        "translations": {
+          "English": "Or the feeding on a day of hunger.",
+          "Urdu": "یا بھوک کے دن کھانا کھلانا۔",
+          "French": "ou nourrir, en un jour de famine,",
+          "Spanish": "o dar de comer en un día de hambre,",
+          "Hindi": "या भूख के दिन भोजन कराना।"
+        }
+      },
+      {
+        "no": 15,
+        "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+        "transliteration": "Yatīman dhā maqrabah",
+        "translations": {
+          "English": "An orphan near of kin.",
+          "Urdu": "قرابت دار یتیم کو۔",
+          "French": "un orphelin proche,",
+          "Spanish": "a un huérfano pariente,",
+          "Hindi": "रिश्तेदार अनाथ को।"
+        }
+      },
+      {
+        "no": 16,
+        "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+        "transliteration": "Aw miskīnan dhā matrabah",
+        "translations": {
+          "English": "Or a destitute in the dust.",
+          "Urdu": "یا خاک نشین مسکین کو۔",
+          "French": "ou un pauvre dans le dénuement.",
+          "Spanish": "o a un pobre en la miseria.",
+          "Hindi": "या मिट्टी में पड़े मिसकीन को।"
+        }
+      },
+      {
+        "no": 17,
+        "arabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+        "transliteration": "Thumma kāna mina alladhīna āmanū watawāṣaw biṣ-ṣabri watawāṣaw bil-marḥamah",
+        "translations": {
+          "English": "Then he becomes of those who believe, and advise one another to patience, and advise one another to kindness.",
+          "Urdu": "پھر وہ ان لوگوں میں سے ہو جو ایمان لائے اور ایک دوسرے کو صبر کی تلقین کرتے ہیں اور رحم کی وصیت کرتے ہیں۔",
+          "French": "Et ensuite d'être de ceux qui croient et s'enjoignent mutuellement la patience, et s'enjoignent mutuellement la miséricorde.",
+          "Spanish": "Y luego ser de los que creen, se aconsejan mutuamente la paciencia y se aconsejan mutuamente la misericordia.",
+          "Hindi": "फिर वह उन लोगों में से हो जो ईमान लाए और एक दूसरे को धैर्य की सलाह देते हैं और दया की सलाह देते हैं।"
+        }
+      },
+      {
+        "no": 18,
+        "arabic": "أُولَئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+        "transliteration": "Ulāika aṣḥābu l-maymanah",
+        "translations": {
+          "English": "These are the people of happiness.",
+          "Urdu": "یہی دائیں ہاتھ والے ہیں۔",
+          "French": "Ceux-là sont les gens de la droite.",
+          "Spanish": "Esos son los compañeros de la derecha.",
+          "Hindi": "ये ही दायें हाथ वाले हैं।"
+        }
+      },
+      {
+        "no": 19,
+        "arabic": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+        "transliteration": "Wa-alladhīna kafarū biāyātinā hum aṣḥābu l-mash'amah",
+        "translations": {
+          "English": "But as for those who defy Our revelations—these are the people of misery.",
+          "Urdu": "اور جنہوں نے ہماری آیتوں کا انکار کیا، وہ بائیں ہاتھ والے ہیں۔",
+          "French": "Et ceux qui ne croient pas en Nos versets sont les gens de la gauche.",
+          "Spanish": "Y quienes no creen en Nuestros signos son los compañeros de la izquierda.",
+          "Hindi": "और जिन्होंने हमारी आयतों का इनकार किया, वे बायें हाथ वाले हैं।"
+        }
+      },
+      {
+        "no": 20,
+        "arabic": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+        "transliteration": "ʿAlayhim nārun mu'ṣadah",
+        "translations": {
+          "English": "Upon them is a padlocked Fire.",
+          "Urdu": "ان پر بند کی ہوئی آگ (چھائی) ہوگی۔",
+          "French": "Le Feu se refermera sur eux.",
+          "Spanish": "Sobre ellos habrá un Fuego sellado.",
+          "Hindi": "उन पर बंद की हुई आग (छाई) होगी।"
+        }
+      }
+    ]
+  }

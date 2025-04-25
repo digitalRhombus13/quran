@@ -1,0 +1,138 @@
+{
+    "no": 93,
+    "name": "Ad-Duha",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالضُّحَى",
+        "transliteration": "Waḍ-ḍuḥā",
+        "translations": {
+          "English": "By the morning light.",
+          "Urdu": "صبح کی روشنی کی قسم۔",
+          "French": "Par le matin illuminant!",
+          "Spanish": "¡Por la luz de la mañana!",
+          "Hindi": "सुबह की रोशनी की कसम।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَاللَّيْلِ إِذَا سَجَى",
+        "transliteration": "Wal-layli idhā sajā",
+        "translations": {
+          "English": "And the night as it settles.",
+          "Urdu": "اور رات کی قسم جب وہ چھا جائے۔",
+          "French": "Et par la nuit quand elle s'apaise!",
+          "Spanish": "¡Y por la noche cuando se serena!",
+          "Hindi": "और रात की कसम जब वह छा जाए।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى",
+        "transliteration": "Mā wadda'aka rabbuka wa mā qalā",
+        "translations": {
+          "English": "Your Lord did not abandon you, nor did He forget.",
+          "Urdu": "تیرے رب نے تجھے نہ چھوڑا ہے اور نہ ناراض ہوا۔",
+          "French": "Ton Seigneur ne t'a ni abandonné, ni détesté.",
+          "Spanish": "Tu Señor no te ha abandonado ni te ha olvidado.",
+          "Hindi": "तेरे रब ने तुझे नहीं छोड़ा और न ही नाराज़ हुआ।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَى",
+        "transliteration": "Wa la-l-ākhiratu khayrun laka mina l-ūlā",
+        "translations": {
+          "English": "The Hereafter is better for you than the First.",
+          "Urdu": "اور آخرت تو تمہارے لیے دنیا سے بہتر ہے۔",
+          "French": "La vie dernière t'est meilleure que la première.",
+          "Spanish": "Y, en verdad, la otra vida será mejor para ti que la primera.",
+          "Hindi": "और आख़िरत तो तुम्हारे लिए दुनिया से बेहतर है।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+        "transliteration": "Wa la-sawfa yu'ṭīka rabbuka fa tarḍā",
+        "translations": {
+          "English": "And your Lord will give you, and you will be satisfied.",
+          "Urdu": "اور عنقریب تمہارا رب تمہیں دے گا پھر تم راضی ہو جاؤ گے۔",
+          "French": "Ton Seigneur te donnera certes, et alors tu seras satisfait.",
+          "Spanish": "Y tu Señor te concederá y quedarás satisfecho.",
+          "Hindi": "और जल्द ही तुम्हारा रब तुम्हें देगा फिर तुम संतुष्ट हो जाओगे।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَى",
+        "transliteration": "Alam yajidka yatīman fa āwā",
+        "translations": {
+          "English": "Did He not find you orphaned, and sheltered you?",
+          "Urdu": "کیا اس نے تمہیں یتیم نہیں پایا پھر پناہ دی؟",
+          "French": "Ne t'a-t-Il pas trouvé orphelin et donné refuge?",
+          "Spanish": "¿No te encontró huérfano y te dio amparo?",
+          "Hindi": "क्या उसने तुम्हें यतीम नहीं पाया फिर पनाह दी?"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَى",
+        "transliteration": "Wa wajadaka ḍāllan fa hadā",
+        "translations": {
+          "English": "And found you wandering, and guided you.",
+          "Urdu": "اور تمہیں بھٹका ہوا پایا پھر ہدایت دی؟",
+          "French": "Ne t'a-t-Il pas trouvé égaré et guidé?",
+          "Spanish": "¿Y no te encontró extraviado y te guió?",
+          "Hindi": "और तुम्हें भटका हुआ पाया फिर हिदायत दी?"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "وَوَجَدَكَ عَائِلًا فَأَغْنَى",
+        "transliteration": "Wa wajadaka 'ā'ilan fa aghnā",
+        "translations": {
+          "English": "And found you in need, and enriched you?",
+          "Urdu": "اور تمہیں محتاج پایا پھر غنی کر دیا؟",
+          "French": "Ne t'a-t-Il pas trouvé dans le besoin et enrichi?",
+          "Spanish": "¿Y no te encontró necesitado y te enriqueció?",
+          "Hindi": "और तुम्हें मुहताज पाया फिर ग़नी कर दिया?"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "transliteration": "Fa ammā l-yatīma fa lā taqhar",
+        "translations": {
+          "English": "Therefore, do not mistreat the orphan.",
+          "Urdu": "پس یتیم کے ساتھ سختی نہ کر۔",
+          "French": "Quant à l'orphelin, donc, ne le maltraite pas.",
+          "Spanish": "Así pues, no oprimas al huérfano.",
+          "Hindi": "तो यतीम के साथ ज़ुल्म न कर।"
+        }
+      },
+      {
+        "no": 10,
+        "arabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+        "transliteration": "Wa ammā s-sā'ila fa lā tanhar",
+        "translations": {
+          "English": "Nor rebuff the seeker.",
+          "Urdu": "اور سائل کو نہ جھڑک۔",
+          "French": "Et quant au demandeur, ne le repousse pas.",
+          "Spanish": "Y no rechaces al mendigo.",
+          "Hindi": "और माँगने वाले को न झिड़क।"
+        }
+      },
+      {
+        "no": 11,
+        "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "transliteration": "Wa ammā bi-ni'mati rabbika fa ḥaddith",
+        "translations": {
+          "English": "But proclaim the blessings of your Lord.",
+          "Urdu": "اور اپنے رب کی نعمت کا ذکر کر۔",
+          "French": "Et quant au bienfait de ton Seigneur, proclame-le.",
+          "Spanish": "Y proclama las gracias de tu Señor.",
+          "Hindi": "और अपने रब की नेमत का ज़िक्र कर।"
+        }
+      }
+    ]
+  }

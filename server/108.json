@@ -1,0 +1,43 @@
+{
+    "no": 108,
+    "name": "Al-Kawthar",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "transliteration": "Innā aʿṭaynāka l-kawthar",
+        "translations": {
+          "English": "We have given you plenty.",
+          "Urdu": "بے شک ہم نے آپ کو کوثر عطا کی ہے۔",
+          "French": "Nous t'avons certes accordé l'abondance.",
+          "Spanish": "En verdad, te hemos dado la abundancia.",
+          "Hindi": "निस्संदेह हमने तुम्हें कौसर प्रदान किया है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "transliteration": "Faṣalli lirabbika wanḥar",
+        "translations": {
+          "English": "So pray to your Lord and sacrifice.",
+          "Urdu": "پس آپ اپنے رب کے لیے نماز پڑھیں اور قربانی کریں۔",
+          "French": "Accomplis donc la prière pour ton Seigneur et sacrifie.",
+          "Spanish": "Así que ora a tu Señor y sacrifica.",
+          "Hindi": "अतः तुम अपने रब के लिए नमाज़ पढ़ो और कुर्बानी दो।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "transliteration": "Inna shāni-aka huwa l-abtar",
+        "translations": {
+          "English": "He who hates you is the loser.",
+          "Urdu": "بے شک آپ کا دشمن ہی بے نام و نشان ہے۔",
+          "French": "Celui qui te hait sera certes sans postérité.",
+          "Spanish": "En verdad, quien te odia es el cortado.",
+          "Hindi": "निस्संदेह तुम्हारा बैरी ही बिना औलाद का है।"
+        }
+      }
+    ]
+  }
+  

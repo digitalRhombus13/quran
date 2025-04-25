@@ -1,0 +1,90 @@
+{
+    "no": 107,
+    "name": "Al-Ma'un",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+        "transliteration": "Ara'ayta alladhī yukadhibu bid-dīn",
+        "translations": {
+          "English": "Have you considered him who denies the religion?",
+          "Urdu": "کیا آپ نے اس شخص کو دیکھا جو جزا و سزا کو جھٹلاتا ہے؟",
+          "French": "As-tu vu celui qui traite de mensonge la Rétribution?",
+          "Spanish": "¿Has visto al que desmiente el Juicio?",
+          "Hindi": "क्या तुमने उसे देखा जो प्रतिदान को झुठलाता है?"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+        "transliteration": "Fadhālika alladhī yadu''u al-yatīm",
+        "translations": {
+          "English": "It is he who mistreats the orphan.",
+          "Urdu": "وہی تو ہے جو یتیم کو دھکے دیتا ہے۔",
+          "French": "C'est bien lui qui repousse l'orphelin",
+          "Spanish": "Ese es el que maltrata al huérfano",
+          "Hindi": "वही है जो अनाथ को धक्का देता है"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ",
+        "transliteration": "Wa lā yaḥuḍḍu 'alā ṭa'āmi al-miskīn",
+        "translations": {
+          "English": "And does not encourage the feeding of the poor.",
+          "Urdu": "اور مسکین کو کھانا کھلانے کی ترغیب نہیں دیتا۔",
+          "French": "et qui n'encourage point à nourrir le pauvre.",
+          "Spanish": "y no anima a alimentar al necesitado.",
+          "Hindi": "और मिस्कीन को खाना खिलाने के लिए प्रेरित नहीं करता"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "فَوَيْلٌ لِلْمُصَلِّينَ",
+        "transliteration": "Fawaylun lil-muṣallīn",
+        "translations": {
+          "English": "So woe to those who pray.",
+          "Urdu": "پس تباہی ہے نماز پڑھنے والوں کے لیے۔",
+          "French": "Malheur donc à ceux qui prient",
+          "Spanish": "¡Ay de los orantes,",
+          "Hindi": "तो विनाश है उन नमाज़ पढ़ने वालों के लिए"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+        "transliteration": "Alladhīna hum 'an ṣalātihim sāhūn",
+        "translations": {
+          "English": "Those who are heedless of their prayers.",
+          "Urdu": "جو اپنی نماز سے غافل رہتے ہیں۔",
+          "French": "tout en négligeant leur Salat,",
+          "Spanish": "que descuidan sus oraciones,",
+          "Hindi": "जो अपनी नमाज़ से ग़ाफ़िल रहते हैं"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "الَّذِينَ هُمْ يُرَاءُونَ",
+        "transliteration": "Alladhīna hum yurā'ūn",
+        "translations": {
+          "English": "Those who put on the appearance.",
+          "Urdu": "جو ریاکاری کرتے ہیں۔",
+          "French": "qui prient pour être vus,",
+          "Spanish": "que hacen [el bien] para ser vistos,",
+          "Hindi": "जो दिखावा करते हैं"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "وَيَمْنَعُونَ الْمَاعُونَ",
+        "transliteration": "Wa yamna'ūna al-mā'ūn",
+        "translations": {
+          "English": "And withhold the assistance.",
+          "Urdu": "اور برتنے کی چیزوں کو روکے رکھتے ہیں۔",
+          "French": "et refusent l'ustensile (à celui qui en a besoin).",
+          "Spanish": "y niegan la ayuda [a los demás].",
+          "Hindi": "और ज़रूरत की चीज़ें देने से मना करते हैं"
+        }
+      }
+    ]
+  }

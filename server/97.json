@@ -1,0 +1,66 @@
+{
+    "no": 97,
+    "name": "Al-Qadr",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+        "transliteration": "Innā anzalnāhu fī laylati l-qadr",
+        "translations": {
+          "English": "We sent it down on the Night of Decree.",
+          "Urdu": "بے شک ہم نے اس (قرآن) کو شب قدر میں نازل کیا۔",
+          "French": "Nous l'avons certes, fait descendre (le Coran) pendant la nuit d'Al-Qadr.",
+          "Spanish": "Ciertamente, lo revelamos en la Noche del Decreto.",
+          "Hindi": "निस्संदेह हमने इसे (क़ुरआन) को क़द्र की रात में उतारा।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+        "transliteration": "Wa mā adrāka mā laylatu l-qadr",
+        "translations": {
+          "English": "But what will convey to you what the Night of Decree is?",
+          "Urdu": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟",
+          "French": "Et qui te dira ce qu'est la nuit d'Al-Qadr?",
+          "Spanish": "¿Y qué te hará comprender qué es la Noche del Decreto?",
+          "Hindi": "और तुम्हें क्या मालूम कि क़द्र की रात क्या है?"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+        "transliteration": "Laylatu l-qadri khayrun min alfi shahr",
+        "translations": {
+          "English": "The Night of Decree is better than a thousand months.",
+          "Urdu": "شب قدر ہزار مہینوں سے بہتر ہے۔",
+          "French": "La nuit d'Al-Qadr est meilleure que mille mois.",
+          "Spanish": "La Noche del Decreto es mejor que mil meses.",
+          "Hindi": "क़द्र की रात हज़ार महीनों से बेहतर है।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+        "transliteration": "Tanazzalu l-malā'ikatu wa r-rūhu fīhā bi'idhni rabbihim min kulli amr",
+        "translations": {
+          "English": "In it descend the angels and the Spirit, by the leave of their Lord, with every command.",
+          "Urdu": "اس رات میں فرشتے اور روح (جبرائیل) اپنے رب کے حکم سے ہر کام کے ساتھ اترتے ہیں۔",
+          "French": "Durant celle-ci descendent les Anges ainsi que l'Esprit, par permission de leur Seigneur pour tout ordre.",
+          "Spanish": "En ella descienden los ángeles y el Espíritu (Yibril) con el permiso de su Señor para ejecutar todas Sus órdenes.",
+          "Hindi": "इस रात में फ़रिश्ते और रूह (जिब्राईल) अपने रब के आदेश से हर काम के साथ उतरते हैं।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ",
+        "transliteration": "Salāmun hiya hattā matla'i l-fajr",
+        "translations": {
+          "English": "Peace it is; until the rise of dawn.",
+          "Urdu": "یہ رات طلوع فجر تک سلامتی والی ہے۔",
+          "French": "Elle est paix et salut jusqu'à l'apparition de l'aube.",
+          "Spanish": "Es una noche de paz, hasta el despuntar del alba.",
+          "Hindi": "यह रात फज्र के उदय तक शांति वाली है।"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,138 @@
+{
+  "no": 100,
+  "name": "العاديات",
+  "verses": [
+    {
+      "no": 1,
+      "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
+      "transliteration": "Wal-'ādiyāti ḍabḥā",
+      "translations": {
+        "English": "By the racers panting.",
+        "French": "Par les coursiers qui halètent.",
+        "Hindi": "शपथ है दौड़ने वाले (घोड़ों) की हाँफते हुए।",
+        "Urdu": "قسم ہے دوڑنے والوں کی ہانپتے ہوئے۔",
+        "Spanish": "Por los corceles que jadean."
+      }
+    },
+    {
+      "no": 2,
+      "arabic": "فَالْمُورِيَاتِ قَدْحًا",
+      "transliteration": "Fal-mūriyāti qadḥā",
+      "translations": {
+        "English": "Igniting sparks.",
+        "French": "Et qui font jaillir des étincelles.",
+        "Hindi": "फिर चिंगारी उड़ाने वालों की।",
+        "Urdu": "پھر چنگاریاں نکالنے والوں کی۔",
+        "Spanish": "Y hacen saltar chispas."
+      }
+    },
+    {
+      "no": 3,
+      "arabic": "فَالْمُغِيرَاتِ صُبْحًا",
+      "transliteration": "Fal-mughīrāti ṣubḥā",
+      "translations": {
+        "English": "Raiding at dawn.",
+        "French": "Et qui attaquent au petit matin.",
+        "Hindi": "फिर प्रभात में छापा मारने वालों की।",
+        "Urdu": "پھر صبح کے وقت حملہ کرنے والوں کی۔",
+        "Spanish": "Y atacan al amanecer."
+      }
+    },
+    {
+      "no": 4,
+      "arabic": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "transliteration": "Fa'atharna bihī naq'ā",
+      "translations": {
+        "English": "Raising clouds of dust.",
+        "French": "Soulevant ainsi des nuages de poussière.",
+        "Hindi": "फिर उससे धूल उड़ाने वालों की।",
+        "Urdu": "پھر اس سے گرد اڑانے والوں کی۔",
+        "Spanish": "Levantando nubes de polvo."
+      }
+    },
+    {
+      "no": 5,
+      "arabic": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "transliteration": "Fawasaṭna bihī jam'ā",
+      "translations": {
+        "English": "Storming into the midst.",
+        "French": "Et qui pénètrent au cœur de la troupe.",
+        "Hindi": "फिर उससे समूह के बीच घुस जाने वालों की।",
+        "Urdu": "پھر اس سے جمع کے بیچ میں گھس جانے والوں کی۔",
+        "Spanish": "Penetrando en medio de la multitud."
+      }
+    },
+    {
+      "no": 6,
+      "arabic": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "transliteration": "Innal-insāna lirabbihī lakanūd",
+      "translations": {
+        "English": "Indeed, the human being is ungrateful to his Lord.",
+        "French": "L'homme est certes ingrat envers son Seigneur.",
+        "Hindi": "निश्चय ही मनुष्य अपने पालनहार का अत्यंत अकृतज्ञ है।",
+        "Urdu": "بے شک انسان اپنے رب کا بڑا ناشکرا ہے۔",
+        "Spanish": "En verdad, el ser humano es ingrato con su Señor."
+      }
+    },
+    {
+      "no": 7,
+      "arabic": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "transliteration": "Wa-innahū 'alā dhālika lashahīd",
+      "translations": {
+        "English": "And he bears witness to that.",
+        "French": "Et il en est lui-même témoin.",
+        "Hindi": "और निश्चय ही वह स्वयं इस पर गवाह है।",
+        "Urdu": "اور وہ خود اس پر گواہ ہے۔",
+        "Spanish": "Y él mismo es testigo de ello."
+      }
+    },
+    {
+      "no": 8,
+      "arabic": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "transliteration": "Wa-innahū liḥubbil-khayri lashadīd",
+      "translations": {
+        "English": "And he is fierce in his love of wealth.",
+        "French": "Et il est ardent dans son amour des biens matériels.",
+        "Hindi": "और निश्चय ही वह धन के प्रति अत्यंत प्रेमी है।",
+        "Urdu": "اور وہ مال کی محبت میں بہت سخت ہے۔",
+        "Spanish": "Y es vehemente en su amor por los bienes materiales."
+      }
+    },
+    {
+      "no": 9,
+      "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "transliteration": "Afalā ya'lamu idhā bu'thira mā fil-qubūr",
+      "translations": {
+        "English": "Does he not know? When the contents of the graves are scattered around.",
+        "French": "Ne sait-il donc pas que lorsque ce qui est dans les tombes sera bouleversé.",
+        "Hindi": "क्या वह नहीं जानता कि जब कब्रों में जो कुछ है, वह बाहर निकाल दिया जाएगा।",
+        "Urdu": "کیا وہ نہیں جانتا کہ جب قبروں میں جو کچھ ہے وہ باہر نکال دیا جائے گا۔",
+        "Spanish": "¿Acaso no sabe que cuando lo que hay en las tumbas sea dispersado."
+      }
+    },
+    {
+      "no": 10,
+      "arabic": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "transliteration": "Wa ḥuṣṣila mā fiṣ-ṣudūr",
+      "translations": {
+        "English": "And the contents of the hearts are obtained.",
+        "French": "Et que ce qui est dans les poitrines sera révélé.",
+        "Hindi": "और जो कुछ सीनों में है, वह प्रकट कर दिया जाएगा।",
+        "Urdu": "اور جو کچھ سینوں میں ہے وہ ظاہر کر دیا جائے گا۔",
+        "Spanish": "Y se saque lo que hay en los pechos."
+      }
+    },
+    {
+      "no": 11,
+      "arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
+      "transliteration": "Inna rabbahum bihim yauma'idhin lakhābīr",
+      "translations": {
+        "English": "Their Lord, on that Day, is fully informed of them.",
+        "French": "Ce jour-là, leur Seigneur sera parfaitement informé à leur sujet.",
+        "Hindi": "निश्चय ही उस दिन उनका पालनहार उनसे भली-भाँति अवगत होगा।",
+        "Urdu": "بے شک اس دن ان کا رب ان سے خوب باخبر ہوگا۔",
+        "Spanish": "En verdad, su Señor estará bien informado de ellos ese día."
+      }
+    }
+  ]
+}

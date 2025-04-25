@@ -1,0 +1,43 @@
+{
+    "no": 103,
+    "name": "Al-Asr",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالْعَصْرِ",
+        "transliteration": "Wal-ʿaṣr",
+        "translations": {
+          "English": "By time.",
+          "Urdu": "زمانے کی قسم۔",
+          "French": "Par le temps !",
+          "Spanish": "Por el tiempo.",
+          "Hindi": "समय की शपथ।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+        "transliteration": "Inna l-insāna lafī khusr",
+        "translations": {
+          "English": "The human being is in loss.",
+          "Urdu": "بے شک انسان خسارے میں ہے۔",
+          "French": "L'homme est certes en perdition.",
+          "Spanish": "En verdad, el ser humano está en pérdida.",
+          "Hindi": "निस्संदेह मनुष्य घाटे में है।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "transliteration": "Illā alladhīna āmanū waʿamilū aṣ-ṣāliḥāti watawāṣaw bil-ḥaqqi watawāṣaw biṣ-ṣabr",
+        "translations": {
+          "English": "Except those who believe, and do good works, and encourage truth, and recommend patience.",
+          "Urdu": "سوائے ان لوگوں کے جو ایمان لائے اور نیک اعمال کرتے رہے اور ایک دوسرے کو حق کی تلقین کرتے رہے اور صبر کی وصیت کرتے رہے۔",
+          "French": "Sauf ceux qui croient, accomplissent des œuvres pies, se recommandent mutuellement la vérité et se recommandent mutuellement l'endurance.",
+          "Spanish": "Excepto aquellos que creen, hacen obras rectas, se aconsejan mutuamente la verdad y se aconsejan mutuamente la paciencia.",
+          "Hindi": "सिवाय उन लोगों के जो ईमान लाए, अच्छे कर्म किए, एक-दूसरे को सत्य की सलाह दी और धैर्य की शिक्षा दी।"
+        }
+      }
+    ]
+  }
+  

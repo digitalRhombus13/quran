@@ -1,0 +1,102 @@
+{
+    "no": 95,
+    "name": "At-Tin",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَالتِّينِ وَالزَّيْتُونِ",
+        "transliteration": "Wat-tīni waz-zaytūn",
+        "translations": {
+          "English": "By the fig and the olive.",
+          "Urdu": "انجیر اور زیتون کی قسم۔",
+          "French": "Par le figuier et l'olivier!",
+          "Spanish": "¡Por la higuera y el olivo!",
+          "Hindi": "अंजीर और जैतून की कसम।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "وَطُورِ سِينِينَ",
+        "transliteration": "Wa ṭūri sīnīn",
+        "translations": {
+          "English": "And Mount Sinai.",
+          "Urdu": "اور طور سینا کی قسم۔",
+          "French": "Et par le Mont Sinaï!",
+          "Spanish": "¡Por el Monte Sinaí!",
+          "Hindi": "और तूर सीनी की कसम।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَهَذَا الْبَلَدِ الْأَمِينِ",
+        "transliteration": "Wa hādhā l-baladi l-amīn",
+        "translations": {
+          "English": "And this safe land.",
+          "Urdu": "اور اس امن والے شہر (مکہ) کی قسم۔",
+          "French": "Et par cette cité sûre (La Mecque)!",
+          "Spanish": "¡Por esta ciudad segura (La Meca)!",
+          "Hindi": "और इस अमन वाले शहर (मक्का) की कसम।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+        "transliteration": "Laqad khalaqnā l-insāna fī aḥsani taqwīm",
+        "translations": {
+          "English": "We created man in the best design.",
+          "Urdu": "ہم نے انسان کو بہترین ساخت پر پیدا کیا۔",
+          "French": "Nous avons certes créé l'homme dans la forme la plus parfaite.",
+          "Spanish": "Ciertamente, hemos creado al hombre en la mejor forma.",
+          "Hindi": "हमने इंसान को बेहतरीन सूरत पर पैदा किया।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+        "transliteration": "Thumma radadnāhu asfala sāfilīn",
+        "translations": {
+          "English": "Then reduced him to the lowest of the low.",
+          "Urdu": "پھر ہم نے اسے نہایت پست حالت میں لوٹا دیا۔",
+          "French": "Puis Nous l'avons ramené au niveau le plus bas.",
+          "Spanish": "Luego lo redujimos al más bajo de los niveles.",
+          "Hindi": "फिर हमने उसे सबसे नीचे की हालत में लौटा दिया।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+        "transliteration": "Illā alladhīna āmanū wa ʿamiluṣ-ṣāliḥāti fa lahum ajrun ghayru mamnūn",
+        "translations": {
+          "English": "Except those who believe and do righteous deeds; for them is a reward without end.",
+          "Urdu": "سوائے ان لوگوں کے جو ایمان لائے اور نیک اعمال کیے، ان کے لیے بے حساب اجر ہے۔",
+          "French": "Sauf ceux qui croient et accomplissent de bonnes œuvres: ceux-là auront une récompense jamais interrompue.",
+          "Spanish": "Excepto quienes creen y obran rectamente: tendrán una recompensa ininterrumpida.",
+          "Hindi": "सिवाय उन लोगों के जो ईमान लाए और नेक अमल किए, उनके लिए बेहिसाब अज्र है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+        "transliteration": "Fa mā yukadhibuka baʿdu bid-dīn",
+        "translations": {
+          "English": "So why do you still reject the religion?",
+          "Urdu": "پھر تجھے دین کے بارے میں کون سی بات جھٹلانے پر مجبور کرتی ہے؟",
+          "French": "Qu'est-ce qui te fait encore douter de la religion?",
+          "Spanish": "¿Qué te hace aún negar la religión?",
+          "Hindi": "फिर तुझे दीन के बारे में कौन सी बात झुठलाने पर मजबूर करती है?"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+        "transliteration": "A laysa Allāhu bi-aḥkami l-ḥākimīn",
+        "translations": {
+          "English": "Is God not the Wisest of the wise?",
+          "Urdu": "کیا اللہ سب سے بہتر فیصلہ کرنے والا نہیں؟",
+          "French": "Allah n'est-Il pas le plus sage des juges?",
+          "Spanish": "¿Acaso no es Allah el más sabio de los jueces?",
+          "Hindi": "क्या अल्लाह सबसे बेहतर फैसला करने वाला नहीं?"
+        }
+      }
+    ]
+  }

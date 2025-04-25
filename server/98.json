@@ -1,0 +1,102 @@
+{
+    "no": 98,
+    "name": "Al-Bayyinah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ الْبَيِّنَةُ",
+        "transliteration": "Those who disbelieved among the People of the Scripture, and the Polytheists, were not apart, until the Clear Evidence came to them.",
+        "translations": {
+          "English": "Those who disbelieved among the People of the Scripture, and the Polytheists, were not apart, until the Clear Evidence came to them.",
+          "Urdu": "اہل کتاب اور مشرکین میں سے کافر الگ نہ تھے یہاں تک کہ ان کے پاس روشن دلیل آجائے۔",
+          "French": "Les mécréants parmi les gens du Livre ainsi que les associateurs ne cesseront pas jusqu’à ce que leur vienne la Preuve évidente :",
+          "Spanish": "Los incrédulos entre la Gente del Libro y los idólatras no desistirán hasta que les llegue la evidencia clara.",
+          "Hindi": "किताब वालों और मुशरिकों में से काफ़िर अलग न थे यहाँ तक कि उनके पास रौशन दलील आ जाए।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+        "transliteration": "A messenger from God reciting purified scripts.",
+        "translations": {
+          "English": "A messenger from God reciting purified scripts.",
+          "Urdu": "اللہ کی طرف سے ایک رسول جو پاک صحیفے پڑھ کر سناتا ہے۔",
+          "French": "un Messager de la part d’Allah qui leur récite des feuilles purifiées,",
+          "Spanish": "Un Mensajero de Allah que les recita escritos purificados,",
+          "Hindi": "अल्लाह की तरफ से एक रसूल जो पाक सहीफ़े पढ़कर सुनाता है।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+        "transliteration": "In them are valuable writings.",
+        "translations": {
+          "English": "In them are valuable writings.",
+          "Urdu": "جن میں درست احکام ہیں۔",
+          "French": "contenant des écrits d’une valeur inestimable.",
+          "Spanish": "que contienen escritos rectos.",
+          "Hindi": "जिन में दुरुस्त अहकाम हैं।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+        "transliteration": "Those who were given the Scripture did not splinter, except after the Clear Evidence came to them.",
+        "translations": {
+          "English": "Those who were given the Scripture did not splinter, except after the Clear Evidence came to them.",
+          "Urdu": "جنہیں کتاب دی گئی تھی وہ اس وقت تک متفرق نہ ہوئے جب تک ان کے پاس روشن دلیل نہ آگئی۔",
+          "French": "Ceux à qui le Livre a été apporté ne se sont divisés qu’après que la preuve leur fut venue.",
+          "Spanish": "Quienes recibieron el Libro no se dividieron sino después de que les llegó la evidencia clara.",
+          "Hindi": "जिन्हें किताब दी गई थी वह उस वक्त तक मुतफ़र्रिक़ न हुए जब तक उनके पास रौशन दलील न आ गई।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ وَذَلِكَ دِينُ الْقَيِّمَةِ",
+        "transliteration": "They were commanded only to worship God, devoting their faith to Him alone, and to practice regular prayer, and to give alms. That is the upright religion.",
+        "translations": {
+          "English": "They were commanded only to worship God, devoting their faith to Him alone, and to practice regular prayer, and to give alms. That is the upright religion.",
+          "Urdu": "انہیں صرف یہی حکم دیا گیا تھا کہ اللہ کی عبادت کریں، اسی کے لیے دین کو خالص کرتے ہوئے، اور نماز قائم کریں اور زکوٰۃ دیں، اور یہی سیدھا دین ہے۔",
+          "French": "Il ne leur a été commandé que d’adorer Allah en Lui vouant un culte exclusif, d’accomplir la prière et de s’acquitter de la zakât. Et voilà la religion de droiture.",
+          "Spanish": "Sólo se les ordenó adorar a Allah, dedicándole a Él el culto sincero, establecer la oración y dar el azaque. Ésa es la religión verdadera.",
+          "Hindi": "उन्हें सिर्फ़ यही हुक्म दिया गया था कि अल्लाह की इबादत करें, उसी के लिए दीन को ख़ालिस करते हुए, और नमाज़ क़ायम करें और ज़कात दें, और यही सीधा दीन है।"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا أُولَئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+        "transliteration": "Those who disbelieve among the People of the Scripture, and the Polytheists, will be in the Fire of Hell, where they will abide forever. These are the worst of creatures.",
+        "translations": {
+          "English": "Those who disbelieve among the People of the Scripture, and the Polytheists, will be in the Fire of Hell, where they will abide forever. These are the worst of creatures.",
+          "Urdu": "بیشک اہل کتاب اور مشرکین میں سے کافر جہنم کی آگ میں ہوں گے، جہاں وہ ہمیشہ رہیں گے۔ یہی بدترین مخلوق ہیں۔",
+          "French": "Ceux qui ont mécru parmi les gens du Livre ainsi que les associateurs iront au feu de l’Enfer pour y demeurer éternellement. De toute la création, ce sont eux les pires.",
+          "Spanish": "En verdad, los incrédulos entre la Gente del Libro y los idólatras estarán en el Fuego del Infierno, donde permanecerán para siempre. Esos son lo peor de la creación.",
+          "Hindi": "बेशक किताब वालों और मुशरिकों में से काफ़िर जहन्नुम की आग में होंगे, जहाँ वह हमेशा रहेंगे। यही बदतरीन मख़्लूक़ हैं।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+        "transliteration": "As for those who believe and lead a righteous life—these are the best of creatures.",
+        "translations": {
+          "English": "As for those who believe and lead a righteous life—these are the best of creatures.",
+          "Urdu": "بیشک جو لوگ ایمان لائے اور انہوں نے نیک اعمال کیے، یہی بہترین مخلوق ہیں۔",
+          "French": "Quant à ceux qui croient et accomplissent les bonnes œuvres, ce sont les meilleurs de toute la création.",
+          "Spanish": "En cambio, quienes creen y obran rectamente son lo mejor de la creación.",
+          "Hindi": "बेशक जो लोग ईमान लाए और उन्होंने नेक अमल किए, यही बेहतरीन मख़्लूक़ हैं।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+        "transliteration": "Their reward is with their Lord: Gardens of Eternity beneath which rivers flow, where they will abide forever. God is pleased with them, and they are pleased with Him. That is for whoever fears His Lord.",
+        "translations": {
+          "English": "Their reward is with their Lord: Gardens of Eternity beneath which rivers flow, where they will abide forever. God is pleased with them, and they are pleased with Him. That is for whoever fears His Lord.",
+          "Urdu": "ان کا بدلہ ان کے رب کے پاس ہمیشگی کے باغات ہیں جن کے نیچے نہریں بہتی ہوں گی، وہ ان میں ہمیشہ رہیں گے۔ اللہ ان سے راضی ہوا اور وہ اس سے راضی ہوئے۔ یہ اس کے لیے ہے جو اپنے رب سے ڈرتا ہے۔",
+          "French": "Leur récompense auprès de leur Seigneur sera les Jardins du séjour éternel sous lesquels coulent les ruisseaux, où ils demeureront éternellement. Allah est satisfait d’eux et eux sont satisfaits de Lui. Il en sera ainsi pour celui qui craint son Seigneur.",
+          "Spanish": "Su recompensa ante su Señor serán los Jardines del Edén, por donde corren ríos, en los que morarán eternamente. Allah estará complacido con ellos y ellos lo estarán con Él. Eso es para quien teme a su Señor.",
+          "Hindi": "उनका बदला उनके रब के पास हमेशगी के बाग़ात हैं जिनके नीचे नहरें बहती होंगी, वह उनमें हमेशा रहेंगे। अल्लाह उनसे राज़ी हुआ और वह उससे राज़ी हुए। यह उसके लिए है जो अपने रब से डरता है।"
+        }
+      }
+    ]
+  }

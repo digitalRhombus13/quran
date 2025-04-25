@@ -1,0 +1,66 @@
+{
+    "no": 113,
+    "name": "Al-Falaq",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "transliteration": "Qul a'ūdhu birabbi l-falaq",
+        "translations": {
+          "English": "Say, 'I take refuge with the Lord of Daybreak.",
+          "Urdu": "کہہ دو کہ میں صبح کے رب کی پناہ مانگتا ہوں۔",
+          "French": "Dis : « Je cherche refuge auprès du Seigneur de l'aube naissante,",
+          "Spanish": "Di: «Me refugio en el Señor del alba,",
+          "Hindi": "कहो, 'मैं भोर के रब की शरण लेता हूँ।'"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "مِنْ شَرِّ مَا خَلَقَ",
+        "transliteration": "Min sharri mā khalaq",
+        "translations": {
+          "English": "From the evil of what He created.",
+          "Urdu": "ہر اُس چیز کے شر سے جو اُس نے پیدا کی۔",
+          "French": "Contre le mal des êtres qu'Il a créés,",
+          "Spanish": "Del mal de lo que Él ha creado,",
+          "Hindi": "हर उस चीज़ की बुराई से जो उसने पैदा की।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "transliteration": "Wa min sharri ghāsiqin idhā waqab",
+        "translations": {
+          "English": "And from the evil of the darkness as it gathers.",
+          "Urdu": "اور اندھیرے کے شر سے جب وہ چھا جائے۔",
+          "French": "Contre le mal de l'obscurité quand elle s'approfondit,",
+          "Spanish": "Y del mal de la oscuridad cuando se extiende,",
+          "Hindi": "और अंधेरे की बुराई से जब वह छा जाए।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "transliteration": "Wa min sharri n-naffāthāti fi l-'uqad",
+        "translations": {
+          "English": "And from the evil of those who practice sorcery.",
+          "Urdu": "اور گرہوں میں پھونک مارنے والیوں کے شر سے۔",
+          "French": "Contre le mal de celles qui soufflent sur les nœuds,",
+          "Spanish": "Y del mal de las que soplan sobre los nudos,",
+          "Hindi": "और गाँठों में फूँक मारने वालियों की बुराई से।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "transliteration": "Wa min sharri hāsidin idhā hasad",
+        "translations": {
+          "English": "And from the evil of an envier when he envies.",
+          "Urdu": "اور حاسد کے شر سے جب وہ حسد کرے۔",
+          "French": "Et contre le mal de l'envieux quand il envie.»",
+          "Spanish": "Y del mal del envidioso cuando envidia.»",
+          "Hindi": "और हसद करने वाले की बुराई से जब वह हसद करे।"
+        }
+      }
+    ]
+  }

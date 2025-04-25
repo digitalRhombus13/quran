@@ -1,0 +1,114 @@
+{
+    "no": 104,
+    "name": "Al-Humazah",
+    "verses": [
+      {
+        "no": 1,
+        "arabic": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+        "transliteration": "Waylun li kulli humazatil lumazah",
+        "translations": {
+          "English": "Woe to every slanderer backbiter.",
+          "Urdu": "ہر طعنہ زن، عیب جو کے لیے تباہی ہے۔",
+          "French": "Malheur à tout calomniateur diffamateur.",
+          "Spanish": "¡Ay de todo difamador calumniador!",
+          "Hindi": "हर चुगलखोर, पीठ पीछे बुराई करने वाले के लिए विनाश है।"
+        }
+      },
+      {
+        "no": 2,
+        "arabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+        "transliteration": "Alladhī jama‘a mālan wa ‘addadah",
+        "translations": {
+          "English": "Who gathers wealth and counts it over.",
+          "Urdu": "جو مال جمع کرتا ہے اور اسے گن گن کر رکھتا ہے۔",
+          "French": "Qui amasse une fortune et la compte sans cesse.",
+          "Spanish": "Que acumula riqueza y la cuenta una y otra vez.",
+          "Hindi": "जो धन इकट्ठा करता है और उसे गिन-गिन कर रखता है।"
+        }
+      },
+      {
+        "no": 3,
+        "arabic": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+        "transliteration": "Yaḥsabu anna mālahu akhladah",
+        "translations": {
+          "English": "Thinking that his wealth has made him immortal.",
+          "Urdu": "وہ سمجھتا ہے کہ اس کا مال اسے ہمیشہ زندہ رکھے گا۔",
+          "French": "Il pense que sa richesse l’immortalisera.",
+          "Spanish": "Cree que su riqueza lo hará inmortal.",
+          "Hindi": "वह समझता है कि उसका धन उसे अमर कर देगा।"
+        }
+      },
+      {
+        "no": 4,
+        "arabic": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+        "transliteration": "Kallā layunbadhanna fil-ḥuṭamah",
+        "translations": {
+          "English": "By no means. He will be thrown into the Crusher.",
+          "Urdu": "ہرگز نہیں، وہ ضرور روند ڈالے جانے والی (جہنم) میں پھینک دیا جائے گا۔",
+          "French": "Pas du tout ! Il sera précipité dans la Fournaise.",
+          "Spanish": "¡De ningún modo! Será arrojado al Abrasador.",
+          "Hindi": "कदापि नहीं! वह अवश्य कुचल डाले जाने वाले (नरक) में झोंक दिया जाएगा।"
+        }
+      },
+      {
+        "no": 5,
+        "arabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+        "transliteration": "Wa mā adrāka mal-ḥuṭamah",
+        "translations": {
+          "English": "And what will make you realize what the Crusher is?",
+          "Urdu": "اور تمہیں کیا معلوم کہ وہ روند ڈالنے والی (عذاب) کیا ہے؟",
+          "French": "Et qui te dira ce qu’est la Fournaise ?",
+          "Spanish": "¿Y qué te hará comprender qué es el Abrasador?",
+          "Hindi": "और तुम्हें क्या मालूम कि वह कुचल डालने वाली (सज़ा) क्या है?"
+        }
+      },
+      {
+        "no": 6,
+        "arabic": "نَارُ اللَّهِ الْمُوقَدَةُ",
+        "transliteration": "Nārullāhil mūqadah",
+        "translations": {
+          "English": "God's kindled Fire.",
+          "Urdu": "(وہ) اللہ کی بھڑکائی ہوئی آگ ہے۔",
+          "French": "C’est le Feu d’Allah attisé,",
+          "Spanish": "Es el Fuego de Allah encendido,",
+          "Hindi": "वह अल्लाह की प्रज्वलित आग है।"
+        }
+      },
+      {
+        "no": 7,
+        "arabic": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+        "transliteration": "Allatī taṭṭali‘u ‘alal-af’idah",
+        "translations": {
+          "English": "That laps to the hearts.",
+          "Urdu": "جو دلوں تک چڑھ جاتی ہے۔",
+          "French": "Qui monte jusqu’aux cœurs.",
+          "Spanish": "Que alcanza los corazones.",
+          "Hindi": "जो दिलों तक चढ़ जाती है।"
+        }
+      },
+      {
+        "no": 8,
+        "arabic": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+        "transliteration": "Innahā ‘alayhim mu’ṣadah",
+        "translations": {
+          "English": "It closes in on them.",
+          "Urdu": "بےشک وہ ان پر بند کر دی جائے گی۔",
+          "French": "Elle se refermera sur eux,",
+          "Spanish": "Sellará sobre ellos,",
+          "Hindi": "निश्चय ही वह उन पर बंद कर दी जाएगी।"
+        }
+      },
+      {
+        "no": 9,
+        "arabic": "فِي عَمَدٍ مُمَدَّدَةٍ",
+        "transliteration": "Fī ‘amadin mumaddadah",
+        "translations": {
+          "English": "In extended columns.",
+          "Urdu": "لمبے لمبے ستونوں میں۔",
+          "French": "En colonnes étendues.",
+          "Spanish": "En columnas extendidas.",
+          "Hindi": "लंबे-लंबे खंभों में।"
+        }
+      }
+    ]
+  }
